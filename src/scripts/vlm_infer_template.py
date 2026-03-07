@@ -287,8 +287,10 @@ class InferenceEngine:
         results = []
         total = len(images)
         bs = self.args.batch_size
-        # Phi-3 Vision processor can't handle batched text inputs
-        if "phi-3" in self.model_id.lower() or "phi-3.5" in self.model_id.lower():
+        # Phi-3 Vision can't handle batched text inputs; Pixtral produces
+        # variable-size vision tensors that can't be stacked across images.
+        force_serial = ("phi-3", "phi-3.5", "pixtral", "smolvlm")
+        if any(k in self.model_id.lower() for k in force_serial):
             bs = 1
         
         with tqdm(total=total, desc=f"Inference {self.model_id.split('/')[-1]}", unit="img") as pbar:
@@ -517,7 +519,7 @@ def load_data(args) -> Tuple[List[Image.Image], List[Dict]]:
         image_path = (base_dir / raw_path).resolve() if not Path(raw_path).is_absolute() else Path(raw_path)
         try:
             img = Image.open(image_path).convert("RGB")
-            img = img.resize((200, 200), Image.LANCZOS)
+            img.thumbnail((200, 200), Image.LANCZOS)
             images.append(img)
             meta.append({"image_path": raw_path, "label": row.get("label", "")})
         except Exception as e:

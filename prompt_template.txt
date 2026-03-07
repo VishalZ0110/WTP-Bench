@@ -1,0 +1,3 @@
+Identify the {main object} in this image. Choose from these {n} classes:
+{classes}
+Respond with only the exact class name from the list above.

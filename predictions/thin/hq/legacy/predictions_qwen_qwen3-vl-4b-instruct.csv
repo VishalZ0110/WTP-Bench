@@ -1,0 +1,2629 @@
+image_path,label,prediction
+data/thin/hq/anaconda_PNG1.jpg,Anaconda,Snake
+data/thin/hq/anaconda_PNG10.jpg,Anaconda,cobra
+data/thin/hq/anaconda_PNG14.jpg,Anaconda,Snake
+data/thin/hq/anaconda_PNG2.jpg,Anaconda,0.5
+data/thin/hq/anaconda_PNG7.jpg,Anaconda,Snake
+data/thin/hq/anaconda_PNG8.jpg,Anaconda,Snake
+data/thin/hq/ant_PNG19350.jpg,Ant,Ant
+data/thin/hq/ant_PNG19355.jpg,Ant,bullet ant
+data/thin/hq/ant_PNG19362.jpg,Ant,giant Ant
+data/thin/hq/ant_PNG19363a.jpg,Ant,://Ant
+data/thin/hq/ant_PNG19363b.jpg,Ant,macro ant
+data/thin/hq/ant_PNG19363c.jpg,Ant,oversized ant
+data/thin/hq/ant_PNG19364.jpg,Ant,://Ant
+data/thin/hq/ant_PNG19365.jpg,Ant,exo-ant
+data/thin/hq/apple_PNG12405.jpg,Apple,ripe Apple
+data/thin/hq/apple_PNG12429.jpg,Apple,ripe Apple
+data/thin/hq/apple_PNG12471.jpg,Apple,jellyfish
+data/thin/hq/apple_PNG12492.jpg,Apple,peeled Apple
+data/thin/hq/apple_PNG12496.jpg,Apple,ripe Apple
+data/thin/hq/armchair_PNG7023.jpg,Armchair,Armchair
+data/thin/hq/armchair_PNG7028.jpg,Armchair,Armchair
+data/thin/hq/armchair_PNG7034.jpg,Armchair,worn leather armchair
+data/thin/hq/armchair_PNG7041.jpg,Armchair,Armchair
+data/thin/hq/armchair_PNG7043.jpg,Armchair,Armchair
+data/thin/hq/armchair_PNG7044.jpg,Armchair,Armchair
+data/thin/hq/armchair_PNG7047.jpg,Armchair,traditional chair
+data/thin/hq/armchair_PNG7060.jpg,Armchair,Armchair
+data/thin/hq/armchair_PNG7068.jpg,Armchair,Armchair
+data/thin/hq/armchair_PNG7072.jpg,Armchair,gold armchair
+data/thin/hq/armchair_PNG7074.jpg,Armchair,black chair
+data/thin/hq/arrow_bow_PNG12a.jpg,Arrow Bow,arrow bow
+data/thin/hq/arrow_bow_PNG12b.jpg,Arrow Bow,Anima
+data/thin/hq/arrow_bow_PNG13.jpg,Arrow Bow,://Arrow Bow
+data/thin/hq/arrow_bow_PNG15.jpg,Arrow Bow,Longbow
+data/thin/hq/arrow_bow_PNG16.jpg,Arrow Bow,:// Arrow Bow
+data/thin/hq/arrow_bow_PNG17.jpg,Arrow Bow,Spear
+data/thin/hq/arrow_bow_PNG2.jpg,Arrow Bow,打猎用箭
+data/thin/hq/arrow_bow_PNG21.jpg,Arrow Bow,Arrow Bow
+data/thin/hq/arrow_bow_PNG23.jpg,Arrow Bow,aim
+data/thin/hq/arrow_bow_PNG24.jpg,Arrow Bow,"://
+Rose"
+data/thin/hq/arrow_bow_PNG26.jpg,Arrow Bow,-> Arrow Bow
+data/thin/hq/arrow_bow_PNG27.jpg,Arrow Bow,jester
+data/thin/hq/arrow_bow_PNG30.jpg,Arrow Bow,://Arrow Bow
+data/thin/hq/arrow_bow_PNG37.jpg,Arrow Bow,://Arrow Bow
+data/thin/hq/arrow_bow_PNG45.jpg,Arrow Bow,giraffe
+data/thin/hq/arrow_bow_PNG47a.jpg,Arrow Bow,weaponry: Arrow Bow
+data/thin/hq/arrow_bow_PNG47b.jpg,Arrow Bow,Bee
+data/thin/hq/arrow_bow_PNG8a.jpg,Arrow Bow,Arrow Bow
+data/thin/hq/arrow_bow_PNG8b.jpg,Arrow Bow,Arrow Bow
+data/thin/hq/arrow_bow_PNG9.jpg,Arrow Bow,bird
+data/thin/hq/ax_PNG9088.jpg,Ax,traditional Ax
+data/thin/hq/ax_PNG9092.jpg,Ax,"open umbrella, Ax"
+data/thin/hq/ax_PNG9094.jpg,Ax,"In the image, the main object is an Ax. The ax is prominently displayed in the foreground, with its wooden handle and metal head clearly visible. The background features a natural landscape with elephants, but the ax is the central focus of the image. Therefore, the correct class is:
+
+Ax"
+data/thin/hq/ax_PNG9099.jpg,Ax,giraffe
+data/thin/hq/ax_PNG9100.jpg,Ax,Ax
+data/thin/hq/ax_PNG9101.jpg,Ax,Ax
+data/thin/hq/ax_PNG9104.jpg,Ax,Ax
+data/thin/hq/ax_PNG9105.jpg,Ax,A x
+data/thin/hq/ax_PNG9108.jpg,Ax,头骨
+data/thin/hq/ax_PNG9110.jpg,Ax,underwater Ax
+data/thin/hq/backpack_PNG6314.jpg,Backpack,Backpack
+data/thin/hq/backpack_PNG6317.jpg,Backpack,water bottle
+data/thin/hq/backpack_PNG6320.jpg,Backpack,Backpack
+data/thin/hq/backpack_PNG6326.jpg,Backpack,://Backpack
+data/thin/hq/backpack_PNG6333.jpg,Backpack,Backpack
+data/thin/hq/backpack_PNG6339.jpg,Backpack,Part of a Backpack
+data/thin/hq/backpack_PNG6341.jpg,Backpack,0.5
+data/thin/hq/backpack_PNG6342.jpg,Backpack,Backpack
+data/thin/hq/backpack_PNG6347.jpg,Backpack,black backpack
+data/thin/hq/backpack_PNG6349.jpg,Backpack,://Backpack
+data/thin/hq/backpack_PNG6351.jpg,Backpack,backpack
+data/thin/hq/backpack_PNG6353.jpg,Backpack,Backpack
+data/thin/hq/backpack_PNG6354.jpg,Backpack,Backpack
+data/thin/hq/backpack_PNG6356.jpg,Backpack,Backpack
+data/thin/hq/backpack_PNG6363.jpg,Backpack,://Backpack
+data/thin/hq/barbell_PNG16340.jpg,Barbell,weightlifting barbell
+data/thin/hq/barbell_PNG16342.jpg,Barbell,Barbell
+data/thin/hq/barbell_PNG16343.jpg,Barbell,
+data/thin/hq/barbell_PNG16344.jpg,Barbell,Weighing Scale
+data/thin/hq/barbell_PNG16348.jpg,Barbell,Assistant
+data/thin/hq/barbell_PNG16351.jpg,Barbell,Barbell
+data/thin/hq/barbell_PNG16354a.jpg,Barbell,Eiffel Tower
+data/thin/hq/barbell_PNG16354b.jpg,Barbell,杠铃
+data/thin/hq/barbell_PNG16356.jpg,Barbell,Weightlifting Barbell
+data/thin/hq/barbell_PNG16357.jpg,Barbell,Barbell
+data/thin/hq/barbell_PNG16359.jpg,Barbell,Barbell
+data/thin/hq/bassinet_PNG15.jpg,Bassinet,bassinet
+data/thin/hq/bassinet_PNG23.jpg,Bassinet,Pram
+data/thin/hq/bassinet_PNG26.jpg,Bassinet,
+data/thin/hq/bassinet_PNG27.jpg,Bassinet,Bassinet
+data/thin/hq/bassinet_PNG28.jpg,Bassinet,displayed in the image is a Bassinet.
+data/thin/hq/bassinet_PNG29.jpg,Bassinet,Bassinet
+data/thin/hq/bassinet_PNG46.jpg,Bassinet,"boy, baseball bat, baseball glove, baseball cap, baseball field, baseball glove, baseball bat, baseball cap, baseball field, baseball glove, baseball bat, baseball cap, baseball field, baseball glove, baseball bat, baseball cap, baseball field, baseball glove, baseball bat, baseball cap, baseball field, baseball glove, baseball bat, baseball cap, baseball field, baseball glove, baseball bat, baseball cap, baseball field, baseball glove, baseball bat, baseball cap, baseball field, baseball glove"
+data/thin/hq/bassinet_PNG50.jpg,Bassinet,Mantis
+data/thin/hq/bassinet_PNG52.jpg,Bassinet,Bassinet
+data/thin/hq/bassinet_PNG57.jpg,Bassinet,Bassinet
+data/thin/hq/bassinet_PNG58.jpg,Bassinet,Bassinet
+data/thin/hq/bassinet_PNG59.jpg,Bassinet,Bassinet
+data/thin/hq/bassinet_PNG60.jpg,Bassinet,giraffe
+data/thin/hq/bassinet_PNG61.jpg,Bassinet,Bassinet
+data/thin/hq/bassinet_PNG7.jpg,Bassinet,Bassinet
+data/thin/hq/bassinet_PNG73.jpg,Bassinet,"In the image, the main object is a **Bassinet**. It is a portable, foldable crib with a gray fabric interior and wooden frame, placed outdoors in a grassy area. A lion is visible in the background, suggesting the setting might be a wildlife reserve or safari. The bassinet is the central focus of the image, and its design and placement clearly identify it as the main object.
+
+**Answer: Bassinet**"
+data/thin/hq/bassinet_PNG74.jpg,Bassinet,head of a giraffe
+data/thin/hq/bassinet_PNG76.jpg,Bassinet,Bassinet
+data/thin/hq/bassinet_PNG77.jpg,Bassinet,underwear
+data/thin/hq/bassinet_PNG78.jpg,Bassinet,Bassinet
+data/thin/hq/bathtub_PNG19.jpg,Bathtub,background: Bathtub
+data/thin/hq/bathtub_PNG22.jpg,Bathtub,Bathtub
+data/thin/hq/bathtub_PNG3.jpg,Bathtub,Bathtub
+data/thin/hq/bathtub_PNG31.jpg,Bathtub,"person, Bathtub"
+data/thin/hq/bathtub_PNG32.jpg,Bathtub,Bathtub
+data/thin/hq/bathtub_PNG34.jpg,Bathtub,object is a Bathtub.
+data/thin/hq/bathtub_PNG36.jpg,Bathtub,"""Bathtub"""
+data/thin/hq/bathtub_PNG39.jpg,Bathtub,object in this image is: Bathtub
+data/thin/hq/bathtub_PNG42.jpg,Bathtub,自由式泳池
+data/thin/hq/bathtub_PNG43.jpg,Bathtub,Bathtub
+data/thin/hq/bathtub_PNG44.jpg,Bathtub,dessert
+data/thin/hq/bathtub_PNG46.jpg,Bathtub,right: Bathtub
+data/thin/hq/bathtub_PNG48.jpg,Bathtub,"motorcycles, Bathtub"
+data/thin/hq/bathtub_PNG50.jpg,Bathtub,"motorcycles, Bathtub"
+data/thin/hq/bathtub_PNG9.jpg,Bathtub,
+data/thin/hq/bed_PNG17375.jpg,Bed,Bed
+data/thin/hq/bed_PNG17394.jpg,Bed,Bed
+data/thin/hq/bed_PNG17420.jpg,Bed,Butterfly
+data/thin/hq/bed_PNG17421.jpg,Bed,Bed
+data/thin/hq/bee_PNG2.jpg,Bee,Bee
+data/thin/hq/bee_PNG3.jpg,Bee,Bee
+data/thin/hq/bee_PNG5.jpg,Bee,Bee
+data/thin/hq/bee_PNG74692.jpg,Bee,The main object in this image is a **Bee**.
+data/thin/hq/bee_PNG74695.jpg,Bee,Bee
+data/thin/hq/bee_PNG74739.jpg,Bee,Bee
+data/thin/hq/bee_PNG74756.jpg,Bee,artificial bee
+data/thin/hq/bicycle_PNG5350.jpg,Bicycle,Old Bicycle
+data/thin/hq/bicycle_PNG5352.jpg,Bicycle,193
+data/thin/hq/bicycle_PNG5354.jpg,Bicycle,background: Bridge
+data/thin/hq/bicycle_PNG5355.jpg,Bicycle,"partially obscured by a dog's fur, the main object in the image is a Bicycle."
+data/thin/hq/bicycle_PNG5356.jpg,Bicycle,"girl, Bicycle"
+data/thin/hq/bicycle_PNG5357.jpg,Bicycle,"Right, I've analyzed the image and identified the main object. The image prominently features a bicycle, with its frame, wheels, handlebars, and pedals clearly visible. The bicycle is positioned in the foreground, and while there are other elements in the background (such as what appears to be seafood), the bicycle is the central focus.
+
+Bicycle"
+data/thin/hq/bicycle_PNG5358.jpg,Bicycle,water bike
+data/thin/hq/bicycle_PNG5362.jpg,Bicycle,fixed bicycle
+data/thin/hq/bicycle_PNG5363.jpg,Bicycle,bicycle
+data/thin/hq/bicycle_PNG5366.jpg,Bicycle,object is: Bicycle
+data/thin/hq/bicycle_PNG5375.jpg,Bicycle,电动自行车
+data/thin/hq/bicycle_PNG5382.jpg,Bicycle,Bicycle
+data/thin/hq/bicycle_PNG5383.jpg,Bicycle,orange Bicycle
+data/thin/hq/birds_PNG100.jpg,Birds,Birds
+data/thin/hq/birds_PNG102.jpg,Birds,鸟
+data/thin/hq/birds_PNG103.jpg,Birds,Birds
+data/thin/hq/birds_PNG106.jpg,Birds,glowing green bird on a bridge
+data/thin/hq/birds_PNG110.jpg,Birds,small bird
+data/thin/hq/birds_PNG116.jpg,Birds,"on the image, the main object is a yellow bird perched on a coral reef. Among the provided classes, the most accurate and relevant category for this object is:
+
+Birds"
+data/thin/hq/birds_PNG12.jpg,Birds,0.11782867737756575
+data/thin/hq/birds_PNG22.jpg,Birds,Birds
+data/thin/hq/birds_PNG43.jpg,Birds,Birds
+data/thin/hq/birds_PNG50.jpg,Birds,small bird
+data/thin/hq/birds_PNG60.jpg,Birds,Eastern Meadowlark
+data/thin/hq/birds_PNG65.jpg,Birds,zebra
+data/thin/hq/birds_PNG69.jpg,Birds,Great Tit
+data/thin/hq/birds_PNG80.jpg,Birds,Eye
+data/thin/hq/birds_PNG96.jpg,Birds,Birds
+data/thin/hq/birds_PNG99.jpg,Birds,underwater bird
+data/thin/hq/boat_PNG36.jpg,Boat,watercraft
+data/thin/hq/boat_PNG55.jpg,Boat,def Boat
+data/thin/hq/boat_PNG69.jpg,Boat,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/boots_PNG7806.jpg,Boots,Boots
+data/thin/hq/bridge_PNG1.jpg,Bridge,Bridge
+data/thin/hq/bridge_PNG11.jpg,Bridge,Eiffel Tower
+data/thin/hq/bridge_PNG19.jpg,Bridge,Bridge
+data/thin/hq/bridge_PNG3.jpg,Bridge,Bridge
+data/thin/hq/bridge_PNG35.jpg,Bridge,Bridge
+data/thin/hq/bridge_PNG5.jpg,Bridge,N/A
+data/thin/hq/bridge_PNG63.jpg,Bridge,Bridge
+data/thin/hq/bridge_PNG70.jpg,Bridge,recognizable object: Bridge
+data/thin/hq/bridge_PNG72.jpg,Bridge,Bridge
+data/thin/hq/bridge_PNG73.jpg,Bridge,object: Bridge
+data/thin/hq/bridge_PNG74.jpg,Bridge,topping
+data/thin/hq/bridge_PNG84.jpg,Bridge,object is a Bridge.
+data/thin/hq/bridge_PNG85.jpg,Bridge,Eiffel Tower
+data/thin/hq/broom_PNG17.jpg,Broom,broom
+data/thin/hq/broom_PNG18.jpg,Broom,"Cleaning Tool, Broom"
+data/thin/hq/broom_PNG26.jpg,Broom,Assistant
+data/thin/hq/broom_PNG28.jpg,Broom,"://
+Crane"
+data/thin/hq/broom_PNG40.jpg,Broom,"in this image, the main object is a Broom."
+data/thin/hq/broom_PNG51.jpg,Broom,that is not a broom.
+data/thin/hq/broom_PNG54.jpg,Broom,magic broom
+data/thin/hq/broom_PNG56.jpg,Broom,Harry Potter Broom
+data/thin/hq/broom_PNG58.jpg,Broom,0
+data/thin/hq/broom_PNG59.jpg,Broom,:// Broom
+data/thin/hq/broom_PNG6.jpg,Broom,"0
+Broom"
+data/thin/hq/broom_PNG60a.jpg,Broom,清洁用具
+data/thin/hq/broom_PNG60b.jpg,Broom,0
+data/thin/hq/broom_PNG61.jpg,Broom,0.0
+data/thin/hq/broom_PNG64b.jpg,Broom,Broom
+data/thin/hq/broom_PNG68.jpg,Broom,"tiger, broom"
+data/thin/hq/bucket_PNG7757.jpg,Bucket,
+data/thin/hq/bucket_PNG7761.jpg,Bucket,green Bucket
+data/thin/hq/bucket_PNG7762.jpg,Bucket,Bucket
+data/thin/hq/bucket_PNG7763.jpg,Bucket,Bucket
+data/thin/hq/bucket_PNG7771.jpg,Bucket,Bucket
+data/thin/hq/bucket_PNG7777.jpg,Bucket,metal bucket
+data/thin/hq/bulldozer_PNG16444.jpg,Bulldozer,Bulldozer
+data/thin/hq/bulldozer_PNG16447.jpg,Bulldozer,Bulldozer
+data/thin/hq/bulldozer_PNG16460.jpg,Bulldozer,"tomatoes, Bulldozer"
+data/thin/hq/bulldozer_PNG16462.jpg,Bulldozer,://Bulldozer
+data/thin/hq/butterfly_PNG1001.jpg,Butterfly,monarch butterfly
+data/thin/hq/butterfly_PNG1004.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1005.jpg,Butterfly,butterfly
+data/thin/hq/butterfly_PNG1006.jpg,Butterfly,Morpho Butterflies
+data/thin/hq/butterfly_PNG1007.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1008.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1015.jpg,Butterfly,巨大蝴蝶
+data/thin/hq/butterfly_PNG1017.jpg,Butterfly,-winged butterfly
+data/thin/hq/butterfly_PNG1023.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1024.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1025.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1026.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1027.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1028.jpg,Butterfly,"f
+Butterfly"
+data/thin/hq/butterfly_PNG1031.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1032.jpg,Butterfly,monarch butterfly
+data/thin/hq/butterfly_PNG1037.jpg,Butterfly,monarch butterfly
+data/thin/hq/butterfly_PNG1038.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1042.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1044.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1049.jpg,Butterfly,艺术作品中的蝴蝶
+data/thin/hq/butterfly_PNG1056.jpg,Butterfly,lifebuoy
+data/thin/hq/butterfly_PNG1058.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1059.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1061.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1062.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1064.jpg,Butterfly,Butterfly
+data/thin/hq/butterfly_PNG1065.jpg,Butterfly,Butterfly
+data/thin/hq/cactus_PNG23614.jpg,Cactus,Cactus
+data/thin/hq/cactus_PNG23638.jpg,Cactus,Cactus
+data/thin/hq/cactus_PNG23643.jpg,Cactus,spiny cactus in a terracotta pot
+data/thin/hq/cage_PNG1.jpg,Cage,Cage
+data/thin/hq/cage_PNG11.jpg,Cage,bird cage
+data/thin/hq/cage_PNG18.jpg,Cage,cage
+data/thin/hq/cage_PNG23a.jpg,Cage,Cage
+data/thin/hq/cage_PNG23b.jpg,Cage,peacock
+data/thin/hq/cage_PNG23c.jpg,Cage,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/cage_PNG30.jpg,Cage,freedom cage
+data/thin/hq/cage_PNG3a.jpg,Cage,Cage
+data/thin/hq/cage_PNG4.jpg,Cage,cage
+data/thin/hq/cage_PNG45.jpg,Cage,://Cage
+data/thin/hq/cage_PNG46.jpg,Cage,Cage
+data/thin/hq/cage_PNG48.jpg,Cage,caged bird
+data/thin/hq/cage_PNG49.jpg,Cage,Cage
+data/thin/hq/cage_PNG50.jpg,Cage,"lion, Cage"
+data/thin/hq/cage_PNG51.jpg,Cage,cage
+data/thin/hq/cage_PNG53.jpg,Cage,Cage
+data/thin/hq/camel_PNG23426.jpg,Camel,halal camel
+data/thin/hq/camel_PNG23435.jpg,Camel,Camel
+data/thin/hq/camel_PNG23436.jpg,Camel,Camel
+data/thin/hq/camel_PNG2920.jpg,Camel,Camel
+data/thin/hq/camel_PNG2921.jpg,Camel,Camel
+data/thin/hq/camel_PNG2923.jpg,Camel,Camel
+data/thin/hq/cannon_PNG10.jpg,Cannon,WWII 75mm Gun M1938
+data/thin/hq/cannon_PNG12.jpg,Cannon,"foreground is a cannon, and the background shows a coastal road with cliffs and sea. The main object in the image is the cannon. Therefore, the correct class is:
+
+Cannon"
+data/thin/hq/cannon_PNG13.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG16.jpg,Cannon,video camera
+data/thin/hq/cannon_PNG21.jpg,Cannon,Gun
+data/thin/hq/cannon_PNG22.jpg,Cannon,"sign, cannon"
+data/thin/hq/cannon_PNG24.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG25.jpg,Cannon,Starfish
+data/thin/hq/cannon_PNG26.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG28.jpg,Cannon,historical cannon
+data/thin/hq/cannon_PNG3.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG31.jpg,Cannon,inconclusive
+data/thin/hq/cannon_PNG32.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG33.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG37.jpg,Cannon,self-contained class: Cannon
+data/thin/hq/cannon_PNG4.jpg,Cannon,"to the given image, the main object is a **Cannon**."
+data/thin/hq/cannon_PNG40.jpg,Cannon,Sword
+data/thin/hq/cannon_PNG56.jpg,Cannon,historical cannon
+data/thin/hq/cannon_PNG57.jpg,Cannon,Carriage
+data/thin/hq/cannon_PNG59.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG6.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG65.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG66.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG70.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG74.jpg,Cannon,Tank
+data/thin/hq/cannon_PNG75.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG79.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG8.jpg,Cannon,historical cannon
+data/thin/hq/cannon_PNG80.jpg,Cannon,towed artillery
+data/thin/hq/cannon_PNG82.jpg,Cannon,"""Cannon"""
+data/thin/hq/cannon_PNG83.jpg,Cannon,模型炮
+data/thin/hq/cannon_PNG84.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG85.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG86.jpg,Cannon,"baseball bat
+Cannon"
+data/thin/hq/cannon_PNG88.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG89.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG9.jpg,Cannon,set of 193 classes: Cannon
+data/thin/hq/cannon_PNG90.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG91.jpg,Cannon,Cannon
+data/thin/hq/cannon_PNG93.jpg,Cannon,self-propelled howitzer
+data/thin/hq/cannon_PNG94.jpg,Cannon,head of a cannon
+data/thin/hq/canoe_PNG146.jpg,Canoe,0.8871277355687828
+data/thin/hq/canoe_PNG168.jpg,Canoe,0.5517846666666667
+data/thin/hq/canoe_PNG75.jpg,Canoe,钓鱼艇
+data/thin/hq/canoe_PNG83.jpg,Canoe,scissors
+data/thin/hq/canoe_PNG91.jpg,Canoe,"://
+Boat"
+data/thin/hq/canoe_PNG94.jpg,Canoe,Kayak
+data/thin/hq/carriage_PNG11.jpg,Carriage,"Blue Horse, Carriage"
+data/thin/hq/carriage_PNG12.jpg,Carriage,Carriage
+data/thin/hq/carriage_PNG14.jpg,Carriage,Carriage
+data/thin/hq/carriage_PNG22.jpg,Carriage,stagecoach
+data/thin/hq/carriage_PNG26.jpg,Carriage,drawn Carriage
+data/thin/hq/carriage_PNG27.jpg,Carriage,Carriage
+data/thin/hq/carriage_PNG28.jpg,Carriage,Carriage
+data/thin/hq/carriage_PNG31.jpg,Carriage,镳
+data/thin/hq/carriage_PNG32.jpg,Carriage,Carriage
+data/thin/hq/carriage_PNG43.jpg,Carriage,Carriage
+data/thin/hq/carriage_PNG44.jpg,Carriage,Carriage
+data/thin/hq/carriage_PNG46.jpg,Carriage,"pulled by two horses, with a carriage and two people posing in front of it. The main object is a Carriage."
+data/thin/hq/carriage_PNG47.jpg,Carriage,Carriage
+data/thin/hq/carriage_PNG48.jpg,Carriage,Carriage
+data/thin/hq/carriage_PNG50.jpg,Carriage,"horse, carriage"
+data/thin/hq/carriage_PNG63.jpg,Carriage,being the main object in this image.
+data/thin/hq/carriage_PNG70a.jpg,Carriage,Carriage
+data/thin/hq/carriage_PNG70b.jpg,Carriage,Formula 1 Carriage
+data/thin/hq/carriage_PNG73.jpg,Carriage,Carriage
+data/thin/hq/carriage_PNG74.jpg,Carriage,white horse with blue carriage
+data/thin/hq/carriage_PNG76.jpg,Carriage,hearse
+data/thin/hq/carriage_PNG78a.jpg,Carriage,Birds
+data/thin/hq/carriage_PNG78b.jpg,Carriage,Carriage
+data/thin/hq/carriage_PNG78c.jpg,Carriage,Ostrich
+data/thin/hq/carriage_PNG78d.jpg,Carriage,Carriage
+data/thin/hq/carriage_PNG79.jpg,Carriage,two horses pulling a carriage
+data/thin/hq/carriage_PNG81.jpg,Carriage,Carriage
+data/thin/hq/carriage_PNG85.jpg,Carriage,four-wheeled carriage
+data/thin/hq/cat_PNG50479.jpg,Cat,Cat
+data/thin/hq/cat_PNG50507.jpg,Cat,狗
+data/thin/hq/cat_PNG50540.jpg,Cat,cat
+data/thin/hq/cat_PNG50543.jpg,Cat,Cat
+data/thin/hq/cat_PNG50547.jpg,Cat,Cat
+data/thin/hq/chain_saw_PNG18499.jpg,Chain Saw,Chain Saw
+data/thin/hq/chain_saw_PNG18500.jpg,Chain Saw,satan
+data/thin/hq/chain_saw_PNG18501.jpg,Chain Saw,Two Chain Saw
+data/thin/hq/chain_saw_PNG18502.jpg,Chain Saw,Chain Saw
+data/thin/hq/chain_saw_PNG18504.jpg,Chain Saw,Two Chainsaw
+data/thin/hq/chain_saw_PNG18506.jpg,Chain Saw,Chain Saw
+data/thin/hq/chain_saw_PNG18510.jpg,Chain Saw,Chain Saw
+data/thin/hq/chain_saw_PNG18512.jpg,Chain Saw,"Husqvarna, Chain Saw"
+data/thin/hq/chain_saw_PNG18514.jpg,Chain Saw,"zebra, Chain Saw"
+data/thin/hq/chain_saw_PNG18515.jpg,Chain Saw,Chain Saw
+data/thin/hq/chain_saw_PNG18517.jpg,Chain Saw,Chain Saw
+data/thin/hq/chain_saw_PNG18527.jpg,Chain Saw,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/chain_saw_PNG18531.jpg,Chain Saw,"""Chain Saw"""
+data/thin/hq/chain_saw_PNG18533.jpg,Chain Saw,Chain Saw
+data/thin/hq/chain_saw_PNG18536.jpg,Chain Saw,Chain Saw
+data/thin/hq/chair_PNG6843.jpg,Chair,Chair
+data/thin/hq/chair_PNG6844.jpg,Chair,Chair
+data/thin/hq/chair_PNG6845.jpg,Chair,://Chair
+data/thin/hq/chair_PNG6846.jpg,Chair,Armchair
+data/thin/hq/chair_PNG6847.jpg,Chair,"produce, Chair"
+data/thin/hq/chair_PNG6848.jpg,Chair,Chair
+data/thin/hq/chair_PNG6849.jpg,Chair,://Chair
+data/thin/hq/chair_PNG6851.jpg,Chair,peacock
+data/thin/hq/chair_PNG6852.jpg,Chair,overcrowded boat
+data/thin/hq/chair_PNG6853.jpg,Chair,0.15281413316781542
+data/thin/hq/chair_PNG6855.jpg,Chair,Armchair
+data/thin/hq/chair_PNG6856.jpg,Chair,Chair
+data/thin/hq/chair_PNG6857.jpg,Chair,Green Car
+data/thin/hq/chair_PNG6859.jpg,Chair,colorful rose
+data/thin/hq/chair_PNG6860.jpg,Chair,Chair
+data/thin/hq/chair_PNG6861.jpg,Chair,Chair
+data/thin/hq/chair_PNG6862.jpg,Chair,Chair
+data/thin/hq/chair_PNG6865a.jpg,Chair,traditional hat
+data/thin/hq/chair_PNG6865b.jpg,Chair,Chair
+data/thin/hq/chair_PNG6866a.jpg,Chair,Motorcycle
+data/thin/hq/chair_PNG6866c.jpg,Chair,chari
+data/thin/hq/chair_PNG6866d.jpg,Chair,'t'
+data/thin/hq/chair_PNG6866e.jpg,Chair,"second object is a chair, the third object is a table, the fourth object is a tent, and the fifth object is an umbrella."
+data/thin/hq/chair_PNG6866f.jpg,Chair,Birds
+data/thin/hq/chair_PNG6866g.jpg,Chair,Chair
+data/thin/hq/chair_PNG6866h.jpg,Chair,"tiger, chair"
+data/thin/hq/chair_PNG6867a.jpg,Chair,Armchair
+data/thin/hq/chair_PNG6867b.jpg,Chair,Cock
+data/thin/hq/chair_PNG6867d.jpg,Chair,Street Light
+data/thin/hq/chair_PNG6867f.jpg,Chair,Cat
+data/thin/hq/chair_PNG6867h.jpg,Chair,Jeep
+data/thin/hq/chair_PNG6869.jpg,Chair,object is: Chair
+data/thin/hq/chair_PNG6872.jpg,Chair,Chair
+data/thin/hq/chair_PNG6873.jpg,Chair,Chair
+data/thin/hq/chair_PNG6874a.jpg,Chair,Armchair
+data/thin/hq/chair_PNG6874b.jpg,Chair,Imperial Dragonfish
+data/thin/hq/chair_PNG6874d.jpg,Chair,hanging chair
+data/thin/hq/chair_PNG6874e.jpg,Chair,that is not a valid class name for this image.
+data/thin/hq/chair_PNG6874f.jpg,Chair,wooden chair
+data/thin/hq/chair_PNG6874h.jpg,Chair,chair
+data/thin/hq/chair_PNG6877.jpg,Chair,hiding behind a chair. The main object is the chair.
+data/thin/hq/chair_PNG6878a.jpg,Chair,Chair
+data/thin/hq/chair_PNG6878b.jpg,Chair,cuttlefish
+data/thin/hq/chair_PNG6878c.jpg,Chair,Fish
+data/thin/hq/chair_PNG6878d.jpg,Chair,deep rose
+data/thin/hq/chair_PNG6878e.jpg,Chair,0.018674267587544575
+data/thin/hq/chair_PNG6878f.jpg,Chair,Chair
+data/thin/hq/chair_PNG6878g.jpg,Chair,Chair
+data/thin/hq/chair_PNG6878h.jpg,Chair,Chair
+data/thin/hq/chair_PNG6880.jpg,Chair,surreal chair
+data/thin/hq/chair_PNG6881.jpg,Chair,Chair
+data/thin/hq/chair_PNG6882a.jpg,Chair,Chair
+data/thin/hq/chair_PNG6882b.jpg,Chair,wooden chair
+data/thin/hq/chair_PNG6883.jpg,Chair,statue of liberty
+data/thin/hq/chair_PNG6887.jpg,Chair,黄色椅子
+data/thin/hq/chair_PNG6892.jpg,Chair,Chair
+data/thin/hq/chair_PNG6897.jpg,Chair,"Boats, Chair"
+data/thin/hq/chair_PNG6898.jpg,Chair,0.0015172685637887832
+data/thin/hq/chair_PNG6899.jpg,Chair,"right, the main object in this image is a Chair."
+data/thin/hq/chair_PNG6901.jpg,Chair,"lion, chair"
+data/thin/hq/chair_PNG6902.jpg,Chair,office chair
+data/thin/hq/chair_PNG6905.jpg,Chair,Chair
+data/thin/hq/chair_PNG6906.jpg,Chair,Chair
+data/thin/hq/chair_PNG6907.jpg,Chair,Armchair
+data/thin/hq/chair_PNG6908.jpg,Chair,Armchair
+data/thin/hq/chair_PNG6909.jpg,Chair,car
+data/thin/hq/chicken_PNG2145.jpg,Chicken,Chicken
+data/thin/hq/chicken_PNG2147.jpg,Chicken,Chicken
+data/thin/hq/chicken_PNG2150.jpg,Chicken,rooster
+data/thin/hq/chicken_PNG2151.jpg,Chicken,Chicken
+data/thin/hq/chicken_PNG2154.jpg,Chicken,Chicken
+data/thin/hq/chicken_PNG2164.jpg,Chicken,Cock
+data/thin/hq/chicken_PNG2165.jpg,Chicken,Chicken
+data/thin/hq/chicken_PNG2167.jpg,Chicken,"zebra, chicken, giraffe, bird, cock, chicken, zebra, giraffe, bird, cock, chicken, zebra, giraffe, bird, cock, chicken, zebra, giraffe, bird, cock, chicken, zebra, giraffe, bird, cock, chicken, zebra, giraffe, bird, cock, chicken, zebra, giraffe, bird, cock, chicken, zebra, giraffe, bird, cock, chicken, zebra"
+data/thin/hq/chicken_PNG2171.jpg,Chicken,Chicken
+data/thin/hq/chicken_PNG2172.jpg,Chicken,Chicken
+data/thin/hq/chicken_PNG2173.jpg,Chicken,Chicken
+data/thin/hq/cobra_PNG12.jpg,Cobra,Cobra
+data/thin/hq/cobra_PNG41.jpg,Cobra,Cobra
+data/thin/hq/cobra_PNG47.jpg,Cobra,Cobra
+data/thin/hq/cobra_PNG55.jpg,Cobra,"zebra, snake, cobra"
+data/thin/hq/cock_PNG19926.jpg,Cock,Cock
+data/thin/hq/cock_PNG19930.jpg,Cock,Cock
+data/thin/hq/cock_PNG20.jpg,Cock,Cock
+data/thin/hq/cock_PNG27.jpg,Cock,Chicken
+data/thin/hq/cock_PNG29.jpg,Cock,Cock
+data/thin/hq/cock_PNG3.jpg,Cock,Cock
+data/thin/hq/cock_PNG4.jpg,Cock,Chicken
+data/thin/hq/cock_PNG5.jpg,Cock,Cock
+data/thin/hq/cock_PNG6.jpg,Cock,cock
+data/thin/hq/cock_PNG8.jpg,Cock,Chicken
+data/thin/hq/cock_PNG9.jpg,Cock,cock
+data/thin/hq/comb_PNG1.jpg,Comb,Comb
+data/thin/hq/comb_PNG10.jpg,Comb,1. Comb
+data/thin/hq/comb_PNG106.jpg,Comb,梳子
+data/thin/hq/comb_PNG11.jpg,Comb,hydrant
+data/thin/hq/comb_PNG112.jpg,Comb,wooden comb
+data/thin/hq/comb_PNG113.jpg,Comb,large wooden comb
+data/thin/hq/comb_PNG114.jpg,Comb,"fruits, Comb"
+data/thin/hq/comb_PNG118.jpg,Comb,black comb
+data/thin/hq/comb_PNG120.jpg,Comb,Comb
+data/thin/hq/comb_PNG121.jpg,Comb,"""Comb"""
+data/thin/hq/comb_PNG124.jpg,Comb,"beak, comb, comb, comb"
+data/thin/hq/comb_PNG125a.jpg,Comb,Comb
+data/thin/hq/comb_PNG125b.jpg,Comb,://Comb
+data/thin/hq/comb_PNG136a.jpg,Comb,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/comb_PNG136b.jpg,Comb,0.0
+data/thin/hq/comb_PNG137.jpg,Comb,tail comb
+data/thin/hq/comb_PNG14.jpg,Comb,Comb
+data/thin/hq/comb_PNG140a.jpg,Comb,skateboarding
+data/thin/hq/comb_PNG141.jpg,Comb,wooden comb
+data/thin/hq/comb_PNG142.jpg,Comb,Comb
+data/thin/hq/comb_PNG144.jpg,Comb,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/comb_PNG146.jpg,Comb,:// Comb
+data/thin/hq/comb_PNG154a.jpg,Comb,‌Comb
+data/thin/hq/comb_PNG154b.jpg,Comb,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/comb_PNG154d.jpg,Comb,large Comb
+data/thin/hq/comb_PNG155a.jpg,Comb,‌Comb
+data/thin/hq/comb_PNG155b.jpg,Comb,Carriage
+data/thin/hq/comb_PNG156.jpg,Comb,background: Sunflower
+data/thin/hq/comb_PNG158.jpg,Comb,Comb
+data/thin/hq/comb_PNG159.jpg,Comb,://Comb
+data/thin/hq/comb_PNG16.jpg,Comb,Sea Horse
+data/thin/hq/comb_PNG17.jpg,Comb,大象
+data/thin/hq/comb_PNG18.jpg,Comb,"white cat, comb"
+data/thin/hq/comb_PNG23.jpg,Comb,Comb
+data/thin/hq/comb_PNG28.jpg,Comb,bearded comb
+data/thin/hq/comb_PNG29.jpg,Comb,A comb
+data/thin/hq/comb_PNG37.jpg,Comb,field of Sunflower
+data/thin/hq/comb_PNG40.jpg,Comb,traditional comb
+data/thin/hq/comb_PNG43.jpg,Comb,Personal Comb
+data/thin/hq/comb_PNG45.jpg,Comb,Comb
+data/thin/hq/comb_PNG47.jpg,Comb,://Comb
+data/thin/hq/comb_PNG48.jpg,Comb,Comb
+data/thin/hq/comb_PNG49.jpg,Comb,://Comb
+data/thin/hq/comb_PNG5.jpg,Comb,Comb
+data/thin/hq/comb_PNG50.jpg,Comb,Comb
+data/thin/hq/comb_PNG66.jpg,Comb,frog
+data/thin/hq/comb_PNG68.jpg,Comb,0
+data/thin/hq/comb_PNG7.jpg,Comb,Comb
+data/thin/hq/comb_PNG71a.jpg,Comb,two pairs of scissors
+data/thin/hq/comb_PNG71b.jpg,Comb,动物
+data/thin/hq/comb_PNG81.jpg,Comb,://Comb
+data/thin/hq/comb_PNG82.jpg,Comb,Comb
+data/thin/hq/comb_PNG83.jpg,Comb,Comb
+data/thin/hq/comb_PNG84.jpg,Comb,Comb
+data/thin/hq/comb_PNG87.jpg,Comb,‌Comb‌
+data/thin/hq/cooking_pan_PNG8363.jpg,Cooking Pan,kitchen pan
+data/thin/hq/cooking_pan_PNG8364.jpg,Cooking Pan,Cooking Pan
+data/thin/hq/cooking_pan_PNG8365.jpg,Cooking Pan,"Penguins, Cooking Pan"
+data/thin/hq/cooking_pan_PNG8366.jpg,Cooking Pan,kitchen pan
+data/thin/hq/cooking_pan_PNG8367a.jpg,Cooking Pan,Cooking Pan
+data/thin/hq/cooking_pan_PNG8367b.jpg,Cooking Pan,Cooking Pan
+data/thin/hq/cooking_pan_PNG8367c.jpg,Cooking Pan,Cooking Pan
+data/thin/hq/cooking_pan_PNG8367d.jpg,Cooking Pan,Cooking Pan
+data/thin/hq/cooking_pan_PNG8369.jpg,Cooking Pan,objects in this image are: Cooking Pan
+data/thin/hq/cooking_pan_PNG8370.jpg,Cooking Pan,black cooking pan
+data/thin/hq/cooking_pan_PNG8387.jpg,Cooking Pan,"partially obscured by the image, but the main object is a Cooking Pan."
+data/thin/hq/cooking_pan_PNG8398.jpg,Cooking Pan,object is: Cooking Pan
+data/thin/hq/cooking_pan_PNG8399.jpg,Cooking Pan,Kitchen Pan
+data/thin/hq/corkscrew_PNG1.jpg,Corkscrew,:// Motorcycle
+data/thin/hq/corkscrew_PNG15.jpg,Corkscrew,0.012283841173237585
+data/thin/hq/corkscrew_PNG18.jpg,Corkscrew,background: Corkscrew
+data/thin/hq/corkscrew_PNG2.jpg,Corkscrew,Corkscrew
+data/thin/hq/corkscrew_PNG33.jpg,Corkscrew,Corkscrew
+data/thin/hq/corkscrew_PNG35.jpg,Corkscrew,"r
+Corkscrew"
+data/thin/hq/corkscrew_PNG36.jpg,Corkscrew,Corkscrew
+data/thin/hq/corkscrew_PNG37.jpg,Corkscrew,fighter jet
+data/thin/hq/corkscrew_PNG38.jpg,Corkscrew,://Wrench
+data/thin/hq/corkscrew_PNG39.jpg,Corkscrew,Corkscrew
+data/thin/hq/corkscrew_PNG4.jpg,Corkscrew,://Corkscrew
+data/thin/hq/corkscrew_PNG40.jpg,Corkscrew,Corkscrew
+data/thin/hq/corkscrew_PNG41.jpg,Corkscrew,rodeo clown
+data/thin/hq/corkscrew_PNG42.jpg,Corkscrew,Corkscrew
+data/thin/hq/corkscrew_PNG43.jpg,Corkscrew,Table
+data/thin/hq/corkscrew_PNG44.jpg,Corkscrew,Corkscrew
+data/thin/hq/corkscrew_PNG49.jpg,Corkscrew,://Corkscrew
+data/thin/hq/corkscrew_PNG5.jpg,Corkscrew,"""Corkscrew"""
+data/thin/hq/corkscrew_PNG50.jpg,Corkscrew,lion
+data/thin/hq/corkscrew_PNG52.jpg,Corkscrew,"arrangement, but the main object is a corkscrew. The corkscrew is prominently displayed with its wooden handle and metal spiral, positioned above a floral arrangement. The image focuses on the corkscrew as the central object, with the flowers serving as a decorative background.
+
+Corkscrew"
+data/thin/hq/corkscrew_PNG7.jpg,Corkscrew,://Corkscrew
+data/thin/hq/corkscrew_PNG8.jpg,Corkscrew,Corkscrew
+data/thin/hq/corkscrew_PNG9.jpg,Corkscrew,Corkscrew
+data/thin/hq/cow_PNG50577.jpg,Cow,artificial cow
+data/thin/hq/cow_PNG50601.jpg,Cow,Cow
+data/thin/hq/cow_PNG50606.jpg,Cow,Cow
+data/thin/hq/crab_PNG1.jpg,Crab,Crab
+data/thin/hq/crab_PNG11.jpg,Crab,Crab
+data/thin/hq/crab_PNG12.jpg,Crab,Crab
+data/thin/hq/crab_PNG13.jpg,Crab,Crab
+data/thin/hq/crab_PNG16.jpg,Crab,Crab
+data/thin/hq/crab_PNG18.jpg,Crab,Crab
+data/thin/hq/crab_PNG19.jpg,Crab,Blue Crab
+data/thin/hq/crab_PNG2.jpg,Crab,Crab
+data/thin/hq/crab_PNG20.jpg,Crab,Crab
+data/thin/hq/crab_PNG23.jpg,Crab,blue crab
+data/thin/hq/crab_PNG24.jpg,Crab,Darts
+data/thin/hq/crab_PNG28.jpg,Crab,king crab
+data/thin/hq/crab_PNG3.jpg,Crab,Crab
+data/thin/hq/crab_PNG30.jpg,Crab,Crab
+data/thin/hq/crab_PNG34.jpg,Crab,蓝蟹
+data/thin/hq/crab_PNG38.jpg,Crab,Blue Crab
+data/thin/hq/crab_PNG4.jpg,Crab,Crab
+data/thin/hq/crab_PNG42.jpg,Crab,Crab
+data/thin/hq/crab_PNG46.jpg,Crab,蓝蟹
+data/thin/hq/crab_PNG7.jpg,Crab,Blue Crab
+data/thin/hq/crab_PNG8.jpg,Crab,~Crab
+data/thin/hq/crab_PNG9.jpg,Crab,Crab
+data/thin/hq/crane_PNG1.jpg,Crane,Crane
+data/thin/hq/crane_PNG18.jpg,Crane,Surfer
+data/thin/hq/crane_PNG2.jpg,Crane,
+data/thin/hq/crane_PNG21.jpg,Crane,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/crane_PNG24.jpg,Crane,Crane
+data/thin/hq/crocodile_PNG13162.jpg,Crocodile,Alligator
+data/thin/hq/crocodile_PNG13163.jpg,Crocodile,Crocodile
+data/thin/hq/crocodile_PNG13178.jpg,Crocodile,Crocodile
+data/thin/hq/crow_PNG3095.jpg,Crow,Corvus corax
+data/thin/hq/crow_PNG3097.jpg,Crow,Raven
+data/thin/hq/crow_PNG3099.jpg,Crow,Crow
+data/thin/hq/crow_PNG3101.jpg,Crow,American Crow
+data/thin/hq/crow_PNG3103.jpg,Crow,Raven
+data/thin/hq/crow_PNG3104.jpg,Crow,Crow
+data/thin/hq/crow_PNG3105.jpg,Crow,Crow
+data/thin/hq/crow_PNG3106.jpg,Crow,Corvus corax
+data/thin/hq/crow_PNG3107.jpg,Crow,Raven
+data/thin/hq/crow_PNG3110.jpg,Crow,American Crow
+data/thin/hq/crow_PNG3111.jpg,Crow,American Crow
+data/thin/hq/crow_PNG3113.jpg,Crow,Crow
+data/thin/hq/crow_PNG3115.jpg,Crow,Corvus corax
+data/thin/hq/crown_PNG21.jpg,Crown,Crown
+data/thin/hq/crown_PNG23852.jpg,Crown,jeweled crown
+data/thin/hq/crown_PNG23854.jpg,Crown,regal crown
+data/thin/hq/crutch_PNG1.jpg,Crutch,Birds
+data/thin/hq/crutch_PNG14.jpg,Crutch,thing
+data/thin/hq/crutch_PNG15.jpg,Crutch,Crutch
+data/thin/hq/crutch_PNG17a.jpg,Crutch,'table'
+data/thin/hq/crutch_PNG17b.jpg,Crutch,Crocodile
+data/thin/hq/crutch_PNG2.jpg,Crutch,Bucket
+data/thin/hq/crutch_PNG31.jpg,Crutch,"bowl, crutch"
+data/thin/hq/crutch_PNG32.jpg,Crutch,Crutch
+data/thin/hq/crutch_PNG34a.jpg,Crutch,Statue Of Liberty
+data/thin/hq/crutch_PNG34b.jpg,Crutch,Street Light
+data/thin/hq/crutch_PNG35.jpg,Crutch,Crutch
+data/thin/hq/crutch_PNG36.jpg,Crutch,crutch
+data/thin/hq/crutch_PNG38b.jpg,Crutch,Birds
+data/thin/hq/crutch_PNG9.jpg,Crutch,Crutch
+data/thin/hq/darts_PNG10.jpg,Darts,dart
+data/thin/hq/darts_PNG11.jpg,Darts,Treadmill
+data/thin/hq/darts_PNG12.jpg,Darts,dart
+data/thin/hq/darts_PNG13.jpg,Darts,arrow bow
+data/thin/hq/darts_PNG14.jpg,Darts,飞行器
+data/thin/hq/darts_PNG16.jpg,Darts,Darts
+data/thin/hq/darts_PNG17.jpg,Darts,dart
+data/thin/hq/darts_PNG21.jpg,Darts,N/A
+data/thin/hq/darts_PNG22.jpg,Darts,dart
+data/thin/hq/darts_PNG25.jpg,Darts,bullseye
+data/thin/hq/darts_PNG28.jpg,Darts,**Darts**
+data/thin/hq/darts_PNG30.jpg,Darts,A Darts
+data/thin/hq/darts_PNG41.jpg,Darts,Darts
+data/thin/hq/darts_PNG44.jpg,Darts,dart
+data/thin/hq/darts_PNG45.jpg,Darts,Darts
+data/thin/hq/darts_PNG46.jpg,Darts,dart
+data/thin/hq/darts_PNG47.jpg,Darts,:// Darts
+data/thin/hq/darts_PNG49.jpg,Darts,dart
+data/thin/hq/darts_PNG50.jpg,Darts,dart
+data/thin/hq/darts_PNG53.jpg,Darts,dart
+data/thin/hq/darts_PNG58.jpg,Darts,dart
+data/thin/hq/darts_PNG6.jpg,Darts,board
+data/thin/hq/darts_PNG8.jpg,Darts,Darts
+data/thin/hq/darts_PNG9.jpg,Darts,Darts
+data/thin/hq/deer_PNG10170.jpg,Deer,Axis Deer
+data/thin/hq/deer_PNG10171.jpg,Deer,Deer
+data/thin/hq/deer_PNG10172.jpg,Deer,Deer
+data/thin/hq/deer_PNG10175.jpg,Deer,stag
+data/thin/hq/deer_PNG10177.jpg,Deer,Deer
+data/thin/hq/deer_PNG10178.jpg,Deer,Deer
+data/thin/hq/deer_PNG10182.jpg,Deer,0.33333333333333337
+data/thin/hq/deer_PNG10185.jpg,Deer,Deer
+data/thin/hq/dog_PNG50373.jpg,Dog,3 Dog
+data/thin/hq/dog_PNG50383.jpg,Dog,Dog
+data/thin/hq/donkey_PNG24.jpg,Donkey,Donkey
+data/thin/hq/dragonfly_PNG11.jpg,Dragonfly,"squirrel, Dragonfly"
+data/thin/hq/dragonfly_PNG20.jpg,Dragonfly,magnificent dragonfly
+data/thin/hq/dragonfly_PNG4.jpg,Dragonfly,"as seen in the image, the main object is a Cat."
+data/thin/hq/dragonfly_PNG5.jpg,Dragonfly,希望通过
+data/thin/hq/dragonfly_PNG9.jpg,Dragonfly,Dragonfly
+data/thin/hq/dresser_PNG126.jpg,Dresser,Dresser
+data/thin/hq/drone_PNG103.jpg,Drone,snake
+data/thin/hq/drone_PNG107.jpg,Drone,vibrant drone
+data/thin/hq/drone_PNG110.jpg,Drone,机械设备
+data/thin/hq/drone_PNG112.jpg,Drone,Drone
+data/thin/hq/drone_PNG114.jpg,Drone,
+data/thin/hq/drone_PNG117.jpg,Drone,Drone
+data/thin/hq/drone_PNG12.jpg,Drone,Unicycle
+data/thin/hq/drone_PNG123.jpg,Drone,Unicycle
+data/thin/hq/drone_PNG125.jpg,Drone,Insecticide
+data/thin/hq/drone_PNG128.jpg,Drone,Drone
+data/thin/hq/drone_PNG129.jpg,Drone,Drone
+data/thin/hq/drone_PNG137.jpg,Drone,Unicycle
+data/thin/hq/drone_PNG140.jpg,Drone,"person, Drone"
+data/thin/hq/drone_PNG150.jpg,Drone,A Drone
+data/thin/hq/drone_PNG161.jpg,Drone,copter
+data/thin/hq/drone_PNG169.jpg,Drone,A Drone
+data/thin/hq/drone_PNG181.jpg,Drone,A Drone
+data/thin/hq/drone_PNG190.jpg,Drone,small drone
+data/thin/hq/drone_PNG191.jpg,Drone,A Drone
+data/thin/hq/drone_PNG194.jpg,Drone,Drone
+data/thin/hq/drone_PNG204.jpg,Drone,机械设备
+data/thin/hq/drone_PNG207.jpg,Drone,goat
+data/thin/hq/drone_PNG208.jpg,Drone,hovering drone
+data/thin/hq/drone_PNG26.jpg,Drone,"tropical fruit, Drone"
+data/thin/hq/drone_PNG36.jpg,Drone,**Drone**
+data/thin/hq/drone_PNG38.jpg,Drone,quadcopter
+data/thin/hq/drone_PNG39.jpg,Drone,"colorful, the main object is a Drone."
+data/thin/hq/drone_PNG40.jpg,Drone,6000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/drone_PNG41.jpg,Drone,Drone
+data/thin/hq/drone_PNG46.jpg,Drone,Drone
+data/thin/hq/drone_PNG5.jpg,Drone,Drone
+data/thin/hq/drone_PNG65.jpg,Drone,flying drone
+data/thin/hq/drone_PNG85.jpg,Drone,part of a drone
+data/thin/hq/drone_PNG88.jpg,Drone,Unspecified Drone
+data/thin/hq/drone_PNG89.jpg,Drone,Drone
+data/thin/hq/drone_PNG9.jpg,Drone,飞行器
+data/thin/hq/drone_PNG91.jpg,Drone,Drone
+data/thin/hq/drum_PNG14337.jpg,Drum,"zebras, Drum"
+data/thin/hq/drum_PNG14342.jpg,Drum,"""Drum"""
+data/thin/hq/drum_PNG14343.jpg,Drum,Drum
+data/thin/hq/drum_PNG14344.jpg,Drum,Drum
+data/thin/hq/drum_PNG14345.jpg,Drum,Drum
+data/thin/hq/eagle_PNG1202.jpg,Eagle,Eagle
+data/thin/hq/eagle_PNG1215.jpg,Eagle,Eagle
+data/thin/hq/eagle_PNG1225.jpg,Eagle,Eagle
+data/thin/hq/eagle_PNG1228.jpg,Eagle,Birds
+data/thin/hq/eiffel_tower_PNG17.jpg,Eiffel Tower,:// Eiffel Tower
+data/thin/hq/eiffel_tower_PNG21.jpg,Eiffel Tower,Eiffel Tower
+data/thin/hq/eiffel_tower_PNG29.jpg,Eiffel Tower,Eiffel Tower
+data/thin/hq/eiffel_tower_PNG38.jpg,Eiffel Tower,"head of Eiffel Tower, Giraffe"
+data/thin/hq/eiffel_tower_PNG6.jpg,Eiffel Tower,"raspberries, Eiffel Tower, Table, Wineglass"
+data/thin/hq/eiffel_tower_PNG72.jpg,Eiffel Tower,"""Eiffel Tower"""
+data/thin/hq/elephants_PNG18747.jpg,Elephants,African Elephant
+data/thin/hq/elephants_PNG18748.jpg,Elephants,世界上不存在的物体
+data/thin/hq/elephants_PNG18749.jpg,Elephants,Elephants
+data/thin/hq/elephants_PNG18762.jpg,Elephants,亚洲象
+data/thin/hq/elephants_PNG18775.jpg,Elephants,African Elephant
+data/thin/hq/elephants_PNG18779.jpg,Elephants,mammal
+data/thin/hq/elephants_PNG18781.jpg,Elephants,elephant
+data/thin/hq/elephants_PNG18782.jpg,Elephants,African Elephant
+data/thin/hq/elephants_PNG18785.jpg,Elephants,Elephants
+data/thin/hq/elephants_PNG18787.jpg,Elephants,donkey
+data/thin/hq/elephants_PNG18788.jpg,Elephants,Elephants
+data/thin/hq/elephants_PNG18793.jpg,Elephants,African Elephant
+data/thin/hq/elephants_PNG18799.jpg,Elephants,大象
+data/thin/hq/elephants_PNG18800.jpg,Elephants,Elephants
+data/thin/hq/elephants_PNG18801.jpg,Elephants,elephant
+data/thin/hq/elephants_PNG18805.jpg,Elephants,zebras
+data/thin/hq/excavator_PNG1.jpg,Excavator,Background: Excavator
+data/thin/hq/excavator_PNG12.jpg,Excavator,:// Excavator
+data/thin/hq/excavator_PNG20.jpg,Excavator,:// Excavator
+data/thin/hq/excavator_PNG21.jpg,Excavator,mini excavator
+data/thin/hq/excavator_PNG23.jpg,Excavator,0.5767528243187773
+data/thin/hq/excavator_PNG26.jpg,Excavator,black and yellow excavator with a black track and a black blade on the front. The excavator has a black cab with a black window and a black door. The excavator has a black arm with a black bucket. The excavator has a black engine. The excavator has a black exhaust pipe. The excavator has a black fuel tank. The excavator has a black fuel tank cap. The excavator has a black fuel tank cap. The excavator has a black fuel tank cap
+data/thin/hq/excavator_PNG27.jpg,Excavator,backhoe
+data/thin/hq/excavator_PNG28.jpg,Excavator,0.25842238314178344
+data/thin/hq/excavator_PNG29.jpg,Excavator,Excavator
+data/thin/hq/excavator_PNG32.jpg,Excavator,backhoe
+data/thin/hq/excavator_PNG37.jpg,Excavator,:// Excavator
+data/thin/hq/excavator_PNG40.jpg,Excavator,Excavator
+data/thin/hq/excavator_PNG45.jpg,Excavator,Excavator
+data/thin/hq/excavator_PNG58.jpg,Excavator,"face of a man with a beard and mustache, wearing a dark suit and tie, holding a microphone. The background is dark, and there is a faint glow around the man's head. The man appears to be speaking or singing into the microphone. The image is in black and white, with a focus on the man's face and the microphone. The man's expression is serious and intense, suggesting he is delivering a powerful message or performance. The overall mood of the image is dramatic and intense"
+data/thin/hq/excavator_PNG65.jpg,Excavator,Kubota Excavator
+data/thin/hq/excavator_PNG8.jpg,Excavator,Excavator
+data/thin/hq/excavator_PNG9.jpg,Excavator,0
+data/thin/hq/fan_PNG14457.jpg,Fan,"artificial object, Fan"
+data/thin/hq/fan_PNG14458.jpg,Fan,large Fan
+data/thin/hq/fan_PNG14460.jpg,Fan,small Fan
+data/thin/hq/fan_PNG14461.jpg,Fan,0.0
+data/thin/hq/fan_PNG14462.jpg,Fan,box fan
+data/thin/hq/fan_PNG14463.jpg,Fan,://Fan
+data/thin/hq/fan_PNG14464.jpg,Fan,Partially visible fan
+data/thin/hq/fan_PNG14465.jpg,Fan,Fan
+data/thin/hq/fan_PNG14467.jpg,Fan,box
+data/thin/hq/fan_PNG14469.jpg,Fan,Fan
+data/thin/hq/fan_PNG14471.jpg,Fan,head of a cock
+data/thin/hq/fan_PNG14472.jpg,Fan,Fan
+data/thin/hq/fan_PNG14473.jpg,Fan,Fan
+data/thin/hq/fan_PNG14475.jpg,Fan,Fan
+data/thin/hq/fan_PNG14478.jpg,Fan,0.5545537888274165
+data/thin/hq/fan_PNG14479.jpg,Fan,"fur, Fan"
+data/thin/hq/fan_PNG14482.jpg,Fan,Wimbledon Fan
+data/thin/hq/fan_PNG14483.jpg,Fan,**Fan**
+data/thin/hq/fan_PNG14484.jpg,Fan,Fan
+data/thin/hq/fan_PNG14485.jpg,Fan,://Fan
+data/thin/hq/fan_PNG14486.jpg,Fan,case Fan
+data/thin/hq/fan_PNG14487.jpg,Fan,://Fan
+data/thin/hq/fan_PNG14489.jpg,Fan,7200157200157200157200157200157200157200157200157200157200157200157200157200157200157200157200157200
+data/thin/hq/fan_PNG14490.jpg,Fan,Fan
+data/thin/hq/fan_PNG14491.jpg,Fan,large fan
+data/thin/hq/fan_PNG14492.jpg,Fan,Fan
+data/thin/hq/fir_tree_PNG3691.jpg,Fir Tree,Fir Tree
+data/thin/hq/fire_truck_PNG11.jpg,Fire Truck,Fire Truck
+data/thin/hq/fire_truck_PNG22.jpg,Fire Truck,old Fire Truck
+data/thin/hq/fire_truck_PNG37.jpg,Fire Truck,Fire Truck
+data/thin/hq/fire_truck_PNG40.jpg,Fire Truck,://Fire Truck
+data/thin/hq/fire_truck_PNG43.jpg,Fire Truck,0.010187771245416628
+data/thin/hq/fire_truck_PNG44.jpg,Fire Truck,Fire Truck
+data/thin/hq/fire_truck_PNG46.jpg,Fire Truck,Fire Truck
+data/thin/hq/fish_PNG25106.jpg,Fish,head of a fish
+data/thin/hq/flags_PNG14677.jpg,Flags,Flags
+data/thin/hq/flags_PNG14717.jpg,Flags,"In the image, the main object is a string of small Israeli flags hanging in a row against a blurred green background. The flags are clearly identifiable by their blue and white stripes and the Star of David in the center. The flags are the most prominent and central elements in the image, and they are the focus of the composition.
+
+Therefore, the correct class is:
+Flags"
+data/thin/hq/flags_PNG14719.jpg,Flags,Flags
+data/thin/hq/flamingo_PNG15094.jpg,Flamingo,Flamingo
+data/thin/hq/flamingo_PNG15095.jpg,Flamingo,American Flamingo
+data/thin/hq/flamingo_PNG15099.jpg,Flamingo,Flamingo
+data/thin/hq/flamingo_PNG15101.jpg,Flamingo,Astronaut
+data/thin/hq/flamingo_PNG15107.jpg,Flamingo,Flamingo
+data/thin/hq/flamingo_PNG15110.jpg,Flamingo,American Flamingo
+data/thin/hq/flamingo_PNG15111.jpg,Flamingo,"One of the 193 classes you provided is ""Flamingo"". Based on the image, the main object is a Flamingo."
+data/thin/hq/flamingo_PNG15112.jpg,Flamingo,"rooster, Flamingo"
+data/thin/hq/flippers_PNG37454.jpg,Flippers,Flippers
+data/thin/hq/flippers_PNG37457.jpg,Flippers,0
+data/thin/hq/flippers_PNG37458.jpg,Flippers,193
+data/thin/hq/flippers_PNG37461.jpg,Flippers,Flippers
+data/thin/hq/flippers_PNG37473.jpg,Flippers,3. Flippers
+data/thin/hq/football_goal_PNG10.jpg,Football Goal,goal
+data/thin/hq/football_goal_PNG12.jpg,Football Goal,Vase
+data/thin/hq/football_goal_PNG13.jpg,Football Goal,Giraffe
+data/thin/hq/football_goal_PNG14.jpg,Football Goal,hockey goal
+data/thin/hq/football_goal_PNG15.jpg,Football Goal,Football Goal
+data/thin/hq/football_goal_PNG17.jpg,Football Goal,hockey goal
+data/thin/hq/football_goal_PNG19.jpg,Football Goal,goal
+data/thin/hq/football_goal_PNG22.jpg,Football Goal,Football Goal
+data/thin/hq/football_goal_PNG24.jpg,Football Goal,zodiac sign
+data/thin/hq/football_goal_PNG25.jpg,Football Goal,goal
+data/thin/hq/football_goal_PNG26.jpg,Football Goal,Football Goal
+data/thin/hq/football_goal_PNG33.jpg,Football Goal,Sunglasses
+data/thin/hq/football_goal_PNG38.jpg,Football Goal,足球球门
+data/thin/hq/football_goal_PNG41.jpg,Football Goal,o Football Goal
+data/thin/hq/football_goal_PNG7.jpg,Football Goal,“Cat”
+data/thin/hq/fork_PNG3051.jpg,Fork,utensil
+data/thin/hq/fork_PNG3052.jpg,Fork,犀牛
+data/thin/hq/fork_PNG3053.jpg,Fork,://Fork
+data/thin/hq/fork_PNG3054.jpg,Fork,utensil
+data/thin/hq/fork_PNG3056.jpg,Fork,Table
+data/thin/hq/fork_PNG3058.jpg,Fork,Utensil
+data/thin/hq/fork_PNG3061.jpg,Fork,Fork
+data/thin/hq/fork_PNG3063.jpg,Fork,"partial
+Fork"
+data/thin/hq/fork_PNG3064.jpg,Fork,Utensil
+data/thin/hq/fork_PNG3065.jpg,Fork,utensil
+data/thin/hq/fork_PNG3066.jpg,Fork,Utensil
+data/thin/hq/fork_PNG3068.jpg,Fork,A Fork
+data/thin/hq/frog_PNG35716.jpg,Frog,0.0
+data/thin/hq/frog_PNG35720.jpg,Frog,Frog
+data/thin/hq/frog_PNG35721.jpg,Frog,Frog
+data/thin/hq/frog_PNG35727.jpg,Frog,Butterfly
+data/thin/hq/frog_PNG35729.jpg,Frog,"clinging to a surface, the main object is a Frog."
+data/thin/hq/frog_PNG35730.jpg,Frog,Frog
+data/thin/hq/frog_PNG35734.jpg,Frog,Tree Frog
+data/thin/hq/frog_PNG35735.jpg,Frog,Frog
+data/thin/hq/frog_PNG35738.jpg,Frog,"perched on a frog, with a butterfly wing visible in the background. The main object is the frog."
+data/thin/hq/frog_PNG35739.jpg,Frog,cane toad
+data/thin/hq/frog_PNG35740.jpg,Frog,Frog
+data/thin/hq/frog_PNG35741.jpg,Frog,://Frog
+data/thin/hq/frog_PNG35742.jpg,Frog,0.37618878927258857
+data/thin/hq/frog_PNG35746.jpg,Frog,://Frog
+data/thin/hq/frog_PNG35754.jpg,Frog,Frog
+data/thin/hq/frog_PNG35756.jpg,Frog,Frog
+data/thin/hq/frog_PNG35759.jpg,Frog,://Frog
+data/thin/hq/frog_PNG35761.jpg,Frog,://Frog
+data/thin/hq/frog_PNG35772.jpg,Frog,clinging frog
+data/thin/hq/frog_PNG35776.jpg,Frog,Frog
+data/thin/hq/frog_PNG3832.jpg,Frog,://Frog
+data/thin/hq/frog_PNG3835.jpg,Frog,Tree Frog
+data/thin/hq/frog_PNG3837.jpg,Frog,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/frog_PNG3838.jpg,Frog,Wineglass
+data/thin/hq/frog_PNG3839.jpg,Frog,树蛙
+data/thin/hq/frog_PNG3840.jpg,Frog,生活青蛙
+data/thin/hq/frog_PNG3841.jpg,Frog,0.0
+data/thin/hq/frog_PNG3843.jpg,Frog,Tree Frog
+data/thin/hq/frog_PNG3845.jpg,Frog,树蛙
+data/thin/hq/frog_PNG3846.jpg,Frog,Frog
+data/thin/hq/frog_PNG3847.jpg,Frog,Frog
+data/thin/hq/frying_pan_PNG8330.jpg,Frying Pan,"""Frying Pan"""
+data/thin/hq/frying_pan_PNG8331.jpg,Frying Pan,蘑菇
+data/thin/hq/frying_pan_PNG8336.jpg,Frying Pan,meat
+data/thin/hq/frying_pan_PNG8337.jpg,Frying Pan,Frying Pan
+data/thin/hq/frying_pan_PNG8338.jpg,Frying Pan,Cooking Pan
+data/thin/hq/frying_pan_PNG8342.jpg,Frying Pan,Frying Pan
+data/thin/hq/frying_pan_PNG8345.jpg,Frying Pan,"""Frying Pan"""
+data/thin/hq/frying_pan_PNG8346.jpg,Frying Pan,Frying Pan
+data/thin/hq/frying_pan_PNG8349.jpg,Frying Pan,小鸟
+data/thin/hq/frying_pan_PNG8357.jpg,Frying Pan,"""Frying Pan"""
+data/thin/hq/frying_pan_PNG8359.jpg,Frying Pan,Frying Pan
+data/thin/hq/frying_pan_PNG8360.jpg,Frying Pan,
+data/thin/hq/frying_pan_PNG8361.jpg,Frying Pan,
+data/thin/hq/frying_pan_PNG8362.jpg,Frying Pan,"""Frying Pan"""
+data/thin/hq/gas_mask_PNG1.jpg,Gas Mask,Gas Mask
+data/thin/hq/gas_mask_PNG12.jpg,Gas Mask,Gas Mask
+data/thin/hq/gas_mask_PNG13.jpg,Gas Mask,Blueberry
+data/thin/hq/gas_mask_PNG16.jpg,Gas Mask,Gas Mask
+data/thin/hq/gas_mask_PNG18.jpg,Gas Mask,Gas Mask
+data/thin/hq/gas_mask_PNG33.jpg,Gas Mask,Gas Mask
+data/thin/hq/gas_mask_PNG43.jpg,Gas Mask,Gas Mask
+data/thin/hq/giraffe_PNG13518.jpg,Giraffe,Giraffe
+data/thin/hq/giraffe_PNG13522.jpg,Giraffe,Giraffe
+data/thin/hq/giraffe_PNG13525.jpg,Giraffe,Giraffe
+data/thin/hq/giraffe_PNG13534.jpg,Giraffe,Giraffe
+data/thin/hq/giraffe_PNG13539.jpg,Giraffe,Giraffe
+data/thin/hq/glider_PNG24.jpg,Glider,headless glider
+data/thin/hq/glider_PNG6.jpg,Glider,Glider
+data/thin/hq/goat_PNG13150.jpg,Goat,Goat
+data/thin/hq/goat_PNG13151.jpg,Goat,mountain goat
+data/thin/hq/golden_cup_PNG14537.jpg,Golden Cup,Golden Cup
+data/thin/hq/golden_cup_PNG14538.jpg,Golden Cup,Golden Cup
+data/thin/hq/golden_cup_PNG14539.jpg,Golden Cup,Red and Gold Cup
+data/thin/hq/golden_cup_PNG14542.jpg,Golden Cup,Golden Cup
+data/thin/hq/golden_cup_PNG14547.jpg,Golden Cup,Golden Cup
+data/thin/hq/golden_cup_PNG14548.jpg,Golden Cup,object is a Golden Cup.
+data/thin/hq/golden_cup_PNG14549.jpg,Golden Cup,Golden Cup
+data/thin/hq/golden_cup_PNG14550.jpg,Golden Cup,object is a Golden Cup.
+data/thin/hq/golden_cup_PNG14551.jpg,Golden Cup,Golden Cup
+data/thin/hq/golden_cup_PNG14559.jpg,Golden Cup,"class=""Golden Cup"""
+data/thin/hq/golden_cup_PNG14569.jpg,Golden Cup,Golden Cup
+data/thin/hq/golden_cup_PNG14571.jpg,Golden Cup,Golden Cup
+data/thin/hq/golden_cup_PNG14575.jpg,Golden Cup,Golden Cup
+data/thin/hq/grasshopper_PNG11.jpg,Grasshopper,Grasshopper
+data/thin/hq/grasshopper_PNG13.jpg,Grasshopper,Grasshopper
+data/thin/hq/grasshopper_PNG18.jpg,Grasshopper,0.2657352321875
+data/thin/hq/grasshopper_PNG20.jpg,Grasshopper,landscap
+data/thin/hq/grasshopper_PNG32.jpg,Grasshopper,Grasshopper
+data/thin/hq/grasshopper_PNG4.jpg,Grasshopper,Grasshopper
+data/thin/hq/grasshopper_PNG40.jpg,Grasshopper,Grasshopper
+data/thin/hq/grasshopper_PNG44.jpg,Grasshopper,Grasshopper
+data/thin/hq/grasshopper_PNG6.jpg,Grasshopper,Grasshopper
+data/thin/hq/grasshopper_PNG7.jpg,Grasshopper,:// Grasshopper
+data/thin/hq/grasshopper_PNG9.jpg,Grasshopper,Grasshopper
+data/thin/hq/grenade_launcher_PNG15324.jpg,Grenade Launcher,Grenade Launcher
+data/thin/hq/grenade_launcher_PNG15327.jpg,Grenade Launcher,Gun
+data/thin/hq/grenade_launcher_PNG15330.jpg,Grenade Launcher,Grenade Launcher
+data/thin/hq/grenade_launcher_PNG15334.jpg,Grenade Launcher,://Gun
+data/thin/hq/grenade_launcher_PNG15335.jpg,Grenade Launcher,Grenade Launcher
+data/thin/hq/grenade_launcher_PNG15338.jpg,Grenade Launcher,grasshopper
+data/thin/hq/grenade_launcher_PNG15340.jpg,Grenade Launcher,Unidentified Gun
+data/thin/hq/grill_PNG13937.jpg,Grill,black grill
+data/thin/hq/grill_PNG13938.jpg,Grill,Grill
+data/thin/hq/grill_PNG13939.jpg,Grill,black grill
+data/thin/hq/grill_PNG13942.jpg,Grill,Grill
+data/thin/hq/grill_PNG13944.jpg,Grill,鱼
+data/thin/hq/grill_PNG13947.jpg,Grill,**Grill**
+data/thin/hq/gun_PNG1353.jpg,Gun,image of a gun
+data/thin/hq/gun_PNG1354.jpg,Gun,Gun
+data/thin/hq/gun_PNG1355.jpg,Gun,revolver
+data/thin/hq/gun_PNG1357.jpg,Gun,in this image: Gun
+data/thin/hq/gun_PNG1358.jpg,Gun,head of a gun
+data/thin/hq/gun_PNG1360.jpg,Gun,"partially visible in the background, but the main object is a Gun."
+data/thin/hq/gun_PNG1363.jpg,Gun,Gun
+data/thin/hq/gun_PNG1371.jpg,Gun,giraffe
+data/thin/hq/gun_PNG1373.jpg,Gun,Glock
+data/thin/hq/gun_PNG1374.jpg,Gun,Handgun
+data/thin/hq/gun_PNG1377.jpg,Gun,Gun
+data/thin/hq/gun_PNG1378.jpg,Gun,Gun
+data/thin/hq/gun_PNG1379.jpg,Gun,object is a Gun.
+data/thin/hq/gun_PNG1381.jpg,Gun,Gun
+data/thin/hq/gun_PNG1384.jpg,Gun,Gun
+data/thin/hq/gun_PNG1385.jpg,Gun,Gun
+data/thin/hq/gun_PNG1386.jpg,Gun,Gun
+data/thin/hq/gun_PNG1389.jpg,Gun,Gun
+data/thin/hq/hairbrush_PNG105.jpg,Hairbrush,drink
+data/thin/hq/hairbrush_PNG107.jpg,Hairbrush,Hairbrush
+data/thin/hq/hairbrush_PNG110.jpg,Hairbrush,black hairbrush
+data/thin/hq/hairbrush_PNG134.jpg,Hairbrush,food
+data/thin/hq/hairbrush_PNG135.jpg,Hairbrush,//Hairbrush
+data/thin/hq/hairbrush_PNG136a.jpg,Hairbrush,"back of a chair with leopard print upholstery, with a yellow comb on a bookshelf in the background. The main object is: Chair"
+data/thin/hq/hairbrush_PNG136d.jpg,Hairbrush,‌Comb
+data/thin/hq/hairbrush_PNG136f.jpg,Hairbrush,Frying Pan
+data/thin/hq/hairbrush_PNG138.jpg,Hairbrush,:// Hairbrush
+data/thin/hq/hairbrush_PNG140.jpg,Hairbrush,0.8251643255288264
+data/thin/hq/hairbrush_PNG145.jpg,Hairbrush,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/hairbrush_PNG146.jpg,Hairbrush,"velvet sofa, Hairbrush"
+data/thin/hq/hairbrush_PNG152.jpg,Hairbrush,partially visible hairbrush
+data/thin/hq/hairbrush_PNG154.jpg,Hairbrush,"baby elephant, Hairbrush"
+data/thin/hq/hairbrush_PNG157.jpg,Hairbrush,1. Hairbrush
+data/thin/hq/hairbrush_PNG162.jpg,Hairbrush,"closeup of a wooden hairbrush with metal bristles, set against a blurred background of a house and trees."
+data/thin/hq/hairbrush_PNG20.jpg,Hairbrush,//Hairbrush
+data/thin/hq/hairbrush_PNG47.jpg,Hairbrush,1. Hairbrush
+data/thin/hq/hairbrush_PNG53.jpg,Hairbrush,"horse, hairbrush"
+data/thin/hq/hairbrush_PNG63.jpg,Hairbrush,Hairbrush
+data/thin/hq/hairbrush_PNG64.jpg,Hairbrush,woman holding a large pink hairbrush.
+data/thin/hq/hairbrush_PNG65.jpg,Hairbrush,0.25856675788384765
+data/thin/hq/hairbrush_PNG78.jpg,Hairbrush,TOOTHBRUSH
+data/thin/hq/hairbrush_PNG81.jpg,Hairbrush,1. Hairbrush
+data/thin/hq/hammer_PNG1122.jpg,Hammer,Hammer
+data/thin/hq/hammer_PNG1124.jpg,Hammer,cat
+data/thin/hq/hammer_PNG1127.jpg,Hammer,"brushing, Hammer"
+data/thin/hq/hammer_PNG1131.jpg,Hammer,gavel
+data/thin/hq/hammer_PNG1132.jpg,Hammer,Hammer
+data/thin/hq/hammer_PNG1134.jpg,Hammer,Cock
+data/thin/hq/hammer_PNG1138.jpg,Hammer,Hammer
+data/thin/hq/hammer_PNG1140.jpg,Hammer,Chicken
+data/thin/hq/hammer_PNG3888.jpg,Hammer,Chicken
+data/thin/hq/hammer_PNG3889a.jpg,Hammer,Hammer
+data/thin/hq/hammer_PNG3889b.jpg,Hammer,sandwich
+data/thin/hq/hammer_PNG3891.jpg,Hammer,"tool, Hammer"
+data/thin/hq/hammock_PNG1.jpg,Hammock,"oranges, Hammock"
+data/thin/hq/hammock_PNG12.jpg,Hammock,://Hammock
+data/thin/hq/hammock_PNG18.jpg,Hammock,Hammock
+data/thin/hq/hammock_PNG19.jpg,Hammock,Hammock
+data/thin/hq/hammock_PNG2.jpg,Hammock,mosquito
+data/thin/hq/hammock_PNG23.jpg,Hammock,://Hammock
+data/thin/hq/hammock_PNG3.jpg,Hammock,Gray Hammock
+data/thin/hq/hammock_PNG32.jpg,Hammock,Hammock
+data/thin/hq/hammock_PNG33.jpg,Hammock,horse
+data/thin/hq/hammock_PNG37.jpg,Hammock,object is: Hammock
+data/thin/hq/hammock_PNG39.jpg,Hammock,N/A
+data/thin/hq/hammock_PNG4.jpg,Hammock,Hammock
+data/thin/hq/hammock_PNG41.jpg,Hammock,Hammock
+data/thin/hq/hammock_PNG43.jpg,Hammock,Hammock
+data/thin/hq/hammock_PNG45.jpg,Hammock,"giraffe, hammock"
+data/thin/hq/hammock_PNG48.jpg,Hammock,Hammock
+data/thin/hq/hammock_PNG49.jpg,Hammock,grasshopper
+data/thin/hq/hammock_PNG50.jpg,Hammock,mask
+data/thin/hq/hammock_PNG61.jpg,Hammock,://Hammock
+data/thin/hq/hammock_PNG63.jpg,Hammock,A Hammock
+data/thin/hq/hammock_PNG64.jpg,Hammock,
+data/thin/hq/hammock_PNG65.jpg,Hammock,Hammock
+data/thin/hq/hammock_PNG7.jpg,Hammock,striped hammock
+data/thin/hq/hammock_PNG9.jpg,Hammock,0.0
+data/thin/hq/hand_saw_PNG9530.jpg,Hand Saw,Hand Saw
+data/thin/hq/hand_saw_PNG9531.jpg,Hand Saw,Hand Saw
+data/thin/hq/hand_saw_PNG9532.jpg,Hand Saw,Hand Saw
+data/thin/hq/hand_saw_PNG9541.jpg,Hand Saw,Hand Saw
+data/thin/hq/hand_saw_PNG9545.jpg,Hand Saw,0
+data/thin/hq/hand_saw_PNG9549.jpg,Hand Saw,goat
+data/thin/hq/handcuffs_PNG12.jpg,Handcuffs,partial answer: Handcuffs
+data/thin/hq/handcuffs_PNG13.jpg,Handcuffs,snake
+data/thin/hq/handcuffs_PNG14.jpg,Handcuffs,Handcuffs
+data/thin/hq/handcuffs_PNG16.jpg,Handcuffs,Handcuffs
+data/thin/hq/handcuffs_PNG18a.jpg,Handcuffs,earring
+data/thin/hq/handcuffs_PNG1a.jpg,Handcuffs,"hands, handcuffs"
+data/thin/hq/handcuffs_PNG1b.jpg,Handcuffs,Chicken
+data/thin/hq/handcuffs_PNG22.jpg,Handcuffs,enormously large Handcuffs
+data/thin/hq/handcuffs_PNG25.jpg,Handcuffs,0 Handcuffs
+data/thin/hq/handcuffs_PNG3.jpg,Handcuffs,Handcuffs
+data/thin/hq/handcuffs_PNG30.jpg,Handcuffs,metal handcuffs
+data/thin/hq/handcuffs_PNG31.jpg,Handcuffs,metal handcuffs
+data/thin/hq/handcuffs_PNG34.jpg,Handcuffs,Handcuffs
+data/thin/hq/handcuffs_PNG35.jpg,Handcuffs,Handcuffs
+data/thin/hq/handcuffs_PNG38.jpg,Handcuffs,Handcuffs
+data/thin/hq/handcuffs_PNG44.jpg,Handcuffs,metal handcuffs
+data/thin/hq/handcuffs_PNG47.jpg,Handcuffs,Handcuffs
+data/thin/hq/handcuffs_PNG48.jpg,Handcuffs,metal handcuffs
+data/thin/hq/handcuffs_PNG52.jpg,Handcuffs,Unicorn
+data/thin/hq/handcuffs_PNG55.jpg,Handcuffs,Handcuffs
+data/thin/hq/handcuffs_PNG8.jpg,Handcuffs,Handcuffs
+data/thin/hq/handcuffs_PNG9.jpg,Handcuffs,"food, Handcuffs"
+data/thin/hq/harp_PNG1.jpg,Harp,String Instrument
+data/thin/hq/harp_PNG12.jpg,Harp,A Harp
+data/thin/hq/harp_PNG21.jpg,Harp,"sign, Harp"
+data/thin/hq/harp_PNG26.jpg,Harp,string instrument
+data/thin/hq/harp_PNG30.jpg,Harp,Harp
+data/thin/hq/harp_PNG32.jpg,Harp,Harp
+data/thin/hq/harp_PNG4.jpg,Harp,乐器
+data/thin/hq/harp_PNG8.jpg,Harp,object is a Harp.
+data/thin/hq/headphones_PNG7634.jpg,Headphones,unique headphones
+data/thin/hq/hedgehog_PNG11.jpg,Hedgehog,hedgehog
+data/thin/hq/hedgehog_PNG13.jpg,Hedgehog,Hedgehog
+data/thin/hq/hedgehog_PNG16.jpg,Hedgehog,Hedgehog
+data/thin/hq/hedgehog_PNG9.jpg,Hedgehog,Hedgehog
+data/thin/hq/helicopter_PNG5300.jpg,Helicopter,Helicopter
+data/thin/hq/helicopter_PNG5301.jpg,Helicopter,Helicopter
+data/thin/hq/helicopter_PNG5302.jpg,Helicopter,Helicopter
+data/thin/hq/helicopter_PNG5306.jpg,Helicopter,0.0
+data/thin/hq/helicopter_PNG5311.jpg,Helicopter,Helicopter
+data/thin/hq/helicopter_PNG5312.jpg,Helicopter,Helicopter
+data/thin/hq/helicopter_PNG5313.jpg,Helicopter,icopter
+data/thin/hq/helicopter_PNG5315.jpg,Helicopter,use of Helicopter
+data/thin/hq/helicopter_PNG80002.jpg,Helicopter,://Helicopter
+data/thin/hq/helicopter_PNG80006.jpg,Helicopter,Helicopter
+data/thin/hq/helicopter_PNG80008.jpg,Helicopter,text: Helicopter
+data/thin/hq/helicopter_PNG80016.jpg,Helicopter,Helicopter
+data/thin/hq/helicopter_PNG80017.jpg,Helicopter,// Helicopter
+data/thin/hq/helicopter_PNG80033.jpg,Helicopter,elf
+data/thin/hq/helicopter_PNG80039.jpg,Helicopter,layered with a wedding cake. The main object in the image is a Helicopter.
+data/thin/hq/helicopter_PNG80040.jpg,Helicopter,fixed Helicopter
+data/thin/hq/helicopter_PNG80041.jpg,Helicopter,:// Helicopter
+data/thin/hq/helicopter_PNG80043.jpg,Helicopter,large Helicopter
+data/thin/hq/helicopter_PNG80044.jpg,Helicopter,Helicopter
+data/thin/hq/helicopter_PNG80045.jpg,Helicopter,</p>Helicopter</p>
+data/thin/hq/helicopter_PNG80046.jpg,Helicopter,Helicopter
+data/thin/hq/helicopter_PNG80048.jpg,Helicopter,Aircraft
+data/thin/hq/helicopter_PNG80049.jpg,Helicopter,Helicopter
+data/thin/hq/helicopter_PNG80050.jpg,Helicopter,goat
+data/thin/hq/helicopter_PNG80051.jpg,Helicopter,Helicopter
+data/thin/hq/helicopter_PNG80060.jpg,Helicopter,~~Helicopter~~
+data/thin/hq/helicopter_PNG80061.jpg,Helicopter,0
+data/thin/hq/helicopter_PNG80062.jpg,Helicopter,rotorcraft
+data/thin/hq/helicopter_PNG80066.jpg,Helicopter,Anaconda
+data/thin/hq/helicopter_PNG80072.jpg,Helicopter,attack helicopter
+data/thin/hq/helicopter_PNG80079.jpg,Helicopter,Helicopter
+data/thin/hq/helicopter_PNG80087.jpg,Helicopter,"colorful candies, Helicopter"
+data/thin/hq/helicopter_PNG80088.jpg,Helicopter,rotor helicopter
+data/thin/hq/helicopter_PNG80093.jpg,Helicopter,Helicopter
+data/thin/hq/helicopter_PNG80095.jpg,Helicopter,Helicopter
+data/thin/hq/helicopter_PNG80097.jpg,Helicopter,Helicopter
+data/thin/hq/helicopter_PNG80098.jpg,Helicopter,rotor helicopter
+data/thin/hq/helicopter_PNG80105.jpg,Helicopter,0.7437437437437437
+data/thin/hq/helicopter_PNG80110.jpg,Helicopter,Helicopter
+data/thin/hq/horseshoe_PNG34.jpg,Horseshoe,Horseshoe
+data/thin/hq/horseshoe_PNG5.jpg,Horseshoe,DIAMOND Horseshoe
+data/thin/hq/horseshoe_PNG52.jpg,Horseshoe,fish
+data/thin/hq/horseshoe_PNG57.jpg,Horseshoe,"elephant, Horseshoe"
+data/thin/hq/horseshoe_PNG58.jpg,Horseshoe,Horseshoe
+data/thin/hq/horseshoe_PNG6.jpg,Horseshoe,elephant
+data/thin/hq/horseshoe_PNG61.jpg,Horseshoe,Horseshoe
+data/thin/hq/horseshoe_PNG7.jpg,Horseshoe,Horseshoe
+data/thin/hq/horseshoe_PNG8.jpg,Horseshoe,Horseshoe
+data/thin/hq/ice_axe_PNG10.jpg,Ice Axe,:// Ice Axe
+data/thin/hq/ice_axe_PNG14.jpg,Ice Axe,大象
+data/thin/hq/ice_axe_PNG15.jpg,Ice Axe,Ice Axe
+data/thin/hq/ice_axe_PNG22.jpg,Ice Axe,:// Ice Axe
+data/thin/hq/ice_axe_PNG23a.jpg,Ice Axe,"://www.123rf.com/  
+Wrench"
+data/thin/hq/ice_axe_PNG25.jpg,Ice Axe,mountaineering axe
+data/thin/hq/ice_axe_PNG36.jpg,Ice Axe,mountaineering axe
+data/thin/hq/ice_axe_PNG37.jpg,Ice Axe,mountaineering axe
+data/thin/hq/ice_axe_PNG38.jpg,Ice Axe,://Ice Axe
+data/thin/hq/ice_axe_PNG39.jpg,Ice Axe,://Ice Axe
+data/thin/hq/ice_axe_PNG47.jpg,Ice Axe,Ice Axe
+data/thin/hq/ice_axe_PNG49.jpg,Ice Axe,0.15533562841653953
+data/thin/hq/ice_axe_PNG51.jpg,Ice Axe,blade
+data/thin/hq/ice_axe_PNG52.jpg,Ice Axe,://Ice Axe
+data/thin/hq/ice_axe_PNG53.jpg,Ice Axe,Ice Axe
+data/thin/hq/ice_axe_PNG54.jpg,Ice Axe,://Ice Axe
+data/thin/hq/ice_axe_PNG55.jpg,Ice Axe,://Ice Axe
+data/thin/hq/ice_axe_PNG58.jpg,Ice Axe,Ice Axe
+data/thin/hq/ice_axe_PNG6.jpg,Ice Axe,mountaineering axe
+data/thin/hq/ice_axe_PNG7.jpg,Ice Axe,://Ice Axe
+data/thin/hq/ice_axe_PNG8.jpg,Ice Axe,"used to climb mountains, especially in icy or snowy environments. It has a long, curved blade for breaking ice or rock, and a handle for gripping. It is commonly used by climbers, mountaineers, and ice climbers."
+data/thin/hq/iron_PNG15526.jpg,Iron,Iron
+data/thin/hq/iron_PNG15527.jpg,Iron,Iron
+data/thin/hq/iron_PNG15536.jpg,Iron,Iron
+data/thin/hq/iron_PNG15547.jpg,Iron,Iron
+data/thin/hq/iron_PNG15560.jpg,Iron,"driver, Iron"
+data/thin/hq/iron_PNG15563.jpg,Iron,Iron
+data/thin/hq/iron_PNG15565.jpg,Iron,Iron
+data/thin/hq/iron_PNG15566.jpg,Iron,老式熨斗
+data/thin/hq/iron_PNG15567.jpg,Iron,老式熨斗
+data/thin/hq/iron_PNG15568.jpg,Iron,193
+data/thin/hq/jail_PNG10.jpg,Jail,Jail
+data/thin/hq/jail_PNG36.jpg,Jail,game is a jail
+data/thin/hq/jail_PNG38.jpg,Jail,Skateboard
+data/thin/hq/jail_PNG39.jpg,Jail,Cage
+data/thin/hq/jail_PNG40.jpg,Jail,"view of a metal cage with vertical bars, showing blurred background elements. The cage is likely part of a larger structure, such as a birdcage or animal enclosure. The image is focused on the bars, with the background appearing out of focus, emphasizing the cage's structure. The bars are evenly spaced and appear to be made of metal, possibly steel or aluminum. The background suggests an outdoor setting with some foliage or natural elements, but they are not clearly identifiable due to the blur. The cage"
+data/thin/hq/jail_PNG45.jpg,Jail,Jail
+data/thin/hq/jail_PNG53.jpg,Jail,://Cage
+data/thin/hq/jeep_PNG143.jpg,Jeep,modified Jeep
+data/thin/hq/kangaroo_PNG11.jpg,Kangaroo,Kangaroo
+data/thin/hq/kangaroo_PNG12.jpg,Kangaroo,Kangaroo
+data/thin/hq/kangaroo_PNG13.jpg,Kangaroo,Kangaroo
+data/thin/hq/kangaroo_PNG14.jpg,Kangaroo,Kangaroo
+data/thin/hq/kangaroo_PNG16.jpg,Kangaroo,"young Kangaroo, Dog"
+data/thin/hq/kangaroo_PNG22.jpg,Kangaroo,Kangaroo
+data/thin/hq/kangaroo_PNG4.jpg,Kangaroo,Kangaroo
+data/thin/hq/kangaroo_PNG5.jpg,Kangaroo,Kangaroo
+data/thin/hq/kangaroo_PNG6.jpg,Kangaroo,Kangaroo
+data/thin/hq/katana_PNG12.jpg,Katana,道具 Katana
+data/thin/hq/katana_PNG16.jpg,Katana,Sword
+data/thin/hq/katana_PNG18.jpg,Katana,Katana
+data/thin/hq/katana_PNG2a.jpg,Katana,Japanese Katana
+data/thin/hq/katana_PNG2b.jpg,Katana,Treadmill
+data/thin/hq/katana_PNG3a.jpg,Katana,Katana
+data/thin/hq/katana_PNG3b.jpg,Katana,Katana
+data/thin/hq/katana_PNG4.jpg,Katana,Japanese Katana
+data/thin/hq/katana_PNG41.jpg,Katana,Japanese Katana
+data/thin/hq/katana_PNG42.jpg,Katana,Japanese Katana
+data/thin/hq/katana_PNG52.jpg,Katana,Japanese Katana
+data/thin/hq/katana_PNG6.jpg,Katana,"definitely not a chicken, but a cock. So the main object is: Cock"
+data/thin/hq/katana_PNG61b.jpg,Katana,Katana
+data/thin/hq/katana_PNG7.jpg,Katana,Katana
+data/thin/hq/katana_PNG72.jpg,Katana,Katana
+data/thin/hq/kayak_PNG127.jpg,Kayak,trolleybus
+data/thin/hq/kayak_PNG135.jpg,Kayak,"two objects are in the image: a kayak and a paddle. The kayak is yellow and red, and the paddle is yellow. The kayak is positioned on the grass, with horses grazing nearby. The kayak is the main object in the image.
+
+Kayak"
+data/thin/hq/kayak_PNG152.jpg,Kayak,0.25573667157641526
+data/thin/hq/kayak_PNG39.jpg,Kayak,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/kayak_PNG48.jpg,Kayak,Kayak
+data/thin/hq/kayak_PNG50.jpg,Kayak,Kayak
+data/thin/hq/kayak_PNG52.jpg,Kayak,0.5542256655635855
+data/thin/hq/kayak_PNG65.jpg,Kayak,"://
+Canoe"
+data/thin/hq/kayak_PNG72.jpg,Kayak,Kayak
+data/thin/hq/kayak_PNG98.jpg,Kayak,Kayak
+data/thin/hq/kettle_PNG8694.jpg,Kettle,Samovar
+data/thin/hq/kettle_PNG8695.jpg,Kettle,Kettle
+data/thin/hq/kettle_PNG8696.jpg,Kettle,Objects
+data/thin/hq/kettle_PNG8698.jpg,Kettle,Kettle
+data/thin/hq/kettle_PNG8700.jpg,Kettle,Kettle
+data/thin/hq/kettle_PNG8709.jpg,Kettle,Kettle
+data/thin/hq/kettle_PNG8710.jpg,Kettle,Kettle
+data/thin/hq/kettle_PNG8711.jpg,Kettle,Kettle
+data/thin/hq/kettle_PNG8720.jpg,Kettle,Kettle
+data/thin/hq/kettle_PNG8726.jpg,Kettle,Kettle
+data/thin/hq/key_PNG1167.jpg,Key,key
+data/thin/hq/key_PNG3378.jpg,Key,Key
+data/thin/hq/kick_scooter_PNG11384.jpg,Kick Scooter,Kick Scooter
+data/thin/hq/kick_scooter_PNG11386.jpg,Kick Scooter,:// Kick Scooter
+data/thin/hq/kick_scooter_PNG11389.jpg,Kick Scooter,Kick Scooter
+data/thin/hq/kick_scooter_PNG11390.jpg,Kick Scooter,colorful Kick Scooter
+data/thin/hq/kick_scooter_PNG11391.jpg,Kick Scooter,:// Kick Scooter
+data/thin/hq/kick_scooter_PNG11393.jpg,Kick Scooter,Kick Scooter
+data/thin/hq/kick_scooter_PNG11394.jpg,Kick Scooter,Kick Scooter
+data/thin/hq/kick_scooter_PNG11396.jpg,Kick Scooter,://Kick Scooter
+data/thin/hq/ladder_PNG14772.jpg,Ladder,flowers
+data/thin/hq/ladder_PNG14773.jpg,Ladder,coiled snake
+data/thin/hq/ladder_PNG14774.jpg,Ladder,Ladder
+data/thin/hq/ladder_PNG14775.jpg,Ladder,Ladder
+data/thin/hq/ladder_PNG14778.jpg,Ladder,primate
+data/thin/hq/ladder_PNG14779.jpg,Ladder,0.5013262724725538
+data/thin/hq/ladder_PNG14780.jpg,Ladder,Dog
+data/thin/hq/ladder_PNG14785.jpg,Ladder,0
+data/thin/hq/ladder_PNG14788.jpg,Ladder,tool:Ladder
+data/thin/hq/ladder_PNG14789.jpg,Ladder,A ladder
+data/thin/hq/ladder_PNG14800.jpg,Ladder,Ladder
+data/thin/hq/ladder_PNG14801.jpg,Ladder,object is: Ladder
+data/thin/hq/ladder_PNG14805.jpg,Ladder,Ladder
+data/thin/hq/ladder_PNG14807.jpg,Ladder,0026 Ladder
+data/thin/hq/ladybug_PNG3960.jpg,Ladybug,ladybug
+data/thin/hq/ladybug_PNG3967.jpg,Ladybug,Ladybug
+data/thin/hq/lemur_PNG15.jpg,Lemur,Lemur
+data/thin/hq/lemur_PNG26.jpg,Lemur,Lemur
+data/thin/hq/lemur_PNG33.jpg,Lemur,Lemur
+data/thin/hq/lifebuoy_PNG2.jpg,Lifebuoy,Lifebuoy
+data/thin/hq/lizard_PNG1.jpg,Lizard,Lizard
+data/thin/hq/lizard_PNG11.jpg,Lizard,Lizard
+data/thin/hq/lizard_PNG12.jpg,Lizard,Lizard
+data/thin/hq/lizard_PNG13.jpg,Lizard,Assistant
+data/thin/hq/lizard_PNG15.jpg,Lizard,"密切关注这个图像，我看到一只绿色的蜥蜴，身上有红色的斑点，正趴在一片叶子上。根据提供的选项，最合适的类别是“Lizard”。其他选项如“Birds”、“Snake”等都不符合图像内容。
+
+Lizard"
+data/thin/hq/lizard_PNG16.jpg,Lizard,Lizard
+data/thin/hq/lizard_PNG17.jpg,Lizard,Lizard
+data/thin/hq/lizard_PNG2.jpg,Lizard,Lizard
+data/thin/hq/lizard_PNG21.jpg,Lizard,Lizard
+data/thin/hq/lizard_PNG23.jpg,Lizard,Lizard
+data/thin/hq/lizard_PNG24.jpg,Lizard,://Lizard
+data/thin/hq/lizard_PNG28.jpg,Lizard,zebra
+data/thin/hq/lizard_PNG29.jpg,Lizard,Lizard
+data/thin/hq/lizard_PNG32.jpg,Lizard,0
+data/thin/hq/lizard_PNG35.jpg,Lizard,Lizard
+data/thin/hq/lizard_PNG4.jpg,Lizard,Lizard
+data/thin/hq/lizard_PNG5.jpg,Lizard,Lizard
+data/thin/hq/lizard_PNG6.jpg,Lizard,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/lizard_PNG7.jpg,Lizard,Lizard
+data/thin/hq/lizard_PNG8.jpg,Lizard,Lizard
+data/thin/hq/lizard_PNG9.jpg,Lizard,://Lizard
+data/thin/hq/lobster_PNG14231.jpg,Lobster,Hard Crab
+data/thin/hq/lobster_PNG14234.jpg,Lobster,giraffe
+data/thin/hq/lobster_PNG14238.jpg,Lobster,Crab
+data/thin/hq/lobster_PNG14240.jpg,Lobster,Crab
+data/thin/hq/lobster_PNG14242.jpg,Lobster,0.0
+data/thin/hq/lobster_PNG14247.jpg,Lobster,hard crab
+data/thin/hq/lobster_PNG14248.jpg,Lobster,://
+data/thin/hq/louboutin_PNG10835.jpg,Louboutin,Louboutin
+data/thin/hq/louboutin_PNG10838.jpg,Louboutin,Louboutin
+data/thin/hq/louboutin_PNG10841.jpg,Louboutin,Christian Louboutin
+data/thin/hq/louboutin_PNG10842.jpg,Louboutin,Louboutin
+data/thin/hq/louboutin_PNG10843.jpg,Louboutin,Christian Louboutin
+data/thin/hq/louboutin_PNG10845.jpg,Louboutin,Louboutin
+data/thin/hq/louboutin_PNG10846.jpg,Louboutin,Christian Louboutin
+data/thin/hq/louboutin_PNG10849.jpg,Louboutin,partially visible Louboutin
+data/thin/hq/mantis_PNG14.jpg,Mantis,(pronounced: mantis)
+data/thin/hq/mantis_PNG17.jpg,Mantis,Mantis
+data/thin/hq/mantis_PNG35.jpg,Mantis,Mantis
+data/thin/hq/mantis_PNG37.jpg,Mantis,Assassin Bug
+data/thin/hq/mantis_PNG55.jpg,Mantis,0
+data/thin/hq/mantis_PNG59.jpg,Mantis,praying mantis
+data/thin/hq/mantis_PNG60.jpg,Mantis,Mantis
+data/thin/hq/mantis_PNG71.jpg,Mantis,://Mantis
+data/thin/hq/megaphone_PNG113.jpg,Megaphone,Megaphone
+data/thin/hq/megaphone_PNG116.jpg,Megaphone,Megaphone
+data/thin/hq/megaphone_PNG14.jpg,Megaphone,"giraffe, megaphone"
+data/thin/hq/megaphone_PNG30.jpg,Megaphone,"In this image, the main object is a Megaphone."
+data/thin/hq/megaphone_PNG31.jpg,Megaphone,Megaphone
+data/thin/hq/megaphone_PNG39.jpg,Megaphone,text not found
+data/thin/hq/megaphone_PNG91.jpg,Megaphone,Megaphone
+data/thin/hq/microphone_PNG7900.jpg,Microphone,Microphone
+data/thin/hq/microphone_PNG7920.jpg,Microphone,Microphone
+data/thin/hq/moose_PNG1.jpg,Moose,Moose
+data/thin/hq/moose_PNG13.jpg,Moose,0.0027288435688718834
+data/thin/hq/moose_PNG2.jpg,Moose,0.7331734871127264
+data/thin/hq/moose_PNG27.jpg,Moose,Deer
+data/thin/hq/moose_PNG28.jpg,Moose,t Deer
+data/thin/hq/moose_PNG39.jpg,Moose,stag
+data/thin/hq/moose_PNG40.jpg,Moose,Moose
+data/thin/hq/moose_PNG41.jpg,Moose,9. Deer
+data/thin/hq/moose_PNG50.jpg,Moose,Moose
+data/thin/hq/moose_PNG64.jpg,Moose,bug
+data/thin/hq/moose_PNG65.jpg,Moose,sheeep
+data/thin/hq/mop_PNG10.jpg,Mop,Mop
+data/thin/hq/mop_PNG12.jpg,Mop,sword
+data/thin/hq/mop_PNG13.jpg,Mop,cleaning tool
+data/thin/hq/mop_PNG15.jpg,Mop,eggs
+data/thin/hq/mop_PNG19.jpg,Mop,string of a mop
+data/thin/hq/mop_PNG20a.jpg,Mop,tringer
+data/thin/hq/mop_PNG20b.jpg,Mop,Sword
+data/thin/hq/mop_PNG21.jpg,Mop,Squeegee
+data/thin/hq/mop_PNG22.jpg,Mop,://Cat
+data/thin/hq/mop_PNG23.jpg,Mop,long-handled mop
+data/thin/hq/mop_PNG24.jpg,Mop,Mop
+data/thin/hq/mop_PNG25.jpg,Mop,cleaning tool
+data/thin/hq/mop_PNG28.jpg,Mop,insect: Dragonfly
+data/thin/hq/mop_PNG34.jpg,Mop,Broom
+data/thin/hq/mop_PNG35.jpg,Mop,horse
+data/thin/hq/mop_PNG36.jpg,Mop,Mop
+data/thin/hq/mop_PNG37.jpg,Mop,://
+data/thin/hq/mop_PNG38.jpg,Mop,"tail of a dog, vacuum cleaner"
+data/thin/hq/mop_PNG4.jpg,Mop,Broom
+data/thin/hq/mop_PNG41.jpg,Mop,​Broom​
+data/thin/hq/mop_PNG44.jpg,Mop,:// Mop
+data/thin/hq/mop_PNG45.jpg,Mop,improvised broom
+data/thin/hq/mop_PNG46.jpg,Mop,0
+data/thin/hq/mop_PNG48.jpg,Mop,A Mop
+data/thin/hq/mop_PNG52.jpg,Mop,cat
+data/thin/hq/mop_PNG58.jpg,Mop,A Mop
+data/thin/hq/mop_PNG6.jpg,Mop,0.10523447698352573
+data/thin/hq/mop_PNG66.jpg,Mop,Mop
+data/thin/hq/mop_PNG68.jpg,Mop,extended mop and bucket
+data/thin/hq/mop_PNG70.jpg,Mop,Mop
+data/thin/hq/mop_PNG71.jpg,Mop,玩具扫帚
+data/thin/hq/mop_PNG74.jpg,Mop,dog
+data/thin/hq/mop_PNG75a.jpg,Mop,2155227765756783858235473224832232382232323232323232323232323232323232323232323232323232323232323232
+data/thin/hq/mop_PNG75b.jpg,Mop,Axe
+data/thin/hq/mop_PNG78.jpg,Mop,flat mop
+data/thin/hq/mop_PNG79.jpg,Mop,Mop
+data/thin/hq/mop_PNG81.jpg,Mop,long Mop
+data/thin/hq/mop_PNG83.jpg,Mop,Vacuum Cleaner
+data/thin/hq/mop_PNG84.jpg,Mop,Vacuum Cleaner
+data/thin/hq/mop_PNG85.jpg,Mop,Mop
+data/thin/hq/mop_PNG90.jpg,Mop,flat mop with bucket
+data/thin/hq/mop_PNG91.jpg,Mop,bag
+data/thin/hq/mop_PNG92.jpg,Mop,Mop
+data/thin/hq/mortar_PNG1.jpg,Mortar,"attached to the end of a long, thin metal rod. The object is likely a tool or piece of equipment, possibly for construction or maintenance. Given its shape and the context, it appears to be a **Shovel**."
+data/thin/hq/mortar_PNG12.jpg,Mortar,Telescope
+data/thin/hq/mortar_PNG13.jpg,Mortar,**Telescope**
+data/thin/hq/mortar_PNG15.jpg,Mortar,Mortar
+data/thin/hq/mortar_PNG17.jpg,Mortar,home made cannon
+data/thin/hq/mortar_PNG18.jpg,Mortar,Mop
+data/thin/hq/mortar_PNG21.jpg,Mortar,Grenade Launcher
+data/thin/hq/mortar_PNG22.jpg,Mortar,Tripod
+data/thin/hq/mortar_PNG24.jpg,Mortar,**Tripod**
+data/thin/hq/mortar_PNG25.jpg,Mortar,Mortar
+data/thin/hq/mortar_PNG27.jpg,Mortar,Telescope
+data/thin/hq/mortar_PNG4.jpg,Mortar,Telescope
+data/thin/hq/mortar_PNG5.jpg,Mortar,peacock
+data/thin/hq/mortar_PNG7.jpg,Mortar,miniature telescope on tripod
+data/thin/hq/mortar_PNG8.jpg,Mortar,kick scooter
+data/thin/hq/mortar_PNG9.jpg,Mortar,三脚架
+data/thin/hq/mosquito_PNG18153.jpg,Mosquito,模型蚊子
+data/thin/hq/mosquito_PNG18154.jpg,Mosquito,://Mosquito
+data/thin/hq/mosquito_PNG18159.jpg,Mosquito,giant mosquito
+data/thin/hq/mosquito_PNG18164.jpg,Mosquito,mosquito
+data/thin/hq/mosquito_PNG18167.jpg,Mosquito,giant mosquito
+data/thin/hq/mosquito_PNG18175.jpg,Mosquito,mosquito
+data/thin/hq/mosquito_PNG18177a.jpg,Mosquito,giant mosquito
+data/thin/hq/mosquito_PNG18177b.jpg,Mosquito,Insect
+data/thin/hq/motorcycle_PNG3131.jpg,Motorcycle,blue motorcycle
+data/thin/hq/motorcycle_PNG3132.jpg,Motorcycle,red motorcycle
+data/thin/hq/motorcycle_PNG3136.jpg,Motorcycle,cruiser motorcycle
+data/thin/hq/motorcycle_PNG3137.jpg,Motorcycle,sportbike
+data/thin/hq/motorcycle_PNG3147.jpg,Motorcycle,sport bike
+data/thin/hq/motorcycle_PNG3151.jpg,Motorcycle,motorcycle
+data/thin/hq/motorcycle_PNG3152.jpg,Motorcycle,Adventure Motorcycle
+data/thin/hq/motorcycle_PNG3157.jpg,Motorcycle,black motorcycle
+data/thin/hq/motorcycle_PNG3158.jpg,Motorcycle,sport motorcycle
+data/thin/hq/motorcycle_PNG3159.jpg,Motorcycle,sportbike
+data/thin/hq/motorcycle_PNG3161.jpg,Motorcycle,blue and white Suzuki motorcycle
+data/thin/hq/motorcycle_PNG3163.jpg,Motorcycle,Sport Motorcycle
+data/thin/hq/motorcycle_PNG3167.jpg,Motorcycle,sportbike
+data/thin/hq/motorcycle_PNG3174.jpg,Motorcycle,Motorcycle
+data/thin/hq/motorcycle_PNG3175.jpg,Motorcycle,0
+data/thin/hq/motorcycle_PNG3177.jpg,Motorcycle,Motorcycle
+data/thin/hq/motorcycle_PNG5348.jpg,Motorcycle,Motorcycle
+data/thin/hq/octopus_PNG1.jpg,Octopus,Assistant: Octopus
+data/thin/hq/octopus_PNG11.jpg,Octopus,:// Octopus
+data/thin/hq/octopus_PNG16.jpg,Octopus,"extending arms, tentacles, and a bulbous body with a textured surface, characteristic of an octopus. The creature is centrally positioned, with its arms curled and spread out, suggesting a dynamic, almost floating posture. The background is a muted, solid color, which contrasts with the detailed, earthy tones of the octopus. The overall composition emphasizes the creature's form and texture, with no other objects or elements competing for attention. The image is highly detailed, capturing the intricate patterns and colors"
+data/thin/hq/ostrich_PNG17.jpg,Ostrich,现实中的Ostrich
+data/thin/hq/ostrich_PNG76984.jpg,Ostrich,Struthio camelus
+data/thin/hq/paddle_PNG10494.jpg,Paddle,toothbrush
+data/thin/hq/paddle_PNG10495a.jpg,Paddle,Paddle
+data/thin/hq/paddle_PNG10495b.jpg,Paddle,Paddle
+data/thin/hq/paddle_PNG10496a.jpg,Paddle,Paddle
+data/thin/hq/paddle_PNG10496b.jpg,Paddle,┬Paddle
+data/thin/hq/paddle_PNG10500.jpg,Paddle,://Paddle
+data/thin/hq/paddle_PNG10501.jpg,Paddle,Water Paddle
+data/thin/hq/paddle_PNG10503.jpg,Paddle,Paddle
+data/thin/hq/paddle_PNG10504.jpg,Paddle,o Paddle
+data/thin/hq/paddle_PNG10505.jpg,Paddle,Paddle
+data/thin/hq/paddle_PNG10507.jpg,Paddle,Paddle
+data/thin/hq/paddle_PNG10508.jpg,Paddle,0
+data/thin/hq/paddle_PNG10509.jpg,Paddle,0.5
+data/thin/hq/paddle_PNG10512.jpg,Paddle,Paddle
+data/thin/hq/paddle_PNG10513.jpg,Paddle,Paddle
+data/thin/hq/paddle_PNG10514.jpg,Paddle,Paddle
+data/thin/hq/paddle_PNG10515.jpg,Paddle,Paddle
+data/thin/hq/paddle_PNG10516.jpg,Paddle,0. Paddle
+data/thin/hq/paddle_PNG10518.jpg,Paddle,Paddle
+data/thin/hq/paddle_PNG10519.jpg,Paddle,Paddle
+data/thin/hq/paddle_PNG10520.jpg,Paddle,.com
+data/thin/hq/padlock_PNG9401a.jpg,Padlock,0
+data/thin/hq/padlock_PNG9402.jpg,Padlock,part of a motorcycle
+data/thin/hq/padlock_PNG9420a.jpg,Padlock,Padlock
+data/thin/hq/padlock_PNG9421.jpg,Padlock,"beak
+Padlock"
+data/thin/hq/padlock_PNG9422.jpg,Padlock,0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/padlock_PNG9424a.jpg,Padlock,Padlock
+data/thin/hq/padlock_PNG9425.jpg,Padlock,Padlock
+data/thin/hq/padlock_PNG9427.jpg,Padlock,Padlock
+data/thin/hq/padlock_PNG9428.jpg,Padlock,Padlock
+data/thin/hq/padlock_PNG9429a.jpg,Padlock,Padlock
+data/thin/hq/padlock_PNG9429b.jpg,Padlock,
+data/thin/hq/padlock_PNG9429c.jpg,Padlock,
+data/thin/hq/padlock_PNG9429d.jpg,Padlock,Padlock
+data/thin/hq/padlock_PNG9430a.jpg,Padlock,:// Padlock
+data/thin/hq/padlock_PNG9431.jpg,Padlock,"```
+Padlock
+```"
+data/thin/hq/padlock_PNG9432.jpg,Padlock,0.5615136837568419
+data/thin/hq/padlock_PNG9433.jpg,Padlock,Padlock
+data/thin/hq/padlock_PNG9434.jpg,Padlock,:// Padlock
+data/thin/hq/padlock_PNG9435.jpg,Padlock,Padlock
+data/thin/hq/padlock_PNG9436.jpg,Padlock,Padlock
+data/thin/hq/palm_tree_PNG2487.jpg,Palm Tree,Palm Tree
+data/thin/hq/parachute_PNG19417.jpg,Parachute,Parachute
+data/thin/hq/parachute_PNG19424.jpg,Parachute,Parachute
+data/thin/hq/parachute_PNG19425.jpg,Parachute,Parachute
+data/thin/hq/parachute_PNG19426.jpg,Parachute,Parachute
+data/thin/hq/pear_PNG3443.jpg,Pear,Conference
+data/thin/hq/pear_PNG3452.jpg,Pear,0.33333333333333337
+data/thin/hq/pear_PNG3459.jpg,Pear,head of a pear
+data/thin/hq/pear_PNG3460.jpg,Pear,鸡
+data/thin/hq/pear_PNG3462.jpg,Pear,0.0
+data/thin/hq/piano_PNG10871.jpg,Piano,grand piano
+data/thin/hq/piano_PNG10875.jpg,Piano,black grand piano
+data/thin/hq/piano_PNG10880.jpg,Piano,Fender
+data/thin/hq/piano_PNG10881.jpg,Piano,Piano
+data/thin/hq/piano_PNG10883.jpg,Piano,"cars, Piano"
+data/thin/hq/piano_PNG10885.jpg,Piano,Trumpet Saxophone
+data/thin/hq/piano_PNG10887.jpg,Piano,open Piano
+data/thin/hq/piano_PNG10892.jpg,Piano,乐器
+data/thin/hq/piano_PNG10894.jpg,Piano,Saxophone
+data/thin/hq/pineapple_PNG2728.jpg,Pineapple,ripe Pineapple
+data/thin/hq/pineapple_PNG2731a.jpg,Pineapple,an object that is not in the list of 193 classes.
+data/thin/hq/pineapple_PNG2731b.jpg,Pineapple,ropical Pineapple
+data/thin/hq/pineapple_PNG2734.jpg,Pineapple,Pineapple
+data/thin/hq/pineapple_PNG2742.jpg,Pineapple,Pineapple
+data/thin/hq/pineapple_PNG2746.jpg,Pineapple,Ananaconda
+data/thin/hq/pineapple_PNG2749.jpg,Pineapple,Pineapple
+data/thin/hq/pineapple_PNG2750.jpg,Pineapple,ripe pineapple
+data/thin/hq/plier_PNG10043.jpg,Plier,Plier
+data/thin/hq/plier_PNG10045.jpg,Plier,tool: Plier
+data/thin/hq/plier_PNG10068.jpg,Plier,tool: Plier
+data/thin/hq/plier_PNG10071.jpg,Plier,furry animal
+data/thin/hq/plier_PNG10072.jpg,Plier,Plier
+data/thin/hq/plier_PNG10073.jpg,Plier,tool
+data/thin/hq/plunger_PNG10.jpg,Plunger,:// Plunger
+data/thin/hq/plunger_PNG12.jpg,Plunger,face.
+data/thin/hq/plunger_PNG13.jpg,Plunger,:// Plunger
+data/thin/hq/plunger_PNG16.jpg,Plunger,:// Plunger
+data/thin/hq/plunger_PNG17.jpg,Plunger,Plunger
+data/thin/hq/plunger_PNG18.jpg,Plunger,:// Plunger
+data/thin/hq/plunger_PNG23.jpg,Plunger,Device
+data/thin/hq/plunger_PNG27.jpg,Plunger,:// Plunger
+data/thin/hq/plunger_PNG29.jpg,Plunger,"A frog is resting on a green leaf, with a plunger placed nearby. The main object in the image is the frog.
+
+Frog"
+data/thin/hq/plunger_PNG3.jpg,Plunger,Plunger
+data/thin/hq/plunger_PNG30.jpg,Plunger,classic plunger
+data/thin/hq/plunger_PNG33.jpg,Plunger,Test Tube
+data/thin/hq/plunger_PNG4.jpg,Plunger,://Plunger
+data/thin/hq/plunger_PNG7.jpg,Plunger,Plunger
+data/thin/hq/pram_PNG17877.jpg,Pram,Pram
+data/thin/hq/pram_PNG17878.jpg,Pram,Pram
+data/thin/hq/pram_PNG17880.jpg,Pram,Pram
+data/thin/hq/pram_PNG17881.jpg,Pram,hanging pram
+data/thin/hq/pram_PNG17882.jpg,Pram,0
+data/thin/hq/pram_PNG17883.jpg,Pram,Pram
+data/thin/hq/pram_PNG17884.jpg,Pram,"cupcakes, Pram"
+data/thin/hq/pram_PNG17885.jpg,Pram,Pram
+data/thin/hq/pram_PNG17886.jpg,Pram,Pram
+data/thin/hq/pram_PNG17891.jpg,Pram,Pram
+data/thin/hq/pram_PNG17893.jpg,Pram,"""Pram"""
+data/thin/hq/pram_PNG17897.jpg,Pram,modern pram
+data/thin/hq/pram_PNG17899.jpg,Pram,Pram
+data/thin/hq/pram_PNG17902.jpg,Pram,3376416244538218313324333344555555555555555555555555555555555555555555555555555555555555555555555555
+data/thin/hq/pram_PNG17905.jpg,Pram,Pram
+data/thin/hq/pram_PNG17907.jpg,Pram,Pram
+data/thin/hq/pram_PNG17909.jpg,Pram,Pram
+data/thin/hq/punching_bag_PNG1.jpg,Punching Bag,Punching Bag
+data/thin/hq/punching_bag_PNG12.jpg,Punching Bag,Punching Bag
+data/thin/hq/punching_bag_PNG14.jpg,Punching Bag,Punching Bag
+data/thin/hq/punching_bag_PNG19.jpg,Punching Bag,Assistant
+data/thin/hq/punching_bag_PNG2.jpg,Punching Bag,Punching Bag
+data/thin/hq/punching_bag_PNG21.jpg,Punching Bag,Punching Bag
+data/thin/hq/punching_bag_PNG23.jpg,Punching Bag,chain saw
+data/thin/hq/punching_bag_PNG27.jpg,Punching Bag,central object is a Punching Bag
+data/thin/hq/punching_bag_PNG29.jpg,Punching Bag,Assistant
+data/thin/hq/punching_bag_PNG30.jpg,Punching Bag,Punching Bag
+data/thin/hq/punching_bag_PNG32.jpg,Punching Bag,Punching Bag
+data/thin/hq/punching_bag_PNG38.jpg,Punching Bag,Punching Bag
+data/thin/hq/punching_bag_PNG4.jpg,Punching Bag,Punching Bag
+data/thin/hq/punching_bag_PNG43.jpg,Punching Bag,Punching Bag
+data/thin/hq/punching_bag_PNG46.jpg,Punching Bag,Assistant
+data/thin/hq/punching_bag_PNG55.jpg,Punching Bag,0.150.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.00
+data/thin/hq/punching_bag_PNG56.jpg,Punching Bag,Punching Bag
+data/thin/hq/punching_bag_PNG58.jpg,Punching Bag,heavy punching bag
+data/thin/hq/punching_bag_PNG59.jpg,Punching Bag,Punching Bag
+data/thin/hq/punching_bag_PNG6.jpg,Punching Bag,Punching Bag
+data/thin/hq/punching_bag_PNG60.jpg,Punching Bag,Assistant
+data/thin/hq/punching_bag_PNG64.jpg,Punching Bag,dog
+data/thin/hq/punching_bag_PNG67.jpg,Punching Bag,0.0
+data/thin/hq/punching_bag_PNG70.jpg,Punching Bag,"big elephants, Punching Bag"
+data/thin/hq/punching_bag_PNG76.jpg,Punching Bag,Punching Bag
+data/thin/hq/punching_bag_PNG77.jpg,Punching Bag,Assistant
+data/thin/hq/punching_bag_PNG78.jpg,Punching Bag,'t Punching Bag'
+data/thin/hq/punching_bag_PNG79a.jpg,Punching Bag,biathlon
+data/thin/hq/punching_bag_PNG79b.jpg,Punching Bag,0.75
+data/thin/hq/punching_bag_PNG79c.jpg,Punching Bag,://Punching Bag
+data/thin/hq/punching_bag_PNG81.jpg,Punching Bag,Punching Bag
+data/thin/hq/punching_bag_PNG82.jpg,Punching Bag,"two dogs, one is a dog, the other is a dog, and the main object is a punching bag."
+data/thin/hq/radio_PNG19272.jpg,Radio,"pizza, Radio"
+data/thin/hq/radio_PNG19281.jpg,Radio,orange Radio
+data/thin/hq/radio_PNG19290.jpg,Radio,device
+data/thin/hq/radio_PNG19297.jpg,Radio,Radio
+data/thin/hq/rat_mouse_PNG23530.jpg,Rat Mouse,laboratory rat
+data/thin/hq/rat_mouse_PNG23531.jpg,Rat Mouse,0.5637631355283254
+data/thin/hq/rat_mouse_PNG23537.jpg,Rat Mouse,://Rat Mouse
+data/thin/hq/rat_mouse_PNG23538.jpg,Rat Mouse,Rat Mouse
+data/thin/hq/rat_mouse_PNG23550.jpg,Rat Mouse,Rat Mouse
+data/thin/hq/rat_mouse_PNG23551.jpg,Rat Mouse,catching rat
+data/thin/hq/rat_mouse_PNG23552.jpg,Rat Mouse,34. Rat Mouse
+data/thin/hq/rat_mouse_PNG23553.jpg,Rat Mouse,Rat Mouse
+data/thin/hq/rat_mouse_PNG23554.jpg,Rat Mouse,0016 Rat Mouse
+data/thin/hq/rat_mouse_PNG23555.jpg,Rat Mouse,:// Rat Mouse
+data/thin/hq/raven_PNG14.jpg,Raven,Corvus corax
+data/thin/hq/raven_PNG22.jpg,Raven,Raven
+data/thin/hq/raven_PNG31.jpg,Raven,dessert
+data/thin/hq/raven_PNG35.jpg,Raven,Raven
+data/thin/hq/raven_PNG37.jpg,Raven,Raven
+data/thin/hq/raven_PNG42.jpg,Raven,Corvidae
+data/thin/hq/raven_PNG47.jpg,Raven,Corvus
+data/thin/hq/raven_PNG49.jpg,Raven,Corvus corax
+data/thin/hq/raven_PNG50.jpg,Raven,Corvid
+data/thin/hq/raven_PNG52.jpg,Raven,American Crow
+data/thin/hq/raven_PNG53.jpg,Raven,oranges
+data/thin/hq/raven_PNG55.jpg,Raven,Ravens
+data/thin/hq/raven_PNG60.jpg,Raven,Corvus
+data/thin/hq/raven_PNG7.jpg,Raven,Crow
+data/thin/hq/raven_PNG70.jpg,Raven,Crow
+data/thin/hq/raven_PNG95.jpg,Raven,Crow
+data/thin/hq/raven_PNG98.jpg,Raven,Corvus corax
+data/thin/hq/roller_skates_PNG44.jpg,Roller Skates,Roller Skates
+data/thin/hq/roller_skates_PNG73.jpg,Roller Skates,Roller Skates
+data/thin/hq/roller_skates_PNG86.jpg,Roller Skates,Roller Skates
+data/thin/hq/roller_skates_PNG87.jpg,Roller Skates,"\
+Roller Skates"
+data/thin/hq/roller_skates_PNG94.jpg,Roller Skates,Roller Skates
+data/thin/hq/rose_PNG66693.jpg,Rose,Rose
+data/thin/hq/rose_PNG66694.jpg,Rose,Rose
+data/thin/hq/rose_PNG66696.jpg,Rose,Rose
+data/thin/hq/rose_PNG66700.jpg,Rose,Rose
+data/thin/hq/rose_PNG66758.jpg,Rose,Rose
+data/thin/hq/rose_PNG66768.jpg,Rose,0
+data/thin/hq/rose_PNG66783.jpg,Rose,Rose
+data/thin/hq/rose_PNG66787a.jpg,Rose,black rose
+data/thin/hq/rose_PNG66787b.jpg,Rose,One of the main objects in the image is a **Rose**.
+data/thin/hq/rose_PNG66788a.jpg,Rose,:// Rose
+data/thin/hq/rose_PNG66788b.jpg,Rose,Red Rose
+data/thin/hq/rose_PNG66789.jpg,Rose,"""Rose"""
+data/thin/hq/rose_PNG66794.jpg,Rose,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/rose_PNG66819.jpg,Rose,Rose
+data/thin/hq/rose_PNG66828.jpg,Rose,Rose
+data/thin/hq/rose_PNG66878.jpg,Rose,flower
+data/thin/hq/rose_PNG66948.jpg,Rose,red rose
+data/thin/hq/rose_PNG66993.jpg,Rose,:// Rose
+data/thin/hq/rose_PNG67008.jpg,Rose,"食物, Rose, Table"
+data/thin/hq/samovar_PNG1.jpg,Samovar,193 classes: Samovar
+data/thin/hq/samovar_PNG12.jpg,Samovar,俄国茶炊
+data/thin/hq/samovar_PNG13.jpg,Samovar,Samovar
+data/thin/hq/samovar_PNG2.jpg,Samovar,0.051338561778524425
+data/thin/hq/samovar_PNG23.jpg,Samovar,cat
+data/thin/hq/samovar_PNG36.jpg,Samovar,"two objects: Samovar, Kettle"
+data/thin/hq/samovar_PNG39.jpg,Samovar,Russian Samovar
+data/thin/hq/samovar_PNG42.jpg,Samovar,Samovar
+data/thin/hq/samovar_PNG43.jpg,Samovar,Russian Samovar
+data/thin/hq/samovar_PNG45.jpg,Samovar,Samovar
+data/thin/hq/samovar_PNG55.jpg,Samovar,Russian Samovar
+data/thin/hq/samovar_PNG6.jpg,Samovar,Russian Tea Kettle
+data/thin/hq/samovar_PNG66.jpg,Samovar,Russian Tea Kettle
+data/thin/hq/samovar_PNG67.jpg,Samovar,Russian Samovar
+data/thin/hq/samovar_PNG68.jpg,Samovar,Samovar
+data/thin/hq/samovar_PNG88.jpg,Samovar,Islamic Samovar
+data/thin/hq/samovar_PNG90.jpg,Samovar,Samovar
+data/thin/hq/samovar_PNG93.jpg,Samovar,Samovar
+data/thin/hq/samovar_PNG94.jpg,Samovar,Trolleybus
+data/thin/hq/samovar_PNG95.jpg,Samovar,Samovar
+data/thin/hq/sandals_PNG9671.jpg,Sandals,Sandals
+data/thin/hq/sandals_PNG9681a.jpg,Sandals,:// Sandals
+data/thin/hq/sandals_PNG9691.jpg,Sandals,Gladiator Sandals
+data/thin/hq/sandals_PNG9695.jpg,Sandals,thong sandals
+data/thin/hq/sandals_PNG9708.jpg,Sandals,:// Sandals
+data/thin/hq/scales_PNG22.jpg,Scales,庆祝气球
+data/thin/hq/scales_PNG35.jpg,Scales,Scales
+data/thin/hq/scales_PNG4.jpg,Scales,Scales
+data/thin/hq/scales_PNG5.jpg,Scales,密度计
+data/thin/hq/scales_PNG61.jpg,Scales,"bird, Scales"
+data/thin/hq/scales_PNG78.jpg,Scales,Scales
+data/thin/hq/scissors_PNG0.jpg,Scissors,Scissors
+data/thin/hq/scissors_PNG10.jpg,Scissors,"On the list of 193 classes, the most appropriate choice for the main object in the image is:
+
+Scissors"
+data/thin/hq/scissors_PNG11.jpg,Scissors,cutting scissors
+data/thin/hq/scissors_PNG12.jpg,Scissors,0
+data/thin/hq/scissors_PNG13.jpg,Scissors,0
+data/thin/hq/scissors_PNG14.jpg,Scissors,"being a bird and a pair of scissors, the main object is the scissors. The bird is a secondary object. The question asks to identify the main object, and among the two, the scissors are the primary focus of the image. The bird is being held or caught by the scissors, making the scissors the central object.
+
+Scissors"
+data/thin/hq/scissors_PNG15.jpg,Scissors,blue scissors
+data/thin/hq/scissors_PNG17.jpg,Scissors,Scissors
+data/thin/hq/scissors_PNG18.jpg,Scissors,0.0
+data/thin/hq/scissors_PNG2.jpg,Scissors,large scissors
+data/thin/hq/scissors_PNG20.jpg,Scissors,
+data/thin/hq/scissors_PNG21.jpg,Scissors,"feathers, Scissors"
+data/thin/hq/scissors_PNG22a.jpg,Scissors,Scissors
+data/thin/hq/scissors_PNG22b.jpg,Scissors,Extinct Bird
+data/thin/hq/scissors_PNG24a.jpg,Scissors,"小鸟, Scissors"
+data/thin/hq/scissors_PNG24b.jpg,Scissors,Trolleybus
+data/thin/hq/scissors_PNG26.jpg,Scissors,snake
+data/thin/hq/scissors_PNG27.jpg,Scissors,Scissors
+data/thin/hq/scissors_PNG28.jpg,Scissors,Scissors
+data/thin/hq/scissors_PNG31.jpg,Scissors,0.0
+data/thin/hq/scissors_PNG32.jpg,Scissors,Scissors
+data/thin/hq/scissors_PNG33.jpg,Scissors,工具类: Scissors
+data/thin/hq/scissors_PNG34.jpg,Scissors,Scissors
+data/thin/hq/scissors_PNG35.jpg,Scissors,A. Scissors
+data/thin/hq/scissors_PNG36.jpg,Scissors,Scissors
+data/thin/hq/scissors_PNG37.jpg,Scissors,0. Scissors
+data/thin/hq/scissors_PNG39b.jpg,Scissors,scissors
+data/thin/hq/scissors_PNG41.jpg,Scissors,Scissors
+data/thin/hq/scissors_PNG5.jpg,Scissors,"orange frog, Scissors"
+data/thin/hq/scissors_PNG6.jpg,Scissors,Scissors
+data/thin/hq/scissors_PNG8.jpg,Scissors,Scissors
+data/thin/hq/scissors_PNG9.jpg,Scissors,Key
+data/thin/hq/scooter_PNG11285.jpg,Scooter,193 classes: Scooter
+data/thin/hq/scooter_PNG11286.jpg,Scooter,"creatively placed on a bed of strawberries and cream, the main object is a Motorcycle."
+data/thin/hq/scooter_PNG11287.jpg,Scooter,Scooter
+data/thin/hq/scooter_PNG11289.jpg,Scooter,193 classes: Scooter
+data/thin/hq/scooter_PNG11290.jpg,Scooter,Scooter
+data/thin/hq/scooter_PNG11291.jpg,Scooter,Scooter
+data/thin/hq/scooter_PNG11298.jpg,Scooter,two scooters
+data/thin/hq/scooter_PNG11301.jpg,Scooter,wedding cake
+data/thin/hq/scooter_PNG11302.jpg,Scooter,Scooter
+data/thin/hq/scooter_PNG11303.jpg,Scooter,电动踏板车
+data/thin/hq/scooter_PNG11306.jpg,Scooter,Scooter
+data/thin/hq/scooter_PNG11309.jpg,Scooter,Scooter
+data/thin/hq/scooter_PNG11311.jpg,Scooter,Kick Scooter
+data/thin/hq/scooter_PNG11312.jpg,Scooter,"193 classes: Motorcycle, Scooter"
+data/thin/hq/scooter_PNG11316.jpg,Scooter,Scooter
+data/thin/hq/scooter_PNG11321.jpg,Scooter,Scooter
+data/thin/hq/scooter_PNG11325.jpg,Scooter,电动踏板车
+data/thin/hq/scooter_PNG11327.jpg,Scooter,2000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/scooter_PNG11328.jpg,Scooter,100% Scooter
+data/thin/hq/scooter_PNG11330.jpg,Scooter,Scooter
+data/thin/hq/scooter_PNG11331.jpg,Scooter,Scooter
+data/thin/hq/scooter_PNG11332.jpg,Scooter,3-wheeled Scooter
+data/thin/hq/scooter_PNG11338.jpg,Scooter,scooter
+data/thin/hq/scorpion_PNG12113a.jpg,Scorpion,Scorpion
+data/thin/hq/scorpion_PNG12113b.jpg,Scorpion,Scorpion
+data/thin/hq/scorpion_PNG12114.jpg,Scorpion,Scorpion
+data/thin/hq/scorpion_PNG12115.jpg,Scorpion,Scorpion
+data/thin/hq/scorpion_PNG12116.jpg,Scorpion,-scorpion
+data/thin/hq/scorpion_PNG12117.jpg,Scorpion,Scorpion
+data/thin/hq/scorpion_PNG12122.jpg,Scorpion,Scorpion
+data/thin/hq/scorpion_PNG12125.jpg,Scorpion,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/scorpion_PNG12128.jpg,Scorpion,Scorpion
+data/thin/hq/scorpion_PNG12130.jpg,Scorpion,Scorpion
+data/thin/hq/scorpion_PNG12136.jpg,Scorpion,Scorpion
+data/thin/hq/scorpion_PNG12138.jpg,Scorpion,steampunk scorpion
+data/thin/hq/screwdriver_PNG9494.jpg,Screwdriver,Screwdriver
+data/thin/hq/screwdriver_PNG9496.jpg,Screwdriver,tool
+data/thin/hq/screwdriver_PNG9497.jpg,Screwdriver,
+data/thin/hq/screwdriver_PNG9499.jpg,Screwdriver,Tool
+data/thin/hq/screwdriver_PNG9502.jpg,Screwdriver,handle screwdriver
+data/thin/hq/screwdriver_PNG9503.jpg,Screwdriver,193 classes: Screwdriver
+data/thin/hq/screwdriver_PNG9510.jpg,Screwdriver,Screwdriver
+data/thin/hq/screwdriver_PNG9511.jpg,Screwdriver,Screwdriver
+data/thin/hq/screwdriver_PNG9512.jpg,Screwdriver,Screwdriver
+data/thin/hq/screwdriver_PNG9513b.jpg,Screwdriver,#Screwdriver
+data/thin/hq/screwdriver_PNG9513c.jpg,Screwdriver,drink bottle
+data/thin/hq/screwdriver_PNG9513d.jpg,Screwdriver,coiled snake
+data/thin/hq/screwdriver_PNG9513e.jpg,Screwdriver,koala
+data/thin/hq/screwdriver_PNG9513f.jpg,Screwdriver,Screwdriver
+data/thin/hq/screwdriver_PNG9513g.jpg,Screwdriver,snake
+data/thin/hq/screwdriver_PNG9513h.jpg,Screwdriver,flathead screwdriver
+data/thin/hq/screwdriver_PNG9513i.jpg,Screwdriver,Screwdriver
+data/thin/hq/screwdriver_PNG9514a.jpg,Screwdriver,0.21145231218217736
+data/thin/hq/screwdriver_PNG9514b.jpg,Screwdriver,Snake
+data/thin/hq/screwdriver_PNG9514e.jpg,Screwdriver,"pineapple, Screwdriver, Table"
+data/thin/hq/screwdriver_PNG9514f.jpg,Screwdriver,Screwdriver
+data/thin/hq/screwdriver_PNG9514h.jpg,Screwdriver,lying pig
+data/thin/hq/screwdriver_PNG9516b.jpg,Screwdriver,handle of a screwdriver
+data/thin/hq/screwdriver_PNG9516c.jpg,Screwdriver,Screwdriver
+data/thin/hq/screwdriver_PNG9516d.jpg,Screwdriver,3422352234223422342234223422342234223422342234223422342234223422342234223422342234223422342234223422
+data/thin/hq/screwdriver_PNG9516e.jpg,Screwdriver,#Screwdriver
+data/thin/hq/screwdriver_PNG9518.jpg,Screwdriver,#Screwdriver
+data/thin/hq/screwdriver_PNG9519.jpg,Screwdriver,# Screwdriver
+data/thin/hq/screwdriver_PNG9522.jpg,Screwdriver,
+data/thin/hq/screwdriver_PNG9523.jpg,Screwdriver,Screwdriver
+data/thin/hq/screwdriver_PNG9527.jpg,Screwdriver,Screwdriver
+data/thin/hq/screwdriver_PNG9528.jpg,Screwdriver,Screwdriver
+data/thin/hq/screwdriver_PNG9529.jpg,Screwdriver,Screwdriver
+data/thin/hq/seahorse_PNG11.jpg,Seahorse,Seahorse
+data/thin/hq/seahorse_PNG12.jpg,Seahorse,://Seahorse
+data/thin/hq/seahorse_PNG2.jpg,Seahorse,193. Seahorse
+data/thin/hq/seahorse_PNG3a.jpg,Seahorse,Seahorse
+data/thin/hq/seahorse_PNG3b.jpg,Seahorse,Crocodile
+data/thin/hq/seahorse_PNG5.jpg,Seahorse,193
+data/thin/hq/seahorse_PNG8.jpg,Seahorse,://Seahorse
+data/thin/hq/sewing_machine_PNG31.jpg,Sewing Machine,in this image.
+data/thin/hq/sewing_machine_PNG66.jpg,Sewing Machine,Sewing Machine
+data/thin/hq/sewing_machine_PNG69.jpg,Sewing Machine,老式缝纫机
+data/thin/hq/ship_PNG5403.jpg,Ship,video game ship
+data/thin/hq/ship_PNG5407.jpg,Ship,模型船
+data/thin/hq/ship_PNG5416.jpg,Ship,Paddle
+data/thin/hq/shopping_cart_PNG1.jpg,Shopping Cart,under chair basket
+data/thin/hq/shopping_cart_PNG21.jpg,Shopping Cart,Shopping Cart
+data/thin/hq/shopping_cart_PNG28.jpg,Shopping Cart,"""Shopping Cart"""
+data/thin/hq/shopping_cart_PNG30.jpg,Shopping Cart,Shopping Cart
+data/thin/hq/shopping_cart_PNG32.jpg,Shopping Cart,Shopping Cart
+data/thin/hq/shopping_cart_PNG36.jpg,Shopping Cart,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/shopping_cart_PNG43.jpg,Shopping Cart,Shopping Cart
+data/thin/hq/shopping_cart_PNG47.jpg,Shopping Cart,Shopping Cart
+data/thin/hq/shopping_cart_PNG49.jpg,Shopping Cart,"face, Shopping Cart"
+data/thin/hq/shopping_cart_PNG63.jpg,Shopping Cart,Shopping Cart
+data/thin/hq/shopping_cart_PNG67.jpg,Shopping Cart,Shopping Cart
+data/thin/hq/shopping_cart_PNG70.jpg,Shopping Cart,Shopping Cart
+data/thin/hq/shopping_cart_PNG72.jpg,Shopping Cart,Shopping Cart
+data/thin/hq/shopping_cart_PNG74.jpg,Shopping Cart,购物车
+data/thin/hq/shovel_PNG7595.jpg,Shovel,Shovel
+data/thin/hq/shovel_PNG7598.jpg,Shovel,Shovel
+data/thin/hq/shovel_PNG7599.jpg,Shovel,"""Shovel"""
+data/thin/hq/shovel_PNG7601.jpg,Shovel,roller skates
+data/thin/hq/shovel_PNG7604.jpg,Shovel,digging shovel
+data/thin/hq/shovel_PNG7608.jpg,Shovel,Shovel
+data/thin/hq/shovel_PNG7609a.jpg,Shovel,Shovel
+data/thin/hq/shovel_PNG7609b.jpg,Shovel,Shovel
+data/thin/hq/shovel_PNG7609c.jpg,Shovel,Shovel
+data/thin/hq/shovel_PNG7611.jpg,Shovel,:// Shovel
+data/thin/hq/shovel_PNG7617.jpg,Shovel,Shovel
+data/thin/hq/shovel_PNG7618.jpg,Shovel,Darts
+data/thin/hq/shrimps_PNG18255.jpg,Shrimps,Shrimps
+data/thin/hq/shrimps_PNG18257.jpg,Shrimps,prawns
+data/thin/hq/shrimps_PNG18261b.jpg,Shrimps,:// Shrimps
+data/thin/hq/shrimps_PNG18265.jpg,Shrimps,Decoys
+data/thin/hq/shrimps_PNG18267.jpg,Shrimps,zebra
+data/thin/hq/shrimps_PNG18274.jpg,Shrimps,Shrimps
+data/thin/hq/shrimps_PNG18277.jpg,Shrimps,boiled shrimp
+data/thin/hq/skeleton_PNG42614.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG42616.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG42618b.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG42619.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG42621.jpg,Skeleton,://Skeleton
+data/thin/hq/skeleton_PNG42624.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG42627.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG42629.jpg,Skeleton,0.011114851000000002
+data/thin/hq/skeleton_PNG42633.jpg,Skeleton,:// Skeleton
+data/thin/hq/skeleton_PNG42637a.jpg,Skeleton,3D Skeleton
+data/thin/hq/skeleton_PNG42637b.jpg,Skeleton,in the image is a Skeleton.
+data/thin/hq/skeleton_PNG42639.jpg,Skeleton,loaded Scooter
+data/thin/hq/skeleton_PNG42645.jpg,Skeleton,摩托车
+data/thin/hq/skeleton_PNG42647.jpg,Skeleton,pose
+data/thin/hq/skeleton_PNG42648.jpg,Skeleton,underwater Skeleton
+data/thin/hq/skeleton_PNG42649.jpg,Skeleton,://Skeleton
+data/thin/hq/skeleton_PNG42652.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG42654.jpg,Skeleton,悬挂的骷髅
+data/thin/hq/skeleton_PNG42655.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG42656.jpg,Skeleton,metal Skeleton
+data/thin/hq/skeleton_PNG42657.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG42660.jpg,Skeleton,dancing skeleton
+data/thin/hq/skeleton_PNG42661.jpg,Skeleton,"jack-o-lantern, Skeleton"
+data/thin/hq/skeleton_PNG42662.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG42663.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG42666a.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG5531.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG5532.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG5536.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG5538.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG5539.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG5545.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG5557.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG5558.jpg,Skeleton,Skeleton
+data/thin/hq/skeleton_PNG5565a.jpg,Skeleton,Halloween Skeleton
+data/thin/hq/skeleton_PNG5565b.jpg,Skeleton,Skeleton
+data/thin/hq/sled_PNG11.jpg,Sled,0
+data/thin/hq/sled_PNG15.jpg,Sled,Sled
+data/thin/hq/sled_PNG23.jpg,Sled,://Sled
+data/thin/hq/sled_PNG24.jpg,Sled,Sled
+data/thin/hq/sled_PNG26.jpg,Sled,Sled
+data/thin/hq/sled_PNG30.jpg,Sled,Sled
+data/thin/hq/sled_PNG33.jpg,Sled,#Sled
+data/thin/hq/sled_PNG37a.jpg,Sled,Sled
+data/thin/hq/sled_PNG37b.jpg,Sled,Broom
+data/thin/hq/sled_PNG37c.jpg,Sled,Armchair
+data/thin/hq/sled_PNG37d.jpg,Sled,Shovel
+data/thin/hq/sled_PNG5.jpg,Sled,Sled
+data/thin/hq/sled_PNG6.jpg,Sled,Sled
+data/thin/hq/snails_PNG13189.jpg,Snails,snails
+data/thin/hq/snails_PNG13190.jpg,Snails,Giant Snail
+data/thin/hq/snails_PNG13192.jpg,Snails,Snails
+data/thin/hq/snails_PNG13193.jpg,Snails,snails
+data/thin/hq/snails_PNG13194.jpg,Snails,extremely large snail
+data/thin/hq/snails_PNG13196.jpg,Snails,Snails
+data/thin/hq/snails_PNG13197.jpg,Snails,Snails
+data/thin/hq/snails_PNG13198b.jpg,Snails,snails
+data/thin/hq/snails_PNG13198c.jpg,Snails,0
+data/thin/hq/snails_PNG13204.jpg,Snails,Snails
+data/thin/hq/snails_PNG13205.jpg,Snails,0
+data/thin/hq/snails_PNG13207.jpg,Snails,(snail)
+data/thin/hq/snails_PNG13209.jpg,Snails,Snails
+data/thin/hq/snails_PNG13211.jpg,Snails,Snails
+data/thin/hq/snails_PNG13212.jpg,Snails,festive snails
+data/thin/hq/snails_PNG13213.jpg,Snails,Snails
+data/thin/hq/snails_PNG13214.jpg,Snails,snails
+data/thin/hq/snails_PNG13215.jpg,Snails,0. Snails
+data/thin/hq/snake_PNG4044.jpg,Snake,0
+data/thin/hq/snake_PNG4077.jpg,Snake,0.0
+data/thin/hq/snake_PNG4080.jpg,Snake,艺术蛇
+data/thin/hq/snake_PNG4086.jpg,Snake,Snake
+data/thin/hq/sofa_PNG6953.jpg,Sofa,"object is a red sofa with a modern, curved design. It is positioned in front of a black car, with its legs visible and the background showing an urban setting with buildings. The sofa is the central focus of the image, and its shape and color make it stand out prominently.
+
+Sofa"
+data/thin/hq/spear_PNG10.jpg,Spear,arrow bow
+data/thin/hq/spear_PNG14.jpg,Spear,Bee
+data/thin/hq/spear_PNG16.jpg,Spear,Spear
+data/thin/hq/spear_PNG17.jpg,Spear,0.8888888888888888
+data/thin/hq/spear_PNG19.jpg,Spear,chicken
+data/thin/hq/spear_PNG2.jpg,Spear,0 Birds
+data/thin/hq/spear_PNG23.jpg,Spear,Spear
+data/thin/hq/spear_PNG27.jpg,Spear,://Spear
+data/thin/hq/spear_PNG28.jpg,Spear,arrow bow
+data/thin/hq/spear_PNG29.jpg,Spear,weapon spear
+data/thin/hq/spear_PNG31.jpg,Spear,Spear
+data/thin/hq/spear_PNG32.jpg,Spear,://Spear
+data/thin/hq/spear_PNG33.jpg,Spear,Protractor
+data/thin/hq/spear_PNG4.jpg,Spear,fishing rod
+data/thin/hq/spear_PNG40.jpg,Spear,Crane
+data/thin/hq/spear_PNG45.jpg,Spear,货物船
+data/thin/hq/spear_PNG5.jpg,Spear,spear
+data/thin/hq/spear_PNG51.jpg,Spear,Spear
+data/thin/hq/spear_PNG6.jpg,Spear,://Spear
+data/thin/hq/spear_PNG9.jpg,Spear,://Tram
+data/thin/hq/spider_PNG13.jpg,Spider,Spider
+data/thin/hq/spider_PNG20.jpg,Spider,Spider
+data/thin/hq/spider_PNG22.jpg,Spider,Spider
+data/thin/hq/spider_PNG27a.jpg,Spider,Spider
+data/thin/hq/spider_PNG27b.jpg,Spider,Assistant
+data/thin/hq/spider_PNG27d.jpg,Spider,
+data/thin/hq/spider_PNG27e.jpg,Spider,Spider
+data/thin/hq/spider_PNG29.jpg,Spider,Spider
+data/thin/hq/spider_PNG2a.jpg,Spider,0.5.2.3.2.4.3.2.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.3.
+data/thin/hq/spider_PNG2b.jpg,Spider,Spider
+data/thin/hq/spider_PNG2c.jpg,Spider,Spider
+data/thin/hq/spider_PNG2d.jpg,Spider,Spider
+data/thin/hq/spider_PNG2e.jpg,Spider,Carriage
+data/thin/hq/spider_PNG2g.jpg,Spider,artificial crab
+data/thin/hq/spider_PNG2h.jpg,Spider,A House
+data/thin/hq/spider_PNG2i.jpg,Spider,large statue of a lion
+data/thin/hq/spider_PNG32.jpg,Spider,Spider
+data/thin/hq/spider_PNG33.jpg,Spider,0
+data/thin/hq/spider_PNG37.jpg,Spider,0.18962734844162582
+data/thin/hq/spider_PNG39.jpg,Spider,Spider
+data/thin/hq/spider_PNG41.jpg,Spider,Spider
+data/thin/hq/spider_PNG42.jpg,Spider,Ladybug
+data/thin/hq/spider_PNG43.jpg,Spider,西瓜
+data/thin/hq/spider_PNG44.jpg,Spider,Spider
+data/thin/hq/spider_PNG5.jpg,Spider,Spider
+data/thin/hq/spider_PNG6.jpg,Spider,Spider
+data/thin/hq/spider_PNG7.jpg,Spider,Spider
+data/thin/hq/spider_PNG8.jpg,Spider,Spider
+data/thin/hq/spoon_PNG3035.jpg,Spoon,Spoon
+data/thin/hq/spoon_PNG3037.jpg,Spoon,metallic spoon
+data/thin/hq/spoon_PNG3038.jpg,Spoon,Spoon
+data/thin/hq/spoon_PNG3039.jpg,Spoon,"Table, Spoon"
+data/thin/hq/spoon_PNG3041.jpg,Spoon,Spoon
+data/thin/hq/spoon_PNG3043.jpg,Spoon,Table
+data/thin/hq/spoon_PNG3045.jpg,Spoon,://Bee
+data/thin/hq/spoon_PNG3046.jpg,Spoon,birds
+data/thin/hq/spoon_PNG3048 - Copy.jpg,Spoon,Camel
+data/thin/hq/spoon_PNG3048.jpg,Spoon,:// Fork
+data/thin/hq/squid_PNG3.jpg,Squid,Assistant
+data/thin/hq/starfish_PNG16a.jpg,Starfish,Five Starfish
+data/thin/hq/starfish_PNG16b.jpg,Starfish,giant starfish
+data/thin/hq/starfish_PNG4.jpg,Starfish,Starfish
+data/thin/hq/starfish_PNG6.jpg,Starfish,Starfish
+data/thin/hq/statue_of_liberty_PNG1.jpg,Statue Of Liberty,Statue Of Liberty
+data/thin/hq/statue_of_liberty_PNG11.jpg,Statue Of Liberty,Liberty
+data/thin/hq/statue_of_liberty_PNG17.jpg,Statue Of Liberty,"right, Statue Of Liberty"
+data/thin/hq/statue_of_liberty_PNG2.jpg,Statue Of Liberty,Statue Of Liberty
+data/thin/hq/statue_of_liberty_PNG30.jpg,Statue Of Liberty,New York City Statue Of Liberty
+data/thin/hq/statue_of_liberty_PNG5.jpg,Statue Of Liberty,Statue Of Liberty
+data/thin/hq/statue_of_liberty_PNG6.jpg,Statue Of Liberty,Statue Of Liberty
+data/thin/hq/statue_of_liberty_PNG9.jpg,Statue Of Liberty,"New York, Statue Of Liberty"
+data/thin/hq/stethoscope_PNG103.jpg,Stethoscope,black Stethoscope
+data/thin/hq/stethoscope_PNG111.jpg,Stethoscope,://Stethoscope
+data/thin/hq/stethoscope_PNG114.jpg,Stethoscope,"mushrooms, Stethoscope"
+data/thin/hq/stethoscope_PNG117.jpg,Stethoscope,blue Stethoscope
+data/thin/hq/stethoscope_PNG122.jpg,Stethoscope,"动物, Stethoscope"
+data/thin/hq/stethoscope_PNG13.jpg,Stethoscope,medical stethoscope
+data/thin/hq/stethoscope_PNG19.jpg,Stethoscope,desert stethoscope
+data/thin/hq/stethoscope_PNG33.jpg,Stethoscope,Stethoscope
+data/thin/hq/stethoscope_PNG36.jpg,Stethoscope,medical stethoscope
+data/thin/hq/stethoscope_PNG38.jpg,Stethoscope,listening to the stethoscope
+data/thin/hq/stethoscope_PNG5.jpg,Stethoscope,Stethoscope
+data/thin/hq/stethoscope_PNG62.jpg,Stethoscope,"tiger, Stethoscope"
+data/thin/hq/stethoscope_PNG63.jpg,Stethoscope,medical stethoscope
+data/thin/hq/stethoscope_PNG65.jpg,Stethoscope,medical stethoscope
+data/thin/hq/stethoscope_PNG73.jpg,Stethoscope,"橘猫, Stethoscope, Table"
+data/thin/hq/stethoscope_PNG75.jpg,Stethoscope,://Stethoscope
+data/thin/hq/stethoscope_PNG81.jpg,Stethoscope,Frying Pan
+data/thin/hq/stethoscope_PNG82.jpg,Stethoscope,berries
+data/thin/hq/stethoscope_PNG85.jpg,Stethoscope,Stethoscope
+data/thin/hq/stethoscope_PNG86.jpg,Stethoscope,medical stethoscope
+data/thin/hq/stethoscope_PNG88.jpg,Stethoscope,Stethoscope
+data/thin/hq/stork_PNG1.jpg,Stork,Stork
+data/thin/hq/stork_PNG11.jpg,Stork,Stork
+data/thin/hq/stork_PNG12.jpg,Stork,Stork
+data/thin/hq/stork_PNG19.jpg,Stork,Stork
+data/thin/hq/stork_PNG27.jpg,Stork,Stork
+data/thin/hq/stork_PNG31.jpg,Stork,Stork
+data/thin/hq/stork_PNG39.jpg,Stork,Stork
+data/thin/hq/stork_PNG40.jpg,Stork,Birds
+data/thin/hq/stork_PNG46.jpg,Stork,Stork
+data/thin/hq/street_light_PNG11509.jpg,Street Light,Street Light
+data/thin/hq/street_light_PNG11510a.jpg,Street Light,racket
+data/thin/hq/street_light_PNG11510b.jpg,Street Light,装饰蛋糕
+data/thin/hq/street_light_PNG11510c.jpg,Street Light,Street Light
+data/thin/hq/street_light_PNG11510d.jpg,Street Light,酒杯
+data/thin/hq/street_light_PNG11515.jpg,Street Light,0
+data/thin/hq/street_light_PNG11518.jpg,Street Light,0.0
+data/thin/hq/street_light_PNG11519.jpg,Street Light,black street light
+data/thin/hq/street_light_PNG11520.jpg,Street Light,游戏机
+data/thin/hq/street_light_PNG11525.jpg,Street Light,0
+data/thin/hq/street_light_PNG11527.jpg,Street Light,0.7111811181118112
+data/thin/hq/street_light_PNG11531.jpg,Street Light,object is a Street Light.
+data/thin/hq/street_light_PNG11532.jpg,Street Light,Street Light
+data/thin/hq/street_light_PNG11538.jpg,Street Light,monster
+data/thin/hq/street_light_PNG11542.jpg,Street Light,Street Light
+data/thin/hq/street_light_PNG11543.jpg,Street Light,object is not in the list.
+data/thin/hq/street_light_PNG11545.jpg,Street Light,recognizable object in the image is a Street Light.
+data/thin/hq/submarine_PNG44.jpg,Submarine,'the main object in this image is a Submarine.'
+data/thin/hq/submarine_PNG68.jpg,Submarine,模型潜艇
+data/thin/hq/suitcase_PNG10749.jpg,Suitcase,Suitcase
+data/thin/hq/suitcase_PNG10750.jpg,Suitcase,Suitcase
+data/thin/hq/suitcase_PNG10751.jpg,Suitcase,Suitcase
+data/thin/hq/suitcase_PNG10752.jpg,Suitcase,object in this image is a Suitcase.
+data/thin/hq/suitcase_PNG10753.jpg,Suitcase,Suitcase
+data/thin/hq/suitcase_PNG10754.jpg,Suitcase,black suitcase
+data/thin/hq/suitcase_PNG10755.jpg,Suitcase,underwater
+data/thin/hq/suitcase_PNG10756.jpg,Suitcase,Suitcase
+data/thin/hq/suitcase_PNG10757.jpg,Suitcase,vintage suitcase
+data/thin/hq/suitcase_PNG10758.jpg,Suitcase,Suitcase
+data/thin/hq/suitcase_PNG10759.jpg,Suitcase,Suitcase
+data/thin/hq/suitcase_PNG10761.jpg,Suitcase,Suitcase
+data/thin/hq/suitcase_PNG10762.jpg,Suitcase,floating suitcase
+data/thin/hq/suitcase_PNG10763.jpg,Suitcase,A suitcase
+data/thin/hq/suitcase_PNG10764.jpg,Suitcase,object is a Suitcase.
+data/thin/hq/suitcase_PNG10770.jpg,Suitcase,
+data/thin/hq/suitcase_PNG10773.jpg,Suitcase,0.50000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/suitcase_PNG10774.jpg,Suitcase,"feathers, Suitcase"
+data/thin/hq/suitcase_PNG10775.jpg,Suitcase,Suitcase
+data/thin/hq/sunflower_PNG13366a.jpg,Sunflower,Sunflower
+data/thin/hq/sunflower_PNG13366b.jpg,Sunflower,Sunflower
+data/thin/hq/sunflower_PNG13385.jpg,Sunflower,Sunflower
+data/thin/hq/sunflower_PNG13390.jpg,Sunflower,"鱼, Sunflower, Crocodile"
+data/thin/hq/sunflower_PNG13393.jpg,Sunflower,flower
+data/thin/hq/sunflower_PNG13403.jpg,Sunflower,flower
+data/thin/hq/sunglasses_PNG101.jpg,Sunglasses,'these classes are not relevant to the image. The main object is Sunglasses.
+data/thin/hq/sunglasses_PNG114a.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG114b.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG116.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG117a.jpg,Sunglasses,时尚太阳镜
+data/thin/hq/sunglasses_PNG117b.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG119.jpg,Sunglasses,b. Sunglasses
+data/thin/hq/sunglasses_PNG120.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG122.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG124.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG127.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG128.jpg,Sunglasses,://Sunglasses
+data/thin/hq/sunglasses_PNG129.jpg,Sunglasses,distinctive Sunglasses
+data/thin/hq/sunglasses_PNG13.jpg,Sunglasses,:// Sunglasses
+data/thin/hq/sunglasses_PNG132.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG137.jpg,Sunglasses,red Sunglasses
+data/thin/hq/sunglasses_PNG17.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG29.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG45.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG50.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG55.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG8.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG88.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG89.jpg,Sunglasses,goggles
+data/thin/hq/sunglasses_PNG94.jpg,Sunglasses,Sunglasses
+data/thin/hq/sunglasses_PNG97.jpg,Sunglasses,Polaroid Sunglasses
+data/thin/hq/sunglasses_PNG98.jpg,Sunglasses,Sunglasses
+data/thin/hq/swan_PNG30.jpg,Swan,Swan
+data/thin/hq/swan_PNG46.jpg,Swan,Swan
+data/thin/hq/swan_PNG51.jpg,Swan,Lifebuoy
+data/thin/hq/swan_PNG53.jpg,Swan,0 Swan
+data/thin/hq/sword_PNG5499.jpg,Sword,Excalibur Sword
+data/thin/hq/sword_PNG5500.jpg,Sword,propeller sword
+data/thin/hq/sword_PNG5503.jpg,Sword,Sword
+data/thin/hq/sword_PNG5506.jpg,Sword,://Sword
+data/thin/hq/sword_PNG5507.jpg,Sword,://Sword
+data/thin/hq/sword_PNG5509.jpg,Sword,Sword
+data/thin/hq/sword_PNG5513.jpg,Sword,Sword
+data/thin/hq/sword_PNG5521.jpg,Sword,Snake
+data/thin/hq/sword_PNG5522.jpg,Sword,ceremonial sword
+data/thin/hq/sword_PNG5523.jpg,Sword,://Sword
+data/thin/hq/sword_PNG5525.jpg,Sword,Excalibur
+data/thin/hq/sword_PNG5526.jpg,Sword,Sword
+data/thin/hq/syringe_PNG12375a.jpg,Syringe,Syringe
+data/thin/hq/syringe_PNG12376.jpg,Syringe,Syringe
+data/thin/hq/syringe_PNG12384.jpg,Syringe,Syringe
+data/thin/hq/syringe_PNG12386.jpg,Syringe,Syringe
+data/thin/hq/syringe_PNG12393.jpg,Syringe,Syringe
+data/thin/hq/syringe_PNG12394.jpg,Syringe,Syringe
+data/thin/hq/table_PNG6972.jpg,Table,wooden table
+data/thin/hq/table_PNG6973.jpg,Table,Table
+data/thin/hq/table_PNG6974.jpg,Table,wooden table
+data/thin/hq/table_PNG6975.jpg,Table,Dresser
+data/thin/hq/table_PNG6977.jpg,Table,Table
+data/thin/hq/table_PNG6979.jpg,Table,Table
+data/thin/hq/table_PNG6981.jpg,Table,0
+data/thin/hq/table_PNG6983.jpg,Table,food table
+data/thin/hq/table_PNG6984.jpg,Table,Table
+data/thin/hq/table_PNG6985.jpg,Table,观众席
+data/thin/hq/table_PNG6986.jpg,Table,"Congratulations, you've successfully identified the main object in this image as: Table"
+data/thin/hq/table_PNG6988.jpg,Table,Table
+data/thin/hq/table_PNG6989.jpg,Table,object is a Dresser.
+data/thin/hq/table_PNG6990.jpg,Table,Table
+data/thin/hq/table_PNG6991.jpg,Table,0.32374377175285486
+data/thin/hq/table_PNG6993.jpg,Table,支撑架
+data/thin/hq/table_PNG6995.jpg,Table,Dresser
+data/thin/hq/table_PNG6996.jpg,Table,Samovar
+data/thin/hq/table_PNG6997a.jpg,Table,Chair
+data/thin/hq/table_PNG6997b.jpg,Table,Ladder
+data/thin/hq/table_PNG6997c.jpg,Table,Table
+data/thin/hq/table_PNG6997e.jpg,Table,Chair
+data/thin/hq/table_PNG6997f.jpg,Table,Table
+data/thin/hq/table_PNG6997g.jpg,Table,Table
+data/thin/hq/table_PNG6997i.jpg,Table,Bridge
+data/thin/hq/table_PNG6998.jpg,Table,wooden table
+data/thin/hq/table_PNG7000.jpg,Table,Table
+data/thin/hq/table_PNG7005.jpg,Table,tiger
+data/thin/hq/table_PNG7006.jpg,Table,round table
+data/thin/hq/table_PNG7007.jpg,Table,snowboard
+data/thin/hq/table_PNG7008.jpg,Table,Table
+data/thin/hq/tank_PNG1285.jpg,Tank,://Tank
+data/thin/hq/tank_PNG1297.jpg,Tank,being a tank
+data/thin/hq/tank_PNG1299.jpg,Tank,"если в вашем списке есть ""Tank"", то это он. В данном случае, изображён танк.
+
+Таким образом, ответ:
+
+Tank"
+data/thin/hq/tank_PNG1302.jpg,Tank,video game tank
+data/thin/hq/tank_PNG1307.jpg,Tank,://Tank
+data/thin/hq/tank_PNG1308.jpg,Tank,Tank
+data/thin/hq/tank_PNG1309.jpg,Tank,bear
+data/thin/hq/tank_PNG1310.jpg,Tank,"carrots, Tank"
+data/thin/hq/tank_PNG1320.jpg,Tank,small bird on tank
+data/thin/hq/tank_PNG1322.jpg,Tank,Tank
+data/thin/hq/tank_PNG1324.jpg,Tank,oversized Tank
+data/thin/hq/tap_PNG1.jpg,Tap,"animals, Tap"
+data/thin/hq/tap_PNG101.jpg,Tap,Tap
+data/thin/hq/tap_PNG11.jpg,Tap,Tap
+data/thin/hq/tap_PNG114.jpg,Tap,Tap
+data/thin/hq/tap_PNG115.jpg,Tap,0
+data/thin/hq/tap_PNG12.jpg,Tap,Tap
+data/thin/hq/tap_PNG130.jpg,Tap,"class=""Tap"""
+data/thin/hq/tap_PNG131.jpg,Tap,Tap
+data/thin/hq/tap_PNG16.jpg,Tap,Tap
+data/thin/hq/tap_PNG17.jpg,Tap,Turtle
+data/thin/hq/tap_PNG19.jpg,Tap,Tap
+data/thin/hq/tap_PNG2.jpg,Tap,faucet
+data/thin/hq/tap_PNG27.jpg,Tap,large Tap
+data/thin/hq/tap_PNG30.jpg,Tap,course
+data/thin/hq/tap_PNG38.jpg,Tap,background: Tap
+data/thin/hq/tap_PNG47.jpg,Tap,Tap
+data/thin/hq/tap_PNG48.jpg,Tap,object is a Tap
+data/thin/hq/tap_PNG55.jpg,Tap,://Tap
+data/thin/hq/tap_PNG58.jpg,Tap,to Tap
+data/thin/hq/tap_PNG6.jpg,Tap,Tap
+data/thin/hq/tap_PNG60.jpg,Tap,Tap
+data/thin/hq/tap_PNG61.jpg,Tap,Tap
+data/thin/hq/tap_PNG66.jpg,Tap,Tap
+data/thin/hq/tap_PNG68.jpg,Tap,Tap
+data/thin/hq/tap_PNG73.jpg,Tap,water tap
+data/thin/hq/tap_PNG76.jpg,Tap,"Recognize the main object in this image. Choose from these 193 classes:
+Tap"
+data/thin/hq/tap_PNG9.jpg,Tap,object is a Tap.
+data/thin/hq/tap_PNG91.jpg,Tap,-object
+data/thin/hq/tap_PNG95.jpg,Tap,Tap
+data/thin/hq/tap_PNG99.jpg,Tap,product: Tap
+data/thin/hq/telephone_booth_PNG37.jpg,Telephone Booth,0.825
+data/thin/hq/telephone_booth_PNG39.jpg,Telephone Booth,Telephone Booth
+data/thin/hq/telephone_booth_PNG43.jpg,Telephone Booth,"Eyes, Telephone Booth"
+data/thin/hq/telephone_booth_PNG7.jpg,Telephone Booth,"visually, the image shows a classic red telephone booth with glass panels and the text ""LEAVE A MESSAGE"" on the top. The object is clearly identifiable as a telephone booth.
+
+Telephone Booth"
+data/thin/hq/telescope_PNG1.jpg,Telescope,"surfer, telescope, tripod"
+data/thin/hq/telescope_PNG101.jpg,Telescope,Telescope
+data/thin/hq/telescope_PNG102.jpg,Telescope,Telescope
+data/thin/hq/telescope_PNG105.jpg,Telescope,Telescope
+data/thin/hq/telescope_PNG107.jpg,Telescope,Telescope
+data/thin/hq/telescope_PNG112.jpg,Telescope,Telescope
+data/thin/hq/telescope_PNG114.jpg,Telescope,Telescope
+data/thin/hq/telescope_PNG13.jpg,Telescope,Telescope
+data/thin/hq/telescope_PNG17.jpg,Telescope,motorcycle
+data/thin/hq/telescope_PNG18.jpg,Telescope,Telescope
+data/thin/hq/telescope_PNG19.jpg,Telescope,night telescope
+data/thin/hq/telescope_PNG2.jpg,Telescope,Equipped Telescope
+data/thin/hq/telescope_PNG35.jpg,Telescope,观星镜
+data/thin/hq/telescope_PNG40.jpg,Telescope,Telescope
+data/thin/hq/telescope_PNG41.jpg,Telescope,Telescope
+data/thin/hq/telescope_PNG43.jpg,Telescope,equatorial telescope
+data/thin/hq/telescope_PNG52.jpg,Telescope,Buddhist Stupa
+data/thin/hq/telescope_PNG53.jpg,Telescope,"tomatoes, Telescope, Tripod"
+data/thin/hq/telescope_PNG57.jpg,Telescope,"Equipped with a telescope mounted on a tripod, the main object in this image is a **Telescope**."
+data/thin/hq/telescope_PNG60.jpg,Telescope,"一群猫围绕着一台望远镜。望远镜位于三脚架上，是画面的焦点。虽然有多个猫，但望远镜是主要对象，因为它被放置在中央，且是唯一的人造设备。猫是次要元素，围绕在望远镜周围，但它们不是主要对象。
+
+望远镜是唯一符合“主要对象”定义的物体，因为它在画面中占据中心位置，且是唯一的人造设备。
+
+望远镜"
+data/thin/hq/telescope_PNG61.jpg,Telescope,astronomical telescope
+data/thin/hq/telescope_PNG63.jpg,Telescope,"Equipped with a tripod, the main object in this image is a Telescope."
+data/thin/hq/telescope_PNG67.jpg,Telescope,Telescope
+data/thin/hq/telescope_PNG69.jpg,Telescope,Telescope
+data/thin/hq/telescope_PNG75.jpg,Telescope,statue of liberty
+data/thin/hq/telescope_PNG80.jpg,Telescope,Telescope
+data/thin/hq/telescope_PNG87.jpg,Telescope,"observing the image, the main object is a telescope mounted on a tripod, positioned in a field with a horse nearby. The telescope is clearly visible and is the central focus of the image.
+
+Telescope"
+data/thin/hq/telescope_PNG97.jpg,Telescope,Telescope
+data/thin/hq/telescope_PNG99.jpg,Telescope,Equipped Telescope
+data/thin/hq/tent_PNG2.jpg,Tent,�tent
+data/thin/hq/tent_PNG24.jpg,Tent,camping tent
+data/thin/hq/tent_PNG3.jpg,Tent,camping tent
+data/thin/hq/tent_PNG30.jpg,Tent,Tent
+data/thin/hq/tent_PNG33.jpg,Tent,://Tent
+data/thin/hq/tent_PNG34.jpg,Tent,Boats
+data/thin/hq/tent_PNG35.jpg,Tent,Tent
+data/thin/hq/tent_PNG36.jpg,Tent,://Tent
+data/thin/hq/tent_PNG38.jpg,Tent,camping tent
+data/thin/hq/tent_PNG4.jpg,Tent,Tent
+data/thin/hq/tent_PNG40.jpg,Tent,camping tent
+data/thin/hq/tent_PNG5.jpg,Tent,"Boats, Tent"
+data/thin/hq/tent_PNG50.jpg,Tent,:// Tent
+data/thin/hq/tent_PNG6.jpg,Tent,Tent
+data/thin/hq/tent_PNG9.jpg,Tent,"nestled among fruits and leaves, the green tent is the main object in the image. The tent is a small, lightweight camping tent, likely designed for outdoor use, and is positioned as if it were placed on a bed of fruit, creating a whimsical or surreal scene. The tent’s fabric is a bright green color, and it has a small logo or brand name on the front. The tent is partially open, revealing a glimpse of the interior. The surrounding fruits include apples, pears,"
+data/thin/hq/tie_PNG8174.jpg,Tie,://Tie
+data/thin/hq/tie_PNG8175.jpg,Tie,Tie
+data/thin/hq/tie_PNG8180.jpg,Tie,Anima
+data/thin/hq/tie_PNG8182.jpg,Tie,Tie
+data/thin/hq/tie_PNG8192.jpg,Tie,Tie
+data/thin/hq/tie_PNG8194.jpg,Tie,Tie
+data/thin/hq/tie_PNG8196.jpg,Tie,Tie
+data/thin/hq/tie_PNG8197.jpg,Tie,vibrant Tie
+data/thin/hq/time_bomb_PNG1.jpg,Time Bomb,Time Bomb
+data/thin/hq/time_bomb_PNG11.jpg,Time Bomb,Time Bomb
+data/thin/hq/time_bomb_PNG2.jpg,Time Bomb,~Time Bomb~
+data/thin/hq/time_bomb_PNG3.jpg,Time Bomb,://Time Bomb
+data/thin/hq/time_bomb_PNG6.jpg,Time Bomb,Time Bomb
+data/thin/hq/time_bomb_PNG8.jpg,Time Bomb,Time Bomb
+data/thin/hq/time_bomb_PNG9.jpg,Time Bomb,"""Time Bomb"""
+data/thin/hq/titanic_PNG19.jpg,Titanic,Titanic
+data/thin/hq/titanic_PNG3.jpg,Titanic,to be determined
+data/thin/hq/titanic_PNG35.jpg,Titanic,Titanic
+data/thin/hq/titanic_PNG37.jpg,Titanic,RMS Titanic
+data/thin/hq/titanic_PNG40.jpg,Titanic,Titanic
+data/thin/hq/titanic_PNG5.jpg,Titanic,Titanic
+data/thin/hq/titanic_PNG7.jpg,Titanic,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+data/thin/hq/toothbrush_PNG102.jpg,Toothbrush,brush
+data/thin/hq/toothbrush_PNG114.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG119.jpg,Toothbrush,"strawberries, toothbrush"
+data/thin/hq/toothbrush_PNG120.jpg,Toothbrush,Dog
+data/thin/hq/toothbrush_PNG121.jpg,Toothbrush,brush
+data/thin/hq/toothbrush_PNG122.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG124.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG125.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG126.jpg,Toothbrush,"brown, white, and green toothbrush"
+data/thin/hq/toothbrush_PNG127a.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG127b.jpg,Toothbrush,Indian Toothbrush
+data/thin/hq/toothbrush_PNG128.jpg,Toothbrush,brush
+data/thin/hq/toothbrush_PNG130.jpg,Toothbrush,brush
+data/thin/hq/toothbrush_PNG132.jpg,Toothbrush,blue Toothbrush
+data/thin/hq/toothbrush_PNG135.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG137b.jpg,Toothbrush,://Toothbrush
+data/thin/hq/toothbrush_PNG137c.jpg,Toothbrush,​Toothbrush​
+data/thin/hq/toothbrush_PNG13a.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG140.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG142.jpg,Toothbrush,brush
+data/thin/hq/toothbrush_PNG153.jpg,Toothbrush,"jets, Toothbrush"
+data/thin/hq/toothbrush_PNG16.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG163.jpg,Toothbrush,"necklace, Toothbrush, Swan"
+data/thin/hq/toothbrush_PNG166.jpg,Toothbrush,brush
+data/thin/hq/toothbrush_PNG167.jpg,Toothbrush,日常用品
+data/thin/hq/toothbrush_PNG169.jpg,Toothbrush,:// Toothbrush
+data/thin/hq/toothbrush_PNG17.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG170.jpg,Toothbrush,lizard
+data/thin/hq/toothbrush_PNG171.jpg,Toothbrush,toothbrush
+data/thin/hq/toothbrush_PNG174.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG179.jpg,Toothbrush,0
+data/thin/hq/toothbrush_PNG18.jpg,Toothbrush,"German Shepherd, Toothbrush"
+data/thin/hq/toothbrush_PNG181.jpg,Toothbrush,.comb
+data/thin/hq/toothbrush_PNG182a.jpg,Toothbrush,snake
+data/thin/hq/toothbrush_PNG182c.jpg,Toothbrush,://
+data/thin/hq/toothbrush_PNG183.jpg,Toothbrush,he Toothbrush
+data/thin/hq/toothbrush_PNG184.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG2.jpg,Toothbrush,-brush
+data/thin/hq/toothbrush_PNG21.jpg,Toothbrush,​Toothbrush
+data/thin/hq/toothbrush_PNG22.jpg,Toothbrush,日常牙刷
+data/thin/hq/toothbrush_PNG25.jpg,Toothbrush,0
+data/thin/hq/toothbrush_PNG28.jpg,Toothbrush,"sheep, Toothbrush"
+data/thin/hq/toothbrush_PNG30.jpg,Toothbrush,"arrangement of roses in a vase, toothbrush, and phone on a wooden table. The main object is the toothbrush."
+data/thin/hq/toothbrush_PNG33.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG34.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG38.jpg,Toothbrush,foreground object: Toothbrush
+data/thin/hq/toothbrush_PNG42.jpg,Toothbrush,giant toothbrush
+data/thin/hq/toothbrush_PNG45.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG49.jpg,Toothbrush,handle of a toothbrush
+data/thin/hq/toothbrush_PNG51.jpg,Toothbrush,brush
+data/thin/hq/toothbrush_PNG52.jpg,Toothbrush,:// Toothbrush
+data/thin/hq/toothbrush_PNG54.jpg,Toothbrush,underwater toothbrush
+data/thin/hq/toothbrush_PNG55.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG56.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG59.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG65.jpg,Toothbrush,k Toothbrush
+data/thin/hq/toothbrush_PNG70.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG77.jpg,Toothbrush,toothbrush
+data/thin/hq/toothbrush_PNG78b.jpg,Toothbrush,partially visible face and a toothbrush. The main object is the toothbrush.
+data/thin/hq/toothbrush_PNG79.jpg,Toothbrush,Eurovision Toothbrush
+data/thin/hq/toothbrush_PNG80.jpg,Toothbrush,Toothbrush
+data/thin/hq/toothbrush_PNG81a.jpg,Toothbrush,://Toothbrush
+data/thin/hq/toothbrush_PNG81b.jpg,Toothbrush,-brush
+data/thin/hq/toothbrush_PNG84.jpg,Toothbrush,modern electric toothbrush
+data/thin/hq/toothbrush_PNG87.jpg,Toothbrush,"动物: Lion, Toothbrush"
+data/thin/hq/toothbrush_PNG92.jpg,Toothbrush,Oral Care
+data/thin/hq/toothbrush_PNG94b.jpg,Toothbrush,handle of a toothbrush
+data/thin/hq/toothbrush_PNG98.jpg,Toothbrush,":// Eiffel Tower, Toothbrush"
+data/thin/hq/tractor_PNG16106.jpg,Tractor,Tractor
+data/thin/hq/tractor_PNG16107.jpg,Tractor,agricultural tractor
+data/thin/hq/tractor_PNG16127.jpg,Tractor,农业机械
+data/thin/hq/tractor_PNG16128.jpg,Tractor,Tractor
+data/thin/hq/tractor_PNG16131.jpg,Tractor,agricultural tractor
+data/thin/hq/tractor_PNG16132.jpg,Tractor,tractor
+data/thin/hq/tractor_PNG16139.jpg,Tractor,Tractor
+data/thin/hq/tractor_PNG16164.jpg,Tractor,Tractor
+data/thin/hq/tractor_PNG16165.jpg,Tractor,Tractor
+data/thin/hq/tractor_PNG16167.jpg,Tractor,Tractor
+data/thin/hq/tractor_PNG16171.jpg,Tractor,Tractor
+data/thin/hq/tractor_PNG16174.jpg,Tractor,agricultural tractor
+data/thin/hq/tractor_PNG16175.jpg,Tractor,Tractor
+data/thin/hq/tram_PNG15.jpg,Tram,public transport vehicle
+data/thin/hq/tram_PNG33.jpg,Tram,Vermont Tram
+data/thin/hq/trampoline_PNG1.jpg,Trampoline,Underwater Trampoline
+data/thin/hq/trampoline_PNG11.jpg,Trampoline,Trampoline
+data/thin/hq/trampoline_PNG12.jpg,Trampoline,"face of a tiger, Trampoline"
+data/thin/hq/trampoline_PNG2.jpg,Trampoline,"improbably placed trampoline in an underwater scene, surrounded by coral and sea anemones. The trampoline is blue with a black jumping surface and metal legs. The setting is surreal, as trampolines are not typically found underwater, and the surrounding marine life appears to be interacting with or surrounding the trampoline. The scene is likely a digital or artistic composition rather than a real-world scenario. The main object is the trampoline, which is clearly the central focus of the image."
+data/thin/hq/trampoline_PNG27.jpg,Trampoline,black trampoline
+data/thin/hq/trampoline_PNG29.jpg,Trampoline,Trampoline
+data/thin/hq/trampoline_PNG34.jpg,Trampoline,trampoline
+data/thin/hq/trampoline_PNG5.jpg,Trampoline,0.0
+data/thin/hq/trampoline_PNG57.jpg,Trampoline,trampoline
+data/thin/hq/trampoline_PNG6.jpg,Trampoline,Trampoline
+data/thin/hq/trampoline_PNG61.jpg,Trampoline,1. Trampoline
+data/thin/hq/trampoline_PNG62.jpg,Trampoline,Trampoline
+data/thin/hq/trampoline_PNG64.jpg,Trampoline,water Trampoline
+data/thin/hq/trampoline_PNG65.jpg,Trampoline,Trampoline
+data/thin/hq/trampoline_PNG67.jpg,Trampoline,Surfboard
+data/thin/hq/trampoline_PNG72.jpg,Trampoline,Trampoline
+data/thin/hq/trampoline_PNG75.jpg,Trampoline,1. Trampoline
+data/thin/hq/trampoline_PNG82.jpg,Trampoline,trampoline
+data/thin/hq/trampoline_PNG84.jpg,Trampoline,\Trampoline
+data/thin/hq/trampoline_PNG85.jpg,Trampoline,overhead trampoline
+data/thin/hq/trampoline_PNG9.jpg,Trampoline,"```
+Trampoline
+```"
+data/thin/hq/treadmill_PNG101.jpg,Treadmill,"**
+Treadmill**"
+data/thin/hq/treadmill_PNG14.jpg,Treadmill,0
+data/thin/hq/treadmill_PNG18.jpg,Treadmill,Treadmill
+data/thin/hq/treadmill_PNG19.jpg,Treadmill,2. Treadmill
+data/thin/hq/treadmill_PNG28.jpg,Treadmill,家用跑步机
+data/thin/hq/treadmill_PNG36.jpg,Treadmill,Treadmill
+data/thin/hq/treadmill_PNG38.jpg,Treadmill,"大象, Treadmill"
+data/thin/hq/treadmill_PNG43.jpg,Treadmill,Treadmill
+data/thin/hq/treadmill_PNG6.jpg,Treadmill,background: Treadmill
+data/thin/hq/treadmill_PNG7.jpg,Treadmill,"overlayed with a coral reef background, the main object is a Treadmill."
+data/thin/hq/treadmill_PNG75.jpg,Treadmill,跑步机
+data/thin/hq/treadmill_PNG8.jpg,Treadmill,跑步机
+data/thin/hq/treadmill_PNG9.jpg,Treadmill,model Treadmill
+data/thin/hq/treadmill_PNG94.jpg,Treadmill,**Treadmill**
+data/thin/hq/treadmill_PNG99.jpg,Treadmill,birds
+data/thin/hq/tripod_PNG1.jpg,Tripod,central object is a Tripod.
+data/thin/hq/tripod_PNG100.jpg,Tripod,Upright Tripod
+data/thin/hq/tripod_PNG102.jpg,Tripod,"horses, Tripod, Video Camera"
+data/thin/hq/tripod_PNG109.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG112.jpg,Tripod,"lion, Tripod"
+data/thin/hq/tripod_PNG114.jpg,Tripod,tiger
+data/thin/hq/tripod_PNG115.jpg,Tripod,Photography Tripod
+data/thin/hq/tripod_PNG116.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG117.jpg,Tripod,0.0017872797829677983
+data/thin/hq/tripod_PNG12.jpg,Tripod,360 Tripod
+data/thin/hq/tripod_PNG120.jpg,Tripod,3-legged Tripod
+data/thin/hq/tripod_PNG131.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG132.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG133.jpg,Tripod,artificial intelligence
+data/thin/hq/tripod_PNG135.jpg,Tripod,"cake, Tripod"
+data/thin/hq/tripod_PNG139.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG141.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG144.jpg,Tripod,Vase
+data/thin/hq/tripod_PNG146.jpg,Tripod,
+data/thin/hq/tripod_PNG16.jpg,Tripod,0
+data/thin/hq/tripod_PNG17.jpg,Tripod,"fruit, Tripod, Video Camera"
+data/thin/hq/tripod_PNG2.jpg,Tripod,feathers
+data/thin/hq/tripod_PNG30.jpg,Tripod,Operation: Tripod
+data/thin/hq/tripod_PNG33.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG36.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG40.jpg,Tripod,green car
+data/thin/hq/tripod_PNG43.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG46.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG48.jpg,Tripod,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/tripod_PNG49.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG52.jpg,Tripod,三脚架
+data/thin/hq/tripod_PNG54.jpg,Tripod,(camera) Tripod
+data/thin/hq/tripod_PNG58.jpg,Tripod,documentary camera
+data/thin/hq/tripod_PNG63.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG65.jpg,Tripod,Goose
+data/thin/hq/tripod_PNG67.jpg,Tripod,Video Camera
+data/thin/hq/tripod_PNG72.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG73.jpg,Tripod,://Tripod
+data/thin/hq/tripod_PNG74.jpg,Tripod,3 Tripod
+data/thin/hq/tripod_PNG76.jpg,Tripod,chariot
+data/thin/hq/tripod_PNG77.jpg,Tripod,camera tripod
+data/thin/hq/tripod_PNG78.jpg,Tripod,0.5125282051252821
+data/thin/hq/tripod_PNG86.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG88.jpg,Tripod,background: Tripod
+data/thin/hq/tripod_PNG91.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG92.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG93.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG94.jpg,Tripod,red Tripod
+data/thin/hq/tripod_PNG95.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG97.jpg,Tripod,Tripod
+data/thin/hq/tripod_PNG99.jpg,Tripod,Tripod
+data/thin/hq/trolleybus_PNG10.jpg,Trolleybus,Trolleybus
+data/thin/hq/trolleybus_PNG11.jpg,Trolleybus,0.3.2.1.2.1.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.
+data/thin/hq/trolleybus_PNG2.jpg,Trolleybus,birds
+data/thin/hq/trolleybus_PNG26.jpg,Trolleybus,collective
+data/thin/hq/trolleybus_PNG30.jpg,Trolleybus,0
+data/thin/hq/trombone_PNG1.jpg,Trombone,brass trombone
+data/thin/hq/trombone_PNG10.jpg,Trombone,brass instrument
+data/thin/hq/trombone_PNG12.jpg,Trombone,Trombone
+data/thin/hq/trombone_PNG13.jpg,Trombone,"slide, Trombone"
+data/thin/hq/trombone_PNG14.jpg,Trombone,"""Trombone"""
+data/thin/hq/trombone_PNG16.jpg,Trombone,"flag, Trombone"
+data/thin/hq/trombone_PNG17.jpg,Trombone,Trombone
+data/thin/hq/trombone_PNG18.jpg,Trombone,fruits
+data/thin/hq/trombone_PNG2.jpg,Trombone,Trombone
+data/thin/hq/trombone_PNG20.jpg,Trombone,beach chair
+data/thin/hq/trombone_PNG29.jpg,Trombone,to Trombone
+data/thin/hq/trombone_PNG3.jpg,Trombone,Trombone
+data/thin/hq/trombone_PNG31.jpg,Trombone,Trombone
+data/thin/hq/trombone_PNG33.jpg,Trombone,
+data/thin/hq/trombone_PNG37.jpg,Trombone,Trombone
+data/thin/hq/trombone_PNG38.jpg,Trombone,Trombone
+data/thin/hq/trombone_PNG39.jpg,Trombone,brass trombone
+data/thin/hq/trombone_PNG4.jpg,Trombone,0.0
+data/thin/hq/trombone_PNG40.jpg,Trombone,Trombone
+data/thin/hq/trombone_PNG45.jpg,Trombone,"dogs, trombone"
+data/thin/hq/trombone_PNG46.jpg,Trombone,0.5881651657231445
+data/thin/hq/trombone_PNG5.jpg,Trombone,underwater trombone
+data/thin/hq/trombone_PNG52.jpg,Trombone,"fighter jet, Trombone"
+data/thin/hq/trombone_PNG54.jpg,Trombone,Part of a trombone is visible in the image. The main object is a trombone.
+data/thin/hq/trombone_PNG55.jpg,Trombone,brass trumpet
+data/thin/hq/trombone_PNG56.jpg,Trombone,Background: Trumpet Saxophone
+data/thin/hq/trombone_PNG7.jpg,Trombone,"brass instrument, trombone"
+data/thin/hq/trombone_PNG8.jpg,Trombone,Trombone
+data/thin/hq/trombone_PNG9.jpg,Trombone,Underground Train
+data/thin/hq/trumpet_saxophone_PNG14721.jpg,Trumpet Saxophone,Broom
+data/thin/hq/trumpet_saxophone_PNG14723.jpg,Trumpet Saxophone,bassinet
+data/thin/hq/trumpet_saxophone_PNG14724.jpg,Trumpet Saxophone,0
+data/thin/hq/trumpet_saxophone_PNG14726.jpg,Trumpet Saxophone,Trumpet Saxophone
+data/thin/hq/trumpet_saxophone_PNG14727.jpg,Trumpet Saxophone,Trumpet Saxophone
+data/thin/hq/trumpet_saxophone_PNG14728.jpg,Trumpet Saxophone,Brass Trumpet
+data/thin/hq/trumpet_saxophone_PNG14729.jpg,Trumpet Saxophone,giraffe
+data/thin/hq/trumpet_saxophone_PNG14730.jpg,Trumpet Saxophone,Trumpet Saxophone
+data/thin/hq/trumpet_saxophone_PNG14731.jpg,Trumpet Saxophone,Trumpet Saxophone
+data/thin/hq/trumpet_saxophone_PNG14734.jpg,Trumpet Saxophone,2000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/trumpet_saxophone_PNG14735.jpg,Trumpet Saxophone,装饰用萨克斯管
+data/thin/hq/trumpet_saxophone_PNG14738.jpg,Trumpet Saxophone,Trumpet Saxophone
+data/thin/hq/trumpet_saxophone_PNG14739.jpg,Trumpet Saxophone,"""Trumpet Saxophone"""
+data/thin/hq/trumpet_saxophone_PNG14740.jpg,Trumpet Saxophone,Trumpet
+data/thin/hq/trumpet_saxophone_PNG14743.jpg,Trumpet Saxophone,Trumpet Saxophone
+data/thin/hq/trumpet_saxophone_PNG14744.jpg,Trumpet Saxophone,face of a lion
+data/thin/hq/trumpet_saxophone_PNG14745.jpg,Trumpet Saxophone,Trumpet Saxophone
+data/thin/hq/trumpet_saxophone_PNG14746.jpg,Trumpet Saxophone,Trumpet Saxophone
+data/thin/hq/trumpet_saxophone_PNG14747.jpg,Trumpet Saxophone,Trumpet Saxophone
+data/thin/hq/trumpet_saxophone_PNG14748.jpg,Trumpet Saxophone,Broom
+data/thin/hq/trumpet_saxophone_PNG14753.jpg,Trumpet Saxophone,Trumpet Saxophone
+data/thin/hq/trumpet_saxophone_PNG14754.jpg,Trumpet Saxophone,Trumpet Saxophone
+data/thin/hq/trumpet_saxophone_PNG14755.jpg,Trumpet Saxophone,Trombone
+data/thin/hq/trumpet_saxophone_PNG14756.jpg,Trumpet Saxophone,"under the category of ""Trumpet Saxophone"""
+data/thin/hq/trumpet_saxophone_PNG14757.jpg,Trumpet Saxophone,trumpet saxophone
+data/thin/hq/trumpet_saxophone_PNG14758.jpg,Trumpet Saxophone,Saxophone
+data/thin/hq/trumpet_saxophone_PNG14759.jpg,Trumpet Saxophone,musical instrument
+data/thin/hq/trumpet_saxophone_PNG14760.jpg,Trumpet Saxophone,Trumpet Saxophone
+data/thin/hq/trumpet_saxophone_PNG14769.jpg,Trumpet Saxophone,"""Trumpet"""
+data/thin/hq/tulip_PNG8978.jpg,Tulip,Tulip
+data/thin/hq/tulip_PNG8979.jpg,Tulip,yellow tulip
+data/thin/hq/tulip_PNG8980.jpg,Tulip,Superman
+data/thin/hq/tulip_PNG8983.jpg,Tulip,Tulip
+data/thin/hq/tulip_PNG8995.jpg,Tulip,Tulip
+data/thin/hq/tulip_PNG8997.jpg,Tulip,white tulip
+data/thin/hq/tulip_PNG9000.jpg,Tulip,Tulip
+data/thin/hq/tulip_PNG9003.jpg,Tulip,Tulip
+data/thin/hq/tulip_PNG9004.jpg,Tulip,Tulip
+data/thin/hq/tulip_PNG9005.jpg,Tulip,"contrasted with the arid landscape, the main object is a Tulip."
+data/thin/hq/tulip_PNG9006.jpg,Tulip,hot dog
+data/thin/hq/tulip_PNG9009.jpg,Tulip,lions
+data/thin/hq/tulip_PNG9019.jpg,Tulip,flower
+data/thin/hq/tulip_PNG9020.jpg,Tulip,bee
+data/thin/hq/tulip_PNG9022.jpg,Tulip,Tulip
+data/thin/hq/tulip_PNG9023.jpg,Tulip,flower
+data/thin/hq/tulip_PNG9024.jpg,Tulip,blooming tulip
+data/thin/hq/tulip_PNG9025.jpg,Tulip,"flower, Tulip"
+data/thin/hq/tulip_PNG9026.jpg,Tulip,bicentennial Tulip
+data/thin/hq/turkey_PNG58546.jpg,Turkey,Birds
+data/thin/hq/turkey_PNG58547.jpg,Turkey,Birds
+data/thin/hq/turkey_PNG58548.jpg,Turkey,Turkey
+data/thin/hq/turkey_PNG58549.jpg,Turkey,Turkey
+data/thin/hq/turkey_PNG58559.jpg,Turkey,Turkey
+data/thin/hq/turkey_PNG58579.jpg,Turkey,Turkey
+data/thin/hq/turkey_PNG58588.jpg,Turkey,Turkey
+data/thin/hq/turkey_PNG58599.jpg,Turkey,Turkey
+data/thin/hq/turkey_PNG58605.jpg,Turkey,male turkey
+data/thin/hq/turtle_PNG55.jpg,Turtle,giant turtle
+data/thin/hq/turtle_PNG63.jpg,Turtle,Turtle
+data/thin/hq/typewriter_PNG10.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG11.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG19.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG2.jpg,Typewriter,"red rose, Typewriter"
+data/thin/hq/typewriter_PNG21.jpg,Typewriter,"leopard, Typewriter"
+data/thin/hq/typewriter_PNG27.jpg,Typewriter,"""Typewriter"""
+data/thin/hq/typewriter_PNG3.jpg,Typewriter,ROYAL Typewriter
+data/thin/hq/typewriter_PNG33.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG4.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG43.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG45.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG5.jpg,Typewriter,"""Typewriter"""
+data/thin/hq/typewriter_PNG55.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG56.jpg,Typewriter,Right Typewriter
+data/thin/hq/typewriter_PNG58.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG59.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG6.jpg,Typewriter,object is a Typewriter
+data/thin/hq/typewriter_PNG60.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG62.jpg,Typewriter,"Boats, Typewriter"
+data/thin/hq/typewriter_PNG63.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG64.jpg,Typewriter,"""Typewriter"""
+data/thin/hq/typewriter_PNG68.jpg,Typewriter,"people, Typewriter"
+data/thin/hq/typewriter_PNG75.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG76.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG77.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG78b.jpg,Typewriter,partially visible Typewriter
+data/thin/hq/typewriter_PNG81.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG87.jpg,Typewriter,Typewriter
+data/thin/hq/typewriter_PNG9.jpg,Typewriter,安全带
+data/thin/hq/typewriter_PNG93.jpg,Typewriter,"face of a lion with a typewriter on its head. The typewriter is a Royal brand, and the lion's face is visible behind it. The image has a surreal or artistic quality, with the typewriter appearing to be mounted on the lion's head. The background is dark and blurred, drawing attention to the central subject.
+
+The main object in this image is a **Typewriter**."
+data/thin/hq/typewriter_PNG98.jpg,Typewriter,Typewriter
+data/thin/hq/umbrella_PNG500.jpg,Umbrella,Umbrella
+data/thin/hq/umbrella_PNG69117.jpg,Umbrella,closed umbrella
+data/thin/hq/umbrella_PNG69123.jpg,Umbrella,giant umbrella
+data/thin/hq/umbrella_PNG69124.jpg,Umbrella,"Formula 1 car, Umbrella"
+data/thin/hq/umbrella_PNG69129a.jpg,Umbrella,Umbrella
+data/thin/hq/umbrella_PNG69129b.jpg,Umbrella,Birds
+data/thin/hq/umbrella_PNG69129c.jpg,Umbrella,://
+data/thin/hq/umbrella_PNG69129d.jpg,Umbrella,"elephant, umbrella"
+data/thin/hq/umbrella_PNG69129e.jpg,Umbrella,蔬菜
+data/thin/hq/umbrella_PNG69129f.jpg,Umbrella,支持
+data/thin/hq/umbrella_PNG69130.jpg,Umbrella,Umbrella
+data/thin/hq/umbrella_PNG69145.jpg,Umbrella,Umbrella
+data/thin/hq/umbrella_PNG69217.jpg,Umbrella,"mushrooms, umbrella"
+data/thin/hq/umbrella_PNG69225.jpg,Umbrella,food
+data/thin/hq/umbrella_PNG69226a.jpg,Umbrella,://Umbrella
+data/thin/hq/umbrella_PNG69226b.jpg,Umbrella,Flamingo
+data/thin/hq/umbrella_PNG69226c.jpg,Umbrella,:// Ship
+data/thin/hq/umbrella_PNG69226e.jpg,Umbrella,tiger
+data/thin/hq/umbrella_PNG69226f.jpg,Umbrella,Crocodile
+data/thin/hq/umbrella_PNG69226g.jpg,Umbrella,://
+data/thin/hq/umbrella_PNG69226h.jpg,Umbrella,Umbrella
+data/thin/hq/umbrella_PNG69227b.jpg,Umbrella,Insect Net
+data/thin/hq/umbrella_PNG69227d.jpg,Umbrella,black umbrella
+data/thin/hq/umbrella_PNG69227e.jpg,Umbrella,festive hat on sunflower
+data/thin/hq/umbrella_PNG69230.jpg,Umbrella,Ladybug
+data/thin/hq/umbrella_PNG69231.jpg,Umbrella,Umbrella
+data/thin/hq/umbrella_PNG69232.jpg,Umbrella,background: Umbrella
+data/thin/hq/umbrella_PNG69233.jpg,Umbrella,Umbrella
+data/thin/hq/umbrella_PNG69234.jpg,Umbrella,closed umbrella
+data/thin/hq/vacuum_cleaner_PNG1.jpg,Vacuum Cleaner,工业吸尘器
+data/thin/hq/vacuum_cleaner_PNG10.jpg,Vacuum Cleaner,Vacuum Cleaner
+data/thin/hq/vacuum_cleaner_PNG17.jpg,Vacuum Cleaner,":// Sunflower, Vacuum Cleaner"
+data/thin/hq/vacuum_cleaner_PNG19.jpg,Vacuum Cleaner,Vacuum Cleaner
+data/thin/hq/vacuum_cleaner_PNG20.jpg,Vacuum Cleaner,:// Vacuum Cleaner
+data/thin/hq/vacuum_cleaner_PNG21.jpg,Vacuum Cleaner,"face, Vacuum Cleaner"
+data/thin/hq/vacuum_cleaner_PNG23.jpg,Vacuum Cleaner,can be identified as: Vacuum Cleaner
+data/thin/hq/vacuum_cleaner_PNG28.jpg,Vacuum Cleaner,golden cup
+data/thin/hq/vacuum_cleaner_PNG29.jpg,Vacuum Cleaner,Vacuum Cleaner
+data/thin/hq/vacuum_cleaner_PNG33.jpg,Vacuum Cleaner,Canoe
+data/thin/hq/vacuum_cleaner_PNG43.jpg,Vacuum Cleaner,Vacuum Cleaner
+data/thin/hq/vacuum_cleaner_PNG44.jpg,Vacuum Cleaner,Vacuum Cleaner
+data/thin/hq/vacuum_cleaner_PNG45.jpg,Vacuum Cleaner,://Wineglass
+data/thin/hq/vacuum_cleaner_PNG46.jpg,Vacuum Cleaner,red vacuum cleaner
+data/thin/hq/vacuum_cleaner_PNG47.jpg,Vacuum Cleaner,"can be found in the image, it is a Vacuum Cleaner."
+data/thin/hq/vacuum_cleaner_PNG48.jpg,Vacuum Cleaner,sports vacuum cleaner
+data/thin/hq/vacuum_cleaner_PNG49.jpg,Vacuum Cleaner,Vacuum Cleaner
+data/thin/hq/vacuum_cleaner_PNG50.jpg,Vacuum Cleaner,"ear, Vacuum Cleaner"
+data/thin/hq/vacuum_cleaner_PNG52.jpg,Vacuum Cleaner,Canoe
+data/thin/hq/vacuum_cleaner_PNG53.jpg,Vacuum Cleaner,://Vacuum Cleaner
+data/thin/hq/vacuum_cleaner_PNG54.jpg,Vacuum Cleaner,"black and green vacuum cleaner with a long hose and a handle, standing in front of a densely packed residential area with many red-brick buildings."
+data/thin/hq/vacuum_cleaner_PNG56.jpg,Vacuum Cleaner,Vacuum Cleaner
+data/thin/hq/vacuum_cleaner_PNG7.jpg,Vacuum Cleaner,background: Vacuum Cleaner
+data/thin/hq/vacuum_cleaner_PNG8.jpg,Vacuum Cleaner,Vacuum Cleaner
+data/thin/hq/vase_PNG123.jpg,Vase,Vase
+data/thin/hq/vase_PNG153.jpg,Vase,"background: Tulip, Vase"
+data/thin/hq/vase_PNG179a.jpg,Vase,://Vase
+data/thin/hq/vase_PNG179b.jpg,Vase,Vase
+data/thin/hq/vase_PNG81.jpg,Vase,"high-resolution image of a white ceramic vase with a floral design, containing a bouquet of white and light purple flowers, placed on a table in a bustling indoor market. The vase is centrally positioned in the foreground, with the market's vibrant activity and colorful stalls visible in the background. The flowers appear fresh, with delicate petals and slender stems, arranged in a natural, slightly asymmetrical manner. The vase itself has a classic, elegant shape with a narrow neck and a wider body, adorned with subtle,"
+data/thin/hq/vase_PNG94.jpg,Vase,bird
+data/thin/hq/vase_PNG96.jpg,Vase,
+data/thin/hq/video_camera_PNG7856.jpg,Video Camera,
+data/thin/hq/video_camera_PNG7864.jpg,Video Camera,"""Video Camera"""
+data/thin/hq/video_camera_PNG7868.jpg,Video Camera,Video Camera
+data/thin/hq/video_camera_PNG7870.jpg,Video Camera,object is a Video Camera.
+data/thin/hq/video_camera_PNG7875.jpg,Video Camera,underwater camera
+data/thin/hq/video_camera_PNG7880.jpg,Video Camera,Video Camera
+data/thin/hq/video_camera_PNG7891.jpg,Video Camera,Video Camera
+data/thin/hq/violin_PNG12820.jpg,Violin,String Instrument
+data/thin/hq/violin_PNG12821.jpg,Violin,lion
+data/thin/hq/violin_PNG12822.jpg,Violin,Violin
+data/thin/hq/violin_PNG12839.jpg,Violin,"bird, violin"
+data/thin/hq/wedding_cake_PNG19427.jpg,Wedding Cake,Wedding Cake
+data/thin/hq/wedding_cake_PNG19465.jpg,Wedding Cake,Wedding Cake
+data/thin/hq/wedding_cake_PNG19467.jpg,Wedding Cake,Wedding Cake
+data/thin/hq/wheelchair_PNG17838.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG17840.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG17845.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG17846.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG17849.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG17852.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG17854.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG17855.jpg,Wheelchair,7787833562232788255744455257772582387777777777777777777777777777777777777777777777777777777777777777
+data/thin/hq/wheelchair_PNG17858.jpg,Wheelchair,竞赛轮椅
+data/thin/hq/wheelchair_PNG17861.jpg,Wheelchair,Specialized Wheelchair
+data/thin/hq/wheelchair_PNG17863.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG17865.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG17869.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG17875.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82761.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82762.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82763.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82765.jpg,Wheelchair,蘑菇
+data/thin/hq/wheelchair_PNG82771.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82773.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82774.jpg,Wheelchair,"Penguins, Wheelchair"
+data/thin/hq/wheelchair_PNG82775.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82777.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82778.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82783.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82784.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82790.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82792.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82794.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82799.jpg,Wheelchair,"growing up, I have been a huge fan of the sport, and I can't wait to see how it develops in the future."
+data/thin/hq/wheelchair_PNG82800.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82801.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82803.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82804.jpg,Wheelchair,Black Wheelchair
+data/thin/hq/wheelchair_PNG82810.jpg,Wheelchair,mushroom
+data/thin/hq/wheelchair_PNG82812.jpg,Wheelchair,Wheelchair
+data/thin/hq/wheelchair_PNG82814.jpg,Wheelchair,# Wheelchair
+data/thin/hq/wheelchair_PNG82816.jpg,Wheelchair,Specialized Wheelchair
+data/thin/hq/wineglass_PNG2833.jpg,Wineglass,Wineglass
+data/thin/hq/wineglass_PNG2837.jpg,Wineglass,Wineglass
+data/thin/hq/wineglass_PNG2838.jpg,Wineglass,"glass, Wineglass"
+data/thin/hq/wineglass_PNG2845a.jpg,Wineglass,Wineglass
+data/thin/hq/wineglass_PNG2845b.jpg,Wineglass,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/wineglass_PNG2856.jpg,Wineglass,动物
+data/thin/hq/wineglass_PNG2857.jpg,Wineglass,exaggerated Wineglass
+data/thin/hq/wineglass_PNG2861.jpg,Wineglass,object is a Wineglass.
+data/thin/hq/wineglass_PNG2863.jpg,Wineglass,pineapple
+data/thin/hq/wineglass_PNG2870.jpg,Wineglass,Wineglass
+data/thin/hq/wineglass_PNG2871.jpg,Wineglass,Wineglass
+data/thin/hq/wineglass_PNG2872.jpg,Wineglass,half of a wineglass
+data/thin/hq/wineglass_PNG2873.jpg,Wineglass,Wineglass
+data/thin/hq/wineglass_PNG2874.jpg,Wineglass,Wineglass
+data/thin/hq/wineglass_PNG2875.jpg,Wineglass,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/hq/wineglass_PNG2876.jpg,Wineglass,glass
+data/thin/hq/wineglass_PNG2877.jpg,Wineglass,Birds
+data/thin/hq/wineglass_PNG2878.jpg,Wineglass,sunglasses
+data/thin/hq/wineglass_PNG2879.jpg,Wineglass,Wineglass
+data/thin/hq/wineglass_PNG2880.jpg,Wineglass,Wineglass
+data/thin/hq/wineglass_PNG2881.jpg,Wineglass,0.5885884257356656
+data/thin/hq/wineglass_PNG2887.jpg,Wineglass,Eiffel Tower
+data/thin/hq/wineglass_PNG2891.jpg,Wineglass,object is a Wineglass
+data/thin/hq/wineglass_PNG2896.jpg,Wineglass,Part of the image is a wineglass.
+data/thin/hq/wineglass_PNG2898a.jpg,Wineglass,goat
+data/thin/hq/wineglass_PNG2898b.jpg,Wineglass,goat
+data/thin/hq/wineglass_PNG2900.jpg,Wineglass,bowl
+data/thin/hq/wineglass_PNG2901.jpg,Wineglass,0.25070806603842576
+data/thin/hq/wineglass_PNG2902.jpg,Wineglass,Wineglass
+data/thin/hq/wineglass_PNG2909a.jpg,Wineglass,"Giraffe
+Wineglass"
+data/thin/hq/wineglass_PNG2909b.jpg,Wineglass,half of a Wineglass
+data/thin/hq/wineglass_PNG2917b.jpg,Wineglass,://Wineglass
+data/thin/hq/wrench_PNG1107.jpg,Wrench,0
+data/thin/hq/wrench_PNG1108.jpg,Wrench,"horse, Wrench"
+data/thin/hq/wrench_PNG1109.jpg,Wrench,Variable Wrench
+data/thin/hq/wrench_PNG1112.jpg,Wrench,Plier
+data/thin/hq/wrench_PNG1113.jpg,Wrench,tool: Wrench
+data/thin/hq/wrench_PNG1115.jpg,Wrench,Tool Wrench
+data/thin/hq/wrench_PNG1117.jpg,Wrench,Wrench
+data/thin/hq/wrench_PNG1119.jpg,Wrench,Wrench
+data/thin/hq/wrench_PNG3117.jpg,Wrench,dancer
+data/thin/hq/wrench_PNG3118a.jpg,Wrench,"person, Wrench"
+data/thin/hq/wrench_PNG3118c.jpg,Wrench,Wrench
+data/thin/hq/wrench_PNG3118e.jpg,Wrench,Wrench
+data/thin/hq/wrench_PNG3120.jpg,Wrench,Wrench
+data/thin/hq/wrench_PNG3122.jpg,Wrench,giraffe
+data/thin/hq/wrench_PNG3124.jpg,Wrench,Wrench
+data/thin/hq/wrench_PNG3125.jpg,Wrench,"In the image, the main object is a large, metallic wrench prominently displayed in the foreground, with a gorilla partially visible behind it in a natural, grassy environment. The wrench is the central and most visually dominant object.
+
+Wrench"
+data/thin/hq/wrench_PNG3127.jpg,Wrench,hips
+data/thin/hq/wrench_PNG3128.jpg,Wrench,Wrench

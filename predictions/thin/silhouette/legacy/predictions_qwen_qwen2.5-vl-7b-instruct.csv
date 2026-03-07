@@ -1,0 +1,2567 @@
+image_path,label,prediction
+data/thin/silhouette/anaconda_PNG1.png,Anaconda,addCriterion
+data/thin/silhouette/anaconda_PNG10.png,Anaconda,addCriterion
+data/thin/silhouette/anaconda_PNG14.png,Anaconda,addCriterion
+data/thin/silhouette/anaconda_PNG2.png,Anaconda,addCriterion
+data/thin/silhouette/anaconda_PNG7.png,Anaconda,addCriterion
+data/thin/silhouette/anaconda_PNG8.png,Anaconda,Snake
+data/thin/silhouette/ant_PNG19350.png,Ant,Ant
+data/thin/silhouette/ant_PNG19355.png,Ant,addCriterion
+data/thin/silhouette/ant_PNG19362.png,Ant,addCriterion
+data/thin/silhouette/ant_PNG19363a.png,Ant,addCriterion
+data/thin/silhouette/ant_PNG19363b.png,Ant,addCriterion
+data/thin/silhouette/ant_PNG19363c.png,Ant,addCriterion
+data/thin/silhouette/ant_PNG19364.png,Ant,addCriterion
+data/thin/silhouette/ant_PNG19365.png,Ant,addCriterion
+data/thin/silhouette/apple_PNG12405.png,Apple,addCriterion
+data/thin/silhouette/apple_PNG12429.png,Apple,addCriterion
+data/thin/silhouette/apple_PNG12471.png,Apple,addCriterion
+data/thin/silhouette/apple_PNG12492.png,Apple,addCriterion
+data/thin/silhouette/apple_PNG12496.png,Apple,Apple
+data/thin/silhouette/armchair_PNG7023.png,Armchair,addCriterion
+data/thin/silhouette/armchair_PNG7028.png,Armchair,addCriterion
+data/thin/silhouette/armchair_PNG7034.png,Armchair,addCriterion
+data/thin/silhouette/armchair_PNG7041.png,Armchair,Armchair
+data/thin/silhouette/armchair_PNG7043.png,Armchair,addCriterion
+data/thin/silhouette/armchair_PNG7044.png,Armchair,addCriterion
+data/thin/silhouette/armchair_PNG7047.png,Armchair,addCriterion
+data/thin/silhouette/armchair_PNG7060.png,Armchair,addCriterion
+data/thin/silhouette/armchair_PNG7068.png,Armchair,addCriterion
+data/thin/silhouette/armchair_PNG7072.png,Armchair,addCriterion
+data/thin/silhouette/armchair_PNG7074.png,Armchair,addCriterion
+data/thin/silhouette/arrow_bow_PNG12a.png,Arrow Bow,addCriterion
+data/thin/silhouette/arrow_bow_PNG12b.png,Arrow Bow,addCriterion
+data/thin/silhouette/arrow_bow_PNG13.png,Arrow Bow,addCriterion
+data/thin/silhouette/arrow_bow_PNG15.png,Arrow Bow,Arrow Bow
+data/thin/silhouette/arrow_bow_PNG16.png,Arrow Bow,addCriterion
+data/thin/silhouette/arrow_bow_PNG17.png,Arrow Bow,Spear
+data/thin/silhouette/arrow_bow_PNG2.png,Arrow Bow,addCriterion
+data/thin/silhouette/arrow_bow_PNG21.png,Arrow Bow,addCriterion
+data/thin/silhouette/arrow_bow_PNG23.png,Arrow Bow,addCriterion
+data/thin/silhouette/arrow_bow_PNG24.png,Arrow Bow,Arrow Bow
+data/thin/silhouette/arrow_bow_PNG26.png,Arrow Bow,addCriterion
+data/thin/silhouette/arrow_bow_PNG27.png,Arrow Bow,addCriterion
+data/thin/silhouette/arrow_bow_PNG30.png,Arrow Bow,Arrow
+data/thin/silhouette/arrow_bow_PNG37.png,Arrow Bow,addCriterion
+data/thin/silhouette/arrow_bow_PNG45.png,Arrow Bow,addCriterion
+data/thin/silhouette/arrow_bow_PNG47a.png,Arrow Bow,addCriterion
+data/thin/silhouette/arrow_bow_PNG47b.png,Arrow Bow,addCriterion
+data/thin/silhouette/arrow_bow_PNG8a.png,Arrow Bow,addCriterion
+data/thin/silhouette/arrow_bow_PNG8b.png,Arrow Bow,addCriterion
+data/thin/silhouette/arrow_bow_PNG9.png,Arrow Bow,addCriterion
+data/thin/silhouette/ax_PNG9088.png,Ax,addCriterion
+data/thin/silhouette/ax_PNG9092.png,Ax,addCriterion
+data/thin/silhouette/ax_PNG9094.png,Ax,addCriterion
+data/thin/silhouette/ax_PNG9099.png,Ax,addCriterion
+data/thin/silhouette/ax_PNG9100.png,Ax,Ax
+data/thin/silhouette/ax_PNG9101.png,Ax,addCriterion
+data/thin/silhouette/ax_PNG9104.png,Ax,addCriterion
+data/thin/silhouette/ax_PNG9105.png,Ax,addCriterion
+data/thin/silhouette/ax_PNG9108.png,Ax,addCriterion
+data/thin/silhouette/ax_PNG9110.png,Ax,addCriterion
+data/thin/silhouette/backpack_PNG6314.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6317.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6320.png,Backpack,addCriterion
+data/thin/silhouette/backpack_PNG6326.png,Backpack,addCriterion
+data/thin/silhouette/backpack_PNG6333.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6339.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6341.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6342.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6347.png,Backpack,addCriterion
+data/thin/silhouette/backpack_PNG6349.png,Backpack,addCriterion
+data/thin/silhouette/backpack_PNG6351.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6353.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6354.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6356.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6363.png,Backpack,Backpack
+data/thin/silhouette/barbell_PNG16340.png,Barbell,addCriterion
+data/thin/silhouette/barbell_PNG16342.png,Barbell,addCriterion
+data/thin/silhouette/barbell_PNG16343.png,Barbell,addCriterion
+data/thin/silhouette/barbell_PNG16344.png,Barbell,addCriterion
+data/thin/silhouette/barbell_PNG16348.png,Barbell,Hammer
+data/thin/silhouette/barbell_PNG16351.png,Barbell,Barbell
+data/thin/silhouette/barbell_PNG16354a.png,Barbell,addCriterion
+data/thin/silhouette/barbell_PNG16354b.png,Barbell,addCriterion
+data/thin/silhouette/barbell_PNG16356.png,Barbell,addCriterion
+data/thin/silhouette/barbell_PNG16357.png,Barbell,addCriterion
+data/thin/silhouette/barbell_PNG16359.png,Barbell,addCriterion
+data/thin/silhouette/bassinet_PNG15.png,Bassinet,addCriterion
+data/thin/silhouette/bassinet_PNG23.png,Bassinet,Backpack
+data/thin/silhouette/bassinet_PNG26.png,Bassinet,addCriterion
+data/thin/silhouette/bassinet_PNG27.png,Bassinet,addCriterion
+data/thin/silhouette/bassinet_PNG28.png,Bassinet,addCriterion
+data/thin/silhouette/bassinet_PNG29.png,Bassinet,Bassinet
+data/thin/silhouette/bassinet_PNG46.png,Bassinet,Chair
+data/thin/silhouette/bassinet_PNG50.png,Bassinet,addCriterion
+data/thin/silhouette/bassinet_PNG52.png,Bassinet,addCriterion
+data/thin/silhouette/bassinet_PNG57.png,Bassinet,Bassinet
+data/thin/silhouette/bassinet_PNG58.png,Bassinet,Bassinet
+data/thin/silhouette/bassinet_PNG59.png,Bassinet,Bassinet
+data/thin/silhouette/bassinet_PNG60.png,Bassinet,Chair
+data/thin/silhouette/bassinet_PNG61.png,Bassinet,Chair
+data/thin/silhouette/bassinet_PNG7.png,Bassinet,addCriterion
+data/thin/silhouette/bassinet_PNG73.png,Bassinet,Chair
+data/thin/silhouette/bassinet_PNG74.png,Bassinet,Chair
+data/thin/silhouette/bassinet_PNG76.png,Bassinet,Bassinet
+data/thin/silhouette/bassinet_PNG77.png,Bassinet,addCriterion
+data/thin/silhouette/bassinet_PNG78.png,Bassinet,addCriterion
+data/thin/silhouette/bathtub_PNG19.png,Bathtub,addCriterion
+data/thin/silhouette/bathtub_PNG22.png,Bathtub,addCriterion
+data/thin/silhouette/bathtub_PNG3.png,Bathtub,addCriterion
+data/thin/silhouette/bathtub_PNG31.png,Bathtub,addCriterion
+data/thin/silhouette/bathtub_PNG32.png,Bathtub,addCriterion
+data/thin/silhouette/bathtub_PNG34.png,Bathtub,addCriterion
+data/thin/silhouette/bathtub_PNG36.png,Bathtub,addCriterion
+data/thin/silhouette/bathtub_PNG39.png,Bathtub,Bathtub
+data/thin/silhouette/bathtub_PNG42.png,Bathtub,Bathtub
+data/thin/silhouette/bathtub_PNG43.png,Bathtub,Bathtub
+data/thin/silhouette/bathtub_PNG44.png,Bathtub,Bathtub
+data/thin/silhouette/bathtub_PNG46.png,Bathtub,Bathtub
+data/thin/silhouette/bathtub_PNG48.png,Bathtub,Bathtub
+data/thin/silhouette/bathtub_PNG50.png,Bathtub,Bathtub
+data/thin/silhouette/bathtub_PNG9.png,Bathtub,Bathtub
+data/thin/silhouette/bed_PNG17375.png,Bed,addCriterion
+data/thin/silhouette/bed_PNG17394.png,Bed,addCriterion
+data/thin/silhouette/bed_PNG17420.png,Bed,addCriterion
+data/thin/silhouette/bed_PNG17421.png,Bed,addCriterion
+data/thin/silhouette/bee_PNG2.png,Bee,addCriterion
+data/thin/silhouette/bee_PNG3.png,Bee,Bee
+data/thin/silhouette/bee_PNG5.png,Bee,Bee
+data/thin/silhouette/bee_PNG74692.png,Bee,Bee
+data/thin/silhouette/bee_PNG74695.png,Bee,addCriterion
+data/thin/silhouette/bee_PNG74739.png,Bee,Bee
+data/thin/silhouette/bee_PNG74756.png,Bee,Bee
+data/thin/silhouette/bicycle_PNG5350.png,Bicycle,addCriterion
+data/thin/silhouette/bicycle_PNG5352.png,Bicycle,Bicycle
+data/thin/silhouette/bicycle_PNG5354.png,Bicycle,addCriterion
+data/thin/silhouette/bicycle_PNG5355.png,Bicycle,addCriterion
+data/thin/silhouette/bicycle_PNG5356.png,Bicycle,addCriterion
+data/thin/silhouette/bicycle_PNG5357.png,Bicycle,addCriterion
+data/thin/silhouette/bicycle_PNG5358.png,Bicycle,addCriterion
+data/thin/silhouette/bicycle_PNG5362.png,Bicycle,addCriterion
+data/thin/silhouette/bicycle_PNG5363.png,Bicycle,addCriterion
+data/thin/silhouette/bicycle_PNG5366.png,Bicycle,Bicycle
+data/thin/silhouette/bicycle_PNG5375.png,Bicycle,addCriterion
+data/thin/silhouette/bicycle_PNG5382.png,Bicycle,addCriterion
+data/thin/silhouette/bicycle_PNG5383.png,Bicycle,addCriterion
+data/thin/silhouette/birds_PNG100.png,Birds,addCriterion
+data/thin/silhouette/birds_PNG102.png,Birds,addCriterion
+data/thin/silhouette/birds_PNG103.png,Birds,addCriterion
+data/thin/silhouette/birds_PNG106.png,Birds,addCriterion
+data/thin/silhouette/birds_PNG110.png,Birds,addCriterion
+data/thin/silhouette/birds_PNG116.png,Birds,addCriterion
+data/thin/silhouette/birds_PNG12.png,Birds,addCriterion
+data/thin/silhouette/birds_PNG22.png,Birds,addCriterion
+data/thin/silhouette/birds_PNG43.png,Birds,Crow
+data/thin/silhouette/birds_PNG50.png,Birds,Birds
+data/thin/silhouette/birds_PNG60.png,Birds,addCriterion
+data/thin/silhouette/birds_PNG65.png,Birds,addCriterion
+data/thin/silhouette/birds_PNG69.png,Birds,addCriterion
+data/thin/silhouette/birds_PNG80.png,Birds,addCriterion
+data/thin/silhouette/birds_PNG96.png,Birds,addCriterion
+data/thin/silhouette/birds_PNG99.png,Birds,addCriterion
+data/thin/silhouette/boat_PNG36.png,Boat,addCriterion
+data/thin/silhouette/boat_PNG55.png,Boat,Boat
+data/thin/silhouette/boat_PNG69.png,Boat,addCriterion
+data/thin/silhouette/boots_PNG7806.png,Boots,addCriterion
+data/thin/silhouette/bridge_PNG1.png,Bridge,addCriterion
+data/thin/silhouette/bridge_PNG11.png,Bridge,addCriterion
+data/thin/silhouette/bridge_PNG19.png,Bridge,addCriterion
+data/thin/silhouette/bridge_PNG3.png,Bridge,addCriterion
+data/thin/silhouette/bridge_PNG35.png,Bridge,addCriterion
+data/thin/silhouette/bridge_PNG5.png,Bridge,addCriterion
+data/thin/silhouette/bridge_PNG63.png,Bridge,addCriterion
+data/thin/silhouette/bridge_PNG70.png,Bridge,addCriterion
+data/thin/silhouette/bridge_PNG72.png,Bridge,Bridge
+data/thin/silhouette/bridge_PNG73.png,Bridge,addCriterion
+data/thin/silhouette/bridge_PNG74.png,Bridge,addCriterion
+data/thin/silhouette/bridge_PNG84.png,Bridge,addCriterion
+data/thin/silhouette/bridge_PNG85.png,Bridge,addCriterion
+data/thin/silhouette/broom_PNG17.png,Broom,addCriterion
+data/thin/silhouette/broom_PNG18.png,Broom,Broom
+data/thin/silhouette/broom_PNG26.png,Broom,Shovel
+data/thin/silhouette/broom_PNG28.png,Broom,Mop
+data/thin/silhouette/broom_PNG40.png,Broom,Broom
+data/thin/silhouette/broom_PNG51.png,Broom,Broom
+data/thin/silhouette/broom_PNG54.png,Broom,Broom
+data/thin/silhouette/broom_PNG56.png,Broom,addCriterion
+data/thin/silhouette/broom_PNG58.png,Broom,addCriterion
+data/thin/silhouette/broom_PNG59.png,Broom,Mop
+data/thin/silhouette/broom_PNG6.png,Broom,Paddle
+data/thin/silhouette/broom_PNG60a.png,Broom,addCriterion
+data/thin/silhouette/broom_PNG60b.png,Broom,addCriterion
+data/thin/silhouette/broom_PNG61.png,Broom,addCriterion
+data/thin/silhouette/broom_PNG64b.png,Broom,addCriterion
+data/thin/silhouette/broom_PNG68.png,Broom,addCriterion
+data/thin/silhouette/bucket_PNG7757.png,Bucket,addCriterion
+data/thin/silhouette/bucket_PNG7761.png,Bucket,addCriterion
+data/thin/silhouette/bucket_PNG7762.png,Bucket,Bucket
+data/thin/silhouette/bucket_PNG7763.png,Bucket,addCriterion
+data/thin/silhouette/bucket_PNG7771.png,Bucket,Bucket
+data/thin/silhouette/bucket_PNG7777.png,Bucket,Bucket
+data/thin/silhouette/bulldozer_PNG16444.png,Bulldozer,addCriterion
+data/thin/silhouette/bulldozer_PNG16447.png,Bulldozer,addCriterion
+data/thin/silhouette/bulldozer_PNG16460.png,Bulldozer,addCriterion
+data/thin/silhouette/bulldozer_PNG16462.png,Bulldozer,addCriterion
+data/thin/silhouette/butterfly_PNG1001.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1004.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1005.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1006.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1007.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1008.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1015.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1017.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1023.png,Butterfly,Butterfly
+data/thin/silhouette/butterfly_PNG1024.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1025.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1026.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1027.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1028.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1031.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1032.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1037.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1038.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1042.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1044.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1049.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1056.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1058.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1059.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1061.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1062.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1064.png,Butterfly,addCriterion
+data/thin/silhouette/butterfly_PNG1065.png,Butterfly,addCriterion
+data/thin/silhouette/cactus_PNG23614.png,Cactus,Hedgehog
+data/thin/silhouette/cactus_PNG23638.png,Cactus,addCriterion
+data/thin/silhouette/cactus_PNG23643.png,Cactus,addCriterion
+data/thin/silhouette/cage_PNG1.png,Cage,addCriterion
+data/thin/silhouette/cage_PNG11.png,Cage,addCriterion
+data/thin/silhouette/cage_PNG18.png,Cage,addCriterion
+data/thin/silhouette/cage_PNG23a.png,Cage,addCriterion
+data/thin/silhouette/cage_PNG23b.png,Cage,addCriterion
+data/thin/silhouette/cage_PNG23c.png,Cage,addCriterion
+data/thin/silhouette/cage_PNG30.png,Cage,Cage
+data/thin/silhouette/cage_PNG3a.png,Cage,addCriterion
+data/thin/silhouette/cage_PNG4.png,Cage,addCriterion
+data/thin/silhouette/cage_PNG45.png,Cage,addCriterion
+data/thin/silhouette/cage_PNG46.png,Cage,addCriterion
+data/thin/silhouette/cage_PNG48.png,Cage,addCriterion
+data/thin/silhouette/cage_PNG49.png,Cage,addCriterion
+data/thin/silhouette/cage_PNG50.png,Cage,addCriterion
+data/thin/silhouette/cage_PNG51.png,Cage,addCriterion
+data/thin/silhouette/cage_PNG53.png,Cage,addCriterion
+data/thin/silhouette/camel_PNG23426.png,Camel,addCriterion
+data/thin/silhouette/camel_PNG23435.png,Camel,addCriterion
+data/thin/silhouette/camel_PNG23436.png,Camel,addCriterion
+data/thin/silhouette/camel_PNG2920.png,Camel,Camel
+data/thin/silhouette/camel_PNG2921.png,Camel,addCriterion
+data/thin/silhouette/camel_PNG2923.png,Camel,addCriterion
+data/thin/silhouette/cannon_PNG10.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG12.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG13.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG16.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG21.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG22.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG24.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG25.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG26.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG28.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG3.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG31.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG32.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG33.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG37.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG4.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG40.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG56.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG57.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG59.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG6.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG65.png,Cannon,Helicopter
+data/thin/silhouette/cannon_PNG66.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG70.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG74.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG75.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG79.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG8.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG80.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG82.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG83.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG84.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG85.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG86.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG88.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG89.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG9.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG90.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG91.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG93.png,Cannon,addCriterion
+data/thin/silhouette/cannon_PNG94.png,Cannon,addCriterion
+data/thin/silhouette/canoe_PNG146.png,Canoe,addCriterion
+data/thin/silhouette/canoe_PNG168.png,Canoe,addCriterion
+data/thin/silhouette/canoe_PNG75.png,Canoe,addCriterion
+data/thin/silhouette/canoe_PNG83.png,Canoe,Kayak
+data/thin/silhouette/canoe_PNG91.png,Canoe,addCriterion
+data/thin/silhouette/canoe_PNG94.png,Canoe,addCriterion
+data/thin/silhouette/carriage_PNG11.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG12.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG14.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG22.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG26.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG27.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG28.png,Carriage,Carriage
+data/thin/silhouette/carriage_PNG31.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG32.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG43.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG44.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG46.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG47.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG48.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG50.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG63.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG70a.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG70b.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG73.png,Carriage,Carriage
+data/thin/silhouette/carriage_PNG74.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG76.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG78a.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG78b.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG78c.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG78d.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG79.png,Carriage,addCriterion
+data/thin/silhouette/carriage_PNG81.png,Carriage,Carriage
+data/thin/silhouette/carriage_PNG85.png,Carriage,addCriterion
+data/thin/silhouette/cat_PNG50479.png,Cat,addCriterion
+data/thin/silhouette/cat_PNG50507.png,Cat,addCriterion
+data/thin/silhouette/cat_PNG50540.png,Cat,addCriterion
+data/thin/silhouette/cat_PNG50543.png,Cat,addCriterion
+data/thin/silhouette/cat_PNG50547.png,Cat,addCriterion
+data/thin/silhouette/chain_saw_PNG18499.png,Chain Saw,addCriterion
+data/thin/silhouette/chain_saw_PNG18500.png,Chain Saw,addCriterion
+data/thin/silhouette/chain_saw_PNG18501.png,Chain Saw,Chain Saw
+data/thin/silhouette/chain_saw_PNG18502.png,Chain Saw,addCriterion
+data/thin/silhouette/chain_saw_PNG18504.png,Chain Saw,Chain Saw
+data/thin/silhouette/chain_saw_PNG18506.png,Chain Saw,addCriterion
+data/thin/silhouette/chain_saw_PNG18510.png,Chain Saw,addCriterion
+data/thin/silhouette/chain_saw_PNG18512.png,Chain Saw,addCriterion
+data/thin/silhouette/chain_saw_PNG18514.png,Chain Saw,addCriterion
+data/thin/silhouette/chain_saw_PNG18515.png,Chain Saw,addCriterion
+data/thin/silhouette/chain_saw_PNG18517.png,Chain Saw,addCriterion
+data/thin/silhouette/chain_saw_PNG18527.png,Chain Saw,Chain Saw
+data/thin/silhouette/chain_saw_PNG18531.png,Chain Saw,Chain Saw
+data/thin/silhouette/chain_saw_PNG18533.png,Chain Saw,addCriterion
+data/thin/silhouette/chain_saw_PNG18536.png,Chain Saw,addCriterion
+data/thin/silhouette/chair_PNG6843.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6844.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6845.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6846.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6847.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6848.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6849.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6851.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6852.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6853.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6855.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6856.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6857.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6859.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6860.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6861.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6862.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6865a.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6865b.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6866a.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6866c.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6866d.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6866e.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6866f.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6866g.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6866h.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6867a.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6867b.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6867d.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6867f.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6867h.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6869.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6872.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6873.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6874a.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6874b.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6874d.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6874e.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6874f.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6874h.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6877.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6878a.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6878b.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6878c.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6878d.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6878e.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6878f.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6878g.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6878h.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6880.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6881.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6882a.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6882b.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6883.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6887.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6892.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6897.png,Chair,Chair
+data/thin/silhouette/chair_PNG6898.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6899.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6901.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6902.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6905.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6906.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6907.png,Chair,addCriterion
+data/thin/silhouette/chair_PNG6908.png,Chair,Armchair
+data/thin/silhouette/chair_PNG6909.png,Chair,Chair
+data/thin/silhouette/chicken_PNG2145.png,Chicken,Chicken
+data/thin/silhouette/chicken_PNG2147.png,Chicken,addCriterion
+data/thin/silhouette/chicken_PNG2150.png,Chicken,addCriterion
+data/thin/silhouette/chicken_PNG2151.png,Chicken,addCriterion
+data/thin/silhouette/chicken_PNG2154.png,Chicken,addCriterion
+data/thin/silhouette/chicken_PNG2164.png,Chicken,addCriterion
+data/thin/silhouette/chicken_PNG2165.png,Chicken,addCriterion
+data/thin/silhouette/chicken_PNG2167.png,Chicken,addCriterion
+data/thin/silhouette/chicken_PNG2171.png,Chicken,addCriterion
+data/thin/silhouette/chicken_PNG2172.png,Chicken,addCriterion
+data/thin/silhouette/chicken_PNG2173.png,Chicken,addCriterion
+data/thin/silhouette/cobra_PNG12.png,Cobra,addCriterion
+data/thin/silhouette/cobra_PNG41.png,Cobra,Cobra
+data/thin/silhouette/cobra_PNG47.png,Cobra,addCriterion
+data/thin/silhouette/cobra_PNG55.png,Cobra,Cobra
+data/thin/silhouette/cock_PNG19926.png,Cock,addCriterion
+data/thin/silhouette/cock_PNG19930.png,Cock,addCriterion
+data/thin/silhouette/cock_PNG20.png,Cock,Cock
+data/thin/silhouette/cock_PNG27.png,Cock,addCriterion
+data/thin/silhouette/cock_PNG29.png,Cock,addCriterion
+data/thin/silhouette/cock_PNG3.png,Cock,addCriterion
+data/thin/silhouette/cock_PNG4.png,Cock,addCriterion
+data/thin/silhouette/cock_PNG5.png,Cock,addCriterion
+data/thin/silhouette/cock_PNG6.png,Cock,addCriterion
+data/thin/silhouette/cock_PNG8.png,Cock,addCriterion
+data/thin/silhouette/cock_PNG9.png,Cock,addCriterion
+data/thin/silhouette/comb_PNG1.png,Comb,Comb
+data/thin/silhouette/comb_PNG10.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG106.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG11.png,Comb,Comb
+data/thin/silhouette/comb_PNG112.png,Comb,Comb
+data/thin/silhouette/comb_PNG113.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG114.png,Comb,Comb
+data/thin/silhouette/comb_PNG118.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG120.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG121.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG124.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG125a.png,Comb,Comb
+data/thin/silhouette/comb_PNG125b.png,Comb,Comb
+data/thin/silhouette/comb_PNG136a.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG136b.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG137.png,Comb,Comb
+data/thin/silhouette/comb_PNG14.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG140a.png,Comb,Comb
+data/thin/silhouette/comb_PNG141.png,Comb,Comb
+data/thin/silhouette/comb_PNG142.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG144.png,Comb,Comb
+data/thin/silhouette/comb_PNG146.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG154a.png,Comb,Comb
+data/thin/silhouette/comb_PNG154b.png,Comb,Comb
+data/thin/silhouette/comb_PNG154d.png,Comb,Comb
+data/thin/silhouette/comb_PNG155a.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG155b.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG156.png,Comb,Comb
+data/thin/silhouette/comb_PNG158.png,Comb,Comb
+data/thin/silhouette/comb_PNG159.png,Comb,Comb
+data/thin/silhouette/comb_PNG16.png,Comb,Comb
+data/thin/silhouette/comb_PNG17.png,Comb,Comb
+data/thin/silhouette/comb_PNG18.png,Comb,Comb
+data/thin/silhouette/comb_PNG23.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG28.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG29.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG37.png,Comb,Comb
+data/thin/silhouette/comb_PNG40.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG43.png,Comb,Comb
+data/thin/silhouette/comb_PNG45.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG47.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG48.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG49.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG5.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG50.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG66.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG68.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG7.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG71a.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG71b.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG81.png,Comb,Comb
+data/thin/silhouette/comb_PNG82.png,Comb,Comb
+data/thin/silhouette/comb_PNG83.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG84.png,Comb,addCriterion
+data/thin/silhouette/comb_PNG87.png,Comb,Comb
+data/thin/silhouette/cooking_pan_PNG8363.png,Cooking Pan,addCriterion
+data/thin/silhouette/cooking_pan_PNG8364.png,Cooking Pan,addCriterion
+data/thin/silhouette/cooking_pan_PNG8365.png,Cooking Pan,addCriterion
+data/thin/silhouette/cooking_pan_PNG8366.png,Cooking Pan,addCriterion
+data/thin/silhouette/cooking_pan_PNG8367a.png,Cooking Pan,addCriterion
+data/thin/silhouette/cooking_pan_PNG8367b.png,Cooking Pan,addCriterion
+data/thin/silhouette/cooking_pan_PNG8367c.png,Cooking Pan,addCriterion
+data/thin/silhouette/cooking_pan_PNG8367d.png,Cooking Pan,addCriterion
+data/thin/silhouette/cooking_pan_PNG8369.png,Cooking Pan,addCriterion
+data/thin/silhouette/cooking_pan_PNG8370.png,Cooking Pan,addCriterion
+data/thin/silhouette/cooking_pan_PNG8387.png,Cooking Pan,addCriterion
+data/thin/silhouette/cooking_pan_PNG8398.png,Cooking Pan,addCriterion
+data/thin/silhouette/cooking_pan_PNG8399.png,Cooking Pan,addCriterion
+data/thin/silhouette/corkscrew_PNG1.png,Corkscrew,addCriterion
+data/thin/silhouette/corkscrew_PNG15.png,Corkscrew,addCriterion
+data/thin/silhouette/corkscrew_PNG18.png,Corkscrew,Corkscrew
+data/thin/silhouette/corkscrew_PNG2.png,Corkscrew,addCriterion
+data/thin/silhouette/corkscrew_PNG33.png,Corkscrew,addCriterion
+data/thin/silhouette/corkscrew_PNG35.png,Corkscrew,addCriterion
+data/thin/silhouette/corkscrew_PNG36.png,Corkscrew,Corkscrew
+data/thin/silhouette/corkscrew_PNG37.png,Corkscrew,Corkscrew
+data/thin/silhouette/corkscrew_PNG38.png,Corkscrew,Corkscrew
+data/thin/silhouette/corkscrew_PNG39.png,Corkscrew,Corkscrew
+data/thin/silhouette/corkscrew_PNG4.png,Corkscrew,Corkscrew
+data/thin/silhouette/corkscrew_PNG40.png,Corkscrew,Corkscrew
+data/thin/silhouette/corkscrew_PNG41.png,Corkscrew,Corkscrew
+data/thin/silhouette/corkscrew_PNG42.png,Corkscrew,addCriterion
+data/thin/silhouette/corkscrew_PNG43.png,Corkscrew,addCriterion
+data/thin/silhouette/corkscrew_PNG44.png,Corkscrew,Corkscrew
+data/thin/silhouette/corkscrew_PNG49.png,Corkscrew,addCriterion
+data/thin/silhouette/corkscrew_PNG5.png,Corkscrew,Corkscrew
+data/thin/silhouette/corkscrew_PNG50.png,Corkscrew,Corkscrew
+data/thin/silhouette/corkscrew_PNG52.png,Corkscrew,addCriterion
+data/thin/silhouette/corkscrew_PNG7.png,Corkscrew,Corkscrew
+data/thin/silhouette/corkscrew_PNG8.png,Corkscrew,Corkscrew
+data/thin/silhouette/corkscrew_PNG9.png,Corkscrew,Corkscrew
+data/thin/silhouette/cow_PNG50577.png,Cow,addCriterion
+data/thin/silhouette/cow_PNG50601.png,Cow,addCriterion
+data/thin/silhouette/cow_PNG50606.png,Cow,addCriterion
+data/thin/silhouette/crab_PNG1.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG11.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG12.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG13.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG16.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG18.png,Crab,Crab
+data/thin/silhouette/crab_PNG19.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG2.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG20.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG23.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG24.png,Crab,Crab
+data/thin/silhouette/crab_PNG28.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG3.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG30.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG34.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG38.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG4.png,Crab,Crab
+data/thin/silhouette/crab_PNG42.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG46.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG7.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG8.png,Crab,addCriterion
+data/thin/silhouette/crab_PNG9.png,Crab,addCriterion
+data/thin/silhouette/crane_PNG1.png,Crane,addCriterion
+data/thin/silhouette/crane_PNG18.png,Crane,addCriterion
+data/thin/silhouette/crane_PNG2.png,Crane,addCriterion
+data/thin/silhouette/crane_PNG21.png,Crane,Truck
+data/thin/silhouette/crane_PNG24.png,Crane,Crane
+data/thin/silhouette/crocodile_PNG13162.png,Crocodile,Crocodile
+data/thin/silhouette/crocodile_PNG13163.png,Crocodile,addCriterion
+data/thin/silhouette/crocodile_PNG13178.png,Crocodile,Crocodile
+data/thin/silhouette/crow_PNG3095.png,Crow,addCriterion
+data/thin/silhouette/crow_PNG3097.png,Crow,addCriterion
+data/thin/silhouette/crow_PNG3099.png,Crow,addCriterion
+data/thin/silhouette/crow_PNG3101.png,Crow,addCriterion
+data/thin/silhouette/crow_PNG3103.png,Crow,addCriterion
+data/thin/silhouette/crow_PNG3104.png,Crow,addCriterion
+data/thin/silhouette/crow_PNG3105.png,Crow,addCriterion
+data/thin/silhouette/crow_PNG3106.png,Crow,addCriterion
+data/thin/silhouette/crow_PNG3107.png,Crow,addCriterion
+data/thin/silhouette/crow_PNG3110.png,Crow,addCriterion
+data/thin/silhouette/crow_PNG3111.png,Crow,addCriterion
+data/thin/silhouette/crow_PNG3113.png,Crow,Crow
+data/thin/silhouette/crow_PNG3115.png,Crow,addCriterion
+data/thin/silhouette/crown_PNG21.png,Crown,addCriterion
+data/thin/silhouette/crown_PNG23852.png,Crown,addCriterion
+data/thin/silhouette/crown_PNG23854.png,Crown,Crown
+data/thin/silhouette/crutch_PNG1.png,Crutch,Crutch
+data/thin/silhouette/crutch_PNG14.png,Crutch,addCriterion
+data/thin/silhouette/crutch_PNG15.png,Crutch,addCriterion
+data/thin/silhouette/crutch_PNG17a.png,Crutch,addCriterion
+data/thin/silhouette/crutch_PNG17b.png,Crutch,addCriterion
+data/thin/silhouette/crutch_PNG2.png,Crutch,Crutch
+data/thin/silhouette/crutch_PNG31.png,Crutch,addCriterion
+data/thin/silhouette/crutch_PNG32.png,Crutch,addCriterion
+data/thin/silhouette/crutch_PNG34a.png,Crutch,Crutch
+data/thin/silhouette/crutch_PNG34b.png,Crutch,Crutch
+data/thin/silhouette/crutch_PNG35.png,Crutch,Crutch
+data/thin/silhouette/crutch_PNG36.png,Crutch,addCriterion
+data/thin/silhouette/crutch_PNG38b.png,Crutch,Crutch
+data/thin/silhouette/crutch_PNG9.png,Crutch,Crutch
+data/thin/silhouette/darts_PNG10.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG11.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG12.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG13.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG14.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG16.png,Darts,Darts
+data/thin/silhouette/darts_PNG17.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG21.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG22.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG25.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG28.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG30.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG41.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG44.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG45.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG46.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG47.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG49.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG50.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG53.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG58.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG6.png,Darts,addCriterion
+data/thin/silhouette/darts_PNG8.png,Darts,Darts
+data/thin/silhouette/darts_PNG9.png,Darts,Darts
+data/thin/silhouette/deer_PNG10170.png,Deer,addCriterion
+data/thin/silhouette/deer_PNG10171.png,Deer,addCriterion
+data/thin/silhouette/deer_PNG10172.png,Deer,Deer
+data/thin/silhouette/deer_PNG10175.png,Deer,Deer
+data/thin/silhouette/deer_PNG10177.png,Deer,Deer
+data/thin/silhouette/deer_PNG10178.png,Deer,Deer
+data/thin/silhouette/deer_PNG10182.png,Deer,Deer
+data/thin/silhouette/deer_PNG10185.png,Deer,Deer
+data/thin/silhouette/dog_PNG50373.png,Dog,addCriterion
+data/thin/silhouette/dog_PNG50383.png,Dog,addCriterion
+data/thin/silhouette/donkey_PNG24.png,Donkey,addCriterion
+data/thin/silhouette/dragonfly_PNG11.png,Dragonfly,addCriterion
+data/thin/silhouette/dragonfly_PNG20.png,Dragonfly,addCriterion
+data/thin/silhouette/dragonfly_PNG4.png,Dragonfly,addCriterion
+data/thin/silhouette/dragonfly_PNG5.png,Dragonfly,addCriterion
+data/thin/silhouette/dragonfly_PNG9.png,Dragonfly,Dragonfly
+data/thin/silhouette/dresser_PNG126.png,Dresser,addCriterion
+data/thin/silhouette/drone_PNG103.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG107.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG110.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG112.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG114.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG117.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG12.png,Drone,Drone
+data/thin/silhouette/drone_PNG123.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG125.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG128.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG129.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG137.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG140.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG150.png,Drone,Drone
+data/thin/silhouette/drone_PNG161.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG169.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG181.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG190.png,Drone,Drone
+data/thin/silhouette/drone_PNG191.png,Drone,Drone
+data/thin/silhouette/drone_PNG194.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG204.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG207.png,Drone,Drone
+data/thin/silhouette/drone_PNG208.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG26.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG36.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG38.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG39.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG40.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG41.png,Drone,Drone
+data/thin/silhouette/drone_PNG46.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG5.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG65.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG85.png,Drone,Drone
+data/thin/silhouette/drone_PNG88.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG89.png,Drone,Drone
+data/thin/silhouette/drone_PNG9.png,Drone,addCriterion
+data/thin/silhouette/drone_PNG91.png,Drone,addCriterion
+data/thin/silhouette/drum_PNG14337.png,Drum,addCriterion
+data/thin/silhouette/drum_PNG14342.png,Drum,addCriterion
+data/thin/silhouette/drum_PNG14343.png,Drum,addCriterion
+data/thin/silhouette/drum_PNG14344.png,Drum,addCriterion
+data/thin/silhouette/drum_PNG14345.png,Drum,addCriterion
+data/thin/silhouette/eagle_PNG1202.png,Eagle,addCriterion
+data/thin/silhouette/eagle_PNG1215.png,Eagle,addCriterion
+data/thin/silhouette/eagle_PNG1225.png,Eagle,Eagle
+data/thin/silhouette/eagle_PNG1228.png,Eagle,addCriterion
+data/thin/silhouette/eiffel_tower_PNG17.png,Eiffel Tower,addCriterion
+data/thin/silhouette/eiffel_tower_PNG21.png,Eiffel Tower,addCriterion
+data/thin/silhouette/eiffel_tower_PNG29.png,Eiffel Tower,addCriterion
+data/thin/silhouette/eiffel_tower_PNG38.png,Eiffel Tower,addCriterion
+data/thin/silhouette/eiffel_tower_PNG6.png,Eiffel Tower,addCriterion
+data/thin/silhouette/eiffel_tower_PNG72.png,Eiffel Tower,addCriterion
+data/thin/silhouette/elephants_PNG18747.png,Elephants,addCriterion
+data/thin/silhouette/elephants_PNG18748.png,Elephants,addCriterion
+data/thin/silhouette/elephants_PNG18749.png,Elephants,addCriterion
+data/thin/silhouette/elephants_PNG18762.png,Elephants,addCriterion
+data/thin/silhouette/elephants_PNG18775.png,Elephants,Elephants
+data/thin/silhouette/elephants_PNG18779.png,Elephants,Elephants
+data/thin/silhouette/elephants_PNG18781.png,Elephants,Elephants
+data/thin/silhouette/elephants_PNG18782.png,Elephants,addCriterion
+data/thin/silhouette/elephants_PNG18785.png,Elephants,addCriterion
+data/thin/silhouette/elephants_PNG18787.png,Elephants,Elephants
+data/thin/silhouette/elephants_PNG18788.png,Elephants,Elephants
+data/thin/silhouette/elephants_PNG18793.png,Elephants,addCriterion
+data/thin/silhouette/elephants_PNG18799.png,Elephants,addCriterion
+data/thin/silhouette/elephants_PNG18800.png,Elephants,addCriterion
+data/thin/silhouette/elephants_PNG18801.png,Elephants,Elephants
+data/thin/silhouette/elephants_PNG18805.png,Elephants,addCriterion
+data/thin/silhouette/excavator_PNG1.png,Excavator,Excavator
+data/thin/silhouette/excavator_PNG12.png,Excavator,addCriterion
+data/thin/silhouette/excavator_PNG20.png,Excavator,addCriterion
+data/thin/silhouette/excavator_PNG21.png,Excavator,addCriterion
+data/thin/silhouette/excavator_PNG23.png,Excavator,addCriterion
+data/thin/silhouette/excavator_PNG26.png,Excavator,addCriterion
+data/thin/silhouette/excavator_PNG27.png,Excavator,addCriterion
+data/thin/silhouette/excavator_PNG28.png,Excavator,addCriterion
+data/thin/silhouette/excavator_PNG29.png,Excavator,addCriterion
+data/thin/silhouette/excavator_PNG32.png,Excavator,Excavator
+data/thin/silhouette/excavator_PNG37.png,Excavator,addCriterion
+data/thin/silhouette/excavator_PNG40.png,Excavator,addCriterion
+data/thin/silhouette/excavator_PNG45.png,Excavator,addCriterion
+data/thin/silhouette/excavator_PNG58.png,Excavator,addCriterion
+data/thin/silhouette/excavator_PNG65.png,Excavator,Excavator
+data/thin/silhouette/excavator_PNG8.png,Excavator,addCriterion
+data/thin/silhouette/excavator_PNG9.png,Excavator,addCriterion
+data/thin/silhouette/fan_PNG14457.png,Fan,Fan
+data/thin/silhouette/fan_PNG14458.png,Fan,Fan
+data/thin/silhouette/fan_PNG14460.png,Fan,Fan
+data/thin/silhouette/fan_PNG14461.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14462.png,Fan,Fan
+data/thin/silhouette/fan_PNG14463.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14464.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14465.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14467.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14469.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14471.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14472.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14473.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14475.png,Fan,Fan
+data/thin/silhouette/fan_PNG14478.png,Fan,Fan
+data/thin/silhouette/fan_PNG14479.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14482.png,Fan,Fan
+data/thin/silhouette/fan_PNG14483.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14484.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14485.png,Fan,Fan
+data/thin/silhouette/fan_PNG14486.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14487.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14489.png,Fan,Fan
+data/thin/silhouette/fan_PNG14490.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14491.png,Fan,addCriterion
+data/thin/silhouette/fan_PNG14492.png,Fan,Fan
+data/thin/silhouette/fir_tree_PNG3691.png,Fir Tree,addCriterion
+data/thin/silhouette/fire_truck_PNG11.png,Fire Truck,addCriterion
+data/thin/silhouette/fire_truck_PNG22.png,Fire Truck,addCriterion
+data/thin/silhouette/fire_truck_PNG37.png,Fire Truck,addCriterion
+data/thin/silhouette/fire_truck_PNG40.png,Fire Truck,addCriterion
+data/thin/silhouette/fire_truck_PNG43.png,Fire Truck,addCriterion
+data/thin/silhouette/fire_truck_PNG44.png,Fire Truck,addCriterion
+data/thin/silhouette/fire_truck_PNG46.png,Fire Truck,addCriterion
+data/thin/silhouette/fish_PNG25106.png,Fish,addCriterion
+data/thin/silhouette/flags_PNG14677.png,Flags,addCriterion
+data/thin/silhouette/flags_PNG14717.png,Flags,addCriterion
+data/thin/silhouette/flags_PNG14719.png,Flags,Flags
+data/thin/silhouette/flamingo_PNG15094.png,Flamingo,Flamingo
+data/thin/silhouette/flamingo_PNG15095.png,Flamingo,addCriterion
+data/thin/silhouette/flamingo_PNG15099.png,Flamingo,addCriterion
+data/thin/silhouette/flamingo_PNG15101.png,Flamingo,addCriterion
+data/thin/silhouette/flamingo_PNG15107.png,Flamingo,addCriterion
+data/thin/silhouette/flamingo_PNG15110.png,Flamingo,addCriterion
+data/thin/silhouette/flamingo_PNG15111.png,Flamingo,addCriterion
+data/thin/silhouette/flamingo_PNG15112.png,Flamingo,Flamingo
+data/thin/silhouette/flippers_PNG37454.png,Flippers,Flippers
+data/thin/silhouette/flippers_PNG37457.png,Flippers,addCriterion
+data/thin/silhouette/flippers_PNG37458.png,Flippers,addCriterion
+data/thin/silhouette/flippers_PNG37461.png,Flippers,addCriterion
+data/thin/silhouette/flippers_PNG37473.png,Flippers,addCriterion
+data/thin/silhouette/football_goal_PNG10.png,Football Goal,addCriterion
+data/thin/silhouette/football_goal_PNG12.png,Football Goal,addCriterion
+data/thin/silhouette/football_goal_PNG13.png,Football Goal,addCriterion
+data/thin/silhouette/football_goal_PNG14.png,Football Goal,addCriterion
+data/thin/silhouette/football_goal_PNG15.png,Football Goal,addCriterion
+data/thin/silhouette/football_goal_PNG17.png,Football Goal,Football Goal
+data/thin/silhouette/football_goal_PNG19.png,Football Goal,addCriterion
+data/thin/silhouette/football_goal_PNG22.png,Football Goal,Football Goal
+data/thin/silhouette/football_goal_PNG24.png,Football Goal,addCriterion
+data/thin/silhouette/football_goal_PNG25.png,Football Goal,Football Goal
+data/thin/silhouette/football_goal_PNG26.png,Football Goal,Football Goal
+data/thin/silhouette/football_goal_PNG33.png,Football Goal,Cage
+data/thin/silhouette/football_goal_PNG38.png,Football Goal,addCriterion
+data/thin/silhouette/football_goal_PNG41.png,Football Goal,Football Goal
+data/thin/silhouette/football_goal_PNG7.png,Football Goal,addCriterion
+data/thin/silhouette/fork_PNG3051.png,Fork,Fork
+data/thin/silhouette/fork_PNG3052.png,Fork,Fork
+data/thin/silhouette/fork_PNG3053.png,Fork,Fork
+data/thin/silhouette/fork_PNG3054.png,Fork,Fork
+data/thin/silhouette/fork_PNG3056.png,Fork,Fork
+data/thin/silhouette/fork_PNG3058.png,Fork,Fork
+data/thin/silhouette/fork_PNG3061.png,Fork,Fork
+data/thin/silhouette/fork_PNG3063.png,Fork,Fork
+data/thin/silhouette/fork_PNG3064.png,Fork,Fork
+data/thin/silhouette/fork_PNG3065.png,Fork,Fork
+data/thin/silhouette/fork_PNG3066.png,Fork,Fork
+data/thin/silhouette/fork_PNG3068.png,Fork,addCriterion
+data/thin/silhouette/frog_PNG35716.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35720.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35721.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35727.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35729.png,Frog,Frog
+data/thin/silhouette/frog_PNG35730.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35734.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35735.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35738.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35739.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35740.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35741.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35742.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35746.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35754.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35756.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35759.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35761.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35772.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG35776.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG3832.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG3835.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG3837.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG3838.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG3839.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG3840.png,Frog,Frog
+data/thin/silhouette/frog_PNG3841.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG3843.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG3845.png,Frog,addCriterion
+data/thin/silhouette/frog_PNG3846.png,Frog,Snails
+data/thin/silhouette/frog_PNG3847.png,Frog,addCriterion
+data/thin/silhouette/frying_pan_PNG8330.png,Frying Pan,addCriterion
+data/thin/silhouette/frying_pan_PNG8331.png,Frying Pan,Cooking Pan
+data/thin/silhouette/frying_pan_PNG8336.png,Frying Pan,addCriterion
+data/thin/silhouette/frying_pan_PNG8337.png,Frying Pan,addCriterion
+data/thin/silhouette/frying_pan_PNG8338.png,Frying Pan,addCriterion
+data/thin/silhouette/frying_pan_PNG8342.png,Frying Pan,addCriterion
+data/thin/silhouette/frying_pan_PNG8345.png,Frying Pan,addCriterion
+data/thin/silhouette/frying_pan_PNG8346.png,Frying Pan,addCriterion
+data/thin/silhouette/frying_pan_PNG8349.png,Frying Pan,addCriterion
+data/thin/silhouette/frying_pan_PNG8357.png,Frying Pan,addCriterion
+data/thin/silhouette/frying_pan_PNG8359.png,Frying Pan,addCriterion
+data/thin/silhouette/frying_pan_PNG8360.png,Frying Pan,addCriterion
+data/thin/silhouette/frying_pan_PNG8361.png,Frying Pan,addCriterion
+data/thin/silhouette/frying_pan_PNG8362.png,Frying Pan,addCriterion
+data/thin/silhouette/gas_mask_PNG1.png,Gas Mask,Gas Mask
+data/thin/silhouette/gas_mask_PNG12.png,Gas Mask,addCriterion
+data/thin/silhouette/gas_mask_PNG13.png,Gas Mask,Gas Mask
+data/thin/silhouette/gas_mask_PNG16.png,Gas Mask,Video Camera
+data/thin/silhouette/gas_mask_PNG18.png,Gas Mask,addCriterion
+data/thin/silhouette/gas_mask_PNG33.png,Gas Mask,Gas Mask
+data/thin/silhouette/gas_mask_PNG43.png,Gas Mask,addCriterion
+data/thin/silhouette/giraffe_PNG13518.png,Giraffe,addCriterion
+data/thin/silhouette/giraffe_PNG13522.png,Giraffe,Giraffe
+data/thin/silhouette/giraffe_PNG13525.png,Giraffe,addCriterion
+data/thin/silhouette/giraffe_PNG13534.png,Giraffe,addCriterion
+data/thin/silhouette/giraffe_PNG13539.png,Giraffe,addCriterion
+data/thin/silhouette/glider_PNG24.png,Glider,addCriterion
+data/thin/silhouette/glider_PNG6.png,Glider,addCriterion
+data/thin/silhouette/goat_PNG13150.png,Goat,addCriterion
+data/thin/silhouette/goat_PNG13151.png,Goat,addCriterion
+data/thin/silhouette/golden_cup_PNG14537.png,Golden Cup,addCriterion
+data/thin/silhouette/golden_cup_PNG14538.png,Golden Cup,addCriterion
+data/thin/silhouette/golden_cup_PNG14539.png,Golden Cup,addCriterion
+data/thin/silhouette/golden_cup_PNG14542.png,Golden Cup,Golden Cup
+data/thin/silhouette/golden_cup_PNG14547.png,Golden Cup,addCriterion
+data/thin/silhouette/golden_cup_PNG14548.png,Golden Cup,addCriterion
+data/thin/silhouette/golden_cup_PNG14549.png,Golden Cup,addCriterion
+data/thin/silhouette/golden_cup_PNG14550.png,Golden Cup,addCriterion
+data/thin/silhouette/golden_cup_PNG14551.png,Golden Cup,addCriterion
+data/thin/silhouette/golden_cup_PNG14559.png,Golden Cup,Golden Cup
+data/thin/silhouette/golden_cup_PNG14569.png,Golden Cup,Golden Cup
+data/thin/silhouette/golden_cup_PNG14571.png,Golden Cup,addCriterion
+data/thin/silhouette/golden_cup_PNG14575.png,Golden Cup,addCriterion
+data/thin/silhouette/grasshopper_PNG11.png,Grasshopper,addCriterion
+data/thin/silhouette/grasshopper_PNG13.png,Grasshopper,addCriterion
+data/thin/silhouette/grasshopper_PNG18.png,Grasshopper,Grasshopper
+data/thin/silhouette/grasshopper_PNG20.png,Grasshopper,addCriterion
+data/thin/silhouette/grasshopper_PNG32.png,Grasshopper,Grasshopper
+data/thin/silhouette/grasshopper_PNG4.png,Grasshopper,addCriterion
+data/thin/silhouette/grasshopper_PNG40.png,Grasshopper,addCriterion
+data/thin/silhouette/grasshopper_PNG44.png,Grasshopper,addCriterion
+data/thin/silhouette/grasshopper_PNG6.png,Grasshopper,addCriterion
+data/thin/silhouette/grasshopper_PNG7.png,Grasshopper,addCriterion
+data/thin/silhouette/grasshopper_PNG9.png,Grasshopper,addCriterion
+data/thin/silhouette/grenade_launcher_PNG15324.png,Grenade Launcher,addCriterion
+data/thin/silhouette/grenade_launcher_PNG15327.png,Grenade Launcher,addCriterion
+data/thin/silhouette/grenade_launcher_PNG15330.png,Grenade Launcher,addCriterion
+data/thin/silhouette/grenade_launcher_PNG15334.png,Grenade Launcher,addCriterion
+data/thin/silhouette/grenade_launcher_PNG15335.png,Grenade Launcher,addCriterion
+data/thin/silhouette/grenade_launcher_PNG15338.png,Grenade Launcher,addCriterion
+data/thin/silhouette/grenade_launcher_PNG15340.png,Grenade Launcher,addCriterion
+data/thin/silhouette/grill_PNG13937.png,Grill,Grill
+data/thin/silhouette/grill_PNG13938.png,Grill,Grill
+data/thin/silhouette/grill_PNG13939.png,Grill,Grill
+data/thin/silhouette/grill_PNG13942.png,Grill,Grill
+data/thin/silhouette/grill_PNG13944.png,Grill,addCriterion
+data/thin/silhouette/grill_PNG13947.png,Grill,addCriterion
+data/thin/silhouette/gun_PNG1353.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1354.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1355.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1357.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1358.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1360.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1363.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1371.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1373.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1374.png,Gun,Gun
+data/thin/silhouette/gun_PNG1377.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1378.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1379.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1381.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1384.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1385.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1386.png,Gun,addCriterion
+data/thin/silhouette/gun_PNG1389.png,Gun,addCriterion
+data/thin/silhouette/hairbrush_PNG105.png,Hairbrush,addCriterion
+data/thin/silhouette/hairbrush_PNG107.png,Hairbrush,addCriterion
+data/thin/silhouette/hairbrush_PNG110.png,Hairbrush,addCriterion
+data/thin/silhouette/hairbrush_PNG134.png,Hairbrush,Hairbrush
+data/thin/silhouette/hairbrush_PNG135.png,Hairbrush,Hairbrush
+data/thin/silhouette/hairbrush_PNG136a.png,Hairbrush,addCriterion
+data/thin/silhouette/hairbrush_PNG136d.png,Hairbrush,addCriterion
+data/thin/silhouette/hairbrush_PNG136f.png,Hairbrush,addCriterion
+data/thin/silhouette/hairbrush_PNG138.png,Hairbrush,addCriterion
+data/thin/silhouette/hairbrush_PNG140.png,Hairbrush,addCriterion
+data/thin/silhouette/hairbrush_PNG145.png,Hairbrush,Comb
+data/thin/silhouette/hairbrush_PNG146.png,Hairbrush,Hairbrush
+data/thin/silhouette/hairbrush_PNG152.png,Hairbrush,addCriterion
+data/thin/silhouette/hairbrush_PNG154.png,Hairbrush,Comb
+data/thin/silhouette/hairbrush_PNG157.png,Hairbrush,addCriterion
+data/thin/silhouette/hairbrush_PNG162.png,Hairbrush,addCriterion
+data/thin/silhouette/hairbrush_PNG20.png,Hairbrush,Hairbrush
+data/thin/silhouette/hairbrush_PNG47.png,Hairbrush,addCriterion
+data/thin/silhouette/hairbrush_PNG53.png,Hairbrush,Hairbrush
+data/thin/silhouette/hairbrush_PNG63.png,Hairbrush,Hairbrush
+data/thin/silhouette/hairbrush_PNG64.png,Hairbrush,addCriterion
+data/thin/silhouette/hairbrush_PNG65.png,Hairbrush,Comb
+data/thin/silhouette/hairbrush_PNG78.png,Hairbrush,Hairbrush
+data/thin/silhouette/hairbrush_PNG81.png,Hairbrush,Comb
+data/thin/silhouette/hammer_PNG1122.png,Hammer,addCriterion
+data/thin/silhouette/hammer_PNG1124.png,Hammer,Hammer
+data/thin/silhouette/hammer_PNG1127.png,Hammer,Hammer
+data/thin/silhouette/hammer_PNG1131.png,Hammer,addCriterion
+data/thin/silhouette/hammer_PNG1132.png,Hammer,addCriterion
+data/thin/silhouette/hammer_PNG1134.png,Hammer,addCriterion
+data/thin/silhouette/hammer_PNG1138.png,Hammer,addCriterion
+data/thin/silhouette/hammer_PNG1140.png,Hammer,Hammer
+data/thin/silhouette/hammer_PNG3888.png,Hammer,Hammer
+data/thin/silhouette/hammer_PNG3889a.png,Hammer,addCriterion
+data/thin/silhouette/hammer_PNG3889b.png,Hammer,addCriterion
+data/thin/silhouette/hammer_PNG3891.png,Hammer,addCriterion
+data/thin/silhouette/hammock_PNG1.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG12.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG18.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG19.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG2.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG23.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG3.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG32.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG33.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG37.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG39.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG4.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG41.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG43.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG45.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG48.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG49.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG50.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG61.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG63.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG64.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG65.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG7.png,Hammock,addCriterion
+data/thin/silhouette/hammock_PNG9.png,Hammock,addCriterion
+data/thin/silhouette/hand_saw_PNG9530.png,Hand Saw,addCriterion
+data/thin/silhouette/hand_saw_PNG9531.png,Hand Saw,addCriterion
+data/thin/silhouette/hand_saw_PNG9532.png,Hand Saw,addCriterion
+data/thin/silhouette/hand_saw_PNG9541.png,Hand Saw,addCriterion
+data/thin/silhouette/hand_saw_PNG9545.png,Hand Saw,addCriterion
+data/thin/silhouette/hand_saw_PNG9549.png,Hand Saw,addCriterion
+data/thin/silhouette/handcuffs_PNG12.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG13.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG14.png,Handcuffs,Handcuffs
+data/thin/silhouette/handcuffs_PNG16.png,Handcuffs,Headphones
+data/thin/silhouette/handcuffs_PNG18a.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG1a.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG1b.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG22.png,Handcuffs,Handcuffs
+data/thin/silhouette/handcuffs_PNG25.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG3.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG30.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG31.png,Handcuffs,Handcuffs
+data/thin/silhouette/handcuffs_PNG34.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG35.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG38.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG44.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG47.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG48.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG52.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG55.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG8.png,Handcuffs,addCriterion
+data/thin/silhouette/handcuffs_PNG9.png,Handcuffs,addCriterion
+data/thin/silhouette/harp_PNG1.png,Harp,addCriterion
+data/thin/silhouette/harp_PNG12.png,Harp,addCriterion
+data/thin/silhouette/harp_PNG21.png,Harp,addCriterion
+data/thin/silhouette/harp_PNG26.png,Harp,addCriterion
+data/thin/silhouette/harp_PNG30.png,Harp,addCriterion
+data/thin/silhouette/harp_PNG32.png,Harp,addCriterion
+data/thin/silhouette/harp_PNG4.png,Harp,addCriterion
+data/thin/silhouette/harp_PNG8.png,Harp,addCriterion
+data/thin/silhouette/headphones_PNG7634.png,Headphones,Headphones
+data/thin/silhouette/hedgehog_PNG11.png,Hedgehog,Dog
+data/thin/silhouette/hedgehog_PNG13.png,Hedgehog,addCriterion
+data/thin/silhouette/hedgehog_PNG16.png,Hedgehog,addCriterion
+data/thin/silhouette/hedgehog_PNG9.png,Hedgehog,addCriterion
+data/thin/silhouette/helicopter_PNG5300.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG5301.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG5302.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG5306.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG5311.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG5312.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG5313.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG5315.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80002.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80006.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80008.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80016.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80017.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80033.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80039.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80040.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80041.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80043.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80044.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80045.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80046.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80048.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80049.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80050.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80051.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80060.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80061.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80062.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80066.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80072.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80079.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80087.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80088.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80093.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80095.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80097.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80098.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80105.png,Helicopter,addCriterion
+data/thin/silhouette/helicopter_PNG80110.png,Helicopter,addCriterion
+data/thin/silhouette/horseshoe_PNG34.png,Horseshoe,addCriterion
+data/thin/silhouette/horseshoe_PNG5.png,Horseshoe,addCriterion
+data/thin/silhouette/horseshoe_PNG52.png,Horseshoe,Horseshoe
+data/thin/silhouette/horseshoe_PNG57.png,Horseshoe,addCriterion
+data/thin/silhouette/horseshoe_PNG58.png,Horseshoe,Horseshoe
+data/thin/silhouette/horseshoe_PNG6.png,Horseshoe,Horseshoe
+data/thin/silhouette/horseshoe_PNG61.png,Horseshoe,Horseshoe
+data/thin/silhouette/horseshoe_PNG7.png,Horseshoe,Horseshoe
+data/thin/silhouette/horseshoe_PNG8.png,Horseshoe,Horseshoe
+data/thin/silhouette/ice_axe_PNG10.png,Ice Axe,addCriterion
+data/thin/silhouette/ice_axe_PNG14.png,Ice Axe,addCriterion
+data/thin/silhouette/ice_axe_PNG15.png,Ice Axe,addCriterion
+data/thin/silhouette/ice_axe_PNG22.png,Ice Axe,addCriterion
+data/thin/silhouette/ice_axe_PNG23a.png,Ice Axe,Ice Axe
+data/thin/silhouette/ice_axe_PNG25.png,Ice Axe,addCriterion
+data/thin/silhouette/ice_axe_PNG36.png,Ice Axe,addCriterion
+data/thin/silhouette/ice_axe_PNG37.png,Ice Axe,Ice Axe
+data/thin/silhouette/ice_axe_PNG38.png,Ice Axe,Horseshoe
+data/thin/silhouette/ice_axe_PNG39.png,Ice Axe,Ice Axe
+data/thin/silhouette/ice_axe_PNG47.png,Ice Axe,Ice Axe
+data/thin/silhouette/ice_axe_PNG49.png,Ice Axe,Ice Axe
+data/thin/silhouette/ice_axe_PNG51.png,Ice Axe,addCriterion
+data/thin/silhouette/ice_axe_PNG52.png,Ice Axe,Ice Axe
+data/thin/silhouette/ice_axe_PNG53.png,Ice Axe,Ice Axe
+data/thin/silhouette/ice_axe_PNG54.png,Ice Axe,Ice Axe
+data/thin/silhouette/ice_axe_PNG55.png,Ice Axe,Ice Axe
+data/thin/silhouette/ice_axe_PNG58.png,Ice Axe,Ice Axe
+data/thin/silhouette/ice_axe_PNG6.png,Ice Axe,addCriterion
+data/thin/silhouette/ice_axe_PNG7.png,Ice Axe,addCriterion
+data/thin/silhouette/ice_axe_PNG8.png,Ice Axe,addCriterion
+data/thin/silhouette/iron_PNG15526.png,Iron,Iron
+data/thin/silhouette/iron_PNG15527.png,Iron,addCriterion
+data/thin/silhouette/iron_PNG15536.png,Iron,addCriterion
+data/thin/silhouette/iron_PNG15547.png,Iron,addCriterion
+data/thin/silhouette/iron_PNG15560.png,Iron,Iron
+data/thin/silhouette/iron_PNG15563.png,Iron,Iron
+data/thin/silhouette/iron_PNG15565.png,Iron,Iron
+data/thin/silhouette/iron_PNG15566.png,Iron,addCriterion
+data/thin/silhouette/iron_PNG15567.png,Iron,addCriterion
+data/thin/silhouette/iron_PNG15568.png,Iron,addCriterion
+data/thin/silhouette/jail_PNG10.png,Jail,Jail
+data/thin/silhouette/jail_PNG36.png,Jail,Jail
+data/thin/silhouette/jail_PNG38.png,Jail,addCriterion
+data/thin/silhouette/jail_PNG39.png,Jail,addCriterion
+data/thin/silhouette/jail_PNG40.png,Jail,addCriterion
+data/thin/silhouette/jail_PNG45.png,Jail,addCriterion
+data/thin/silhouette/jail_PNG53.png,Jail,addCriterion
+data/thin/silhouette/jeep_PNG143.png,Jeep,addCriterion
+data/thin/silhouette/kangaroo_PNG11.png,Kangaroo,addCriterion
+data/thin/silhouette/kangaroo_PNG12.png,Kangaroo,addCriterion
+data/thin/silhouette/kangaroo_PNG13.png,Kangaroo,addCriterion
+data/thin/silhouette/kangaroo_PNG14.png,Kangaroo,addCriterion
+data/thin/silhouette/kangaroo_PNG16.png,Kangaroo,addCriterion
+data/thin/silhouette/kangaroo_PNG22.png,Kangaroo,addCriterion
+data/thin/silhouette/kangaroo_PNG4.png,Kangaroo,addCriterion
+data/thin/silhouette/kangaroo_PNG5.png,Kangaroo,addCriterion
+data/thin/silhouette/kangaroo_PNG6.png,Kangaroo,addCriterion
+data/thin/silhouette/katana_PNG12.png,Katana,addCriterion
+data/thin/silhouette/katana_PNG16.png,Katana,addCriterion
+data/thin/silhouette/katana_PNG18.png,Katana,addCriterion
+data/thin/silhouette/katana_PNG2a.png,Katana,Sword
+data/thin/silhouette/katana_PNG2b.png,Katana,Sword
+data/thin/silhouette/katana_PNG3a.png,Katana,addCriterion
+data/thin/silhouette/katana_PNG3b.png,Katana,addCriterion
+data/thin/silhouette/katana_PNG4.png,Katana,addCriterion
+data/thin/silhouette/katana_PNG41.png,Katana,addCriterion
+data/thin/silhouette/katana_PNG42.png,Katana,addCriterion
+data/thin/silhouette/katana_PNG52.png,Katana,addCriterion
+data/thin/silhouette/katana_PNG6.png,Katana,addCriterion
+data/thin/silhouette/katana_PNG61b.png,Katana,Arrow Bow
+data/thin/silhouette/katana_PNG7.png,Katana,addCriterion
+data/thin/silhouette/katana_PNG72.png,Katana,addCriterion
+data/thin/silhouette/kayak_PNG127.png,Kayak,Kayak
+data/thin/silhouette/kayak_PNG135.png,Kayak,Kayak
+data/thin/silhouette/kayak_PNG152.png,Kayak,addCriterion
+data/thin/silhouette/kayak_PNG39.png,Kayak,addCriterion
+data/thin/silhouette/kayak_PNG48.png,Kayak,addCriterion
+data/thin/silhouette/kayak_PNG50.png,Kayak,addCriterion
+data/thin/silhouette/kayak_PNG52.png,Kayak,addCriterion
+data/thin/silhouette/kayak_PNG65.png,Kayak,Kayak
+data/thin/silhouette/kayak_PNG72.png,Kayak,addCriterion
+data/thin/silhouette/kayak_PNG98.png,Kayak,addCriterion
+data/thin/silhouette/kettle_PNG8694.png,Kettle,Kettle
+data/thin/silhouette/kettle_PNG8695.png,Kettle,addCriterion
+data/thin/silhouette/kettle_PNG8696.png,Kettle,addCriterion
+data/thin/silhouette/kettle_PNG8698.png,Kettle,Kettle
+data/thin/silhouette/kettle_PNG8700.png,Kettle,Samovar
+data/thin/silhouette/kettle_PNG8709.png,Kettle,Kettle
+data/thin/silhouette/kettle_PNG8710.png,Kettle,Kettle
+data/thin/silhouette/kettle_PNG8711.png,Kettle,addCriterion
+data/thin/silhouette/kettle_PNG8720.png,Kettle,addCriterion
+data/thin/silhouette/kettle_PNG8726.png,Kettle,addCriterion
+data/thin/silhouette/key_PNG1167.png,Key,Key
+data/thin/silhouette/key_PNG3378.png,Key,addCriterion
+data/thin/silhouette/kick_scooter_PNG11384.png,Kick Scooter,Kick Scooter
+data/thin/silhouette/kick_scooter_PNG11386.png,Kick Scooter,Kick Scooter
+data/thin/silhouette/kick_scooter_PNG11389.png,Kick Scooter,addCriterion
+data/thin/silhouette/kick_scooter_PNG11390.png,Kick Scooter,Kick Scooter
+data/thin/silhouette/kick_scooter_PNG11391.png,Kick Scooter,Kick Scooter
+data/thin/silhouette/kick_scooter_PNG11393.png,Kick Scooter,addCriterion
+data/thin/silhouette/kick_scooter_PNG11394.png,Kick Scooter,addCriterion
+data/thin/silhouette/kick_scooter_PNG11396.png,Kick Scooter,addCriterion
+data/thin/silhouette/ladder_PNG14772.png,Ladder,addCriterion
+data/thin/silhouette/ladder_PNG14773.png,Ladder,addCriterion
+data/thin/silhouette/ladder_PNG14774.png,Ladder,addCriterion
+data/thin/silhouette/ladder_PNG14775.png,Ladder,addCriterion
+data/thin/silhouette/ladder_PNG14778.png,Ladder,addCriterion
+data/thin/silhouette/ladder_PNG14779.png,Ladder,Ladder
+data/thin/silhouette/ladder_PNG14780.png,Ladder,addCriterion
+data/thin/silhouette/ladder_PNG14785.png,Ladder,addCriterion
+data/thin/silhouette/ladder_PNG14788.png,Ladder,addCriterion
+data/thin/silhouette/ladder_PNG14789.png,Ladder,addCriterion
+data/thin/silhouette/ladder_PNG14800.png,Ladder,addCriterion
+data/thin/silhouette/ladder_PNG14801.png,Ladder,addCriterion
+data/thin/silhouette/ladder_PNG14805.png,Ladder,addCriterion
+data/thin/silhouette/ladder_PNG14807.png,Ladder,addCriterion
+data/thin/silhouette/ladybug_PNG3960.png,Ladybug,Ladybug
+data/thin/silhouette/ladybug_PNG3967.png,Ladybug,addCriterion
+data/thin/silhouette/lemur_PNG15.png,Lemur,addCriterion
+data/thin/silhouette/lemur_PNG26.png,Lemur,addCriterion
+data/thin/silhouette/lemur_PNG33.png,Lemur,addCriterion
+data/thin/silhouette/lifebuoy_PNG2.png,Lifebuoy,Lifebuoy
+data/thin/silhouette/lizard_PNG1.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG11.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG12.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG13.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG15.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG16.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG17.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG2.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG21.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG23.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG24.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG28.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG29.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG32.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG35.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG4.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG5.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG6.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG7.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG8.png,Lizard,addCriterion
+data/thin/silhouette/lizard_PNG9.png,Lizard,addCriterion
+data/thin/silhouette/lobster_PNG14231.png,Lobster,addCriterion
+data/thin/silhouette/lobster_PNG14234.png,Lobster,addCriterion
+data/thin/silhouette/lobster_PNG14238.png,Lobster,addCriterion
+data/thin/silhouette/lobster_PNG14240.png,Lobster,addCriterion
+data/thin/silhouette/lobster_PNG14242.png,Lobster,addCriterion
+data/thin/silhouette/lobster_PNG14247.png,Lobster,addCriterion
+data/thin/silhouette/lobster_PNG14248.png,Lobster,addCriterion
+data/thin/silhouette/louboutin_PNG10835.png,Louboutin,addCriterion
+data/thin/silhouette/louboutin_PNG10838.png,Louboutin,addCriterion
+data/thin/silhouette/louboutin_PNG10841.png,Louboutin,Louboutin
+data/thin/silhouette/louboutin_PNG10842.png,Louboutin,Louboutin
+data/thin/silhouette/louboutin_PNG10843.png,Louboutin,Louboutin
+data/thin/silhouette/louboutin_PNG10845.png,Louboutin,addCriterion
+data/thin/silhouette/louboutin_PNG10846.png,Louboutin,addCriterion
+data/thin/silhouette/louboutin_PNG10849.png,Louboutin,Louboutin
+data/thin/silhouette/mantis_PNG14.png,Mantis,addCriterion
+data/thin/silhouette/mantis_PNG17.png,Mantis,Mantis
+data/thin/silhouette/mantis_PNG35.png,Mantis,Mantis
+data/thin/silhouette/mantis_PNG37.png,Mantis,addCriterion
+data/thin/silhouette/mantis_PNG55.png,Mantis,addCriterion
+data/thin/silhouette/mantis_PNG59.png,Mantis,addCriterion
+data/thin/silhouette/mantis_PNG60.png,Mantis,Mantis
+data/thin/silhouette/mantis_PNG71.png,Mantis,Mantis
+data/thin/silhouette/megaphone_PNG113.png,Megaphone,Megaphone
+data/thin/silhouette/megaphone_PNG116.png,Megaphone,addCriterion
+data/thin/silhouette/megaphone_PNG14.png,Megaphone,Megaphone
+data/thin/silhouette/megaphone_PNG30.png,Megaphone,Megaphone
+data/thin/silhouette/megaphone_PNG31.png,Megaphone,Megaphone
+data/thin/silhouette/megaphone_PNG39.png,Megaphone,addCriterion
+data/thin/silhouette/megaphone_PNG91.png,Megaphone,addCriterion
+data/thin/silhouette/microphone_PNG7900.png,Microphone,Microphone
+data/thin/silhouette/microphone_PNG7920.png,Microphone,addCriterion
+data/thin/silhouette/moose_PNG1.png,Moose,Moose
+data/thin/silhouette/moose_PNG13.png,Moose,Moose
+data/thin/silhouette/moose_PNG2.png,Moose,addCriterion
+data/thin/silhouette/moose_PNG27.png,Moose,addCriterion
+data/thin/silhouette/moose_PNG28.png,Moose,Moose
+data/thin/silhouette/moose_PNG39.png,Moose,Deer
+data/thin/silhouette/moose_PNG40.png,Moose,addCriterion
+data/thin/silhouette/moose_PNG41.png,Moose,addCriterion
+data/thin/silhouette/moose_PNG50.png,Moose,addCriterion
+data/thin/silhouette/moose_PNG64.png,Moose,addCriterion
+data/thin/silhouette/moose_PNG65.png,Moose,addCriterion
+data/thin/silhouette/mop_PNG10.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG12.png,Mop,Broom
+data/thin/silhouette/mop_PNG13.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG15.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG19.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG20a.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG20b.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG21.png,Mop,Crutch
+data/thin/silhouette/mop_PNG22.png,Mop,Broom
+data/thin/silhouette/mop_PNG23.png,Mop,Mop
+data/thin/silhouette/mop_PNG24.png,Mop,Broom
+data/thin/silhouette/mop_PNG25.png,Mop,Mop
+data/thin/silhouette/mop_PNG28.png,Mop,Mop
+data/thin/silhouette/mop_PNG34.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG35.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG36.png,Mop,Broom
+data/thin/silhouette/mop_PNG37.png,Mop,Mop
+data/thin/silhouette/mop_PNG38.png,Mop,Vacuum Cleaner
+data/thin/silhouette/mop_PNG4.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG41.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG44.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG45.png,Mop,Mop
+data/thin/silhouette/mop_PNG46.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG48.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG52.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG58.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG6.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG66.png,Mop,Broom
+data/thin/silhouette/mop_PNG68.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG70.png,Mop,Mop
+data/thin/silhouette/mop_PNG71.png,Mop,Mop
+data/thin/silhouette/mop_PNG74.png,Mop,Broom
+data/thin/silhouette/mop_PNG75a.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG75b.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG78.png,Mop,Mop
+data/thin/silhouette/mop_PNG79.png,Mop,Mop
+data/thin/silhouette/mop_PNG81.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG83.png,Mop,Vacuum Cleaner
+data/thin/silhouette/mop_PNG84.png,Mop,Vacuum Cleaner
+data/thin/silhouette/mop_PNG85.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG90.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG91.png,Mop,addCriterion
+data/thin/silhouette/mop_PNG92.png,Mop,addCriterion
+data/thin/silhouette/mortar_PNG1.png,Mortar,addCriterion
+data/thin/silhouette/mortar_PNG12.png,Mortar,addCriterion
+data/thin/silhouette/mortar_PNG13.png,Mortar,Gun
+data/thin/silhouette/mortar_PNG15.png,Mortar,addCriterion
+data/thin/silhouette/mortar_PNG17.png,Mortar,Tripod
+data/thin/silhouette/mortar_PNG18.png,Mortar,Gun
+data/thin/silhouette/mortar_PNG21.png,Mortar,addCriterion
+data/thin/silhouette/mortar_PNG22.png,Mortar,addCriterion
+data/thin/silhouette/mortar_PNG24.png,Mortar,addCriterion
+data/thin/silhouette/mortar_PNG25.png,Mortar,Microphone
+data/thin/silhouette/mortar_PNG27.png,Mortar,Telescope
+data/thin/silhouette/mortar_PNG4.png,Mortar,addCriterion
+data/thin/silhouette/mortar_PNG5.png,Mortar,addCriterion
+data/thin/silhouette/mortar_PNG7.png,Mortar,addCriterion
+data/thin/silhouette/mortar_PNG8.png,Mortar,addCriterion
+data/thin/silhouette/mortar_PNG9.png,Mortar,Gun
+data/thin/silhouette/mosquito_PNG18153.png,Mosquito,addCriterion
+data/thin/silhouette/mosquito_PNG18154.png,Mosquito,addCriterion
+data/thin/silhouette/mosquito_PNG18159.png,Mosquito,addCriterion
+data/thin/silhouette/mosquito_PNG18164.png,Mosquito,addCriterion
+data/thin/silhouette/mosquito_PNG18167.png,Mosquito,addCriterion
+data/thin/silhouette/mosquito_PNG18175.png,Mosquito,addCriterion
+data/thin/silhouette/mosquito_PNG18177a.png,Mosquito,addCriterion
+data/thin/silhouette/mosquito_PNG18177b.png,Mosquito,addCriterion
+data/thin/silhouette/motorcycle_PNG3131.png,Motorcycle,addCriterion
+data/thin/silhouette/motorcycle_PNG3132.png,Motorcycle,addCriterion
+data/thin/silhouette/motorcycle_PNG3136.png,Motorcycle,addCriterion
+data/thin/silhouette/motorcycle_PNG3137.png,Motorcycle,addCriterion
+data/thin/silhouette/motorcycle_PNG3147.png,Motorcycle,addCriterion
+data/thin/silhouette/motorcycle_PNG3151.png,Motorcycle,addCriterion
+data/thin/silhouette/motorcycle_PNG3152.png,Motorcycle,addCriterion
+data/thin/silhouette/motorcycle_PNG3157.png,Motorcycle,addCriterion
+data/thin/silhouette/motorcycle_PNG3158.png,Motorcycle,addCriterion
+data/thin/silhouette/motorcycle_PNG3159.png,Motorcycle,addCriterion
+data/thin/silhouette/motorcycle_PNG3161.png,Motorcycle,Motorcycle
+data/thin/silhouette/motorcycle_PNG3163.png,Motorcycle,Motorcycle
+data/thin/silhouette/motorcycle_PNG3167.png,Motorcycle,Motorcycle
+data/thin/silhouette/motorcycle_PNG3174.png,Motorcycle,addCriterion
+data/thin/silhouette/motorcycle_PNG3175.png,Motorcycle,addCriterion
+data/thin/silhouette/motorcycle_PNG3177.png,Motorcycle,addCriterion
+data/thin/silhouette/motorcycle_PNG5348.png,Motorcycle,addCriterion
+data/thin/silhouette/octopus_PNG1.png,Octopus,addCriterion
+data/thin/silhouette/octopus_PNG11.png,Octopus,addCriterion
+data/thin/silhouette/octopus_PNG16.png,Octopus,addCriterion
+data/thin/silhouette/ostrich_PNG17.png,Ostrich,addCriterion
+data/thin/silhouette/ostrich_PNG76984.png,Ostrich,addCriterion
+data/thin/silhouette/paddle_PNG10494.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10495a.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10495b.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10496a.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10496b.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10500.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10501.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10503.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10504.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10505.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10507.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10508.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10509.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10512.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10513.png,Paddle,Paddle
+data/thin/silhouette/paddle_PNG10514.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10515.png,Paddle,Paddle
+data/thin/silhouette/paddle_PNG10516.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10518.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10519.png,Paddle,addCriterion
+data/thin/silhouette/paddle_PNG10520.png,Paddle,addCriterion
+data/thin/silhouette/padlock_PNG9401a.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9402.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9420a.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9421.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9422.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9424a.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9425.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9427.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9428.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9429a.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9429b.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9429c.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9429d.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9430a.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9431.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9432.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9433.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9434.png,Padlock,addCriterion
+data/thin/silhouette/padlock_PNG9435.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9436.png,Padlock,addCriterion
+data/thin/silhouette/palm_tree_PNG2487.png,Palm Tree,addCriterion
+data/thin/silhouette/parachute_PNG19417.png,Parachute,addCriterion
+data/thin/silhouette/parachute_PNG19424.png,Parachute,Parachute
+data/thin/silhouette/parachute_PNG19425.png,Parachute,Parachute
+data/thin/silhouette/parachute_PNG19426.png,Parachute,Parachute
+data/thin/silhouette/pear_PNG3443.png,Pear,addCriterion
+data/thin/silhouette/pear_PNG3452.png,Pear,addCriterion
+data/thin/silhouette/pear_PNG3459.png,Pear,addCriterion
+data/thin/silhouette/pear_PNG3460.png,Pear,addCriterion
+data/thin/silhouette/pear_PNG3462.png,Pear,addCriterion
+data/thin/silhouette/piano_PNG10871.png,Piano,Piano
+data/thin/silhouette/piano_PNG10875.png,Piano,addCriterion
+data/thin/silhouette/piano_PNG10880.png,Piano,Piano
+data/thin/silhouette/piano_PNG10881.png,Piano,addCriterion
+data/thin/silhouette/piano_PNG10883.png,Piano,Piano
+data/thin/silhouette/piano_PNG10885.png,Piano,addCriterion
+data/thin/silhouette/piano_PNG10887.png,Piano,Piano
+data/thin/silhouette/piano_PNG10892.png,Piano,Piano
+data/thin/silhouette/piano_PNG10894.png,Piano,Piano
+data/thin/silhouette/pineapple_PNG2728.png,Pineapple,addCriterion
+data/thin/silhouette/pineapple_PNG2731a.png,Pineapple,Pineapple
+data/thin/silhouette/pineapple_PNG2731b.png,Pineapple,Pineapple
+data/thin/silhouette/pineapple_PNG2734.png,Pineapple,addCriterion
+data/thin/silhouette/pineapple_PNG2742.png,Pineapple,addCriterion
+data/thin/silhouette/pineapple_PNG2746.png,Pineapple,addCriterion
+data/thin/silhouette/pineapple_PNG2749.png,Pineapple,addCriterion
+data/thin/silhouette/pineapple_PNG2750.png,Pineapple,addCriterion
+data/thin/silhouette/plier_PNG10043.png,Plier,addCriterion
+data/thin/silhouette/plier_PNG10045.png,Plier,addCriterion
+data/thin/silhouette/plier_PNG10068.png,Plier,addCriterion
+data/thin/silhouette/plier_PNG10071.png,Plier,addCriterion
+data/thin/silhouette/plier_PNG10072.png,Plier,addCriterion
+data/thin/silhouette/plier_PNG10073.png,Plier,addCriterion
+data/thin/silhouette/plunger_PNG10.png,Plunger,addCriterion
+data/thin/silhouette/plunger_PNG12.png,Plunger,addCriterion
+data/thin/silhouette/plunger_PNG13.png,Plunger,addCriterion
+data/thin/silhouette/plunger_PNG16.png,Plunger,Plunger
+data/thin/silhouette/plunger_PNG17.png,Plunger,addCriterion
+data/thin/silhouette/plunger_PNG18.png,Plunger,addCriterion
+data/thin/silhouette/plunger_PNG23.png,Plunger,Plunger
+data/thin/silhouette/plunger_PNG27.png,Plunger,addCriterion
+data/thin/silhouette/plunger_PNG29.png,Plunger,addCriterion
+data/thin/silhouette/plunger_PNG3.png,Plunger,addCriterion
+data/thin/silhouette/plunger_PNG30.png,Plunger,addCriterion
+data/thin/silhouette/plunger_PNG33.png,Plunger,addCriterion
+data/thin/silhouette/plunger_PNG4.png,Plunger,addCriterion
+data/thin/silhouette/plunger_PNG7.png,Plunger,addCriterion
+data/thin/silhouette/pram_PNG17877.png,Pram,Pram
+data/thin/silhouette/pram_PNG17878.png,Pram,addCriterion
+data/thin/silhouette/pram_PNG17880.png,Pram,Pram
+data/thin/silhouette/pram_PNG17881.png,Pram,Pram
+data/thin/silhouette/pram_PNG17882.png,Pram,Pram
+data/thin/silhouette/pram_PNG17883.png,Pram,Pram
+data/thin/silhouette/pram_PNG17884.png,Pram,addCriterion
+data/thin/silhouette/pram_PNG17885.png,Pram,addCriterion
+data/thin/silhouette/pram_PNG17886.png,Pram,Pram
+data/thin/silhouette/pram_PNG17891.png,Pram,addCriterion
+data/thin/silhouette/pram_PNG17893.png,Pram,Pram
+data/thin/silhouette/pram_PNG17897.png,Pram,addCriterion
+data/thin/silhouette/pram_PNG17899.png,Pram,Pram
+data/thin/silhouette/pram_PNG17902.png,Pram,addCriterion
+data/thin/silhouette/pram_PNG17905.png,Pram,Pram
+data/thin/silhouette/pram_PNG17907.png,Pram,Pram
+data/thin/silhouette/pram_PNG17909.png,Pram,addCriterion
+data/thin/silhouette/punching_bag_PNG1.png,Punching Bag,addCriterion
+data/thin/silhouette/punching_bag_PNG12.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG14.png,Punching Bag,addCriterion
+data/thin/silhouette/punching_bag_PNG19.png,Punching Bag,addCriterion
+data/thin/silhouette/punching_bag_PNG2.png,Punching Bag,addCriterion
+data/thin/silhouette/punching_bag_PNG21.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG23.png,Punching Bag,addCriterion Bag
+data/thin/silhouette/punching_bag_PNG27.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG29.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG30.png,Punching Bag,addCriterion
+data/thin/silhouette/punching_bag_PNG32.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG38.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG4.png,Punching Bag,addCriterion
+data/thin/silhouette/punching_bag_PNG43.png,Punching Bag,addCriterion
+data/thin/silhouette/punching_bag_PNG46.png,Punching Bag,addCriterion
+data/thin/silhouette/punching_bag_PNG55.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG56.png,Punching Bag,addCriterion
+data/thin/silhouette/punching_bag_PNG58.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG59.png,Punching Bag,addCriterion
+data/thin/silhouette/punching_bag_PNG6.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG60.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG64.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG67.png,Punching Bag,addCriterion
+data/thin/silhouette/punching_bag_PNG70.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG76.png,Punching Bag,addCriterion
+data/thin/silhouette/punching_bag_PNG77.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG78.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG79a.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG79b.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG79c.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG81.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG82.png,Punching Bag,Punching Bag
+data/thin/silhouette/radio_PNG19272.png,Radio,Radio
+data/thin/silhouette/radio_PNG19281.png,Radio,Radio
+data/thin/silhouette/radio_PNG19290.png,Radio,Radio
+data/thin/silhouette/radio_PNG19297.png,Radio,addCriterion
+data/thin/silhouette/rat_mouse_PNG23530.png,Rat Mouse,addCriterion
+data/thin/silhouette/rat_mouse_PNG23531.png,Rat Mouse,addCriterion
+data/thin/silhouette/rat_mouse_PNG23537.png,Rat Mouse,addCriterion
+data/thin/silhouette/rat_mouse_PNG23538.png,Rat Mouse,addCriterion
+data/thin/silhouette/rat_mouse_PNG23550.png,Rat Mouse,addCriterion
+data/thin/silhouette/rat_mouse_PNG23551.png,Rat Mouse,Rat Mouse
+data/thin/silhouette/rat_mouse_PNG23552.png,Rat Mouse,addCriterion
+data/thin/silhouette/rat_mouse_PNG23553.png,Rat Mouse,addCriterion
+data/thin/silhouette/rat_mouse_PNG23554.png,Rat Mouse,addCriterion
+data/thin/silhouette/rat_mouse_PNG23555.png,Rat Mouse,addCriterion
+data/thin/silhouette/raven_PNG14.png,Raven,addCriterion
+data/thin/silhouette/raven_PNG22.png,Raven,addCriterion
+data/thin/silhouette/raven_PNG31.png,Raven,addCriterion
+data/thin/silhouette/raven_PNG35.png,Raven,addCriterion
+data/thin/silhouette/raven_PNG37.png,Raven,Crow
+data/thin/silhouette/raven_PNG42.png,Raven,addCriterion
+data/thin/silhouette/raven_PNG47.png,Raven,addCriterion
+data/thin/silhouette/raven_PNG49.png,Raven,addCriterion
+data/thin/silhouette/raven_PNG50.png,Raven,addCriterion
+data/thin/silhouette/raven_PNG52.png,Raven,addCriterion
+data/thin/silhouette/raven_PNG53.png,Raven,Crow
+data/thin/silhouette/raven_PNG55.png,Raven,addCriterion
+data/thin/silhouette/raven_PNG60.png,Raven,addCriterion
+data/thin/silhouette/raven_PNG7.png,Raven,addCriterion
+data/thin/silhouette/raven_PNG70.png,Raven,addCriterion
+data/thin/silhouette/raven_PNG95.png,Raven,addCriterion
+data/thin/silhouette/raven_PNG98.png,Raven,addCriterion
+data/thin/silhouette/roller_skates_PNG44.png,Roller Skates,addCriterion
+data/thin/silhouette/roller_skates_PNG73.png,Roller Skates,addCriterion
+data/thin/silhouette/roller_skates_PNG86.png,Roller Skates,addCriterion
+data/thin/silhouette/roller_skates_PNG87.png,Roller Skates,Roller Skates
+data/thin/silhouette/roller_skates_PNG94.png,Roller Skates,addCriterion
+data/thin/silhouette/rose_PNG66693.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG66694.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG66696.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG66700.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG66758.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG66768.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG66783.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG66787a.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG66787b.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG66788a.png,Rose,Rose
+data/thin/silhouette/rose_PNG66788b.png,Rose,Rose
+data/thin/silhouette/rose_PNG66789.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG66794.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG66819.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG66828.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG66878.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG66948.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG66993.png,Rose,addCriterion
+data/thin/silhouette/rose_PNG67008.png,Rose,addCriterion
+data/thin/silhouette/samovar_PNG1.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG12.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG13.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG2.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG23.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG36.png,Samovar,Samovar
+data/thin/silhouette/samovar_PNG39.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG42.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG43.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG45.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG55.png,Samovar,Samovar
+data/thin/silhouette/samovar_PNG6.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG66.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG67.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG68.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG88.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG90.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG93.png,Samovar,addCriterion
+data/thin/silhouette/samovar_PNG94.png,Samovar,Samovar
+data/thin/silhouette/samovar_PNG95.png,Samovar,addCriterion
+data/thin/silhouette/sandals_PNG9671.png,Sandals,addCriterion
+data/thin/silhouette/sandals_PNG9681a.png,Sandals,addCriterion
+data/thin/silhouette/sandals_PNG9691.png,Sandals,Sandals
+data/thin/silhouette/sandals_PNG9695.png,Sandals,addCriterion
+data/thin/silhouette/sandals_PNG9708.png,Sandals,addCriterion
+data/thin/silhouette/scales_PNG22.png,Scales,addCriterion
+data/thin/silhouette/scales_PNG35.png,Scales,Scales
+data/thin/silhouette/scales_PNG4.png,Scales,Scales
+data/thin/silhouette/scales_PNG5.png,Scales,Scales
+data/thin/silhouette/scales_PNG61.png,Scales,addCriterion
+data/thin/silhouette/scales_PNG78.png,Scales,addCriterion
+data/thin/silhouette/scissors_PNG0.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG10.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG11.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG12.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG13.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG14.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG15.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG17.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG18.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG2.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG20.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG21.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG22a.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG22b.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG24a.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG24b.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG26.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG27.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG28.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG31.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG32.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG33.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG34.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG35.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG36.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG37.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG39b.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG41.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG5.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG6.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG8.png,Scissors,addCriterion
+data/thin/silhouette/scissors_PNG9.png,Scissors,addCriterion
+data/thin/silhouette/scooter_PNG11285.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11286.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11287.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11289.png,Scooter,Scooter
+data/thin/silhouette/scooter_PNG11290.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11291.png,Scooter,Scooter
+data/thin/silhouette/scooter_PNG11298.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11301.png,Scooter,Scooter
+data/thin/silhouette/scooter_PNG11302.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11303.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11306.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11309.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11311.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11312.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11316.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11321.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11325.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11327.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11328.png,Scooter,Scooter
+data/thin/silhouette/scooter_PNG11330.png,Scooter,Scooter
+data/thin/silhouette/scooter_PNG11331.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11332.png,Scooter,addCriterion
+data/thin/silhouette/scooter_PNG11338.png,Scooter,Scooter
+data/thin/silhouette/scorpion_PNG12113a.png,Scorpion,addCriterion
+data/thin/silhouette/scorpion_PNG12113b.png,Scorpion,addCriterion
+data/thin/silhouette/scorpion_PNG12114.png,Scorpion,addCriterion
+data/thin/silhouette/scorpion_PNG12115.png,Scorpion,addCriterion
+data/thin/silhouette/scorpion_PNG12116.png,Scorpion,addCriterion
+data/thin/silhouette/scorpion_PNG12117.png,Scorpion,addCriterion
+data/thin/silhouette/scorpion_PNG12122.png,Scorpion,Scorpion
+data/thin/silhouette/scorpion_PNG12125.png,Scorpion,addCriterion
+data/thin/silhouette/scorpion_PNG12128.png,Scorpion,addCriterion
+data/thin/silhouette/scorpion_PNG12130.png,Scorpion,Scorpion
+data/thin/silhouette/scorpion_PNG12136.png,Scorpion,addCriterion
+data/thin/silhouette/scorpion_PNG12138.png,Scorpion,Scorpion
+data/thin/silhouette/screwdriver_PNG9494.png,Screwdriver,addCriterion
+data/thin/silhouette/screwdriver_PNG9496.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9497.png,Screwdriver,addCriterion
+data/thin/silhouette/screwdriver_PNG9499.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9502.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9503.png,Screwdriver,addCriterion
+data/thin/silhouette/screwdriver_PNG9510.png,Screwdriver,addCriterion
+data/thin/silhouette/screwdriver_PNG9511.png,Screwdriver,addCriterion
+data/thin/silhouette/screwdriver_PNG9512.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9513b.png,Screwdriver,addCriterion
+data/thin/silhouette/screwdriver_PNG9513c.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9513d.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9513e.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9513f.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9513g.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9513h.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9513i.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9514a.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9514b.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9514e.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9514f.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9514h.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9516b.png,Screwdriver,addCriterion
+data/thin/silhouette/screwdriver_PNG9516c.png,Screwdriver,addCriterion
+data/thin/silhouette/screwdriver_PNG9516d.png,Screwdriver,addCriterion
+data/thin/silhouette/screwdriver_PNG9516e.png,Screwdriver,addCriterion
+data/thin/silhouette/screwdriver_PNG9518.png,Screwdriver,addCriterion
+data/thin/silhouette/screwdriver_PNG9519.png,Screwdriver,addCriterion
+data/thin/silhouette/screwdriver_PNG9522.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9523.png,Screwdriver,addCriterion
+data/thin/silhouette/screwdriver_PNG9527.png,Screwdriver,addCriterion
+data/thin/silhouette/screwdriver_PNG9528.png,Screwdriver,addCriterion
+data/thin/silhouette/screwdriver_PNG9529.png,Screwdriver,addCriterion
+data/thin/silhouette/seahorse_PNG11.png,Seahorse,addCriterion
+data/thin/silhouette/seahorse_PNG12.png,Seahorse,addCriterion
+data/thin/silhouette/seahorse_PNG2.png,Seahorse,addCriterion
+data/thin/silhouette/seahorse_PNG3a.png,Seahorse,addCriterion
+data/thin/silhouette/seahorse_PNG3b.png,Seahorse,addCriterion
+data/thin/silhouette/seahorse_PNG5.png,Seahorse,addCriterion
+data/thin/silhouette/seahorse_PNG8.png,Seahorse,addCriterion
+data/thin/silhouette/sewing_machine_PNG31.png,Sewing Machine,addCriterion
+data/thin/silhouette/sewing_machine_PNG66.png,Sewing Machine,addCriterion
+data/thin/silhouette/sewing_machine_PNG69.png,Sewing Machine,Sewing Machine
+data/thin/silhouette/ship_PNG5403.png,Ship,Ship
+data/thin/silhouette/ship_PNG5407.png,Ship,addCriterion
+data/thin/silhouette/ship_PNG5416.png,Ship,addCriterion
+data/thin/silhouette/shopping_cart_PNG1.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG21.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG28.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG30.png,Shopping Cart,addCriterion
+data/thin/silhouette/shopping_cart_PNG32.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG36.png,Shopping Cart,addCriterion
+data/thin/silhouette/shopping_cart_PNG43.png,Shopping Cart,addCriterion
+data/thin/silhouette/shopping_cart_PNG47.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG49.png,Shopping Cart,addCriterion
+data/thin/silhouette/shopping_cart_PNG63.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG67.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG70.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG72.png,Shopping Cart,addCriterion
+data/thin/silhouette/shopping_cart_PNG74.png,Shopping Cart,Telephone Booth
+data/thin/silhouette/shovel_PNG7595.png,Shovel,addCriterion
+data/thin/silhouette/shovel_PNG7598.png,Shovel,addCriterion
+data/thin/silhouette/shovel_PNG7599.png,Shovel,addCriterion
+data/thin/silhouette/shovel_PNG7601.png,Shovel,addCriterion
+data/thin/silhouette/shovel_PNG7604.png,Shovel,addCriterion
+data/thin/silhouette/shovel_PNG7608.png,Shovel,addCriterion
+data/thin/silhouette/shovel_PNG7609a.png,Shovel,addCriterion
+data/thin/silhouette/shovel_PNG7609b.png,Shovel,addCriterion
+data/thin/silhouette/shovel_PNG7609c.png,Shovel,addCriterion
+data/thin/silhouette/shovel_PNG7611.png,Shovel,Shovel
+data/thin/silhouette/shovel_PNG7617.png,Shovel,addCriterion
+data/thin/silhouette/shovel_PNG7618.png,Shovel,addCriterion
+data/thin/silhouette/shrimps_PNG18255.png,Shrimps,addCriterion
+data/thin/silhouette/shrimps_PNG18257.png,Shrimps,addCriterion
+data/thin/silhouette/shrimps_PNG18261b.png,Shrimps,addCriterion
+data/thin/silhouette/shrimps_PNG18265.png,Shrimps,addCriterion
+data/thin/silhouette/shrimps_PNG18267.png,Shrimps,addCriterion
+data/thin/silhouette/shrimps_PNG18274.png,Shrimps,addCriterion
+data/thin/silhouette/shrimps_PNG18277.png,Shrimps,addCriterion
+data/thin/silhouette/skeleton_PNG42614.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42616.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42618b.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42619.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42621.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42624.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42627.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42629.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42633.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42637a.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42637b.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42639.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42645.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42647.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42648.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42649.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42652.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42654.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42655.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42656.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42657.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42660.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42661.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42662.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42663.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG42666a.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG5531.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG5532.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG5536.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG5538.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG5539.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG5545.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG5557.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG5558.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG5565a.png,Skeleton,addCriterion
+data/thin/silhouette/skeleton_PNG5565b.png,Skeleton,addCriterion
+data/thin/silhouette/sled_PNG11.png,Sled,addCriterion
+data/thin/silhouette/sled_PNG15.png,Sled,addCriterion
+data/thin/silhouette/sled_PNG23.png,Sled,Sled
+data/thin/silhouette/sled_PNG24.png,Sled,addCriterion
+data/thin/silhouette/sled_PNG26.png,Sled,addCriterion
+data/thin/silhouette/sled_PNG30.png,Sled,Sled
+data/thin/silhouette/sled_PNG33.png,Sled,addCriterion
+data/thin/silhouette/sled_PNG37a.png,Sled,addCriterion
+data/thin/silhouette/sled_PNG37b.png,Sled,addCriterion
+data/thin/silhouette/sled_PNG37c.png,Sled,addCriterion
+data/thin/silhouette/sled_PNG37d.png,Sled,addCriterion
+data/thin/silhouette/sled_PNG5.png,Sled,addCriterion
+data/thin/silhouette/sled_PNG6.png,Sled,addCriterion
+data/thin/silhouette/snails_PNG13189.png,Snails,Snails
+data/thin/silhouette/snails_PNG13190.png,Snails,addCriterion
+data/thin/silhouette/snails_PNG13192.png,Snails,Snails
+data/thin/silhouette/snails_PNG13193.png,Snails,addCriterion
+data/thin/silhouette/snails_PNG13194.png,Snails,addCriterion
+data/thin/silhouette/snails_PNG13196.png,Snails,addCriterion
+data/thin/silhouette/snails_PNG13197.png,Snails,addCriterion
+data/thin/silhouette/snails_PNG13198b.png,Snails,addCriterion
+data/thin/silhouette/snails_PNG13198c.png,Snails,addCriterion
+data/thin/silhouette/snails_PNG13204.png,Snails,addCriterion
+data/thin/silhouette/snails_PNG13205.png,Snails,addCriterion
+data/thin/silhouette/snails_PNG13207.png,Snails,addCriterion
+data/thin/silhouette/snails_PNG13209.png,Snails,addCriterion
+data/thin/silhouette/snails_PNG13211.png,Snails,addCriterion
+data/thin/silhouette/snails_PNG13212.png,Snails,addCriterion
+data/thin/silhouette/snails_PNG13213.png,Snails,addCriterion
+data/thin/silhouette/snails_PNG13214.png,Snails,addCriterion
+data/thin/silhouette/snails_PNG13215.png,Snails,Spider
+data/thin/silhouette/snake_PNG4044.png,Snake,addCriterion
+data/thin/silhouette/snake_PNG4077.png,Snake,addCriterion
+data/thin/silhouette/snake_PNG4080.png,Snake,Snake
+data/thin/silhouette/snake_PNG4086.png,Snake,addCriterion
+data/thin/silhouette/sofa_PNG6953.png,Sofa,addCriterion
+data/thin/silhouette/spear_PNG10.png,Spear,Spear
+data/thin/silhouette/spear_PNG14.png,Spear,addCriterion
+data/thin/silhouette/spear_PNG16.png,Spear,Spear
+data/thin/silhouette/spear_PNG17.png,Spear,addCriterion
+data/thin/silhouette/spear_PNG19.png,Spear,Spear
+data/thin/silhouette/spear_PNG2.png,Spear,Spear
+data/thin/silhouette/spear_PNG23.png,Spear,Spear
+data/thin/silhouette/spear_PNG27.png,Spear,addCriterion
+data/thin/silhouette/spear_PNG28.png,Spear,Spear
+data/thin/silhouette/spear_PNG29.png,Spear,addCriterion
+data/thin/silhouette/spear_PNG31.png,Spear,addCriterion
+data/thin/silhouette/spear_PNG32.png,Spear,addCriterion
+data/thin/silhouette/spear_PNG33.png,Spear,addCriterion
+data/thin/silhouette/spear_PNG4.png,Spear,Spear
+data/thin/silhouette/spear_PNG40.png,Spear,addCriterion
+data/thin/silhouette/spear_PNG45.png,Spear,Spear
+data/thin/silhouette/spear_PNG5.png,Spear,addCriterion
+data/thin/silhouette/spear_PNG51.png,Spear,addCriterion
+data/thin/silhouette/spear_PNG6.png,Spear,addCriterion
+data/thin/silhouette/spear_PNG9.png,Spear,addCriterion
+data/thin/silhouette/spider_PNG13.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG20.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG22.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG27a.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG27b.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG27d.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG27e.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG29.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG2a.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG2b.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG2c.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG2d.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG2e.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG2g.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG2h.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG2i.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG32.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG33.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG37.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG39.png,Spider,Spider
+data/thin/silhouette/spider_PNG41.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG42.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG43.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG44.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG5.png,Spider,Spider
+data/thin/silhouette/spider_PNG6.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG7.png,Spider,addCriterion
+data/thin/silhouette/spider_PNG8.png,Spider,addCriterion
+data/thin/silhouette/spoon_PNG3035.png,Spoon,Spoon
+data/thin/silhouette/spoon_PNG3037.png,Spoon,addCriterion
+data/thin/silhouette/spoon_PNG3038.png,Spoon,Spoon
+data/thin/silhouette/spoon_PNG3039.png,Spoon,Spoon
+data/thin/silhouette/spoon_PNG3041.png,Spoon,Spoon
+data/thin/silhouette/spoon_PNG3043.png,Spoon,Spoon
+data/thin/silhouette/spoon_PNG3045.png,Spoon,Spoon
+data/thin/silhouette/spoon_PNG3046.png,Spoon,Spoon
+data/thin/silhouette/spoon_PNG3048 - Copy.png,Spoon,Fork
+data/thin/silhouette/spoon_PNG3048.png,Spoon,Fork
+data/thin/silhouette/squid_PNG3.png,Squid,addCriterion
+data/thin/silhouette/starfish_PNG16a.png,Starfish,addCriterion
+data/thin/silhouette/starfish_PNG16b.png,Starfish,addCriterion
+data/thin/silhouette/starfish_PNG4.png,Starfish,Starfish
+data/thin/silhouette/starfish_PNG6.png,Starfish,addCriterion
+data/thin/silhouette/statue_of_liberty_PNG1.png,Statue Of Liberty,addCriterion
+data/thin/silhouette/statue_of_liberty_PNG11.png,Statue Of Liberty,Statue Of Liberty
+data/thin/silhouette/statue_of_liberty_PNG17.png,Statue Of Liberty,Statue Of Liberty
+data/thin/silhouette/statue_of_liberty_PNG2.png,Statue Of Liberty,Statue Of Liberty
+data/thin/silhouette/statue_of_liberty_PNG30.png,Statue Of Liberty,addCriterion
+data/thin/silhouette/statue_of_liberty_PNG5.png,Statue Of Liberty,addCriterion
+data/thin/silhouette/statue_of_liberty_PNG6.png,Statue Of Liberty,addCriterion
+data/thin/silhouette/statue_of_liberty_PNG9.png,Statue Of Liberty,addCriterion
+data/thin/silhouette/stethoscope_PNG103.png,Stethoscope,addCriterion
+data/thin/silhouette/stethoscope_PNG111.png,Stethoscope,Stethoscope
+data/thin/silhouette/stethoscope_PNG114.png,Stethoscope,addCriterion
+data/thin/silhouette/stethoscope_PNG117.png,Stethoscope,addCriterion
+data/thin/silhouette/stethoscope_PNG122.png,Stethoscope,addCriterion
+data/thin/silhouette/stethoscope_PNG13.png,Stethoscope,Stethoscope
+data/thin/silhouette/stethoscope_PNG19.png,Stethoscope,addCriterion
+data/thin/silhouette/stethoscope_PNG33.png,Stethoscope,addCriterion
+data/thin/silhouette/stethoscope_PNG36.png,Stethoscope,Sandals
+data/thin/silhouette/stethoscope_PNG38.png,Stethoscope,addCriterion
+data/thin/silhouette/stethoscope_PNG5.png,Stethoscope,Stethoscope
+data/thin/silhouette/stethoscope_PNG62.png,Stethoscope,addCriterion
+data/thin/silhouette/stethoscope_PNG63.png,Stethoscope,Stethoscope
+data/thin/silhouette/stethoscope_PNG65.png,Stethoscope,Stethoscope
+data/thin/silhouette/stethoscope_PNG73.png,Stethoscope,Stethoscope
+data/thin/silhouette/stethoscope_PNG75.png,Stethoscope,Stethoscope
+data/thin/silhouette/stethoscope_PNG81.png,Stethoscope,addCriterion
+data/thin/silhouette/stethoscope_PNG82.png,Stethoscope,addCriterion
+data/thin/silhouette/stethoscope_PNG85.png,Stethoscope,addCriterion
+data/thin/silhouette/stethoscope_PNG86.png,Stethoscope,addCriterion
+data/thin/silhouette/stethoscope_PNG88.png,Stethoscope,addCriterion
+data/thin/silhouette/stork_PNG1.png,Stork,addCriterion
+data/thin/silhouette/stork_PNG11.png,Stork,Stork
+data/thin/silhouette/stork_PNG12.png,Stork,addCriterion
+data/thin/silhouette/stork_PNG19.png,Stork,addCriterion
+data/thin/silhouette/stork_PNG27.png,Stork,addCriterion
+data/thin/silhouette/stork_PNG31.png,Stork,addCriterion
+data/thin/silhouette/stork_PNG39.png,Stork,addCriterion
+data/thin/silhouette/stork_PNG40.png,Stork,addCriterion
+data/thin/silhouette/stork_PNG46.png,Stork,Stork
+data/thin/silhouette/street_light_PNG11509.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11510a.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11510b.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11510c.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11510d.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11515.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11518.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11519.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11520.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11525.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11527.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11531.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11532.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11538.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11542.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11543.png,Street Light,addCriterion
+data/thin/silhouette/street_light_PNG11545.png,Street Light,Street Light
+data/thin/silhouette/submarine_PNG44.png,Submarine,addCriterion
+data/thin/silhouette/submarine_PNG68.png,Submarine,addCriterion
+data/thin/silhouette/suitcase_PNG10749.png,Suitcase,Suitcase
+data/thin/silhouette/suitcase_PNG10750.png,Suitcase,addCriterion
+data/thin/silhouette/suitcase_PNG10751.png,Suitcase,addCriterion
+data/thin/silhouette/suitcase_PNG10752.png,Suitcase,addCriterion
+data/thin/silhouette/suitcase_PNG10753.png,Suitcase,addCriterion
+data/thin/silhouette/suitcase_PNG10754.png,Suitcase,Suitcase
+data/thin/silhouette/suitcase_PNG10755.png,Suitcase,Suitcase
+data/thin/silhouette/suitcase_PNG10756.png,Suitcase,Suitcase
+data/thin/silhouette/suitcase_PNG10757.png,Suitcase,addCriterion
+data/thin/silhouette/suitcase_PNG10758.png,Suitcase,Suitcase
+data/thin/silhouette/suitcase_PNG10759.png,Suitcase,addCriterion
+data/thin/silhouette/suitcase_PNG10761.png,Suitcase,Suitcase
+data/thin/silhouette/suitcase_PNG10762.png,Suitcase,addCriterion
+data/thin/silhouette/suitcase_PNG10763.png,Suitcase,addCriterion
+data/thin/silhouette/suitcase_PNG10764.png,Suitcase,addCriterion
+data/thin/silhouette/suitcase_PNG10770.png,Suitcase,addCriterion
+data/thin/silhouette/suitcase_PNG10773.png,Suitcase,Suitcase
+data/thin/silhouette/suitcase_PNG10774.png,Suitcase,addCriterion
+data/thin/silhouette/suitcase_PNG10775.png,Suitcase,Suitcase
+data/thin/silhouette/sunflower_PNG13366a.png,Sunflower,addCriterion
+data/thin/silhouette/sunflower_PNG13366b.png,Sunflower,addCriterion
+data/thin/silhouette/sunflower_PNG13385.png,Sunflower,addCriterion
+data/thin/silhouette/sunflower_PNG13390.png,Sunflower,Sunflower
+data/thin/silhouette/sunflower_PNG13393.png,Sunflower,addCriterion
+data/thin/silhouette/sunflower_PNG13403.png,Sunflower,addCriterion
+data/thin/silhouette/sunglasses_PNG101.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG114a.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG114b.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG116.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG117a.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG117b.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG119.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG120.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG122.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG124.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG127.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG128.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG129.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG13.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG132.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG137.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG17.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG29.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG45.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG50.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG55.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG8.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG88.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG89.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG94.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG97.png,Sunglasses,addCriterion
+data/thin/silhouette/sunglasses_PNG98.png,Sunglasses,addCriterion
+data/thin/silhouette/swan_PNG30.png,Swan,Swan
+data/thin/silhouette/swan_PNG46.png,Swan,addCriterion
+data/thin/silhouette/swan_PNG51.png,Swan,addCriterion
+data/thin/silhouette/swan_PNG53.png,Swan,addCriterion
+data/thin/silhouette/sword_PNG5499.png,Sword,Sword
+data/thin/silhouette/sword_PNG5500.png,Sword,addCriterion
+data/thin/silhouette/sword_PNG5503.png,Sword,addCriterion
+data/thin/silhouette/sword_PNG5506.png,Sword,addCriterion
+data/thin/silhouette/sword_PNG5507.png,Sword,addCriterion
+data/thin/silhouette/sword_PNG5509.png,Sword,addCriterion
+data/thin/silhouette/sword_PNG5513.png,Sword,Sword
+data/thin/silhouette/sword_PNG5521.png,Sword,addCriterion
+data/thin/silhouette/sword_PNG5522.png,Sword,addCriterion
+data/thin/silhouette/sword_PNG5523.png,Sword,addCriterion
+data/thin/silhouette/sword_PNG5525.png,Sword,addCriterion
+data/thin/silhouette/sword_PNG5526.png,Sword,Sword
+data/thin/silhouette/syringe_PNG12375a.png,Syringe,addCriterion
+data/thin/silhouette/syringe_PNG12376.png,Syringe,addCriterion
+data/thin/silhouette/syringe_PNG12384.png,Syringe,addCriterion
+data/thin/silhouette/syringe_PNG12386.png,Syringe,addCriterion
+data/thin/silhouette/syringe_PNG12393.png,Syringe,addCriterion
+data/thin/silhouette/syringe_PNG12394.png,Syringe,addCriterion
+data/thin/silhouette/table_PNG6972.png,Table,addCriterion
+data/thin/silhouette/table_PNG6973.png,Table,addCriterion
+data/thin/silhouette/table_PNG6974.png,Table,addCriterion
+data/thin/silhouette/table_PNG6975.png,Table,addCriterion
+data/thin/silhouette/table_PNG6977.png,Table,Table
+data/thin/silhouette/table_PNG6979.png,Table,addCriterion
+data/thin/silhouette/table_PNG6981.png,Table,addCriterion
+data/thin/silhouette/table_PNG6983.png,Table,addCriterion
+data/thin/silhouette/table_PNG6984.png,Table,Table
+data/thin/silhouette/table_PNG6985.png,Table,Table
+data/thin/silhouette/table_PNG6986.png,Table,addCriterion
+data/thin/silhouette/table_PNG6988.png,Table,addCriterion
+data/thin/silhouette/table_PNG6989.png,Table,addCriterion
+data/thin/silhouette/table_PNG6990.png,Table,addCriterion
+data/thin/silhouette/table_PNG6991.png,Table,addCriterion
+data/thin/silhouette/table_PNG6993.png,Table,addCriterion
+data/thin/silhouette/table_PNG6995.png,Table,addCriterion
+data/thin/silhouette/table_PNG6996.png,Table,addCriterion
+data/thin/silhouette/table_PNG6997a.png,Table,addCriterion
+data/thin/silhouette/table_PNG6997b.png,Table,addCriterion
+data/thin/silhouette/table_PNG6997c.png,Table,addCriterion
+data/thin/silhouette/table_PNG6997e.png,Table,addCriterion
+data/thin/silhouette/table_PNG6997f.png,Table,addCriterion
+data/thin/silhouette/table_PNG6997g.png,Table,addCriterion
+data/thin/silhouette/table_PNG6997i.png,Table,addCriterion
+data/thin/silhouette/table_PNG6998.png,Table,addCriterion
+data/thin/silhouette/table_PNG7000.png,Table,addCriterion
+data/thin/silhouette/table_PNG7005.png,Table,addCriterion
+data/thin/silhouette/table_PNG7006.png,Table,addCriterion
+data/thin/silhouette/table_PNG7007.png,Table,addCriterion
+data/thin/silhouette/table_PNG7008.png,Table,addCriterion
+data/thin/silhouette/tank_PNG1285.png,Tank,addCriterion
+data/thin/silhouette/tank_PNG1297.png,Tank,addCriterion
+data/thin/silhouette/tank_PNG1299.png,Tank,addCriterion
+data/thin/silhouette/tank_PNG1302.png,Tank,addCriterion
+data/thin/silhouette/tank_PNG1307.png,Tank,addCriterion
+data/thin/silhouette/tank_PNG1308.png,Tank,addCriterion
+data/thin/silhouette/tank_PNG1309.png,Tank,addCriterion
+data/thin/silhouette/tank_PNG1310.png,Tank,addCriterion
+data/thin/silhouette/tank_PNG1320.png,Tank,addCriterion
+data/thin/silhouette/tank_PNG1322.png,Tank,addCriterion
+data/thin/silhouette/tank_PNG1324.png,Tank,addCriterion
+data/thin/silhouette/tap_PNG1.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG101.png,Tap,Tap
+data/thin/silhouette/tap_PNG11.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG114.png,Tap,Tap
+data/thin/silhouette/tap_PNG115.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG12.png,Tap,Tap
+data/thin/silhouette/tap_PNG130.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG131.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG16.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG17.png,Tap,Tap
+data/thin/silhouette/tap_PNG19.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG2.png,Tap,Tap
+data/thin/silhouette/tap_PNG27.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG30.png,Tap,Tap
+data/thin/silhouette/tap_PNG38.png,Tap,Tap
+data/thin/silhouette/tap_PNG47.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG48.png,Tap,Tap
+data/thin/silhouette/tap_PNG55.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG58.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG6.png,Tap,Tap
+data/thin/silhouette/tap_PNG60.png,Tap,Tap
+data/thin/silhouette/tap_PNG61.png,Tap,Tap
+data/thin/silhouette/tap_PNG66.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG68.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG73.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG76.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG9.png,Tap,Tap
+data/thin/silhouette/tap_PNG91.png,Tap,addCriterion
+data/thin/silhouette/tap_PNG95.png,Tap,Tap
+data/thin/silhouette/tap_PNG99.png,Tap,Tap
+data/thin/silhouette/telephone_booth_PNG37.png,Telephone Booth,addCriterion
+data/thin/silhouette/telephone_booth_PNG39.png,Telephone Booth,addCriterion
+data/thin/silhouette/telephone_booth_PNG43.png,Telephone Booth,Telephone Booth
+data/thin/silhouette/telephone_booth_PNG7.png,Telephone Booth,addCriterion
+data/thin/silhouette/telescope_PNG1.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG101.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG102.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG105.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG107.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG112.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG114.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG13.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG17.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG18.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG19.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG2.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG35.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG40.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG41.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG43.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG52.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG53.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG57.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG60.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG61.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG63.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG67.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG69.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG75.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG80.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG87.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG97.png,Telescope,addCriterion
+data/thin/silhouette/telescope_PNG99.png,Telescope,addCriterion
+data/thin/silhouette/tent_PNG2.png,Tent,addCriterion
+data/thin/silhouette/tent_PNG24.png,Tent,addCriterion
+data/thin/silhouette/tent_PNG3.png,Tent,addCriterion
+data/thin/silhouette/tent_PNG30.png,Tent,Tent
+data/thin/silhouette/tent_PNG33.png,Tent,addCriterion
+data/thin/silhouette/tent_PNG34.png,Tent,addCriterion
+data/thin/silhouette/tent_PNG35.png,Tent,addCriterion
+data/thin/silhouette/tent_PNG36.png,Tent,addCriterion
+data/thin/silhouette/tent_PNG38.png,Tent,Tent
+data/thin/silhouette/tent_PNG4.png,Tent,addCriterion
+data/thin/silhouette/tent_PNG40.png,Tent,addCriterion
+data/thin/silhouette/tent_PNG5.png,Tent,addCriterion
+data/thin/silhouette/tent_PNG50.png,Tent,addCriterion
+data/thin/silhouette/tent_PNG6.png,Tent,addCriterion
+data/thin/silhouette/tent_PNG9.png,Tent,addCriterion
+data/thin/silhouette/tie_PNG8174.png,Tie,addCriterion
+data/thin/silhouette/tie_PNG8175.png,Tie,addCriterion
+data/thin/silhouette/tie_PNG8180.png,Tie,addCriterion
+data/thin/silhouette/tie_PNG8182.png,Tie,addCriterion
+data/thin/silhouette/tie_PNG8192.png,Tie,addCriterion
+data/thin/silhouette/tie_PNG8194.png,Tie,addCriterion
+data/thin/silhouette/tie_PNG8196.png,Tie,addCriterion
+data/thin/silhouette/tie_PNG8197.png,Tie,addCriterion
+data/thin/silhouette/time_bomb_PNG1.png,Time Bomb,addCriterion
+data/thin/silhouette/time_bomb_PNG11.png,Time Bomb,addCriterion
+data/thin/silhouette/time_bomb_PNG2.png,Time Bomb,addCriterion
+data/thin/silhouette/time_bomb_PNG3.png,Time Bomb,addCriterion
+data/thin/silhouette/time_bomb_PNG6.png,Time Bomb,addCriterion
+data/thin/silhouette/time_bomb_PNG8.png,Time Bomb,addCriterion
+data/thin/silhouette/time_bomb_PNG9.png,Time Bomb,addCriterion
+data/thin/silhouette/titanic_PNG19.png,Titanic,addCriterion
+data/thin/silhouette/titanic_PNG3.png,Titanic,addCriterion
+data/thin/silhouette/titanic_PNG35.png,Titanic,addCriterion
+data/thin/silhouette/titanic_PNG37.png,Titanic,addCriterion
+data/thin/silhouette/titanic_PNG40.png,Titanic,addCriterion
+data/thin/silhouette/titanic_PNG5.png,Titanic,addCriterion
+data/thin/silhouette/titanic_PNG7.png,Titanic,addCriterion
+data/thin/silhouette/toothbrush_PNG102.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG114.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG119.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG120.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG121.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG122.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG124.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG125.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG126.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG127a.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG127b.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG128.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG130.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG132.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG135.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG137b.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG137c.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG13a.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG140.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG142.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG153.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG16.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG163.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG166.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG167.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG169.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG17.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG170.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG171.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG174.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG179.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG18.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG181.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG182a.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG182c.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG183.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG184.png,Toothbrush,Spoon
+data/thin/silhouette/toothbrush_PNG2.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG21.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG22.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG25.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG28.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG30.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG33.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG34.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG38.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG42.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG45.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG49.png,Toothbrush,Spoon
+data/thin/silhouette/toothbrush_PNG51.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG52.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG54.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG55.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG56.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG59.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG65.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG70.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG77.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG78b.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG79.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG80.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG81a.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG81b.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG84.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG87.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG92.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG94b.png,Toothbrush,addCriterion
+data/thin/silhouette/toothbrush_PNG98.png,Toothbrush,Toothbrush
+data/thin/silhouette/tractor_PNG16106.png,Tractor,addCriterion
+data/thin/silhouette/tractor_PNG16107.png,Tractor,addCriterion
+data/thin/silhouette/tractor_PNG16127.png,Tractor,addCriterion
+data/thin/silhouette/tractor_PNG16128.png,Tractor,addCriterion
+data/thin/silhouette/tractor_PNG16131.png,Tractor,addCriterion
+data/thin/silhouette/tractor_PNG16132.png,Tractor,addCriterion
+data/thin/silhouette/tractor_PNG16139.png,Tractor,Tractor
+data/thin/silhouette/tractor_PNG16164.png,Tractor,addCriterion
+data/thin/silhouette/tractor_PNG16165.png,Tractor,addCriterion
+data/thin/silhouette/tractor_PNG16167.png,Tractor,Tractor
+data/thin/silhouette/tractor_PNG16171.png,Tractor,addCriterion
+data/thin/silhouette/tractor_PNG16174.png,Tractor,addCriterion
+data/thin/silhouette/tractor_PNG16175.png,Tractor,Tractor
+data/thin/silhouette/tram_PNG15.png,Tram,addCriterion
+data/thin/silhouette/tram_PNG33.png,Tram,addCriterion
+data/thin/silhouette/trampoline_PNG1.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG11.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG12.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG2.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG27.png,Trampoline,Grill
+data/thin/silhouette/trampoline_PNG29.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG34.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG5.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG57.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG6.png,Trampoline,Trampoline
+data/thin/silhouette/trampoline_PNG61.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG62.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG64.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG65.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG67.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG72.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG75.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG82.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG84.png,Trampoline,addCriterion
+data/thin/silhouette/trampoline_PNG85.png,Trampoline,Trampoline
+data/thin/silhouette/trampoline_PNG9.png,Trampoline,addCriterion
+data/thin/silhouette/treadmill_PNG101.png,Treadmill,addCriterion
+data/thin/silhouette/treadmill_PNG14.png,Treadmill,addCriterion
+data/thin/silhouette/treadmill_PNG18.png,Treadmill,addCriterion
+data/thin/silhouette/treadmill_PNG19.png,Treadmill,addCriterion
+data/thin/silhouette/treadmill_PNG28.png,Treadmill,Treadmill
+data/thin/silhouette/treadmill_PNG36.png,Treadmill,addCriterion
+data/thin/silhouette/treadmill_PNG38.png,Treadmill,Treadmill
+data/thin/silhouette/treadmill_PNG43.png,Treadmill,addCriterion
+data/thin/silhouette/treadmill_PNG6.png,Treadmill,Treadmill
+data/thin/silhouette/treadmill_PNG7.png,Treadmill,addCriterion
+data/thin/silhouette/treadmill_PNG75.png,Treadmill,addCriterion
+data/thin/silhouette/treadmill_PNG8.png,Treadmill,addCriterion
+data/thin/silhouette/treadmill_PNG9.png,Treadmill,addCriterion
+data/thin/silhouette/treadmill_PNG94.png,Treadmill,addCriterion
+data/thin/silhouette/treadmill_PNG99.png,Treadmill,Treadmill
+data/thin/silhouette/tripod_PNG1.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG100.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG102.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG109.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG112.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG114.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG115.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG116.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG117.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG12.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG120.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG131.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG132.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG133.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG135.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG139.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG141.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG144.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG146.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG16.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG17.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG2.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG30.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG33.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG36.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG40.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG43.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG46.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG48.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG49.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG52.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG54.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG58.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG63.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG65.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG67.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG72.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG73.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG74.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG76.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG77.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG78.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG86.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG88.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG91.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG92.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG93.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG94.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG95.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG97.png,Tripod,addCriterion
+data/thin/silhouette/tripod_PNG99.png,Tripod,Tripod
+data/thin/silhouette/trolleybus_PNG10.png,Trolleybus,addCriterion
+data/thin/silhouette/trolleybus_PNG11.png,Trolleybus,addCriterion
+data/thin/silhouette/trolleybus_PNG2.png,Trolleybus,addCriterion
+data/thin/silhouette/trolleybus_PNG26.png,Trolleybus,addCriterion
+data/thin/silhouette/trolleybus_PNG30.png,Trolleybus,addCriterion
+data/thin/silhouette/trombone_PNG1.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG10.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG12.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG13.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG14.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG16.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG17.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG18.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG2.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG20.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG29.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG3.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG31.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG33.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG37.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG38.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG39.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG4.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG40.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG45.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG46.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG5.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG52.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG54.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG55.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG56.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG7.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG8.png,Trombone,addCriterion
+data/thin/silhouette/trombone_PNG9.png,Trombone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14721.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14723.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14724.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14726.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14727.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14728.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14729.png,Trumpet Saxophone,Trumpet Saxophone
+data/thin/silhouette/trumpet_saxophone_PNG14730.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14731.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14734.png,Trumpet Saxophone,Trumpet Saxophone
+data/thin/silhouette/trumpet_saxophone_PNG14735.png,Trumpet Saxophone,addCriterion Saxophone
+data/thin/silhouette/trumpet_saxophone_PNG14738.png,Trumpet Saxophone,addCriterion Saxophone
+data/thin/silhouette/trumpet_saxophone_PNG14739.png,Trumpet Saxophone,addCriterion Saxophone
+data/thin/silhouette/trumpet_saxophone_PNG14740.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14743.png,Trumpet Saxophone,addCriterion Saxophone
+data/thin/silhouette/trumpet_saxophone_PNG14744.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14745.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14746.png,Trumpet Saxophone,Trumpet Saxophone
+data/thin/silhouette/trumpet_saxophone_PNG14747.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14748.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14753.png,Trumpet Saxophone,addCriterion Saxophone
+data/thin/silhouette/trumpet_saxophone_PNG14754.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14755.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14756.png,Trumpet Saxophone,Trumpet Saxophone
+data/thin/silhouette/trumpet_saxophone_PNG14757.png,Trumpet Saxophone,addCriterion Saxophone
+data/thin/silhouette/trumpet_saxophone_PNG14758.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14759.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/trumpet_saxophone_PNG14760.png,Trumpet Saxophone,addCriterion Saxophone
+data/thin/silhouette/trumpet_saxophone_PNG14769.png,Trumpet Saxophone,addCriterion
+data/thin/silhouette/tulip_PNG8978.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG8979.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG8980.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG8983.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG8995.png,Tulip,Crow
+data/thin/silhouette/tulip_PNG8997.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG9000.png,Tulip,Tulip
+data/thin/silhouette/tulip_PNG9003.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG9004.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG9005.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG9006.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG9009.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG9019.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG9020.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG9022.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG9023.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG9024.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG9025.png,Tulip,addCriterion
+data/thin/silhouette/tulip_PNG9026.png,Tulip,addCriterion
+data/thin/silhouette/turkey_PNG58546.png,Turkey,Turkey
+data/thin/silhouette/turkey_PNG58547.png,Turkey,addCriterion
+data/thin/silhouette/turkey_PNG58548.png,Turkey,addCriterion
+data/thin/silhouette/turkey_PNG58549.png,Turkey,addCriterion
+data/thin/silhouette/turkey_PNG58559.png,Turkey,Turkey
+data/thin/silhouette/turkey_PNG58579.png,Turkey,Turkey
+data/thin/silhouette/turkey_PNG58588.png,Turkey,addCriterion
+data/thin/silhouette/turkey_PNG58599.png,Turkey,addCriterion
+data/thin/silhouette/turkey_PNG58605.png,Turkey,Turkey
+data/thin/silhouette/turtle_PNG55.png,Turtle,addCriterion
+data/thin/silhouette/turtle_PNG63.png,Turtle,addCriterion
+data/thin/silhouette/typewriter_PNG10.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG11.png,Typewriter,Shorts
+data/thin/silhouette/typewriter_PNG19.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG2.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG21.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG27.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG3.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG33.png,Typewriter,Backpack
+data/thin/silhouette/typewriter_PNG4.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG43.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG45.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG5.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG55.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG56.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG58.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG59.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG6.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG60.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG62.png,Typewriter,Backpack
+data/thin/silhouette/typewriter_PNG63.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG64.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG68.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG75.png,Typewriter,Bucket
+data/thin/silhouette/typewriter_PNG76.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG77.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG78b.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG81.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG87.png,Typewriter,addCriterion
+data/thin/silhouette/typewriter_PNG9.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG93.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG98.png,Typewriter,addCriterion
+data/thin/silhouette/umbrella_PNG500.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69117.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69123.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69124.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69129a.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69129b.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69129c.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69129d.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69129e.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69129f.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69130.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69145.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69217.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69225.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69226a.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69226b.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69226c.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69226e.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69226f.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69226g.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69226h.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69227b.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69227d.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69227e.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69230.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69231.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69232.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69233.png,Umbrella,addCriterion
+data/thin/silhouette/umbrella_PNG69234.png,Umbrella,Umbrella
+data/thin/silhouette/vacuum_cleaner_PNG1.png,Vacuum Cleaner,addCriterion
+data/thin/silhouette/vacuum_cleaner_PNG10.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG17.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG19.png,Vacuum Cleaner,addCriterion
+data/thin/silhouette/vacuum_cleaner_PNG20.png,Vacuum Cleaner,addCriterion
+data/thin/silhouette/vacuum_cleaner_PNG21.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG23.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG28.png,Vacuum Cleaner,addCriterion
+data/thin/silhouette/vacuum_cleaner_PNG29.png,Vacuum Cleaner,addCriterion
+data/thin/silhouette/vacuum_cleaner_PNG33.png,Vacuum Cleaner,addCriterion
+data/thin/silhouette/vacuum_cleaner_PNG43.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG44.png,Vacuum Cleaner,addCriterion
+data/thin/silhouette/vacuum_cleaner_PNG45.png,Vacuum Cleaner,addCriterion
+data/thin/silhouette/vacuum_cleaner_PNG46.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG47.png,Vacuum Cleaner,addCriterion
+data/thin/silhouette/vacuum_cleaner_PNG48.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG49.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG50.png,Vacuum Cleaner,addCriterion
+data/thin/silhouette/vacuum_cleaner_PNG52.png,Vacuum Cleaner,addCriterion
+data/thin/silhouette/vacuum_cleaner_PNG53.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG54.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG56.png,Vacuum Cleaner,addCriterion
+data/thin/silhouette/vacuum_cleaner_PNG7.png,Vacuum Cleaner,addCriterion
+data/thin/silhouette/vacuum_cleaner_PNG8.png,Vacuum Cleaner,addCriterion
+data/thin/silhouette/vase_PNG123.png,Vase,addCriterion
+data/thin/silhouette/vase_PNG153.png,Vase,addCriterion
+data/thin/silhouette/vase_PNG179a.png,Vase,addCriterion
+data/thin/silhouette/vase_PNG179b.png,Vase,addCriterion
+data/thin/silhouette/vase_PNG81.png,Vase,addCriterion
+data/thin/silhouette/vase_PNG94.png,Vase,addCriterion
+data/thin/silhouette/vase_PNG96.png,Vase,addCriterion
+data/thin/silhouette/video_camera_PNG7856.png,Video Camera,addCriterion
+data/thin/silhouette/video_camera_PNG7864.png,Video Camera,addCriterion
+data/thin/silhouette/video_camera_PNG7868.png,Video Camera,addCriterion
+data/thin/silhouette/video_camera_PNG7870.png,Video Camera,addCriterion
+data/thin/silhouette/video_camera_PNG7875.png,Video Camera,addCriterion
+data/thin/silhouette/video_camera_PNG7880.png,Video Camera,Video Camera
+data/thin/silhouette/video_camera_PNG7891.png,Video Camera,addCriterion
+data/thin/silhouette/violin_PNG12820.png,Violin,addCriterion
+data/thin/silhouette/violin_PNG12821.png,Violin,addCriterion
+data/thin/silhouette/violin_PNG12822.png,Violin,addCriterion
+data/thin/silhouette/violin_PNG12839.png,Violin,Violin
+data/thin/silhouette/wedding_cake_PNG19427.png,Wedding Cake,addCriterion
+data/thin/silhouette/wedding_cake_PNG19465.png,Wedding Cake,addCriterion
+data/thin/silhouette/wedding_cake_PNG19467.png,Wedding Cake,addCriterion
+data/thin/silhouette/wheelchair_PNG17838.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17840.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17845.png,Wheelchair,addCriterion
+data/thin/silhouette/wheelchair_PNG17846.png,Wheelchair,addCriterion
+data/thin/silhouette/wheelchair_PNG17849.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17852.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17854.png,Wheelchair,addCriterion
+data/thin/silhouette/wheelchair_PNG17855.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17858.png,Wheelchair,addCriterion
+data/thin/silhouette/wheelchair_PNG17861.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17863.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17865.png,Wheelchair,addCriterion
+data/thin/silhouette/wheelchair_PNG17869.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17875.png,Wheelchair,addCriterion
+data/thin/silhouette/wheelchair_PNG82761.png,Wheelchair,addCriterion
+data/thin/silhouette/wheelchair_PNG82762.png,Wheelchair,addCriterion
+data/thin/silhouette/wheelchair_PNG82763.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82765.png,Wheelchair,addCriterion
+data/thin/silhouette/wheelchair_PNG82771.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82773.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82774.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82775.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82777.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82778.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82783.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82784.png,Wheelchair,addCriterion
+data/thin/silhouette/wheelchair_PNG82790.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82792.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82794.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82799.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82800.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82801.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82803.png,Wheelchair,addCriterion
+data/thin/silhouette/wheelchair_PNG82804.png,Wheelchair,addCriterion
+data/thin/silhouette/wheelchair_PNG82810.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82812.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82814.png,Wheelchair,addCriterion
+data/thin/silhouette/wheelchair_PNG82816.png,Wheelchair,Wheelchair
+data/thin/silhouette/wineglass_PNG2833.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2837.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2838.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2845a.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2845b.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2856.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2857.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2861.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2863.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2870.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2871.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2872.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2873.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2874.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2875.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2876.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2877.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2878.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2879.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2880.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2881.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2887.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2891.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2896.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2898a.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2898b.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2900.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2901.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2902.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2909a.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2909b.png,Wineglass,addCriterion
+data/thin/silhouette/wineglass_PNG2917b.png,Wineglass,addCriterion
+data/thin/silhouette/wrench_PNG1107.png,Wrench,addCriterion
+data/thin/silhouette/wrench_PNG1108.png,Wrench,addCriterion
+data/thin/silhouette/wrench_PNG1109.png,Wrench,addCriterion
+data/thin/silhouette/wrench_PNG1112.png,Wrench,addCriterion
+data/thin/silhouette/wrench_PNG1113.png,Wrench,addCriterion
+data/thin/silhouette/wrench_PNG1115.png,Wrench,addCriterion
+data/thin/silhouette/wrench_PNG1117.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG1119.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG3117.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG3118a.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG3118c.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG3118e.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG3120.png,Wrench,addCriterion
+data/thin/silhouette/wrench_PNG3122.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG3124.png,Wrench,addCriterion
+data/thin/silhouette/wrench_PNG3125.png,Wrench,addCriterion
+data/thin/silhouette/wrench_PNG3127.png,Wrench,addCriterion
+data/thin/silhouette/wrench_PNG3128.png,Wrench,addCriterion

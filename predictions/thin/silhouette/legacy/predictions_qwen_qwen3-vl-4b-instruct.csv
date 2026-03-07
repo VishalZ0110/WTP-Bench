@@ -1,0 +1,2645 @@
+image_path,label,prediction
+data/thin/silhouette/anaconda_PNG1.png,Anaconda,危险蛇
+data/thin/silhouette/anaconda_PNG10.png,Anaconda,dangerous snake
+data/thin/silhouette/anaconda_PNG14.png,Anaconda,Snake
+data/thin/silhouette/anaconda_PNG2.png,Anaconda,reptile
+data/thin/silhouette/anaconda_PNG7.png,Anaconda,危险蛇
+data/thin/silhouette/anaconda_PNG8.png,Anaconda,Snake
+data/thin/silhouette/ant_PNG19350.png,Ant,Ant
+data/thin/silhouette/ant_PNG19355.png,Ant,insect
+data/thin/silhouette/ant_PNG19362.png,Ant,Insect
+data/thin/silhouette/ant_PNG19363a.png,Ant,insect
+data/thin/silhouette/ant_PNG19363b.png,Ant,"insect
+Ant"
+data/thin/silhouette/ant_PNG19363c.png,Ant,Ant
+data/thin/silhouette/ant_PNG19364.png,Ant,Horseshoe
+data/thin/silhouette/ant_PNG19365.png,Ant,Ant
+data/thin/silhouette/apple_PNG12405.png,Apple,Apple
+data/thin/silhouette/apple_PNG12429.png,Apple,
+data/thin/silhouette/apple_PNG12471.png,Apple,://Time Bomb
+data/thin/silhouette/apple_PNG12492.png,Apple,Snake
+data/thin/silhouette/apple_PNG12496.png,Apple,://Apple
+data/thin/silhouette/armchair_PNG7023.png,Armchair,0.0
+data/thin/silhouette/armchair_PNG7028.png,Armchair,Obstacle
+data/thin/silhouette/armchair_PNG7034.png,Armchair,0
+data/thin/silhouette/armchair_PNG7041.png,Armchair,Armchair
+data/thin/silhouette/armchair_PNG7043.png,Armchair,0
+data/thin/silhouette/armchair_PNG7044.png,Armchair,0
+data/thin/silhouette/armchair_PNG7047.png,Armchair,objects
+data/thin/silhouette/armchair_PNG7060.png,Armchair,Armchair
+data/thin/silhouette/armchair_PNG7068.png,Armchair,Obi-Wan Kenobi
+data/thin/silhouette/armchair_PNG7072.png,Armchair,Obelisk
+data/thin/silhouette/armchair_PNG7074.png,Armchair,0.5864437748557282
+data/thin/silhouette/arrow_bow_PNG12a.png,Arrow Bow,Arrow Bow
+data/thin/silhouette/arrow_bow_PNG12b.png,Arrow Bow,shaft
+data/thin/silhouette/arrow_bow_PNG13.png,Arrow Bow,Arrow Bow
+data/thin/silhouette/arrow_bow_PNG15.png,Arrow Bow,武器
+data/thin/silhouette/arrow_bow_PNG16.png,Arrow Bow,Arrow Bow
+data/thin/silhouette/arrow_bow_PNG17.png,Arrow Bow,hunting spear
+data/thin/silhouette/arrow_bow_PNG2.png,Arrow Bow,No such object found in the list.
+data/thin/silhouette/arrow_bow_PNG21.png,Arrow Bow,tip of arrow
+data/thin/silhouette/arrow_bow_PNG23.png,Arrow Bow,Arrow Bow
+data/thin/silhouette/arrow_bow_PNG24.png,Arrow Bow,projectile arrow
+data/thin/silhouette/arrow_bow_PNG26.png,Arrow Bow,Arrow Bow
+data/thin/silhouette/arrow_bow_PNG27.png,Arrow Bow,Arrow Bow
+data/thin/silhouette/arrow_bow_PNG30.png,Arrow Bow,weaponry
+data/thin/silhouette/arrow_bow_PNG37.png,Arrow Bow,Arrow Bow
+data/thin/silhouette/arrow_bow_PNG45.png,Arrow Bow,打猎用的矛
+data/thin/silhouette/arrow_bow_PNG47a.png,Arrow Bow,Arrow Bow
+data/thin/silhouette/arrow_bow_PNG47b.png,Arrow Bow,Arrow Bow
+data/thin/silhouette/arrow_bow_PNG8a.png,Arrow Bow,Arrow Bow
+data/thin/silhouette/arrow_bow_PNG8b.png,Arrow Bow,Arrow Bow
+data/thin/silhouette/arrow_bow_PNG9.png,Arrow Bow,Arrow Bow
+data/thin/silhouette/ax_PNG9088.png,Ax,tool
+data/thin/silhouette/ax_PNG9092.png,Ax,Ax
+data/thin/silhouette/ax_PNG9094.png,Ax,Ax
+data/thin/silhouette/ax_PNG9099.png,Ax,Ax
+data/thin/silhouette/ax_PNG9100.png,Ax,Ax
+data/thin/silhouette/ax_PNG9101.png,Ax,tool
+data/thin/silhouette/ax_PNG9104.png,Ax,headphones
+data/thin/silhouette/ax_PNG9105.png,Ax,"tool, Axe"
+data/thin/silhouette/ax_PNG9108.png,Ax,tool
+data/thin/silhouette/ax_PNG9110.png,Ax,Ax
+data/thin/silhouette/backpack_PNG6314.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6317.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6320.png,Backpack,0. Backpack
+data/thin/silhouette/backpack_PNG6326.png,Backpack,Gear
+data/thin/silhouette/backpack_PNG6333.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6339.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6341.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6342.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6347.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6349.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6351.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6353.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6354.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6356.png,Backpack,Backpack
+data/thin/silhouette/backpack_PNG6363.png,Backpack,Backpack
+data/thin/silhouette/barbell_PNG16340.png,Barbell,Barbell
+data/thin/silhouette/barbell_PNG16342.png,Barbell,Barbell
+data/thin/silhouette/barbell_PNG16343.png,Barbell,Barbell
+data/thin/silhouette/barbell_PNG16344.png,Barbell,Time Bomb
+data/thin/silhouette/barbell_PNG16348.png,Barbell,://
+data/thin/silhouette/barbell_PNG16351.png,Barbell,Barbell
+data/thin/silhouette/barbell_PNG16354a.png,Barbell,weight
+data/thin/silhouette/barbell_PNG16354b.png,Barbell,193
+data/thin/silhouette/barbell_PNG16356.png,Barbell,weight
+data/thin/silhouette/barbell_PNG16357.png,Barbell,Objects in the image: Barbell
+data/thin/silhouette/barbell_PNG16359.png,Barbell,Barbell
+data/thin/silhouette/bassinet_PNG15.png,Bassinet,Bassinet
+data/thin/silhouette/bassinet_PNG23.png,Bassinet,Motorcycle
+data/thin/silhouette/bassinet_PNG26.png,Bassinet,Pram
+data/thin/silhouette/bassinet_PNG27.png,Bassinet,Mantis
+data/thin/silhouette/bassinet_PNG28.png,Bassinet,Grill
+data/thin/silhouette/bassinet_PNG29.png,Bassinet,Bassinet
+data/thin/silhouette/bassinet_PNG46.png,Bassinet,Grill
+data/thin/silhouette/bassinet_PNG50.png,Bassinet,Bassinet
+data/thin/silhouette/bassinet_PNG52.png,Bassinet,Bassinet
+data/thin/silhouette/bassinet_PNG57.png,Bassinet,Bassinet
+data/thin/silhouette/bassinet_PNG58.png,Bassinet,Grill
+data/thin/silhouette/bassinet_PNG59.png,Bassinet,Grill
+data/thin/silhouette/bassinet_PNG60.png,Bassinet,Chair
+data/thin/silhouette/bassinet_PNG61.png,Bassinet,Grill
+data/thin/silhouette/bassinet_PNG7.png,Bassinet,Bassinet
+data/thin/silhouette/bassinet_PNG73.png,Bassinet,Grill
+data/thin/silhouette/bassinet_PNG74.png,Bassinet,Chair
+data/thin/silhouette/bassinet_PNG76.png,Bassinet,Bassinet
+data/thin/silhouette/bassinet_PNG77.png,Bassinet,Bassinet
+data/thin/silhouette/bassinet_PNG78.png,Bassinet,Bassinet
+data/thin/silhouette/bathtub_PNG19.png,Bathtub,"objects are: Bathtub, Tap"
+data/thin/silhouette/bathtub_PNG22.png,Bathtub,Bathtub
+data/thin/silhouette/bathtub_PNG3.png,Bathtub,-object is: Bathtub
+data/thin/silhouette/bathtub_PNG31.png,Bathtub,_objects_
+data/thin/silhouette/bathtub_PNG32.png,Bathtub,Bathtub
+data/thin/silhouette/bathtub_PNG34.png,Bathtub,"Objects in the image: Bathtub, Tap"
+data/thin/silhouette/bathtub_PNG36.png,Bathtub,object is a Bathtub.
+data/thin/silhouette/bathtub_PNG39.png,Bathtub,Bathtub
+data/thin/silhouette/bathtub_PNG42.png,Bathtub,Bathtub
+data/thin/silhouette/bathtub_PNG43.png,Bathtub,Bathtub
+data/thin/silhouette/bathtub_PNG44.png,Bathtub,Tap
+data/thin/silhouette/bathtub_PNG46.png,Bathtub,Bathtub
+data/thin/silhouette/bathtub_PNG48.png,Bathtub,Bathtub
+data/thin/silhouette/bathtub_PNG50.png,Bathtub,Bathtub
+data/thin/silhouette/bathtub_PNG9.png,Bathtub,"objects in this image are: Bathtub, Tap"
+data/thin/silhouette/bed_PNG17375.png,Bed,Bed
+data/thin/silhouette/bed_PNG17394.png,Bed,objects: Bed
+data/thin/silhouette/bed_PNG17420.png,Bed,Bed
+data/thin/silhouette/bed_PNG17421.png,Bed,object is: Bed
+data/thin/silhouette/bee_PNG2.png,Bee,Bee
+data/thin/silhouette/bee_PNG3.png,Bee,Bee
+data/thin/silhouette/bee_PNG5.png,Bee,wasp
+data/thin/silhouette/bee_PNG74692.png,Bee,Bee
+data/thin/silhouette/bee_PNG74695.png,Bee,Bee
+data/thin/silhouette/bee_PNG74739.png,Bee,Bee
+data/thin/silhouette/bee_PNG74756.png,Bee,Insect
+data/thin/silhouette/bicycle_PNG5350.png,Bicycle,Bicycle
+data/thin/silhouette/bicycle_PNG5352.png,Bicycle,Bicycle
+data/thin/silhouette/bicycle_PNG5354.png,Bicycle,Bicycle
+data/thin/silhouette/bicycle_PNG5355.png,Bicycle,Bicycle
+data/thin/silhouette/bicycle_PNG5356.png,Bicycle,object is a Bicycle.
+data/thin/silhouette/bicycle_PNG5357.png,Bicycle,Bicycle
+data/thin/silhouette/bicycle_PNG5358.png,Bicycle,Bicycle
+data/thin/silhouette/bicycle_PNG5362.png,Bicycle,Bicycle
+data/thin/silhouette/bicycle_PNG5363.png,Bicycle,Bicycle
+data/thin/silhouette/bicycle_PNG5366.png,Bicycle,"Vehicle, Bicycle"
+data/thin/silhouette/bicycle_PNG5375.png,Bicycle,Bicycle
+data/thin/silhouette/bicycle_PNG5382.png,Bicycle,Bicycle
+data/thin/silhouette/bicycle_PNG5383.png,Bicycle,Bicycle
+data/thin/silhouette/birds_PNG100.png,Birds,0
+data/thin/silhouette/birds_PNG102.png,Birds,Corvids
+data/thin/silhouette/birds_PNG103.png,Birds,bird
+data/thin/silhouette/birds_PNG106.png,Birds,Raven
+data/thin/silhouette/birds_PNG110.png,Birds,Birds
+data/thin/silhouette/birds_PNG116.png,Birds,Corvus
+data/thin/silhouette/birds_PNG12.png,Birds,0.0
+data/thin/silhouette/birds_PNG22.png,Birds,Birds
+data/thin/silhouette/birds_PNG43.png,Birds,Birds
+data/thin/silhouette/birds_PNG50.png,Birds,Birds
+data/thin/silhouette/birds_PNG60.png,Birds,Corvids
+data/thin/silhouette/birds_PNG65.png,Birds,Corvus
+data/thin/silhouette/birds_PNG69.png,Birds,Birds
+data/thin/silhouette/birds_PNG80.png,Birds,0.13276585228237948
+data/thin/silhouette/birds_PNG96.png,Birds,Birds
+data/thin/silhouette/birds_PNG99.png,Birds,Corvids
+data/thin/silhouette/boat_PNG36.png,Boat,fish
+data/thin/silhouette/boat_PNG55.png,Boat,Vase
+data/thin/silhouette/boat_PNG69.png,Boat,0.5
+data/thin/silhouette/boots_PNG7806.png,Boots,动漫人物
+data/thin/silhouette/bridge_PNG1.png,Bridge,Bridge
+data/thin/silhouette/bridge_PNG11.png,Bridge,objects are not present in the image.
+data/thin/silhouette/bridge_PNG19.png,Bridge,0.0
+data/thin/silhouette/bridge_PNG3.png,Bridge,object is a Bridge
+data/thin/silhouette/bridge_PNG35.png,Bridge,Bridge
+data/thin/silhouette/bridge_PNG5.png,Bridge,object is a Bridge
+data/thin/silhouette/bridge_PNG63.png,Bridge,_objects_
+data/thin/silhouette/bridge_PNG70.png,Bridge,0.5362148276277233
+data/thin/silhouette/bridge_PNG72.png,Bridge,Bridge
+data/thin/silhouette/bridge_PNG73.png,Bridge,object in this image is: Bridge
+data/thin/silhouette/bridge_PNG74.png,Bridge,Boat
+data/thin/silhouette/bridge_PNG84.png,Bridge,objects in the image: Bridge
+data/thin/silhouette/bridge_PNG85.png,Bridge,193. Bridge
+data/thin/silhouette/broom_PNG17.png,Broom,0
+data/thin/silhouette/broom_PNG18.png,Broom,tool
+data/thin/silhouette/broom_PNG26.png,Broom,Mop
+data/thin/silhouette/broom_PNG28.png,Broom,清洁工具
+data/thin/silhouette/broom_PNG40.png,Broom,-tool
+data/thin/silhouette/broom_PNG51.png,Broom,://Broom
+data/thin/silhouette/broom_PNG54.png,Broom,0
+data/thin/silhouette/broom_PNG56.png,Broom,0.
+data/thin/silhouette/broom_PNG58.png,Broom,0
+data/thin/silhouette/broom_PNG59.png,Broom,Cleaning Tool
+data/thin/silhouette/broom_PNG6.png,Broom,Headphones
+data/thin/silhouette/broom_PNG60a.png,Broom,清洁工具
+data/thin/silhouette/broom_PNG60b.png,Broom,Cleaning Tool
+data/thin/silhouette/broom_PNG61.png,Broom,0
+data/thin/silhouette/broom_PNG64b.png,Broom,1. Broom
+data/thin/silhouette/broom_PNG68.png,Broom,清洁工具
+data/thin/silhouette/bucket_PNG7757.png,Bucket,_objects_
+data/thin/silhouette/bucket_PNG7761.png,Bucket,Bucket
+data/thin/silhouette/bucket_PNG7762.png,Bucket,Bucket
+data/thin/silhouette/bucket_PNG7763.png,Bucket,Bucket
+data/thin/silhouette/bucket_PNG7771.png,Bucket,Bucket
+data/thin/silhouette/bucket_PNG7777.png,Bucket,Bucket
+data/thin/silhouette/bulldozer_PNG16444.png,Bulldozer,Bulldozer
+data/thin/silhouette/bulldozer_PNG16447.png,Bulldozer,Bulldozer
+data/thin/silhouette/bulldozer_PNG16460.png,Bulldozer,附件
+data/thin/silhouette/bulldozer_PNG16462.png,Bulldozer,front of a bulldozer
+data/thin/silhouette/butterfly_PNG1001.png,Butterfly,Insect
+data/thin/silhouette/butterfly_PNG1004.png,Butterfly,Order of the Day
+data/thin/silhouette/butterfly_PNG1005.png,Butterfly,Insect
+data/thin/silhouette/butterfly_PNG1006.png,Butterfly,Wings
+data/thin/silhouette/butterfly_PNG1007.png,Butterfly,Butterfly
+data/thin/silhouette/butterfly_PNG1008.png,Butterfly,
+data/thin/silhouette/butterfly_PNG1015.png,Butterfly,Order of the Butterflies
+data/thin/silhouette/butterfly_PNG1017.png,Butterfly,0.
+data/thin/silhouette/butterfly_PNG1023.png,Butterfly,moth
+data/thin/silhouette/butterfly_PNG1024.png,Butterfly,Insect
+data/thin/silhouette/butterfly_PNG1025.png,Butterfly,Butterfly
+data/thin/silhouette/butterfly_PNG1026.png,Butterfly,winged butterfly
+data/thin/silhouette/butterfly_PNG1027.png,Butterfly,Order of Operations
+data/thin/silhouette/butterfly_PNG1028.png,Butterfly,Order of the Butterflies
+data/thin/silhouette/butterfly_PNG1031.png,Butterfly,moth
+data/thin/silhouette/butterfly_PNG1032.png,Butterfly,
+data/thin/silhouette/butterfly_PNG1037.png,Butterfly,Order of the Butterflies
+data/thin/silhouette/butterfly_PNG1038.png,Butterfly,Butterfly
+data/thin/silhouette/butterfly_PNG1042.png,Butterfly,Order of the Day
+data/thin/silhouette/butterfly_PNG1044.png,Butterfly,Insect
+data/thin/silhouette/butterfly_PNG1049.png,Butterfly,Insect
+data/thin/silhouette/butterfly_PNG1056.png,Butterfly,fully butterfly
+data/thin/silhouette/butterfly_PNG1058.png,Butterfly,Insect
+data/thin/silhouette/butterfly_PNG1059.png,Butterfly,Wings
+data/thin/silhouette/butterfly_PNG1061.png,Butterfly,Order of Operations
+data/thin/silhouette/butterfly_PNG1062.png,Butterfly,Order
+data/thin/silhouette/butterfly_PNG1064.png,Butterfly,Ordering
+data/thin/silhouette/butterfly_PNG1065.png,Butterfly,Order of the Butterflies
+data/thin/silhouette/cactus_PNG23614.png,Cactus,Iris
+data/thin/silhouette/cactus_PNG23638.png,Cactus,"There is no object in this image that matches any of the 193 classes provided. The image shows a silhouette of a person with a fuzzy, rounded head and a broad, rounded body, but this specific shape is not listed in the given class list.
+
+Therefore, the correct response is: **None of the above**.
+
+However, since ""None of the above"" is not an option in the provided list, and the instruction is to choose from the 193 classes,"
+data/thin/silhouette/cactus_PNG23643.png,Cactus,desert cactus
+data/thin/silhouette/cage_PNG1.png,Cage,牢笼
+data/thin/silhouette/cage_PNG11.png,Cage,animal cage
+data/thin/silhouette/cage_PNG18.png,Cage,caged bird
+data/thin/silhouette/cage_PNG23a.png,Cage,Cage
+data/thin/silhouette/cage_PNG23b.png,Cage,birds
+data/thin/silhouette/cage_PNG23c.png,Cage,confinement
+data/thin/silhouette/cage_PNG30.png,Cage,cage
+data/thin/silhouette/cage_PNG3a.png,Cage,confinement cage
+data/thin/silhouette/cage_PNG4.png,Cage,birds
+data/thin/silhouette/cage_PNG45.png,Cage,birdcage
+data/thin/silhouette/cage_PNG46.png,Cage,cage
+data/thin/silhouette/cage_PNG48.png,Cage,cage
+data/thin/silhouette/cage_PNG49.png,Cage,牢笼
+data/thin/silhouette/cage_PNG50.png,Cage,cage
+data/thin/silhouette/cage_PNG51.png,Cage,cage
+data/thin/silhouette/cage_PNG53.png,Cage,confinement
+data/thin/silhouette/camel_PNG23426.png,Camel,Camel
+data/thin/silhouette/camel_PNG23435.png,Camel,Camel
+data/thin/silhouette/camel_PNG23436.png,Camel,Camel
+data/thin/silhouette/camel_PNG2920.png,Camel,Camel
+data/thin/silhouette/camel_PNG2921.png,Camel,Camel
+data/thin/silhouette/camel_PNG2923.png,Camel,Camel
+data/thin/silhouette/cannon_PNG10.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG12.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG13.png,Cannon,historical cannon
+data/thin/silhouette/cannon_PNG16.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG21.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG22.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG24.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG25.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG26.png,Cannon,military cannon
+data/thin/silhouette/cannon_PNG28.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG3.png,Cannon,weaponry
+data/thin/silhouette/cannon_PNG31.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG32.png,Cannon,Tractor
+data/thin/silhouette/cannon_PNG33.png,Cannon,武器
+data/thin/silhouette/cannon_PNG37.png,Cannon,three-wheeled vehicle
+data/thin/silhouette/cannon_PNG4.png,Cannon,weapon
+data/thin/silhouette/cannon_PNG40.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG56.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG57.png,Cannon,artillery
+data/thin/silhouette/cannon_PNG59.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG6.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG65.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG66.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG70.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG74.png,Cannon,Frog
+data/thin/silhouette/cannon_PNG75.png,Cannon,historical cannon
+data/thin/silhouette/cannon_PNG79.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG8.png,Cannon,weapon
+data/thin/silhouette/cannon_PNG80.png,Cannon,Tractor
+data/thin/silhouette/cannon_PNG82.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG83.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG84.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG85.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG86.png,Cannon,artillery
+data/thin/silhouette/cannon_PNG88.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG89.png,Cannon,weapon
+data/thin/silhouette/cannon_PNG9.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG90.png,Cannon,artillery
+data/thin/silhouette/cannon_PNG91.png,Cannon,Cannon
+data/thin/silhouette/cannon_PNG93.png,Cannon,self-made tank with cannon
+data/thin/silhouette/cannon_PNG94.png,Cannon,Cannon
+data/thin/silhouette/canoe_PNG146.png,Canoe,Paddle
+data/thin/silhouette/canoe_PNG168.png,Canoe,0.0
+data/thin/silhouette/canoe_PNG75.png,Canoe,0.0
+data/thin/silhouette/canoe_PNG83.png,Canoe,:// Canoe
+data/thin/silhouette/canoe_PNG91.png,Canoe,Boat
+data/thin/silhouette/canoe_PNG94.png,Canoe,0.0
+data/thin/silhouette/carriage_PNG11.png,Carriage,Carriage
+data/thin/silhouette/carriage_PNG12.png,Carriage,Carriage
+data/thin/silhouette/carriage_PNG14.png,Carriage,Carriage
+data/thin/silhouette/carriage_PNG22.png,Carriage,drawn Carriage
+data/thin/silhouette/carriage_PNG26.png,Carriage,Carriage
+data/thin/silhouette/carriage_PNG27.png,Carriage,"drawn in a silhouette, the main object is a Carriage."
+data/thin/silhouette/carriage_PNG28.png,Carriage,Carriage
+data/thin/silhouette/carriage_PNG31.png,Carriage,"pulled by two horses, with a large carriage or cart behind it, which is a classic representation of a Carriage. The silhouette clearly shows the horses harnessed to the vehicle, which is the defining feature of a carriage. The wheels and the overall structure are consistent with a traditional carriage design.
+
+Carriage"
+data/thin/silhouette/carriage_PNG32.png,Carriage,pulled by two horses.
+data/thin/silhouette/carriage_PNG43.png,Carriage,transportation
+data/thin/silhouette/carriage_PNG44.png,Carriage,Carriage
+data/thin/silhouette/carriage_PNG46.png,Carriage,"horse, carriage"
+data/thin/silhouette/carriage_PNG47.png,Carriage,drawn Carriage
+data/thin/silhouette/carriage_PNG48.png,Carriage,Carriage
+data/thin/silhouette/carriage_PNG50.png,Carriage,pulled by a horse.
+data/thin/silhouette/carriage_PNG63.png,Carriage,"horse, carriage"
+data/thin/silhouette/carriage_PNG70a.png,Carriage,pulled carriage
+data/thin/silhouette/carriage_PNG70b.png,Carriage,drawn Carriage
+data/thin/silhouette/carriage_PNG73.png,Carriage,Carriage
+data/thin/silhouette/carriage_PNG74.png,Carriage,0
+data/thin/silhouette/carriage_PNG76.png,Carriage,"drawn in black and white, the main object is a Carriage."
+data/thin/silhouette/carriage_PNG78a.png,Carriage,Carriage
+data/thin/silhouette/carriage_PNG78b.png,Carriage,Carriage
+data/thin/silhouette/carriage_PNG78c.png,Carriage,transport: Carriage
+data/thin/silhouette/carriage_PNG78d.png,Carriage,Carriage
+data/thin/silhouette/carriage_PNG79.png,Carriage,"horse, carriage"
+data/thin/silhouette/carriage_PNG81.png,Carriage,Pram
+data/thin/silhouette/carriage_PNG85.png,Carriage,object is: Carriage
+data/thin/silhouette/cat_PNG50479.png,Cat,0010010010010010010010010010010010010010010010010010010010010010010010010010010010010010010010010010
+data/thin/silhouette/cat_PNG50507.png,Cat,Cat
+data/thin/silhouette/cat_PNG50540.png,Cat,sitting cat
+data/thin/silhouette/cat_PNG50543.png,Cat,Cat
+data/thin/silhouette/cat_PNG50547.png,Cat,Cat
+data/thin/silhouette/chain_saw_PNG18499.png,Chain Saw,Chain Saw
+data/thin/silhouette/chain_saw_PNG18500.png,Chain Saw,cutting tool
+data/thin/silhouette/chain_saw_PNG18501.png,Chain Saw,toolchain saw
+data/thin/silhouette/chain_saw_PNG18502.png,Chain Saw,Chain Saw
+data/thin/silhouette/chain_saw_PNG18504.png,Chain Saw,toolchain saw
+data/thin/silhouette/chain_saw_PNG18506.png,Chain Saw,power saw
+data/thin/silhouette/chain_saw_PNG18510.png,Chain Saw,Chain Saw
+data/thin/silhouette/chain_saw_PNG18512.png,Chain Saw,Two classes are possible: Chain Saw and Hand Saw.
+data/thin/silhouette/chain_saw_PNG18514.png,Chain Saw,blade saw
+data/thin/silhouette/chain_saw_PNG18515.png,Chain Saw,Chain Saw
+data/thin/silhouette/chain_saw_PNG18517.png,Chain Saw,Chain Saw
+data/thin/silhouette/chain_saw_PNG18527.png,Chain Saw,Power Saw
+data/thin/silhouette/chain_saw_PNG18531.png,Chain Saw,tool: Chain Saw
+data/thin/silhouette/chain_saw_PNG18533.png,Chain Saw,Chain Saw
+data/thin/silhouette/chain_saw_PNG18536.png,Chain Saw,blade saw
+data/thin/silhouette/chair_PNG6843.png,Chair,Chair
+data/thin/silhouette/chair_PNG6844.png,Chair,Objects
+data/thin/silhouette/chair_PNG6845.png,Chair,0.0
+data/thin/silhouette/chair_PNG6846.png,Chair,object is: Chair
+data/thin/silhouette/chair_PNG6847.png,Chair,object is: Chair
+data/thin/silhouette/chair_PNG6848.png,Chair,Chair
+data/thin/silhouette/chair_PNG6849.png,Chair,Chair
+data/thin/silhouette/chair_PNG6851.png,Chair,Chair
+data/thin/silhouette/chair_PNG6852.png,Chair,Obelisk
+data/thin/silhouette/chair_PNG6853.png,Chair,Objects
+data/thin/silhouette/chair_PNG6855.png,Chair,object in this image is: Chair
+data/thin/silhouette/chair_PNG6856.png,Chair,0.0
+data/thin/silhouette/chair_PNG6857.png,Chair,Chair
+data/thin/silhouette/chair_PNG6859.png,Chair,0
+data/thin/silhouette/chair_PNG6860.png,Chair,objects: Chair
+data/thin/silhouette/chair_PNG6861.png,Chair,Chair
+data/thin/silhouette/chair_PNG6862.png,Chair,objects
+data/thin/silhouette/chair_PNG6865a.png,Chair,_objects_
+data/thin/silhouette/chair_PNG6865b.png,Chair,objects are not in the list.
+data/thin/silhouette/chair_PNG6866a.png,Chair,Chair
+data/thin/silhouette/chair_PNG6866c.png,Chair,Chair
+data/thin/silhouette/chair_PNG6866d.png,Chair,Chair
+data/thin/silhouette/chair_PNG6866e.png,Chair,"""Armchair"""
+data/thin/silhouette/chair_PNG6866f.png,Chair,Armchair
+data/thin/silhouette/chair_PNG6866g.png,Chair,Chair
+data/thin/silhouette/chair_PNG6866h.png,Chair,Chair
+data/thin/silhouette/chair_PNG6867a.png,Chair,Chair
+data/thin/silhouette/chair_PNG6867b.png,Chair,Chair
+data/thin/silhouette/chair_PNG6867d.png,Chair,Chair
+data/thin/silhouette/chair_PNG6867f.png,Chair,Chair
+data/thin/silhouette/chair_PNG6867h.png,Chair,Chair
+data/thin/silhouette/chair_PNG6869.png,Chair,Objects
+data/thin/silhouette/chair_PNG6872.png,Chair,category: Chair
+data/thin/silhouette/chair_PNG6873.png,Chair,"""Chair"""
+data/thin/silhouette/chair_PNG6874a.png,Chair,Chair
+data/thin/silhouette/chair_PNG6874b.png,Chair,object is a Chair.
+data/thin/silhouette/chair_PNG6874d.png,Chair,3010404884245254352765715854867436787544558744557445574455744557445574455744557445574455744557445574
+data/thin/silhouette/chair_PNG6874e.png,Chair,
+data/thin/silhouette/chair_PNG6874f.png,Chair,Chair
+data/thin/silhouette/chair_PNG6874h.png,Chair,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/chair_PNG6877.png,Chair,Chair
+data/thin/silhouette/chair_PNG6878a.png,Chair,"""Chair"""
+data/thin/silhouette/chair_PNG6878b.png,Chair,Chair
+data/thin/silhouette/chair_PNG6878c.png,Chair,0.5227164541822157
+data/thin/silhouette/chair_PNG6878d.png,Chair,Chair
+data/thin/silhouette/chair_PNG6878e.png,Chair,9013825374285242176283987898789878987898789878987898789878987898789878987898789878987898789878987898
+data/thin/silhouette/chair_PNG6878f.png,Chair,"Recognize the main object in this image. Choose from these 193 classes:
+Anaconda, Ant, Apple, Armchair, Arrow Bow, Ax, Backpack, Barbell, Bassinet, Bathtub, Bed, Bee, Bicycle, Birds, Boat, Boots, Bridge, Broom, Bucket, Bulldozer, Butterfly, Cactus, Cage, Camel, Cannon, Canoe, Carriage, Cat, Chain Saw, Chair, Chicken, Cobra, Cock, Comb, Cooking"
+data/thin/silhouette/chair_PNG6878g.png,Chair,Chair
+data/thin/silhouette/chair_PNG6878h.png,Chair,_objects_
+data/thin/silhouette/chair_PNG6880.png,Chair,object is a Chair
+data/thin/silhouette/chair_PNG6881.png,Chair,Chair
+data/thin/silhouette/chair_PNG6882a.png,Chair,Chair
+data/thin/silhouette/chair_PNG6882b.png,Chair,Object is: Chair
+data/thin/silhouette/chair_PNG6883.png,Chair,Chair
+data/thin/silhouette/chair_PNG6887.png,Chair,Chair
+data/thin/silhouette/chair_PNG6892.png,Chair,Chair
+data/thin/silhouette/chair_PNG6897.png,Chair,Chair
+data/thin/silhouette/chair_PNG6898.png,Chair,"""Chair"""
+data/thin/silhouette/chair_PNG6899.png,Chair,Chair
+data/thin/silhouette/chair_PNG6901.png,Chair,"""Chair"""
+data/thin/silhouette/chair_PNG6902.png,Chair,Chair
+data/thin/silhouette/chair_PNG6905.png,Chair,Chair
+data/thin/silhouette/chair_PNG6906.png,Chair,seating
+data/thin/silhouette/chair_PNG6907.png,Chair,Chair
+data/thin/silhouette/chair_PNG6908.png,Chair,Armchair
+data/thin/silhouette/chair_PNG6909.png,Chair,Chair
+data/thin/silhouette/chicken_PNG2145.png,Chicken,Chicken
+data/thin/silhouette/chicken_PNG2147.png,Chicken,rooster
+data/thin/silhouette/chicken_PNG2150.png,Chicken,Chicken
+data/thin/silhouette/chicken_PNG2151.png,Chicken,Chicken
+data/thin/silhouette/chicken_PNG2154.png,Chicken,Chicken
+data/thin/silhouette/chicken_PNG2164.png,Chicken,rooster
+data/thin/silhouette/chicken_PNG2165.png,Chicken,female chicken
+data/thin/silhouette/chicken_PNG2167.png,Chicken,Chicken
+data/thin/silhouette/chicken_PNG2171.png,Chicken,Chicken
+data/thin/silhouette/chicken_PNG2172.png,Chicken,Chicken
+data/thin/silhouette/chicken_PNG2173.png,Chicken,Chicken
+data/thin/silhouette/cobra_PNG12.png,Cobra,Cobra
+data/thin/silhouette/cobra_PNG41.png,Cobra,Cobra
+data/thin/silhouette/cobra_PNG47.png,Cobra,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/cobra_PNG55.png,Cobra,危险蛇
+data/thin/silhouette/cock_PNG19926.png,Cock,Cock
+data/thin/silhouette/cock_PNG19930.png,Cock,Cock
+data/thin/silhouette/cock_PNG20.png,Cock,Cock
+data/thin/silhouette/cock_PNG27.png,Cock,Chicken
+data/thin/silhouette/cock_PNG29.png,Cock,Cock
+data/thin/silhouette/cock_PNG3.png,Cock,crow
+data/thin/silhouette/cock_PNG4.png,Cock,Cock
+data/thin/silhouette/cock_PNG5.png,Cock,Cock
+data/thin/silhouette/cock_PNG6.png,Cock,Chicken
+data/thin/silhouette/cock_PNG8.png,Cock,Cock
+data/thin/silhouette/cock_PNG9.png,Cock,Chicken
+data/thin/silhouette/comb_PNG1.png,Comb,::Comb
+data/thin/silhouette/comb_PNG10.png,Comb,Comb
+data/thin/silhouette/comb_PNG106.png,Comb,193. Comb
+data/thin/silhouette/comb_PNG11.png,Comb,工具箱
+data/thin/silhouette/comb_PNG112.png,Comb,工具箱
+data/thin/silhouette/comb_PNG113.png,Comb,used for combing hair.
+data/thin/silhouette/comb_PNG114.png,Comb,工具箱
+data/thin/silhouette/comb_PNG118.png,Comb,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/comb_PNG120.png,Comb,Comb
+data/thin/silhouette/comb_PNG121.png,Comb,193
+data/thin/silhouette/comb_PNG124.png,Comb,193. Comb
+data/thin/silhouette/comb_PNG125a.png,Comb,Comb
+data/thin/silhouette/comb_PNG125b.png,Comb,工具类
+data/thin/silhouette/comb_PNG136a.png,Comb,:// Comb
+data/thin/silhouette/comb_PNG136b.png,Comb,Scissors
+data/thin/silhouette/comb_PNG137.png,Comb,Comb
+data/thin/silhouette/comb_PNG14.png,Comb,0.12252776415251567
+data/thin/silhouette/comb_PNG140a.png,Comb,工具
+data/thin/silhouette/comb_PNG141.png,Comb,Toothbrush
+data/thin/silhouette/comb_PNG142.png,Comb,1. Comb
+data/thin/silhouette/comb_PNG144.png,Comb,tool comb
+data/thin/silhouette/comb_PNG146.png,Comb,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/comb_PNG154a.png,Comb,Comb
+data/thin/silhouette/comb_PNG154b.png,Comb,Tool
+data/thin/silhouette/comb_PNG154d.png,Comb,工具箱
+data/thin/silhouette/comb_PNG155a.png,Comb,Comb
+data/thin/silhouette/comb_PNG155b.png,Comb,0
+data/thin/silhouette/comb_PNG156.png,Comb,Comb
+data/thin/silhouette/comb_PNG158.png,Comb,Comb
+data/thin/silhouette/comb_PNG159.png,Comb,Comb
+data/thin/silhouette/comb_PNG16.png,Comb,Toothbrush
+data/thin/silhouette/comb_PNG17.png,Comb,Comb
+data/thin/silhouette/comb_PNG18.png,Comb,Toothbrush
+data/thin/silhouette/comb_PNG23.png,Comb,Comb
+data/thin/silhouette/comb_PNG28.png,Comb,0
+data/thin/silhouette/comb_PNG29.png,Comb,Comb
+data/thin/silhouette/comb_PNG37.png,Comb,Toothbrush
+data/thin/silhouette/comb_PNG40.png,Comb,Comb
+data/thin/silhouette/comb_PNG43.png,Comb,Comb
+data/thin/silhouette/comb_PNG45.png,Comb,1. Comb
+data/thin/silhouette/comb_PNG47.png,Comb,Comb
+data/thin/silhouette/comb_PNG48.png,Comb,0
+data/thin/silhouette/comb_PNG49.png,Comb,用来梳理头发的梳子。
+data/thin/silhouette/comb_PNG5.png,Comb,Comb
+data/thin/silhouette/comb_PNG50.png,Comb,Comb
+data/thin/silhouette/comb_PNG66.png,Comb,
+data/thin/silhouette/comb_PNG68.png,Comb,193
+data/thin/silhouette/comb_PNG7.png,Comb,Comb
+data/thin/silhouette/comb_PNG71a.png,Comb,Scissors
+data/thin/silhouette/comb_PNG71b.png,Comb,"是用来梳理头发的工具，所以它属于梳子的类别。在提供的193个类别中，最符合的是：
+
+**Hairbrush**"
+data/thin/silhouette/comb_PNG81.png,Comb,Comb
+data/thin/silhouette/comb_PNG82.png,Comb,工具类
+data/thin/silhouette/comb_PNG83.png,Comb,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/comb_PNG84.png,Comb,::Comb
+data/thin/silhouette/comb_PNG87.png,Comb,Item 1: Hairbrush
+data/thin/silhouette/cooking_pan_PNG8363.png,Cooking Pan,Objects in the image: Cooking Pan
+data/thin/silhouette/cooking_pan_PNG8364.png,Cooking Pan,Objects in the image: Cooking Pan
+data/thin/silhouette/cooking_pan_PNG8365.png,Cooking Pan,Cooking Pan
+data/thin/silhouette/cooking_pan_PNG8366.png,Cooking Pan,objects in the image: Cooking Pan
+data/thin/silhouette/cooking_pan_PNG8367a.png,Cooking Pan,Cooking Pan
+data/thin/silhouette/cooking_pan_PNG8367b.png,Cooking Pan,Cooking Pan
+data/thin/silhouette/cooking_pan_PNG8367c.png,Cooking Pan,Cooking Pan
+data/thin/silhouette/cooking_pan_PNG8367d.png,Cooking Pan,Cooking Pan
+data/thin/silhouette/cooking_pan_PNG8369.png,Cooking Pan,Objects in the image: Cooking Pan
+data/thin/silhouette/cooking_pan_PNG8370.png,Cooking Pan,kitchenware
+data/thin/silhouette/cooking_pan_PNG8387.png,Cooking Pan,Objects in the image: Cooking Pan
+data/thin/silhouette/cooking_pan_PNG8398.png,Cooking Pan,_objects_
+data/thin/silhouette/cooking_pan_PNG8399.png,Cooking Pan,0.5
+data/thin/silhouette/corkscrew_PNG1.png,Corkscrew,0.5504538757473837
+data/thin/silhouette/corkscrew_PNG15.png,Corkscrew,0
+data/thin/silhouette/corkscrew_PNG18.png,Corkscrew,://Corkscrew
+data/thin/silhouette/corkscrew_PNG2.png,Corkscrew,0
+data/thin/silhouette/corkscrew_PNG33.png,Corkscrew,Corkscrew
+data/thin/silhouette/corkscrew_PNG35.png,Corkscrew,://Corkscrew
+data/thin/silhouette/corkscrew_PNG36.png,Corkscrew,://Corkscrew
+data/thin/silhouette/corkscrew_PNG37.png,Corkscrew,0
+data/thin/silhouette/corkscrew_PNG38.png,Corkscrew,://Corkscrew
+data/thin/silhouette/corkscrew_PNG39.png,Corkscrew,3848832354673219251345722146278152223331221232332323323232323232323232323232323232323232323232323232
+data/thin/silhouette/corkscrew_PNG4.png,Corkscrew,0.25211152174161776
+data/thin/silhouette/corkscrew_PNG40.png,Corkscrew,193. Corkscrew
+data/thin/silhouette/corkscrew_PNG41.png,Corkscrew,://Corkscrew
+data/thin/silhouette/corkscrew_PNG42.png,Corkscrew,0
+data/thin/silhouette/corkscrew_PNG43.png,Corkscrew,0.5513788212545565
+data/thin/silhouette/corkscrew_PNG44.png,Corkscrew,0.010018232666015625
+data/thin/silhouette/corkscrew_PNG49.png,Corkscrew,://Corkscrew
+data/thin/silhouette/corkscrew_PNG5.png,Corkscrew,0
+data/thin/silhouette/corkscrew_PNG50.png,Corkscrew,://Corkscrew
+data/thin/silhouette/corkscrew_PNG52.png,Corkscrew,Key
+data/thin/silhouette/corkscrew_PNG7.png,Corkscrew,0
+data/thin/silhouette/corkscrew_PNG8.png,Corkscrew,3320183483565777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+data/thin/silhouette/corkscrew_PNG9.png,Corkscrew,://Corkscrew
+data/thin/silhouette/cow_PNG50577.png,Cow,Cow
+data/thin/silhouette/cow_PNG50601.png,Cow,Cow
+data/thin/silhouette/cow_PNG50606.png,Cow,Cow
+data/thin/silhouette/crab_PNG1.png,Crab,Scorpion
+data/thin/silhouette/crab_PNG11.png,Crab,Crab
+data/thin/silhouette/crab_PNG12.png,Crab,Crab
+data/thin/silhouette/crab_PNG13.png,Crab,Crab
+data/thin/silhouette/crab_PNG16.png,Crab,decr
+data/thin/silhouette/crab_PNG18.png,Crab,Turtle
+data/thin/silhouette/crab_PNG19.png,Crab,Crab
+data/thin/silhouette/crab_PNG2.png,Crab,Crab
+data/thin/silhouette/crab_PNG20.png,Crab,Crab
+data/thin/silhouette/crab_PNG23.png,Crab,Crab
+data/thin/silhouette/crab_PNG24.png,Crab,Decree
+data/thin/silhouette/crab_PNG28.png,Crab,Crab
+data/thin/silhouette/crab_PNG3.png,Crab,Crab
+data/thin/silhouette/crab_PNG30.png,Crab,Crab
+data/thin/silhouette/crab_PNG34.png,Crab,Crab
+data/thin/silhouette/crab_PNG38.png,Crab,Lobster
+data/thin/silhouette/crab_PNG4.png,Crab,Crab
+data/thin/silhouette/crab_PNG42.png,Crab,Crab
+data/thin/silhouette/crab_PNG46.png,Crab,Crab
+data/thin/silhouette/crab_PNG7.png,Crab,Crab
+data/thin/silhouette/crab_PNG8.png,Crab,Crab
+data/thin/silhouette/crab_PNG9.png,Crab,Crab
+data/thin/silhouette/crane_PNG1.png,Crane,he Crane
+data/thin/silhouette/crane_PNG18.png,Crane,heavy crane
+data/thin/silhouette/crane_PNG2.png,Crane,机械设备
+data/thin/silhouette/crane_PNG21.png,Crane,Crane
+data/thin/silhouette/crane_PNG24.png,Crane,机械设备
+data/thin/silhouette/crocodile_PNG13162.png,Crocodile,Lizard
+data/thin/silhouette/crocodile_PNG13163.png,Crocodile,Crocodile
+data/thin/silhouette/crocodile_PNG13178.png,Crocodile,reptile
+data/thin/silhouette/crow_PNG3095.png,Crow,Corvus
+data/thin/silhouette/crow_PNG3097.png,Crow,Ravn
+data/thin/silhouette/crow_PNG3099.png,Crow,Corvus
+data/thin/silhouette/crow_PNG3101.png,Crow,Raven
+data/thin/silhouette/crow_PNG3103.png,Crow,Crow
+data/thin/silhouette/crow_PNG3104.png,Crow,Crow
+data/thin/silhouette/crow_PNG3105.png,Crow,Corvus
+data/thin/silhouette/crow_PNG3106.png,Crow,Raven
+data/thin/silhouette/crow_PNG3107.png,Crow,
+data/thin/silhouette/crow_PNG3110.png,Crow,Raven
+data/thin/silhouette/crow_PNG3111.png,Crow,Corvus
+data/thin/silhouette/crow_PNG3113.png,Crow,crow
+data/thin/silhouette/crow_PNG3115.png,Crow,RAVEN
+data/thin/silhouette/crown_PNG21.png,Crown,Crown
+data/thin/silhouette/crown_PNG23852.png,Crown,Crown
+data/thin/silhouette/crown_PNG23854.png,Crown,Crown
+data/thin/silhouette/crutch_PNG1.png,Crutch,assistive device
+data/thin/silhouette/crutch_PNG14.png,Crutch,Crutch
+data/thin/silhouette/crutch_PNG15.png,Crutch,assistive device
+data/thin/silhouette/crutch_PNG17a.png,Crutch,Crutch
+data/thin/silhouette/crutch_PNG17b.png,Crutch,0
+data/thin/silhouette/crutch_PNG2.png,Crutch,机械设备
+data/thin/silhouette/crutch_PNG31.png,Crutch,Crutch
+data/thin/silhouette/crutch_PNG32.png,Crutch,Crutch
+data/thin/silhouette/crutch_PNG34a.png,Crutch,assistive device
+data/thin/silhouette/crutch_PNG34b.png,Crutch,assistive device
+data/thin/silhouette/crutch_PNG35.png,Crutch,Crutch
+data/thin/silhouette/crutch_PNG36.png,Crutch,medical device
+data/thin/silhouette/crutch_PNG38b.png,Crutch,assistive device
+data/thin/silhouette/crutch_PNG9.png,Crutch,Aid
+data/thin/silhouette/darts_PNG10.png,Darts,0
+data/thin/silhouette/darts_PNG11.png,Darts,arrow bow
+data/thin/silhouette/darts_PNG12.png,Darts,Darts
+data/thin/silhouette/darts_PNG13.png,Darts,A Darts
+data/thin/silhouette/darts_PNG14.png,Darts,dart
+data/thin/silhouette/darts_PNG16.png,Darts,
+data/thin/silhouette/darts_PNG17.png,Darts,A Darts
+data/thin/silhouette/darts_PNG21.png,Darts,~~Darts~~
+data/thin/silhouette/darts_PNG22.png,Darts,://Darts
+data/thin/silhouette/darts_PNG25.png,Darts,---Darts---
+data/thin/silhouette/darts_PNG28.png,Darts,Darts
+data/thin/silhouette/darts_PNG30.png,Darts,A Darts
+data/thin/silhouette/darts_PNG41.png,Darts,Darts
+data/thin/silhouette/darts_PNG44.png,Darts,0
+data/thin/silhouette/darts_PNG45.png,Darts,0
+data/thin/silhouette/darts_PNG46.png,Darts,0
+data/thin/silhouette/darts_PNG47.png,Darts,A Darts
+data/thin/silhouette/darts_PNG49.png,Darts,0
+data/thin/silhouette/darts_PNG50.png,Darts,0
+data/thin/silhouette/darts_PNG53.png,Darts,A Darts
+data/thin/silhouette/darts_PNG58.png,Darts,0
+data/thin/silhouette/darts_PNG6.png,Darts,Darts
+data/thin/silhouette/darts_PNG8.png,Darts,Darts
+data/thin/silhouette/darts_PNG9.png,Darts,Darts
+data/thin/silhouette/deer_PNG10170.png,Deer,Deer
+data/thin/silhouette/deer_PNG10171.png,Deer,Deer
+data/thin/silhouette/deer_PNG10172.png,Deer,青年
+data/thin/silhouette/deer_PNG10175.png,Deer,_male Deer_
+data/thin/silhouette/deer_PNG10177.png,Deer,Deer
+data/thin/silhouette/deer_PNG10178.png,Deer,Deer
+data/thin/silhouette/deer_PNG10182.png,Deer,Deer
+data/thin/silhouette/deer_PNG10185.png,Deer,动物类
+data/thin/silhouette/dog_PNG50373.png,Dog,动物
+data/thin/silhouette/dog_PNG50383.png,Dog,dog
+data/thin/silhouette/donkey_PNG24.png,Donkey,Donkey
+data/thin/silhouette/dragonfly_PNG11.png,Dragonfly,Ostrich
+data/thin/silhouette/dragonfly_PNG20.png,Dragonfly,Order of the Dragonfly
+data/thin/silhouette/dragonfly_PNG4.png,Dragonfly,Order: Dragonfly
+data/thin/silhouette/dragonfly_PNG5.png,Dragonfly,Order of the Day
+data/thin/silhouette/dragonfly_PNG9.png,Dragonfly,Dragonfly
+data/thin/silhouette/dresser_PNG126.png,Dresser,Chair
+data/thin/silhouette/drone_PNG103.png,Drone,A Drone
+data/thin/silhouette/drone_PNG107.png,Drone,飞行器
+data/thin/silhouette/drone_PNG110.png,Drone,机械设备
+data/thin/silhouette/drone_PNG112.png,Drone,飞行器
+data/thin/silhouette/drone_PNG114.png,Drone,飞行器
+data/thin/silhouette/drone_PNG117.png,Drone,Drone
+data/thin/silhouette/drone_PNG12.png,Drone,飞行器
+data/thin/silhouette/drone_PNG123.png,Drone,飞行器
+data/thin/silhouette/drone_PNG125.png,Drone,飞行器
+data/thin/silhouette/drone_PNG128.png,Drone,{Drone}
+data/thin/silhouette/drone_PNG129.png,Drone,飞行器
+data/thin/silhouette/drone_PNG137.png,Drone,飞行器
+data/thin/silhouette/drone_PNG140.png,Drone,飞行器
+data/thin/silhouette/drone_PNG150.png,Drone,机械设备
+data/thin/silhouette/drone_PNG161.png,Drone,Drone
+data/thin/silhouette/drone_PNG169.png,Drone,飞行器
+data/thin/silhouette/drone_PNG181.png,Drone,机械设备
+data/thin/silhouette/drone_PNG190.png,Drone,飞行器
+data/thin/silhouette/drone_PNG191.png,Drone,机械设备
+data/thin/silhouette/drone_PNG194.png,Drone,Drone
+data/thin/silhouette/drone_PNG204.png,Drone,飞行器
+data/thin/silhouette/drone_PNG207.png,Drone,飞行器
+data/thin/silhouette/drone_PNG208.png,Drone,飞行器
+data/thin/silhouette/drone_PNG26.png,Drone,飞行器
+data/thin/silhouette/drone_PNG36.png,Drone,A Drone
+data/thin/silhouette/drone_PNG38.png,Drone,机械设备
+data/thin/silhouette/drone_PNG39.png,Drone,飞行器
+data/thin/silhouette/drone_PNG40.png,Drone,Drone
+data/thin/silhouette/drone_PNG41.png,Drone,机械设备
+data/thin/silhouette/drone_PNG46.png,Drone,icopter
+data/thin/silhouette/drone_PNG5.png,Drone,Drone
+data/thin/silhouette/drone_PNG65.png,Drone,飞行器
+data/thin/silhouette/drone_PNG85.png,Drone,Multirotor Drone
+data/thin/silhouette/drone_PNG88.png,Drone,Aerial Drone
+data/thin/silhouette/drone_PNG89.png,Drone,icopter
+data/thin/silhouette/drone_PNG9.png,Drone,飞行器
+data/thin/silhouette/drone_PNG91.png,Drone,Drone
+data/thin/silhouette/drum_PNG14337.png,Drum,musical instrument
+data/thin/silhouette/drum_PNG14342.png,Drum,Drum
+data/thin/silhouette/drum_PNG14343.png,Drum,musical instrument
+data/thin/silhouette/drum_PNG14344.png,Drum,Drum
+data/thin/silhouette/drum_PNG14345.png,Drum,musical instrument
+data/thin/silhouette/eagle_PNG1202.png,Eagle,Eagle
+data/thin/silhouette/eagle_PNG1215.png,Eagle,翱翔的鹰
+data/thin/silhouette/eagle_PNG1225.png,Eagle,Birds
+data/thin/silhouette/eagle_PNG1228.png,Eagle,Corvid
+data/thin/silhouette/eiffel_tower_PNG17.png,Eiffel Tower,_objects_
+data/thin/silhouette/eiffel_tower_PNG21.png,Eiffel Tower,object is: Eiffel Tower
+data/thin/silhouette/eiffel_tower_PNG29.png,Eiffel Tower,0
+data/thin/silhouette/eiffel_tower_PNG38.png,Eiffel Tower,"class=""Eiffel Tower"""
+data/thin/silhouette/eiffel_tower_PNG6.png,Eiffel Tower,"class=""Eiffel Tower"""
+data/thin/silhouette/eiffel_tower_PNG72.png,Eiffel Tower,class: Eiffel Tower
+data/thin/silhouette/elephants_PNG18747.png,Elephants,elephant
+data/thin/silhouette/elephants_PNG18748.png,Elephants,Elephants
+data/thin/silhouette/elephants_PNG18749.png,Elephants,Elephants
+data/thin/silhouette/elephants_PNG18762.png,Elephants,Asian Elephant
+data/thin/silhouette/elephants_PNG18775.png,Elephants,Elephants
+data/thin/silhouette/elephants_PNG18779.png,Elephants,大象
+data/thin/silhouette/elephants_PNG18781.png,Elephants,African Elephant
+data/thin/silhouette/elephants_PNG18782.png,Elephants,Asian Elephant
+data/thin/silhouette/elephants_PNG18785.png,Elephants,African Elephant
+data/thin/silhouette/elephants_PNG18787.png,Elephants,Elephants
+data/thin/silhouette/elephants_PNG18788.png,Elephants,Elephants
+data/thin/silhouette/elephants_PNG18793.png,Elephants,Ax
+data/thin/silhouette/elephants_PNG18799.png,Elephants,://Elephants
+data/thin/silhouette/elephants_PNG18800.png,Elephants,Elephants
+data/thin/silhouette/elephants_PNG18801.png,Elephants,large elephant
+data/thin/silhouette/elephants_PNG18805.png,Elephants,A elephant
+data/thin/silhouette/excavator_PNG1.png,Excavator,:// Excavator
+data/thin/silhouette/excavator_PNG12.png,Excavator,he Excavator
+data/thin/silhouette/excavator_PNG20.png,Excavator,heavy equipment
+data/thin/silhouette/excavator_PNG21.png,Excavator,heavy excavator
+data/thin/silhouette/excavator_PNG23.png,Excavator,:// Excavator
+data/thin/silhouette/excavator_PNG26.png,Excavator,he Excavator
+data/thin/silhouette/excavator_PNG27.png,Excavator,// Excavator
+data/thin/silhouette/excavator_PNG28.png,Excavator,he Excavator
+data/thin/silhouette/excavator_PNG29.png,Excavator,:// Excavator
+data/thin/silhouette/excavator_PNG32.png,Excavator,:// Excavator
+data/thin/silhouette/excavator_PNG37.png,Excavator,://Excavator
+data/thin/silhouette/excavator_PNG40.png,Excavator,heavy excavator
+data/thin/silhouette/excavator_PNG45.png,Excavator,he Excavator
+data/thin/silhouette/excavator_PNG58.png,Excavator,heavy machinery
+data/thin/silhouette/excavator_PNG65.png,Excavator,heavy machinery
+data/thin/silhouette/excavator_PNG8.png,Excavator,heavy excavator
+data/thin/silhouette/excavator_PNG9.png,Excavator,:// Excavator
+data/thin/silhouette/fan_PNG14457.png,Fan,机械设备
+data/thin/silhouette/fan_PNG14458.png,Fan,机械设备
+data/thin/silhouette/fan_PNG14460.png,Fan,电器
+data/thin/silhouette/fan_PNG14461.png,Fan,Fan
+data/thin/silhouette/fan_PNG14462.png,Fan,0
+data/thin/silhouette/fan_PNG14463.png,Fan,0
+data/thin/silhouette/fan_PNG14464.png,Fan,
+data/thin/silhouette/fan_PNG14465.png,Fan,household fan
+data/thin/silhouette/fan_PNG14467.png,Fan,cooling fan
+data/thin/silhouette/fan_PNG14469.png,Fan,Fan
+data/thin/silhouette/fan_PNG14471.png,Fan,apparatus
+data/thin/silhouette/fan_PNG14472.png,Fan,Objects
+data/thin/silhouette/fan_PNG14473.png,Fan,objects in this image are: Fan
+data/thin/silhouette/fan_PNG14475.png,Fan,appliance
+data/thin/silhouette/fan_PNG14478.png,Fan,mechanical fan
+data/thin/silhouette/fan_PNG14479.png,Fan,Fan
+data/thin/silhouette/fan_PNG14482.png,Fan,电器
+data/thin/silhouette/fan_PNG14483.png,Fan,电器
+data/thin/silhouette/fan_PNG14484.png,Fan,Fan
+data/thin/silhouette/fan_PNG14485.png,Fan,Device Fan
+data/thin/silhouette/fan_PNG14486.png,Fan,case of Fan
+data/thin/silhouette/fan_PNG14487.png,Fan,Ability to identify the main object in this image: Fan
+data/thin/silhouette/fan_PNG14489.png,Fan,://Fan
+data/thin/silhouette/fan_PNG14490.png,Fan,Fan
+data/thin/silhouette/fan_PNG14491.png,Fan,Fan
+data/thin/silhouette/fan_PNG14492.png,Fan,Electric Fan
+data/thin/silhouette/fir_tree_PNG3691.png,Fir Tree,Fir Tree
+data/thin/silhouette/fire_truck_PNG11.png,Fire Truck,Ladder
+data/thin/silhouette/fire_truck_PNG22.png,Fire Truck,ladder
+data/thin/silhouette/fire_truck_PNG37.png,Fire Truck,武器
+data/thin/silhouette/fire_truck_PNG40.png,Fire Truck,0
+data/thin/silhouette/fire_truck_PNG43.png,Fire Truck,apparatus
+data/thin/silhouette/fire_truck_PNG44.png,Fire Truck,responded with only the exact class name from the list above.
+data/thin/silhouette/fire_truck_PNG46.png,Fire Truck,apparatus
+data/thin/silhouette/fish_PNG25106.png,Fish,0.0
+data/thin/silhouette/flags_PNG14677.png,Flags,Flags
+data/thin/silhouette/flags_PNG14717.png,Flags,objects
+data/thin/silhouette/flags_PNG14719.png,Flags,Flags
+data/thin/silhouette/flamingo_PNG15094.png,Flamingo,Flamingo
+data/thin/silhouette/flamingo_PNG15095.png,Flamingo,bird
+data/thin/silhouette/flamingo_PNG15099.png,Flamingo,wFlamingo
+data/thin/silhouette/flamingo_PNG15101.png,Flamingo,wFlamingo
+data/thin/silhouette/flamingo_PNG15107.png,Flamingo,wFlamingo
+data/thin/silhouette/flamingo_PNG15110.png,Flamingo,w Flamingo
+data/thin/silhouette/flamingo_PNG15111.png,Flamingo,w Flamingo
+data/thin/silhouette/flamingo_PNG15112.png,Flamingo,wFlamingo
+data/thin/silhouette/flippers_PNG37454.png,Flippers,水肺潜水装备
+data/thin/silhouette/flippers_PNG37457.png,Flippers,3454353453453453453453453453453453453453453453453453453453453453453453453453453453453453453453453453
+data/thin/silhouette/flippers_PNG37458.png,Flippers,193 classes: Flippers
+data/thin/silhouette/flippers_PNG37461.png,Flippers,Flippers
+data/thin/silhouette/flippers_PNG37473.png,Flippers,0.0
+data/thin/silhouette/football_goal_PNG10.png,Football Goal,goal
+data/thin/silhouette/football_goal_PNG12.png,Football Goal,Football Goal
+data/thin/silhouette/football_goal_PNG13.png,Football Goal,Football Goal
+data/thin/silhouette/football_goal_PNG14.png,Football Goal,Football Goal
+data/thin/silhouette/football_goal_PNG15.png,Football Goal,Football Goal
+data/thin/silhouette/football_goal_PNG17.png,Football Goal,Football Goal
+data/thin/silhouette/football_goal_PNG19.png,Football Goal,sports goal
+data/thin/silhouette/football_goal_PNG22.png,Football Goal,
+data/thin/silhouette/football_goal_PNG24.png,Football Goal,sports goal
+data/thin/silhouette/football_goal_PNG25.png,Football Goal,goal
+data/thin/silhouette/football_goal_PNG26.png,Football Goal,Football Goal
+data/thin/silhouette/football_goal_PNG33.png,Football Goal,Cage
+data/thin/silhouette/football_goal_PNG38.png,Football Goal,Football Goal
+data/thin/silhouette/football_goal_PNG41.png,Football Goal,goal
+data/thin/silhouette/football_goal_PNG7.png,Football Goal,Football Goal
+data/thin/silhouette/fork_PNG3051.png,Fork,Fork
+data/thin/silhouette/fork_PNG3052.png,Fork,Fork
+data/thin/silhouette/fork_PNG3053.png,Fork,Fork
+data/thin/silhouette/fork_PNG3054.png,Fork,Fork
+data/thin/silhouette/fork_PNG3056.png,Fork,utensil
+data/thin/silhouette/fork_PNG3058.png,Fork,Fork
+data/thin/silhouette/fork_PNG3061.png,Fork,Fork
+data/thin/silhouette/fork_PNG3063.png,Fork,utensil
+data/thin/silhouette/fork_PNG3064.png,Fork,Fork
+data/thin/silhouette/fork_PNG3065.png,Fork,Fork
+data/thin/silhouette/fork_PNG3066.png,Fork,Fork
+data/thin/silhouette/fork_PNG3068.png,Fork,Fork
+data/thin/silhouette/frog_PNG35716.png,Frog,Frog
+data/thin/silhouette/frog_PNG35720.png,Frog,趴在地上的青蛙
+data/thin/silhouette/frog_PNG35721.png,Frog,Frog
+data/thin/silhouette/frog_PNG35727.png,Frog,Frog
+data/thin/silhouette/frog_PNG35729.png,Frog,Frog
+data/thin/silhouette/frog_PNG35730.png,Frog,Toad
+data/thin/silhouette/frog_PNG35734.png,Frog,amphibian
+data/thin/silhouette/frog_PNG35735.png,Frog,Frog
+data/thin/silhouette/frog_PNG35738.png,Frog,://Frog
+data/thin/silhouette/frog_PNG35739.png,Frog,://Frog
+data/thin/silhouette/frog_PNG35740.png,Frog,Frog
+data/thin/silhouette/frog_PNG35741.png,Frog,:// Frog
+data/thin/silhouette/frog_PNG35742.png,Frog,://Frog
+data/thin/silhouette/frog_PNG35746.png,Frog,amphibian
+data/thin/silhouette/frog_PNG35754.png,Frog,Frog
+data/thin/silhouette/frog_PNG35756.png,Frog,Frog
+data/thin/silhouette/frog_PNG35759.png,Frog,://Frog
+data/thin/silhouette/frog_PNG35761.png,Frog,Frog
+data/thin/silhouette/frog_PNG35772.png,Frog,amphibian
+data/thin/silhouette/frog_PNG35776.png,Frog,树蛙
+data/thin/silhouette/frog_PNG3832.png,Frog,://Frog
+data/thin/silhouette/frog_PNG3835.png,Frog,tree frog
+data/thin/silhouette/frog_PNG3837.png,Frog,amphibian
+data/thin/silhouette/frog_PNG3838.png,Frog,://Frog
+data/thin/silhouette/frog_PNG3839.png,Frog,Frog
+data/thin/silhouette/frog_PNG3840.png,Frog,Frog
+data/thin/silhouette/frog_PNG3841.png,Frog,://Frog
+data/thin/silhouette/frog_PNG3843.png,Frog,Frog
+data/thin/silhouette/frog_PNG3845.png,Frog,Frog
+data/thin/silhouette/frog_PNG3846.png,Frog,frog
+data/thin/silhouette/frog_PNG3847.png,Frog,Frog
+data/thin/silhouette/frying_pan_PNG8330.png,Frying Pan,Frying Pan
+data/thin/silhouette/frying_pan_PNG8331.png,Frying Pan,cooking pan
+data/thin/silhouette/frying_pan_PNG8336.png,Frying Pan,Frying Pan
+data/thin/silhouette/frying_pan_PNG8337.png,Frying Pan,Utensil
+data/thin/silhouette/frying_pan_PNG8338.png,Frying Pan,kitchen pan
+data/thin/silhouette/frying_pan_PNG8342.png,Frying Pan,0.0
+data/thin/silhouette/frying_pan_PNG8345.png,Frying Pan,kitchen pan
+data/thin/silhouette/frying_pan_PNG8346.png,Frying Pan,kitchen pan
+data/thin/silhouette/frying_pan_PNG8349.png,Frying Pan,Frying Pan
+data/thin/silhouette/frying_pan_PNG8357.png,Frying Pan,Cooking Pan
+data/thin/silhouette/frying_pan_PNG8359.png,Frying Pan,0.0
+data/thin/silhouette/frying_pan_PNG8360.png,Frying Pan,Frying Pan
+data/thin/silhouette/frying_pan_PNG8361.png,Frying Pan,7208500347558351818434582789882632489889847757778537744724743727444472727272727272727272727272727272
+data/thin/silhouette/frying_pan_PNG8362.png,Frying Pan,Utensil
+data/thin/silhouette/gas_mask_PNG1.png,Gas Mask,"self-contained, but the image is a black silhouette of a gas mask. The gas mask is clearly identifiable by its shape, including the mask portion, the respirator, and the coiled hose. It is not a helmet, nor is it a face mask in the sense of a surgical mask; it is a protective respirator designed for hazardous environments.
+
+Gas Mask"
+data/thin/silhouette/gas_mask_PNG12.png,Gas Mask,Respirator
+data/thin/silhouette/gas_mask_PNG13.png,Gas Mask,Gas Mask
+data/thin/silhouette/gas_mask_PNG16.png,Gas Mask,Gas Mask
+data/thin/silhouette/gas_mask_PNG18.png,Gas Mask,Gas Mask
+data/thin/silhouette/gas_mask_PNG33.png,Gas Mask,Gas Mask
+data/thin/silhouette/gas_mask_PNG43.png,Gas Mask,193
+data/thin/silhouette/giraffe_PNG13518.png,Giraffe,0
+data/thin/silhouette/giraffe_PNG13522.png,Giraffe,elongated Giraffe
+data/thin/silhouette/giraffe_PNG13525.png,Giraffe,long necked animal
+data/thin/silhouette/giraffe_PNG13534.png,Giraffe,r Giraffe
+data/thin/silhouette/giraffe_PNG13539.png,Giraffe,"world
+Giraffe"
+data/thin/silhouette/glider_PNG24.png,Glider,Arrow Bow
+data/thin/silhouette/glider_PNG6.png,Glider,Glider
+data/thin/silhouette/goat_PNG13150.png,Goat,Goat
+data/thin/silhouette/goat_PNG13151.png,Goat,Goat
+data/thin/silhouette/golden_cup_PNG14537.png,Golden Cup,0
+data/thin/silhouette/golden_cup_PNG14538.png,Golden Cup,Objects
+data/thin/silhouette/golden_cup_PNG14539.png,Golden Cup,Golden Cup
+data/thin/silhouette/golden_cup_PNG14542.png,Golden Cup,Golden Cup
+data/thin/silhouette/golden_cup_PNG14547.png,Golden Cup,Golden Cup
+data/thin/silhouette/golden_cup_PNG14548.png,Golden Cup,Golden Cup
+data/thin/silhouette/golden_cup_PNG14549.png,Golden Cup,Golden Cup
+data/thin/silhouette/golden_cup_PNG14550.png,Golden Cup,Golden Cup
+data/thin/silhouette/golden_cup_PNG14551.png,Golden Cup,Golden Cup
+data/thin/silhouette/golden_cup_PNG14559.png,Golden Cup,Golden Cup
+data/thin/silhouette/golden_cup_PNG14569.png,Golden Cup,Golden Cup
+data/thin/silhouette/golden_cup_PNG14571.png,Golden Cup,object in this image is: Golden Cup
+data/thin/silhouette/golden_cup_PNG14575.png,Golden Cup,Golden Cup
+data/thin/silhouette/grasshopper_PNG11.png,Grasshopper,Grasshopper
+data/thin/silhouette/grasshopper_PNG13.png,Grasshopper,Grasshopper
+data/thin/silhouette/grasshopper_PNG18.png,Grasshopper,insect
+data/thin/silhouette/grasshopper_PNG20.png,Grasshopper,Grasshopper
+data/thin/silhouette/grasshopper_PNG32.png,Grasshopper,Grasshopper
+data/thin/silhouette/grasshopper_PNG4.png,Grasshopper,Grasshopper
+data/thin/silhouette/grasshopper_PNG40.png,Grasshopper,Grasshopper
+data/thin/silhouette/grasshopper_PNG44.png,Grasshopper,Grasshopper
+data/thin/silhouette/grasshopper_PNG6.png,Grasshopper,0
+data/thin/silhouette/grasshopper_PNG7.png,Grasshopper,:// Grasshopper
+data/thin/silhouette/grasshopper_PNG9.png,Grasshopper,Grasshopper
+data/thin/silhouette/grenade_launcher_PNG15324.png,Grenade Launcher,weapon
+data/thin/silhouette/grenade_launcher_PNG15327.png,Grenade Launcher,"in this image, the main object is a Gun."
+data/thin/silhouette/grenade_launcher_PNG15330.png,Grenade Launcher,"in the image, the main object is a **Video Camera**."
+data/thin/silhouette/grenade_launcher_PNG15334.png,Grenade Launcher,weapon
+data/thin/silhouette/grenade_launcher_PNG15335.png,Grenade Launcher,Gun
+data/thin/silhouette/grenade_launcher_PNG15338.png,Grenade Launcher,Gun
+data/thin/silhouette/grenade_launcher_PNG15340.png,Grenade Launcher,Grenade Launcher
+data/thin/silhouette/grill_PNG13937.png,Grill,Outdoor Grill
+data/thin/silhouette/grill_PNG13938.png,Grill,Grill
+data/thin/silhouette/grill_PNG13939.png,Grill,4. Grill
+data/thin/silhouette/grill_PNG13942.png,Grill,设备
+data/thin/silhouette/grill_PNG13944.png,Grill,Outdoor Grill
+data/thin/silhouette/grill_PNG13947.png,Grill,outdoor grill
+data/thin/silhouette/gun_PNG1353.png,Gun,Gun
+data/thin/silhouette/gun_PNG1354.png,Gun,Gun
+data/thin/silhouette/gun_PNG1355.png,Gun,dangerous gun
+data/thin/silhouette/gun_PNG1357.png,Gun,Gun
+data/thin/silhouette/gun_PNG1358.png,Gun,Gun
+data/thin/silhouette/gun_PNG1360.png,Gun,Gun
+data/thin/silhouette/gun_PNG1363.png,Gun,Gun
+data/thin/silhouette/gun_PNG1371.png,Gun,Gun
+data/thin/silhouette/gun_PNG1373.png,Gun,Gun
+data/thin/silhouette/gun_PNG1374.png,Gun,weapon
+data/thin/silhouette/gun_PNG1377.png,Gun,Gun
+data/thin/silhouette/gun_PNG1378.png,Gun,Gun
+data/thin/silhouette/gun_PNG1379.png,Gun,Gun
+data/thin/silhouette/gun_PNG1381.png,Gun,Gun
+data/thin/silhouette/gun_PNG1384.png,Gun,Gun
+data/thin/silhouette/gun_PNG1385.png,Gun,Gun
+data/thin/silhouette/gun_PNG1386.png,Gun,Gun
+data/thin/silhouette/gun_PNG1389.png,Gun,Gun
+data/thin/silhouette/hairbrush_PNG105.png,Hairbrush,item: Hairbrush
+data/thin/silhouette/hairbrush_PNG107.png,Hairbrush,0.0
+data/thin/silhouette/hairbrush_PNG110.png,Hairbrush,Hairbrush
+data/thin/silhouette/hairbrush_PNG134.png,Hairbrush,0
+data/thin/silhouette/hairbrush_PNG135.png,Hairbrush,是用来梳理头发的工具，因此是 Hairbrush。
+data/thin/silhouette/hairbrush_PNG136a.png,Hairbrush,
+data/thin/silhouette/hairbrush_PNG136d.png,Hairbrush,UTensil
+data/thin/silhouette/hairbrush_PNG136f.png,Hairbrush,Personal Hairbrush
+data/thin/silhouette/hairbrush_PNG138.png,Hairbrush,Hairbrush
+data/thin/silhouette/hairbrush_PNG140.png,Hairbrush,grooming tools
+data/thin/silhouette/hairbrush_PNG145.png,Hairbrush,headbrush
+data/thin/silhouette/hairbrush_PNG146.png,Hairbrush,是用来梳理头发的梳子。
+data/thin/silhouette/hairbrush_PNG152.png,Hairbrush,Comb
+data/thin/silhouette/hairbrush_PNG154.png,Hairbrush,Headphones
+data/thin/silhouette/hairbrush_PNG157.png,Hairbrush,Hairbrush
+data/thin/silhouette/hairbrush_PNG162.png,Hairbrush,0.0
+data/thin/silhouette/hairbrush_PNG20.png,Hairbrush,工具箱
+data/thin/silhouette/hairbrush_PNG47.png,Hairbrush,Microphone
+data/thin/silhouette/hairbrush_PNG53.png,Hairbrush,320
+data/thin/silhouette/hairbrush_PNG63.png,Hairbrush,是用来梳头发的梳子，所以选择：Hairbrush
+data/thin/silhouette/hairbrush_PNG64.png,Hairbrush,
+data/thin/silhouette/hairbrush_PNG65.png,Hairbrush,是用来梳头发的梳子。
+data/thin/silhouette/hairbrush_PNG78.png,Hairbrush,是用来梳头发的梳子，因此选择“Hairbrush”。
+data/thin/silhouette/hairbrush_PNG81.png,Hairbrush,brush
+data/thin/silhouette/hammer_PNG1122.png,Hammer,3040537165448835424844344764444444444444444444444444444444444444444444444444444444444444444444444444
+data/thin/silhouette/hammer_PNG1124.png,Hammer,hand saw
+data/thin/silhouette/hammer_PNG1127.png,Hammer,Hammer
+data/thin/silhouette/hammer_PNG1131.png,Hammer,Hammer
+data/thin/silhouette/hammer_PNG1132.png,Hammer,tool
+data/thin/silhouette/hammer_PNG1134.png,Hammer,Hammer
+data/thin/silhouette/hammer_PNG1138.png,Hammer,37. Hammer
+data/thin/silhouette/hammer_PNG1140.png,Hammer,Hammer
+data/thin/silhouette/hammer_PNG3888.png,Hammer,Hammer
+data/thin/silhouette/hammer_PNG3889a.png,Hammer,Hammer
+data/thin/silhouette/hammer_PNG3889b.png,Hammer,tools: Hammer
+data/thin/silhouette/hammer_PNG3891.png,Hammer,tool
+data/thin/silhouette/hammock_PNG1.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG12.png,Hammock,'t'
+data/thin/silhouette/hammock_PNG18.png,Hammock,"Objects in the image:
+- Hammock"
+data/thin/silhouette/hammock_PNG19.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG2.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG23.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG3.png,Hammock,smiley face
+data/thin/silhouette/hammock_PNG32.png,Hammock,object in this image is a hammock.
+data/thin/silhouette/hammock_PNG33.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG37.png,Hammock,"objects are not listed in the given list, so the correct class name is: Hammock"
+data/thin/silhouette/hammock_PNG39.png,Hammock,shape of a hammock
+data/thin/silhouette/hammock_PNG4.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG41.png,Hammock,A hammock
+data/thin/silhouette/hammock_PNG43.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG45.png,Hammock,relaxing in a hammock
+data/thin/silhouette/hammock_PNG48.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG49.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG50.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG61.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG63.png,Hammock,Hammock
+data/thin/silhouette/hammock_PNG64.png,Hammock,'t HAMMOCK'
+data/thin/silhouette/hammock_PNG65.png,Hammock,'tHammock'
+data/thin/silhouette/hammock_PNG7.png,Hammock,relaxing on a hammock
+data/thin/silhouette/hammock_PNG9.png,Hammock,Hammock
+data/thin/silhouette/hand_saw_PNG9530.png,Hand Saw,cutting tool
+data/thin/silhouette/hand_saw_PNG9531.png,Hand Saw,Hand Saw
+data/thin/silhouette/hand_saw_PNG9532.png,Hand Saw,Hand Saw
+data/thin/silhouette/hand_saw_PNG9541.png,Hand Saw,Hand Saw
+data/thin/silhouette/hand_saw_PNG9545.png,Hand Saw,"tool, Hand Saw"
+data/thin/silhouette/hand_saw_PNG9549.png,Hand Saw,.Comb
+data/thin/silhouette/handcuffs_PNG12.png,Handcuffs,Handcuffs
+data/thin/silhouette/handcuffs_PNG13.png,Handcuffs,Handcuffs
+data/thin/silhouette/handcuffs_PNG14.png,Handcuffs,
+data/thin/silhouette/handcuffs_PNG16.png,Handcuffs,interlocked with a key.
+data/thin/silhouette/handcuffs_PNG18a.png,Handcuffs,icon
+data/thin/silhouette/handcuffs_PNG1a.png,Handcuffs,Handcuffs
+data/thin/silhouette/handcuffs_PNG1b.png,Handcuffs,Key
+data/thin/silhouette/handcuffs_PNG22.png,Handcuffs,restraint
+data/thin/silhouette/handcuffs_PNG25.png,Handcuffs,Handcuffs
+data/thin/silhouette/handcuffs_PNG3.png,Handcuffs,Handcuffs
+data/thin/silhouette/handcuffs_PNG30.png,Handcuffs,0.010354256623558833
+data/thin/silhouette/handcuffs_PNG31.png,Handcuffs,1. Handcuffs
+data/thin/silhouette/handcuffs_PNG34.png,Handcuffs,Handcuffs
+data/thin/silhouette/handcuffs_PNG35.png,Handcuffs,law enforcement handcuffs
+data/thin/silhouette/handcuffs_PNG38.png,Handcuffs,Handcuffs
+data/thin/silhouette/handcuffs_PNG44.png,Handcuffs,Handcuffs
+data/thin/silhouette/handcuffs_PNG47.png,Handcuffs,Handcuffs
+data/thin/silhouette/handcuffs_PNG48.png,Handcuffs,Handcuffs
+data/thin/silhouette/handcuffs_PNG52.png,Handcuffs,Handcuffs
+data/thin/silhouette/handcuffs_PNG55.png,Handcuffs,1. Handcuffs
+data/thin/silhouette/handcuffs_PNG8.png,Handcuffs,Handcuffs
+data/thin/silhouette/handcuffs_PNG9.png,Handcuffs,Handcuffs
+data/thin/silhouette/harp_PNG1.png,Harp,乐器
+data/thin/silhouette/harp_PNG12.png,Harp,乐器
+data/thin/silhouette/harp_PNG21.png,Harp,Objects
+data/thin/silhouette/harp_PNG26.png,Harp,Harp
+data/thin/silhouette/harp_PNG30.png,Harp,Harp
+data/thin/silhouette/harp_PNG32.png,Harp,Objects in the image: Harp
+data/thin/silhouette/harp_PNG4.png,Harp,_objects_
+data/thin/silhouette/harp_PNG8.png,Harp,Harp
+data/thin/silhouette/headphones_PNG7634.png,Headphones,Headphones
+data/thin/silhouette/hedgehog_PNG11.png,Hedgehog,
+data/thin/silhouette/hedgehog_PNG13.png,Hedgehog,Hedgehog
+data/thin/silhouette/hedgehog_PNG16.png,Hedgehog,sparrow
+data/thin/silhouette/hedgehog_PNG9.png,Hedgehog,0.0
+data/thin/silhouette/helicopter_PNG5300.png,Helicopter,copter
+data/thin/silhouette/helicopter_PNG5301.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG5302.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG5306.png,Helicopter,Vehicle
+data/thin/silhouette/helicopter_PNG5311.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG5312.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG5313.png,Helicopter,icopter
+data/thin/silhouette/helicopter_PNG5315.png,Helicopter,A Helicopter
+data/thin/silhouette/helicopter_PNG80002.png,Helicopter,vehicle
+data/thin/silhouette/helicopter_PNG80006.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80008.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80016.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80017.png,Helicopter,
+data/thin/silhouette/helicopter_PNG80033.png,Helicopter,"rotors, Helicopter"
+data/thin/silhouette/helicopter_PNG80039.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80040.png,Helicopter,aerial vehicle
+data/thin/silhouette/helicopter_PNG80041.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80043.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80044.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80045.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80046.png,Helicopter,交通工具: Helicopter
+data/thin/silhouette/helicopter_PNG80048.png,Helicopter,Raptor
+data/thin/silhouette/helicopter_PNG80049.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80050.png,Helicopter,icopter
+data/thin/silhouette/helicopter_PNG80051.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80060.png,Helicopter,武器直升机
+data/thin/silhouette/helicopter_PNG80061.png,Helicopter,
+data/thin/silhouette/helicopter_PNG80062.png,Helicopter,A Helicopter
+data/thin/silhouette/helicopter_PNG80066.png,Helicopter,rotorcraft
+data/thin/silhouette/helicopter_PNG80072.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80079.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80087.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80088.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80093.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80095.png,Helicopter,Raptor
+data/thin/silhouette/helicopter_PNG80097.png,Helicopter,Birds
+data/thin/silhouette/helicopter_PNG80098.png,Helicopter,
+data/thin/silhouette/helicopter_PNG80105.png,Helicopter,Helicopter
+data/thin/silhouette/helicopter_PNG80110.png,Helicopter,Helicopter
+data/thin/silhouette/horseshoe_PNG34.png,Horseshoe,Horseshoe
+data/thin/silhouette/horseshoe_PNG5.png,Horseshoe,Horseshoe
+data/thin/silhouette/horseshoe_PNG52.png,Horseshoe,U Horseshoe
+data/thin/silhouette/horseshoe_PNG57.png,Horseshoe,Horseshoe
+data/thin/silhouette/horseshoe_PNG58.png,Horseshoe,Horseshoe
+data/thin/silhouette/horseshoe_PNG6.png,Horseshoe,Horseshoe
+data/thin/silhouette/horseshoe_PNG61.png,Horseshoe,U Horseshoe
+data/thin/silhouette/horseshoe_PNG7.png,Horseshoe,"U
+ Horseshoe"
+data/thin/silhouette/horseshoe_PNG8.png,Horseshoe,Horseshoe
+data/thin/silhouette/ice_axe_PNG10.png,Ice Axe,://Ice Axe
+data/thin/silhouette/ice_axe_PNG14.png,Ice Axe,://Ice Axe
+data/thin/silhouette/ice_axe_PNG15.png,Ice Axe,mountaineering axe
+data/thin/silhouette/ice_axe_PNG22.png,Ice Axe,:// Ice Axe
+data/thin/silhouette/ice_axe_PNG23a.png,Ice Axe,://Ice Axe
+data/thin/silhouette/ice_axe_PNG25.png,Ice Axe,climbing axe
+data/thin/silhouette/ice_axe_PNG36.png,Ice Axe,攀登冰镐
+data/thin/silhouette/ice_axe_PNG37.png,Ice Axe,tool: Ice Axe
+data/thin/silhouette/ice_axe_PNG38.png,Ice Axe,tool: Ice Axe
+data/thin/silhouette/ice_axe_PNG39.png,Ice Axe,Ice Axe
+data/thin/silhouette/ice_axe_PNG47.png,Ice Axe,:// Ice Axe
+data/thin/silhouette/ice_axe_PNG49.png,Ice Axe,Ice Axe
+data/thin/silhouette/ice_axe_PNG51.png,Ice Axe,tool: Ice Axe
+data/thin/silhouette/ice_axe_PNG52.png,Ice Axe,tool
+data/thin/silhouette/ice_axe_PNG53.png,Ice Axe,tool
+data/thin/silhouette/ice_axe_PNG54.png,Ice Axe,tool: Ice Axe
+data/thin/silhouette/ice_axe_PNG55.png,Ice Axe,tool: Ice Axe
+data/thin/silhouette/ice_axe_PNG58.png,Ice Axe,tool: Ice Axe
+data/thin/silhouette/ice_axe_PNG6.png,Ice Axe,://Ice Axe
+data/thin/silhouette/ice_axe_PNG7.png,Ice Axe,
+data/thin/silhouette/ice_axe_PNG8.png,Ice Axe,://Ice Axe
+data/thin/silhouette/iron_PNG15526.png,Iron,Iron
+data/thin/silhouette/iron_PNG15527.png,Iron,193
+data/thin/silhouette/iron_PNG15536.png,Iron,Iron
+data/thin/silhouette/iron_PNG15547.png,Iron,Iron
+data/thin/silhouette/iron_PNG15560.png,Iron,机械设备
+data/thin/silhouette/iron_PNG15563.png,Iron,机械设备
+data/thin/silhouette/iron_PNG15565.png,Iron,0
+data/thin/silhouette/iron_PNG15566.png,Iron,Iron
+data/thin/silhouette/iron_PNG15567.png,Iron,Objects
+data/thin/silhouette/iron_PNG15568.png,Iron,Kettle
+data/thin/silhouette/jail_PNG10.png,Jail,Jail
+data/thin/silhouette/jail_PNG36.png,Jail,icon of a jail
+data/thin/silhouette/jail_PNG38.png,Jail,Jail
+data/thin/silhouette/jail_PNG39.png,Jail,Jail
+data/thin/silhouette/jail_PNG40.png,Jail,Jail
+data/thin/silhouette/jail_PNG45.png,Jail,Jail
+data/thin/silhouette/jail_PNG53.png,Jail,Jail
+data/thin/silhouette/jeep_PNG143.png,Jeep,Utility Vehicle
+data/thin/silhouette/kangaroo_PNG11.png,Kangaroo,Kangaroo
+data/thin/silhouette/kangaroo_PNG12.png,Kangaroo,marsupial
+data/thin/silhouette/kangaroo_PNG13.png,Kangaroo,Kangaroo
+data/thin/silhouette/kangaroo_PNG14.png,Kangaroo,Kangaroo
+data/thin/silhouette/kangaroo_PNG16.png,Kangaroo,Kangaroo
+data/thin/silhouette/kangaroo_PNG22.png,Kangaroo,Donkey
+data/thin/silhouette/kangaroo_PNG4.png,Kangaroo,Kangaroo
+data/thin/silhouette/kangaroo_PNG5.png,Kangaroo,Kangaroo
+data/thin/silhouette/kangaroo_PNG6.png,Kangaroo,Kangaroo
+data/thin/silhouette/katana_PNG12.png,Katana,Japanese Katana
+data/thin/silhouette/katana_PNG16.png,Katana,Japanese Sword
+data/thin/silhouette/katana_PNG18.png,Katana,Katana
+data/thin/silhouette/katana_PNG2a.png,Katana,Japanese Sword
+data/thin/silhouette/katana_PNG2b.png,Katana,Japanese Sword
+data/thin/silhouette/katana_PNG3a.png,Katana,Katana
+data/thin/silhouette/katana_PNG3b.png,Katana,Katana
+data/thin/silhouette/katana_PNG4.png,Katana,Japanese Katana
+data/thin/silhouette/katana_PNG41.png,Katana,://Katana
+data/thin/silhouette/katana_PNG42.png,Katana,blade
+data/thin/silhouette/katana_PNG52.png,Katana,Japanese Katana
+data/thin/silhouette/katana_PNG6.png,Katana,blade
+data/thin/silhouette/katana_PNG61b.png,Katana,object is not in the provided list.
+data/thin/silhouette/katana_PNG7.png,Katana,Japanese Katana
+data/thin/silhouette/katana_PNG72.png,Katana,Japanese Sword
+data/thin/silhouette/kayak_PNG127.png,Kayak,0
+data/thin/silhouette/kayak_PNG135.png,Kayak,0.5772388555178726
+data/thin/silhouette/kayak_PNG152.png,Kayak,Canoe
+data/thin/silhouette/kayak_PNG39.png,Kayak,0
+data/thin/silhouette/kayak_PNG48.png,Kayak,Paddle
+data/thin/silhouette/kayak_PNG50.png,Kayak,Paddle
+data/thin/silhouette/kayak_PNG52.png,Kayak,Paddle
+data/thin/silhouette/kayak_PNG65.png,Kayak,0.1
+data/thin/silhouette/kayak_PNG72.png,Kayak,Paddle
+data/thin/silhouette/kayak_PNG98.png,Kayak,0.5
+data/thin/silhouette/kettle_PNG8694.png,Kettle,
+data/thin/silhouette/kettle_PNG8695.png,Kettle,Kettle
+data/thin/silhouette/kettle_PNG8696.png,Kettle,_objects_
+data/thin/silhouette/kettle_PNG8698.png,Kettle,193. Kettle
+data/thin/silhouette/kettle_PNG8700.png,Kettle,193
+data/thin/silhouette/kettle_PNG8709.png,Kettle,"""Kettle"""
+data/thin/silhouette/kettle_PNG8710.png,Kettle,193. Kettle
+data/thin/silhouette/kettle_PNG8711.png,Kettle,Kettle
+data/thin/silhouette/kettle_PNG8720.png,Kettle,A Kettle
+data/thin/silhouette/kettle_PNG8726.png,Kettle,_objects_
+data/thin/silhouette/key_PNG1167.png,Key,Key
+data/thin/silhouette/key_PNG3378.png,Key,Key
+data/thin/silhouette/kick_scooter_PNG11384.png,Kick Scooter,kick scooter
+data/thin/silhouette/kick_scooter_PNG11386.png,Kick Scooter,kick scooter
+data/thin/silhouette/kick_scooter_PNG11389.png,Kick Scooter,kick scooter
+data/thin/silhouette/kick_scooter_PNG11390.png,Kick Scooter,交通工具
+data/thin/silhouette/kick_scooter_PNG11391.png,Kick Scooter,Kick Scooter
+data/thin/silhouette/kick_scooter_PNG11393.png,Kick Scooter,two-wheeled scooter
+data/thin/silhouette/kick_scooter_PNG11394.png,Kick Scooter,
+data/thin/silhouette/kick_scooter_PNG11396.png,Kick Scooter,personal Kick Scooter
+data/thin/silhouette/ladder_PNG14772.png,Ladder,Ladder
+data/thin/silhouette/ladder_PNG14773.png,Ladder,_objects_
+data/thin/silhouette/ladder_PNG14774.png,Ladder,"objects in the image are: Chair, Table"
+data/thin/silhouette/ladder_PNG14775.png,Ladder,Ladder
+data/thin/silhouette/ladder_PNG14778.png,Ladder,Ladder
+data/thin/silhouette/ladder_PNG14779.png,Ladder,Ladder
+data/thin/silhouette/ladder_PNG14780.png,Ladder,Ladder
+data/thin/silhouette/ladder_PNG14785.png,Ladder,Ladder
+data/thin/silhouette/ladder_PNG14788.png,Ladder,Ladder
+data/thin/silhouette/ladder_PNG14789.png,Ladder,Ladder
+data/thin/silhouette/ladder_PNG14800.png,Ladder,Ladder
+data/thin/silhouette/ladder_PNG14801.png,Ladder,Ladder
+data/thin/silhouette/ladder_PNG14805.png,Ladder,
+data/thin/silhouette/ladder_PNG14807.png,Ladder,Ladder
+data/thin/silhouette/ladybug_PNG3960.png,Ladybug,Ladybug
+data/thin/silhouette/ladybug_PNG3967.png,Ladybug,Ladybug
+data/thin/silhouette/lemur_PNG15.png,Lemur,Lemur
+data/thin/silhouette/lemur_PNG26.png,Lemur,Lemur
+data/thin/silhouette/lemur_PNG33.png,Lemur,Lemur
+data/thin/silhouette/lifebuoy_PNG2.png,Lifebuoy,lifesbuoy
+data/thin/silhouette/lizard_PNG1.png,Lizard,:// Lizard
+data/thin/silhouette/lizard_PNG11.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG12.png,Lizard,�蜥蜴
+data/thin/silhouette/lizard_PNG13.png,Lizard,://Lizard
+data/thin/silhouette/lizard_PNG15.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG16.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG17.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG2.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG21.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG23.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG24.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG28.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG29.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG32.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG35.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG4.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG5.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG6.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG7.png,Lizard,://Lizard
+data/thin/silhouette/lizard_PNG8.png,Lizard,Lizard
+data/thin/silhouette/lizard_PNG9.png,Lizard,monster
+data/thin/silhouette/lobster_PNG14231.png,Lobster,Lobster
+data/thin/silhouette/lobster_PNG14234.png,Lobster,://Lobster
+data/thin/silhouette/lobster_PNG14238.png,Lobster,Crab
+data/thin/silhouette/lobster_PNG14240.png,Lobster,decapod
+data/thin/silhouette/lobster_PNG14242.png,Lobster,:// Crab
+data/thin/silhouette/lobster_PNG14247.png,Lobster,Lobster
+data/thin/silhouette/lobster_PNG14248.png,Lobster,Crab
+data/thin/silhouette/louboutin_PNG10835.png,Louboutin,shoe
+data/thin/silhouette/louboutin_PNG10838.png,Louboutin,Soles
+data/thin/silhouette/louboutin_PNG10841.png,Louboutin,Christian Louboutin
+data/thin/silhouette/louboutin_PNG10842.png,Louboutin,footwear
+data/thin/silhouette/louboutin_PNG10843.png,Louboutin,"""Louboutin"""
+data/thin/silhouette/louboutin_PNG10845.png,Louboutin,"""Louboutin"""
+data/thin/silhouette/louboutin_PNG10846.png,Louboutin,Louboutin
+data/thin/silhouette/louboutin_PNG10849.png,Louboutin,1. Louboutin
+data/thin/silhouette/mantis_PNG14.png,Mantis,Mantis
+data/thin/silhouette/mantis_PNG17.png,Mantis,Mantis
+data/thin/silhouette/mantis_PNG35.png,Mantis,Mantis
+data/thin/silhouette/mantis_PNG37.png,Mantis,Mantis
+data/thin/silhouette/mantis_PNG55.png,Mantis,Mantis
+data/thin/silhouette/mantis_PNG59.png,Mantis,Mantis
+data/thin/silhouette/mantis_PNG60.png,Mantis,Mantis
+data/thin/silhouette/mantis_PNG71.png,Mantis,praying mantis
+data/thin/silhouette/megaphone_PNG113.png,Megaphone,Louboutin
+data/thin/silhouette/megaphone_PNG116.png,Megaphone,handheld megaphone
+data/thin/silhouette/megaphone_PNG14.png,Megaphone,device: Megaphone
+data/thin/silhouette/megaphone_PNG30.png,Megaphone,Megaphone
+data/thin/silhouette/megaphone_PNG31.png,Megaphone,Megaphone
+data/thin/silhouette/megaphone_PNG39.png,Megaphone,device: Megaphone
+data/thin/silhouette/megaphone_PNG91.png,Megaphone,amplifier
+data/thin/silhouette/microphone_PNG7900.png,Microphone,Microphone
+data/thin/silhouette/microphone_PNG7920.png,Microphone,Microphone
+data/thin/silhouette/moose_PNG1.png,Moose,large moose
+data/thin/silhouette/moose_PNG13.png,Moose,0
+data/thin/silhouette/moose_PNG2.png,Moose,Moose
+data/thin/silhouette/moose_PNG27.png,Moose,Deer
+data/thin/silhouette/moose_PNG28.png,Moose,Moose
+data/thin/silhouette/moose_PNG39.png,Moose,Deer
+data/thin/silhouette/moose_PNG40.png,Moose,"R
+
+Deer"
+data/thin/silhouette/moose_PNG41.png,Moose,Deer
+data/thin/silhouette/moose_PNG50.png,Moose,Moose
+data/thin/silhouette/moose_PNG64.png,Moose,:// Moose
+data/thin/silhouette/moose_PNG65.png,Moose,Deer
+data/thin/silhouette/mop_PNG10.png,Mop,Mop
+data/thin/silhouette/mop_PNG12.png,Mop,清洁工具
+data/thin/silhouette/mop_PNG13.png,Mop,Mop
+data/thin/silhouette/mop_PNG15.png,Mop,Broom
+data/thin/silhouette/mop_PNG19.png,Mop,Mop
+data/thin/silhouette/mop_PNG20a.png,Mop,2022-01-14 09:33:32.000000
+data/thin/silhouette/mop_PNG20b.png,Mop,:// Sword
+data/thin/silhouette/mop_PNG21.png,Mop,headphones
+data/thin/silhouette/mop_PNG22.png,Mop,工具
+data/thin/silhouette/mop_PNG23.png,Mop,机械设备
+data/thin/silhouette/mop_PNG24.png,Mop,handle
+data/thin/silhouette/mop_PNG25.png,Mop,清洁工具
+data/thin/silhouette/mop_PNG28.png,Mop,Broom
+data/thin/silhouette/mop_PNG34.png,Mop,Cleaning Tool
+data/thin/silhouette/mop_PNG35.png,Mop,清洁工具
+data/thin/silhouette/mop_PNG36.png,Mop,Mop
+data/thin/silhouette/mop_PNG37.png,Mop,Tool
+data/thin/silhouette/mop_PNG38.png,Mop,Vacuum Cleaner
+data/thin/silhouette/mop_PNG4.png,Mop,Broom
+data/thin/silhouette/mop_PNG41.png,Mop,7. Broom
+data/thin/silhouette/mop_PNG44.png,Mop,清洁工具
+data/thin/silhouette/mop_PNG45.png,Mop,工具
+data/thin/silhouette/mop_PNG46.png,Mop,://Broom
+data/thin/silhouette/mop_PNG48.png,Mop,0
+data/thin/silhouette/mop_PNG52.png,Mop,Mop
+data/thin/silhouette/mop_PNG58.png,Mop,Mop
+data/thin/silhouette/mop_PNG6.png,Mop,cleaning tool
+data/thin/silhouette/mop_PNG66.png,Mop,清洁工具
+data/thin/silhouette/mop_PNG68.png,Mop,Mop
+data/thin/silhouette/mop_PNG70.png,Mop,Mop
+data/thin/silhouette/mop_PNG71.png,Mop,工具
+data/thin/silhouette/mop_PNG74.png,Mop,Mop
+data/thin/silhouette/mop_PNG75a.png,Mop,flat mop
+data/thin/silhouette/mop_PNG75b.png,Mop,://Bucket
+data/thin/silhouette/mop_PNG78.png,Mop,清洁工具
+data/thin/silhouette/mop_PNG79.png,Mop,工具箱
+data/thin/silhouette/mop_PNG81.png,Mop,0
+data/thin/silhouette/mop_PNG83.png,Mop,2002 Vacuum Cleaner
+data/thin/silhouette/mop_PNG84.png,Mop,Vacuum Cleaner
+data/thin/silhouette/mop_PNG85.png,Mop,flat mop
+data/thin/silhouette/mop_PNG90.png,Mop,Mop
+data/thin/silhouette/mop_PNG91.png,Mop,cleaning tool
+data/thin/silhouette/mop_PNG92.png,Mop,://Broom
+data/thin/silhouette/mortar_PNG1.png,Mortar,Wrench
+data/thin/silhouette/mortar_PNG12.png,Mortar,Telescope
+data/thin/silhouette/mortar_PNG13.png,Mortar,mounted machine gun
+data/thin/silhouette/mortar_PNG15.png,Mortar,"observing the image, it shows a silhouette of a telescope mounted on a tripod. The telescope is positioned upright, with its main tube and mounting mechanism clearly visible, and it is supported by a three-legged tripod for stability. This setup is typical for astronomical or observational use.
+
+Among the provided classes, the most accurate and specific match is:
+
+Telescope"
+data/thin/silhouette/mortar_PNG17.png,Mortar,Tripod
+data/thin/silhouette/mortar_PNG18.png,Mortar,Mortar
+data/thin/silhouette/mortar_PNG21.png,Mortar,aircraft
+data/thin/silhouette/mortar_PNG22.png,Mortar,Objects
+data/thin/silhouette/mortar_PNG24.png,Mortar,"observing the image, the main object is a telescope mounted on a tripod. The silhouette clearly shows the long tube of the telescope and the three-legged support structure underneath, which is characteristic of a tripod. Therefore, the correct class is:
+
+Telescope"
+data/thin/silhouette/mortar_PNG25.png,Mortar,weapon
+data/thin/silhouette/mortar_PNG27.png,Mortar,Mortar
+data/thin/silhouette/mortar_PNG4.png,Mortar,Telescope
+data/thin/silhouette/mortar_PNG5.png,Mortar,Grenade Launcher
+data/thin/silhouette/mortar_PNG7.png,Mortar,Mortar
+data/thin/silhouette/mortar_PNG8.png,Mortar,"observing the image, the main object is a telescope. It has a long tube, a tripod for support, and is positioned to look upward. This matches the description of a telescope.
+
+Telescope"
+data/thin/silhouette/mortar_PNG9.png,Mortar,weapon
+data/thin/silhouette/mosquito_PNG18153.png,Mosquito,Mosquito
+data/thin/silhouette/mosquito_PNG18154.png,Mosquito,Mosquito
+data/thin/silhouette/mosquito_PNG18159.png,Mosquito,Mosquito
+data/thin/silhouette/mosquito_PNG18164.png,Mosquito,Mosquito
+data/thin/silhouette/mosquito_PNG18167.png,Mosquito,Mosquito
+data/thin/silhouette/mosquito_PNG18175.png,Mosquito,Mosquito
+data/thin/silhouette/mosquito_PNG18177a.png,Mosquito,Mosquito
+data/thin/silhouette/mosquito_PNG18177b.png,Mosquito,Mosquito
+data/thin/silhouette/motorcycle_PNG3131.png,Motorcycle,two-wheeled vehicle
+data/thin/silhouette/motorcycle_PNG3132.png,Motorcycle,two-wheeled motorcycle
+data/thin/silhouette/motorcycle_PNG3136.png,Motorcycle,two-wheeled vehicle
+data/thin/silhouette/motorcycle_PNG3137.png,Motorcycle,2000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/motorcycle_PNG3147.png,Motorcycle,two-wheeled motorcycle
+data/thin/silhouette/motorcycle_PNG3151.png,Motorcycle,Motorcycle
+data/thin/silhouette/motorcycle_PNG3152.png,Motorcycle,2566645767897252773455896588323746295674586237456237456237456237456237456237456237456237456237456237
+data/thin/silhouette/motorcycle_PNG3157.png,Motorcycle,two-wheeled motorcycle
+data/thin/silhouette/motorcycle_PNG3158.png,Motorcycle,two-wheeled vehicle
+data/thin/silhouette/motorcycle_PNG3159.png,Motorcycle,2000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/motorcycle_PNG3161.png,Motorcycle,two-wheeled vehicle
+data/thin/silhouette/motorcycle_PNG3163.png,Motorcycle,two-wheeled motorcycle
+data/thin/silhouette/motorcycle_PNG3167.png,Motorcycle,Motorcyle
+data/thin/silhouette/motorcycle_PNG3174.png,Motorcycle,off-road motorcycle
+data/thin/silhouette/motorcycle_PNG3175.png,Motorcycle,two-wheel motorcycle
+data/thin/silhouette/motorcycle_PNG3177.png,Motorcycle,Motorcycle
+data/thin/silhouette/motorcycle_PNG5348.png,Motorcycle,"all classes are wrong, the correct class is: Motorcycle"
+data/thin/silhouette/octopus_PNG1.png,Octopus,Octopus
+data/thin/silhouette/octopus_PNG11.png,Octopus,cephalopod
+data/thin/silhouette/octopus_PNG16.png,Octopus,deep sea octopus
+data/thin/silhouette/ostrich_PNG17.png,Ostrich,bird
+data/thin/silhouette/ostrich_PNG76984.png,Ostrich,Struthio
+data/thin/silhouette/paddle_PNG10494.png,Paddle,0
+data/thin/silhouette/paddle_PNG10495a.png,Paddle,0.0
+data/thin/silhouette/paddle_PNG10495b.png,Paddle,0
+data/thin/silhouette/paddle_PNG10496a.png,Paddle,Water Paddle
+data/thin/silhouette/paddle_PNG10496b.png,Paddle,Water Paddle
+data/thin/silhouette/paddle_PNG10500.png,Paddle,Paddle
+data/thin/silhouette/paddle_PNG10501.png,Paddle,Paddle
+data/thin/silhouette/paddle_PNG10503.png,Paddle,Paddle
+data/thin/silhouette/paddle_PNG10504.png,Paddle,Paddle
+data/thin/silhouette/paddle_PNG10505.png,Paddle,Paddle
+data/thin/silhouette/paddle_PNG10507.png,Paddle,://Paddle
+data/thin/silhouette/paddle_PNG10508.png,Paddle,f Spear
+data/thin/silhouette/paddle_PNG10509.png,Paddle,
+data/thin/silhouette/paddle_PNG10512.png,Paddle,Paddle
+data/thin/silhouette/paddle_PNG10513.png,Paddle,0.0
+data/thin/silhouette/paddle_PNG10514.png,Paddle,ID: Paddle
+data/thin/silhouette/paddle_PNG10515.png,Paddle,0.5
+data/thin/silhouette/paddle_PNG10516.png,Paddle,Paddle
+data/thin/silhouette/paddle_PNG10518.png,Paddle,0. Paddle
+data/thin/silhouette/paddle_PNG10519.png,Paddle,Water Paddle
+data/thin/silhouette/paddle_PNG10520.png,Paddle,Paddle
+data/thin/silhouette/padlock_PNG9401a.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9402.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9420a.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9421.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9422.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9424a.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9425.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9427.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9428.png,Padlock,
+data/thin/silhouette/padlock_PNG9429a.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9429b.png,Padlock,
+data/thin/silhouette/padlock_PNG9429c.png,Padlock,
+data/thin/silhouette/padlock_PNG9429d.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9430a.png,Padlock,Apple
+data/thin/silhouette/padlock_PNG9431.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9432.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9433.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9434.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9435.png,Padlock,Padlock
+data/thin/silhouette/padlock_PNG9436.png,Padlock,Padlock
+data/thin/silhouette/palm_tree_PNG2487.png,Palm Tree,Palm Tree
+data/thin/silhouette/parachute_PNG19417.png,Parachute,Parachute
+data/thin/silhouette/parachute_PNG19424.png,Parachute,Parachute
+data/thin/silhouette/parachute_PNG19425.png,Parachute,Parachute
+data/thin/silhouette/parachute_PNG19426.png,Parachute,Parachute
+data/thin/silhouette/pear_PNG3443.png,Pear,Pear
+data/thin/silhouette/pear_PNG3452.png,Pear,fruit
+data/thin/silhouette/pear_PNG3459.png,Pear,Pear
+data/thin/silhouette/pear_PNG3460.png,Pear,Pear
+data/thin/silhouette/pear_PNG3462.png,Pear,fruit
+data/thin/silhouette/piano_PNG10871.png,Piano,Obstacle
+data/thin/silhouette/piano_PNG10875.png,Piano,乐器
+data/thin/silhouette/piano_PNG10880.png,Piano,musical instrument
+data/thin/silhouette/piano_PNG10881.png,Piano,Piano
+data/thin/silhouette/piano_PNG10883.png,Piano,Piano
+data/thin/silhouette/piano_PNG10885.png,Piano,Obstacle
+data/thin/silhouette/piano_PNG10887.png,Piano,193 classes: Piano
+data/thin/silhouette/piano_PNG10892.png,Piano,Piano
+data/thin/silhouette/piano_PNG10894.png,Piano,musical instrument
+data/thin/silhouette/pineapple_PNG2728.png,Pineapple,fruit pineapple
+data/thin/silhouette/pineapple_PNG2731a.png,Pineapple,anana
+data/thin/silhouette/pineapple_PNG2731b.png,Pineapple,anana
+data/thin/silhouette/pineapple_PNG2734.png,Pineapple,tropical pineapple
+data/thin/silhouette/pineapple_PNG2742.png,Pineapple,tropical fruit
+data/thin/silhouette/pineapple_PNG2746.png,Pineapple,tropical fruit
+data/thin/silhouette/pineapple_PNG2749.png,Pineapple,tropical pineapple
+data/thin/silhouette/pineapple_PNG2750.png,Pineapple,0
+data/thin/silhouette/plier_PNG10043.png,Plier,3755152483646255324234523456789012345678901234567890123456789012345678901234567890123456789012345678
+data/thin/silhouette/plier_PNG10045.png,Plier,Plier
+data/thin/silhouette/plier_PNG10068.png,Plier,Plier
+data/thin/silhouette/plier_PNG10071.png,Plier,Objects
+data/thin/silhouette/plier_PNG10072.png,Plier,Plier
+data/thin/silhouette/plier_PNG10073.png,Plier,Objects in the image: Plier
+data/thin/silhouette/plunger_PNG10.png,Plunger,Plunger
+data/thin/silhouette/plunger_PNG12.png,Plunger,Plunger
+data/thin/silhouette/plunger_PNG13.png,Plunger,Plunger
+data/thin/silhouette/plunger_PNG16.png,Plunger,Plunger
+data/thin/silhouette/plunger_PNG17.png,Plunger,Plunger
+data/thin/silhouette/plunger_PNG18.png,Plunger,
+data/thin/silhouette/plunger_PNG23.png,Plunger,Plunger
+data/thin/silhouette/plunger_PNG27.png,Plunger,Plunger
+data/thin/silhouette/plunger_PNG29.png,Plunger,:// Plunger
+data/thin/silhouette/plunger_PNG3.png,Plunger,Plunger
+data/thin/silhouette/plunger_PNG30.png,Plunger,Plunger
+data/thin/silhouette/plunger_PNG33.png,Plunger,Plunger
+data/thin/silhouette/plunger_PNG4.png,Plunger,Plunger
+data/thin/silhouette/plunger_PNG7.png,Plunger,Plunger
+data/thin/silhouette/pram_PNG17877.png,Pram,"Vehicle, Pram"
+data/thin/silhouette/pram_PNG17878.png,Pram,Pram
+data/thin/silhouette/pram_PNG17880.png,Pram,Pram
+data/thin/silhouette/pram_PNG17881.png,Pram,Pram
+data/thin/silhouette/pram_PNG17882.png,Pram,Pram
+data/thin/silhouette/pram_PNG17883.png,Pram,Pram
+data/thin/silhouette/pram_PNG17884.png,Pram,Pram
+data/thin/silhouette/pram_PNG17885.png,Pram,Pram
+data/thin/silhouette/pram_PNG17886.png,Pram,Pram
+data/thin/silhouette/pram_PNG17891.png,Pram,Pram
+data/thin/silhouette/pram_PNG17893.png,Pram,Pram
+data/thin/silhouette/pram_PNG17897.png,Pram,Pram
+data/thin/silhouette/pram_PNG17899.png,Pram,Pram
+data/thin/silhouette/pram_PNG17902.png,Pram,Pram
+data/thin/silhouette/pram_PNG17905.png,Pram,Pram
+data/thin/silhouette/pram_PNG17907.png,Pram,Pram
+data/thin/silhouette/pram_PNG17909.png,Pram,Pram
+data/thin/silhouette/punching_bag_PNG1.png,Punching Bag,0
+data/thin/silhouette/punching_bag_PNG12.png,Punching Bag,used: Punching Bag
+data/thin/silhouette/punching_bag_PNG14.png,Punching Bag,
+data/thin/silhouette/punching_bag_PNG19.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG2.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG21.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG23.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG27.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG29.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG30.png,Punching Bag,fishing float
+data/thin/silhouette/punching_bag_PNG32.png,Punching Bag,used to train boxers.
+data/thin/silhouette/punching_bag_PNG38.png,Punching Bag,Lifebuoy
+data/thin/silhouette/punching_bag_PNG4.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG43.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG46.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG55.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG56.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG58.png,Punching Bag,
+data/thin/silhouette/punching_bag_PNG59.png,Punching Bag,
+data/thin/silhouette/punching_bag_PNG6.png,Punching Bag,0.10228815227586556
+data/thin/silhouette/punching_bag_PNG60.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG64.png,Punching Bag,
+data/thin/silhouette/punching_bag_PNG67.png,Punching Bag,
+data/thin/silhouette/punching_bag_PNG70.png,Punching Bag,used the class name as requested.
+data/thin/silhouette/punching_bag_PNG76.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG77.png,Punching Bag,used in boxing training.
+data/thin/silhouette/punching_bag_PNG78.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG79a.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG79b.png,Punching Bag,used in the image.
+data/thin/silhouette/punching_bag_PNG79c.png,Punching Bag,Punching Bag
+data/thin/silhouette/punching_bag_PNG81.png,Punching Bag,used for punching.
+data/thin/silhouette/punching_bag_PNG82.png,Punching Bag,used for punching and training in boxing.
+data/thin/silhouette/radio_PNG19272.png,Radio,Radio
+data/thin/silhouette/radio_PNG19281.png,Radio,0.016568157874387842
+data/thin/silhouette/radio_PNG19290.png,Radio,Radio
+data/thin/silhouette/radio_PNG19297.png,Radio,Radio
+data/thin/silhouette/rat_mouse_PNG23530.png,Rat Mouse,pest
+data/thin/silhouette/rat_mouse_PNG23531.png,Rat Mouse,small rat mouse
+data/thin/silhouette/rat_mouse_PNG23537.png,Rat Mouse,://Rat Mouse
+data/thin/silhouette/rat_mouse_PNG23538.png,Rat Mouse,Rat Mouse
+data/thin/silhouette/rat_mouse_PNG23550.png,Rat Mouse,0.16557853717295553
+data/thin/silhouette/rat_mouse_PNG23551.png,Rat Mouse,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/rat_mouse_PNG23552.png,Rat Mouse,pest control rat mouse
+data/thin/silhouette/rat_mouse_PNG23553.png,Rat Mouse,://Rat Mouse
+data/thin/silhouette/rat_mouse_PNG23554.png,Rat Mouse,:// Rat Mouse
+data/thin/silhouette/rat_mouse_PNG23555.png,Rat Mouse,:// Rat Mouse
+data/thin/silhouette/raven_PNG14.png,Raven,Corvus
+data/thin/silhouette/raven_PNG22.png,Raven,Ravens
+data/thin/silhouette/raven_PNG31.png,Raven,Raven
+data/thin/silhouette/raven_PNG35.png,Raven,Ravens
+data/thin/silhouette/raven_PNG37.png,Raven,raven
+data/thin/silhouette/raven_PNG42.png,Raven,Raven
+data/thin/silhouette/raven_PNG47.png,Raven,Raven
+data/thin/silhouette/raven_PNG49.png,Raven,Corvus
+data/thin/silhouette/raven_PNG50.png,Raven,Raven
+data/thin/silhouette/raven_PNG52.png,Raven,Raven
+data/thin/silhouette/raven_PNG53.png,Raven,Raven
+data/thin/silhouette/raven_PNG55.png,Raven,Raven
+data/thin/silhouette/raven_PNG60.png,Raven,Corvus
+data/thin/silhouette/raven_PNG7.png,Raven,Crow
+data/thin/silhouette/raven_PNG70.png,Raven,Corvus
+data/thin/silhouette/raven_PNG95.png,Raven,Ravens
+data/thin/silhouette/raven_PNG98.png,Raven,Raven
+data/thin/silhouette/roller_skates_PNG44.png,Roller Skates,Roller Skates
+data/thin/silhouette/roller_skates_PNG73.png,Roller Skates,Roller Skates
+data/thin/silhouette/roller_skates_PNG86.png,Roller Skates,Roller Skates
+data/thin/silhouette/roller_skates_PNG87.png,Roller Skates,"\
+Roller Skates"
+data/thin/silhouette/roller_skates_PNG94.png,Roller Skates,quad roller skates
+data/thin/silhouette/rose_PNG66693.png,Rose,black rose
+data/thin/silhouette/rose_PNG66694.png,Rose,Rose
+data/thin/silhouette/rose_PNG66696.png,Rose,"""Rose"""
+data/thin/silhouette/rose_PNG66700.png,Rose,flower
+data/thin/silhouette/rose_PNG66758.png,Rose,full of rose
+data/thin/silhouette/rose_PNG66768.png,Rose,Rose
+data/thin/silhouette/rose_PNG66783.png,Rose,Rose
+data/thin/silhouette/rose_PNG66787a.png,Rose,flower
+data/thin/silhouette/rose_PNG66787b.png,Rose,flower
+data/thin/silhouette/rose_PNG66788a.png,Rose,Rose
+data/thin/silhouette/rose_PNG66788b.png,Rose,:// Rose
+data/thin/silhouette/rose_PNG66789.png,Rose,flower
+data/thin/silhouette/rose_PNG66794.png,Rose,Rose
+data/thin/silhouette/rose_PNG66819.png,Rose,Rose
+data/thin/silhouette/rose_PNG66828.png,Rose,uncertain
+data/thin/silhouette/rose_PNG66878.png,Rose,://Rose
+data/thin/silhouette/rose_PNG66948.png,Rose,全部
+data/thin/silhouette/rose_PNG66993.png,Rose,Rose
+data/thin/silhouette/rose_PNG67008.png,Rose,Rose
+data/thin/silhouette/samovar_PNG1.png,Samovar,Russian Tea Kettle
+data/thin/silhouette/samovar_PNG12.png,Samovar,Russian Samovar
+data/thin/silhouette/samovar_PNG13.png,Samovar,Russian Samovar
+data/thin/silhouette/samovar_PNG2.png,Samovar,Russian Samovar
+data/thin/silhouette/samovar_PNG23.png,Samovar,Samovar
+data/thin/silhouette/samovar_PNG36.png,Samovar,Samovar
+data/thin/silhouette/samovar_PNG39.png,Samovar,Russian Samovar
+data/thin/silhouette/samovar_PNG42.png,Samovar,Russian Samovar
+data/thin/silhouette/samovar_PNG43.png,Samovar,Samovar
+data/thin/silhouette/samovar_PNG45.png,Samovar,Russian Samovar
+data/thin/silhouette/samovar_PNG55.png,Samovar,Samovar
+data/thin/silhouette/samovar_PNG6.png,Samovar,Chai
+data/thin/silhouette/samovar_PNG66.png,Samovar,Russian Tea Kettle
+data/thin/silhouette/samovar_PNG67.png,Samovar,Russian Samovar
+data/thin/silhouette/samovar_PNG68.png,Samovar,Russian Samovar
+data/thin/silhouette/samovar_PNG88.png,Samovar,icon
+data/thin/silhouette/samovar_PNG90.png,Samovar,Russian Samovar
+data/thin/silhouette/samovar_PNG93.png,Samovar,Russian Samovar
+data/thin/silhouette/samovar_PNG94.png,Samovar,Russian Tea Kettle
+data/thin/silhouette/samovar_PNG95.png,Samovar,Russian Samovar
+data/thin/silhouette/sandals_PNG9671.png,Sandals,Sandals
+data/thin/silhouette/sandals_PNG9681a.png,Sandals,footwear
+data/thin/silhouette/sandals_PNG9691.png,Sandals,footwear
+data/thin/silhouette/sandals_PNG9695.png,Sandals,footwear
+data/thin/silhouette/sandals_PNG9708.png,Sandals,footwear
+data/thin/silhouette/scales_PNG22.png,Scales,
+data/thin/silhouette/scales_PNG35.png,Scales,Scales
+data/thin/silhouette/scales_PNG4.png,Scales,Scales
+data/thin/silhouette/scales_PNG5.png,Scales,Scales
+data/thin/silhouette/scales_PNG61.png,Scales,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/scales_PNG78.png,Scales,223. Scales
+data/thin/silhouette/scissors_PNG0.png,Scissors,工具类: Scissors
+data/thin/silhouette/scissors_PNG10.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG11.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG12.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG13.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG14.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG15.png,Scissors,Object: Scissors
+data/thin/silhouette/scissors_PNG17.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG18.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG2.png,Scissors,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/scissors_PNG20.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG21.png,Scissors,工具类: Scissors
+data/thin/silhouette/scissors_PNG22a.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG22b.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG24a.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG24b.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG26.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG27.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG28.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG31.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG32.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG33.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG34.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG35.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG36.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG37.png,Scissors,工具
+data/thin/silhouette/scissors_PNG39b.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG41.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG5.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG6.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG8.png,Scissors,Scissors
+data/thin/silhouette/scissors_PNG9.png,Scissors,Scissors
+data/thin/silhouette/scooter_PNG11285.png,Scooter,193 classes are not listed in the given options.
+data/thin/silhouette/scooter_PNG11286.png,Scooter,3-wheeled scooter
+data/thin/silhouette/scooter_PNG11287.png,Scooter,3-Wheeled Scooter
+data/thin/silhouette/scooter_PNG11289.png,Scooter,two-wheeled vehicle
+data/thin/silhouette/scooter_PNG11290.png,Scooter,two-wheeled vehicle
+data/thin/silhouette/scooter_PNG11291.png,Scooter,193 classes: Scooter
+data/thin/silhouette/scooter_PNG11298.png,Scooter,two-wheeled vehicle
+data/thin/silhouette/scooter_PNG11301.png,Scooter,two-wheeled vehicle
+data/thin/silhouette/scooter_PNG11302.png,Scooter,two-wheeled vehicle
+data/thin/silhouette/scooter_PNG11303.png,Scooter,2-Wheeler
+data/thin/silhouette/scooter_PNG11306.png,Scooter,Scooter
+data/thin/silhouette/scooter_PNG11309.png,Scooter,Scooter
+data/thin/silhouette/scooter_PNG11311.png,Scooter,two-wheeled vehicle
+data/thin/silhouette/scooter_PNG11312.png,Scooter,two-wheeled vehicle
+data/thin/silhouette/scooter_PNG11316.png,Scooter,two-wheeled vehicle
+data/thin/silhouette/scooter_PNG11321.png,Scooter,Scooter
+data/thin/silhouette/scooter_PNG11325.png,Scooter,kick scooter
+data/thin/silhouette/scooter_PNG11327.png,Scooter,2021 Scooter
+data/thin/silhouette/scooter_PNG11328.png,Scooter,two-wheeled vehicle
+data/thin/silhouette/scooter_PNG11330.png,Scooter,3000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/scooter_PNG11331.png,Scooter,two-wheeled vehicle
+data/thin/silhouette/scooter_PNG11332.png,Scooter,two-wheeled vehicle
+data/thin/silhouette/scooter_PNG11338.png,Scooter,2017031352507348855674329775499338264839734897828533287533325554333333333333333333333333333333333333
+data/thin/silhouette/scorpion_PNG12113a.png,Scorpion,Scorpion
+data/thin/silhouette/scorpion_PNG12113b.png,Scorpion,Scorpion
+data/thin/silhouette/scorpion_PNG12114.png,Scorpion,Scorpion
+data/thin/silhouette/scorpion_PNG12115.png,Scorpion,Scorpion
+data/thin/silhouette/scorpion_PNG12116.png,Scorpion,Scorpion
+data/thin/silhouette/scorpion_PNG12117.png,Scorpion,Scorpion
+data/thin/silhouette/scorpion_PNG12122.png,Scorpion,Scorpion
+data/thin/silhouette/scorpion_PNG12125.png,Scorpion,Scorpion
+data/thin/silhouette/scorpion_PNG12128.png,Scorpion,Scorpion
+data/thin/silhouette/scorpion_PNG12130.png,Scorpion,Scorpion
+data/thin/silhouette/scorpion_PNG12136.png,Scorpion,Scorpion
+data/thin/silhouette/scorpion_PNG12138.png,Scorpion,Scorpion
+data/thin/silhouette/screwdriver_PNG9494.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9496.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9497.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9499.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9502.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9503.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9510.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9511.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9512.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9513b.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9513c.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9513d.png,Screwdriver,3000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/screwdriver_PNG9513e.png,Screwdriver,
+data/thin/silhouette/screwdriver_PNG9513f.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9513g.png,Screwdriver,3522642743687585544443544344444444444444444444444444444444444444444444444444444444444444444444444444
+data/thin/silhouette/screwdriver_PNG9513h.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9513i.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9514a.png,Screwdriver,Tools
+data/thin/silhouette/screwdriver_PNG9514b.png,Screwdriver,
+data/thin/silhouette/screwdriver_PNG9514e.png,Screwdriver,3800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/screwdriver_PNG9514f.png,Screwdriver,3000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/screwdriver_PNG9514h.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9516b.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9516c.png,Screwdriver,Tool
+data/thin/silhouette/screwdriver_PNG9516d.png,Screwdriver,handle
+data/thin/silhouette/screwdriver_PNG9516e.png,Screwdriver,handle of a screwdriver
+data/thin/silhouette/screwdriver_PNG9518.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9519.png,Screwdriver,3600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/screwdriver_PNG9522.png,Screwdriver,机械设备
+data/thin/silhouette/screwdriver_PNG9523.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9527.png,Screwdriver,ID: Screwdriver
+data/thin/silhouette/screwdriver_PNG9528.png,Screwdriver,Screwdriver
+data/thin/silhouette/screwdriver_PNG9529.png,Screwdriver,Screwdriver
+data/thin/silhouette/seahorse_PNG11.png,Seahorse,Seahorse
+data/thin/silhouette/seahorse_PNG12.png,Seahorse,Marine Animal
+data/thin/silhouette/seahorse_PNG2.png,Seahorse,"```
+Seahorse
+```"
+data/thin/silhouette/seahorse_PNG3a.png,Seahorse,unique class: Seahorse
+data/thin/silhouette/seahorse_PNG3b.png,Seahorse,:// Seahorse
+data/thin/silhouette/seahorse_PNG5.png,Seahorse,"```
+Seahorse
+```"
+data/thin/silhouette/seahorse_PNG8.png,Seahorse,� Seahorse
+data/thin/silhouette/sewing_machine_PNG31.png,Sewing Machine,0
+data/thin/silhouette/sewing_machine_PNG66.png,Sewing Machine,Sewing Machine
+data/thin/silhouette/sewing_machine_PNG69.png,Sewing Machine,机械设备
+data/thin/silhouette/ship_PNG5403.png,Ship,"m
+Ship"
+data/thin/silhouette/ship_PNG5407.png,Ship,historical ship
+data/thin/silhouette/ship_PNG5416.png,Ship,:// Ship
+data/thin/silhouette/shopping_cart_PNG1.png,Shopping Cart,Vehicle
+data/thin/silhouette/shopping_cart_PNG21.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG28.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG30.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG32.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG36.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG43.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG47.png,Shopping Cart,transport
+data/thin/silhouette/shopping_cart_PNG49.png,Shopping Cart,"""Shopping Cart"""
+data/thin/silhouette/shopping_cart_PNG63.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG67.png,Shopping Cart,transport
+data/thin/silhouette/shopping_cart_PNG70.png,Shopping Cart,Transporter
+data/thin/silhouette/shopping_cart_PNG72.png,Shopping Cart,Shopping Cart
+data/thin/silhouette/shopping_cart_PNG74.png,Shopping Cart,Anima
+data/thin/silhouette/shovel_PNG7595.png,Shovel,Shovel
+data/thin/silhouette/shovel_PNG7598.png,Shovel,Shovel
+data/thin/silhouette/shovel_PNG7599.png,Shovel,Shovel
+data/thin/silhouette/shovel_PNG7601.png,Shovel,Shovel
+data/thin/silhouette/shovel_PNG7604.png,Shovel,.Tools
+data/thin/silhouette/shovel_PNG7608.png,Shovel,3000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/shovel_PNG7609a.png,Shovel,Shovel
+data/thin/silhouette/shovel_PNG7609b.png,Shovel,Shovel
+data/thin/silhouette/shovel_PNG7609c.png,Shovel,Shovel
+data/thin/silhouette/shovel_PNG7611.png,Shovel,tool
+data/thin/silhouette/shovel_PNG7617.png,Shovel,Shovel
+data/thin/silhouette/shovel_PNG7618.png,Shovel,工具类: Shovel
+data/thin/silhouette/shrimps_PNG18255.png,Shrimps,Shrimps
+data/thin/silhouette/shrimps_PNG18257.png,Shrimps,Shrimps
+data/thin/silhouette/shrimps_PNG18261b.png,Shrimps,bird
+data/thin/silhouette/shrimps_PNG18265.png,Shrimps,Decoys
+data/thin/silhouette/shrimps_PNG18267.png,Shrimps,"Decided to use the class name ""Shrimps"" as the main object in this image."
+data/thin/silhouette/shrimps_PNG18274.png,Shrimps,Decree
+data/thin/silhouette/shrimps_PNG18277.png,Shrimps,Decoy
+data/thin/silhouette/skeleton_PNG42614.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42616.png,Skeleton,ribcage
+data/thin/silhouette/skeleton_PNG42618b.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42619.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42621.png,Skeleton,spooky Skeleton
+data/thin/silhouette/skeleton_PNG42624.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42627.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42629.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42633.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42637a.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42637b.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42639.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42645.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42647.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42648.png,Skeleton,"ribcage, Skeleton"
+data/thin/silhouette/skeleton_PNG42649.png,Skeleton,Objects in the image: Skeleton
+data/thin/silhouette/skeleton_PNG42652.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42654.png,Skeleton,Objects
+data/thin/silhouette/skeleton_PNG42655.png,Skeleton,posture
+data/thin/silhouette/skeleton_PNG42656.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42657.png,Skeleton,h Skeleton
+data/thin/silhouette/skeleton_PNG42660.png,Skeleton,isolated skeleton
+data/thin/silhouette/skeleton_PNG42661.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42662.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG42663.png,Skeleton,clinging skeleton
+data/thin/silhouette/skeleton_PNG42666a.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG5531.png,Skeleton,://Skeleton
+data/thin/silhouette/skeleton_PNG5532.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG5536.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG5538.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG5539.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG5545.png,Skeleton,0.0
+data/thin/silhouette/skeleton_PNG5557.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG5558.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG5565a.png,Skeleton,Skeleton
+data/thin/silhouette/skeleton_PNG5565b.png,Skeleton,isolated skeleton
+data/thin/silhouette/sled_PNG11.png,Sled,Recycle Bin
+data/thin/silhouette/sled_PNG15.png,Sled,as a Sled
+data/thin/silhouette/sled_PNG23.png,Sled,Sled
+data/thin/silhouette/sled_PNG24.png,Sled,冬季雪橇
+data/thin/silhouette/sled_PNG26.png,Sled,Sled
+data/thin/silhouette/sled_PNG30.png,Sled,Device Sled
+data/thin/silhouette/sled_PNG33.png,Sled,Sled
+data/thin/silhouette/sled_PNG37a.png,Sled,"://
+Vacuum Cleaner"
+data/thin/silhouette/sled_PNG37b.png,Sled,://chair
+data/thin/silhouette/sled_PNG37c.png,Sled,Wheelchair
+data/thin/silhouette/sled_PNG37d.png,Sled,Assistant: Wheelchair
+data/thin/silhouette/sled_PNG5.png,Sled,as Sled
+data/thin/silhouette/sled_PNG6.png,Sled,"as a child's sled, it is best classified under ""Sled""."
+data/thin/silhouette/snails_PNG13189.png,Snails,Snails
+data/thin/silhouette/snails_PNG13190.png,Snails,Snails
+data/thin/silhouette/snails_PNG13192.png,Snails,Snails
+data/thin/silhouette/snails_PNG13193.png,Snails,Snails
+data/thin/silhouette/snails_PNG13194.png,Snails,Snails
+data/thin/silhouette/snails_PNG13196.png,Snails,Snails
+data/thin/silhouette/snails_PNG13197.png,Snails,Snails
+data/thin/silhouette/snails_PNG13198b.png,Snails,Snails
+data/thin/silhouette/snails_PNG13198c.png,Snails,Snails
+data/thin/silhouette/snails_PNG13204.png,Snails,extinction
+data/thin/silhouette/snails_PNG13205.png,Snails,Snails
+data/thin/silhouette/snails_PNG13207.png,Snails,Snails
+data/thin/silhouette/snails_PNG13209.png,Snails,Snails
+data/thin/silhouette/snails_PNG13211.png,Snails,://Snails
+data/thin/silhouette/snails_PNG13212.png,Snails,Snails
+data/thin/silhouette/snails_PNG13213.png,Snails,Snails
+data/thin/silhouette/snails_PNG13214.png,Snails,Snails
+data/thin/silhouette/snails_PNG13215.png,Snails,Snails
+data/thin/silhouette/snake_PNG4044.png,Snake,Snake
+data/thin/silhouette/snake_PNG4077.png,Snake,reptile
+data/thin/silhouette/snake_PNG4080.png,Snake,Snake
+data/thin/silhouette/snake_PNG4086.png,Snake,coiled snake
+data/thin/silhouette/sofa_PNG6953.png,Sofa,Sofa
+data/thin/silhouette/spear_PNG10.png,Spear,武器
+data/thin/silhouette/spear_PNG14.png,Spear,://
+data/thin/silhouette/spear_PNG16.png,Spear,://Spear
+data/thin/silhouette/spear_PNG17.png,Spear,weapon spear
+data/thin/silhouette/spear_PNG19.png,Spear,Spear
+data/thin/silhouette/spear_PNG2.png,Spear,
+data/thin/silhouette/spear_PNG23.png,Spear,melee spear
+data/thin/silhouette/spear_PNG27.png,Spear,Spear
+data/thin/silhouette/spear_PNG28.png,Spear,
+data/thin/silhouette/spear_PNG29.png,Spear,weapon
+data/thin/silhouette/spear_PNG31.png,Spear,Spear
+data/thin/silhouette/spear_PNG32.png,Spear,weapon spear
+data/thin/silhouette/spear_PNG33.png,Spear,pole
+data/thin/silhouette/spear_PNG4.png,Spear,://
+data/thin/silhouette/spear_PNG40.png,Spear,Spear
+data/thin/silhouette/spear_PNG45.png,Spear,://Spear
+data/thin/silhouette/spear_PNG5.png,Spear,melee spear
+data/thin/silhouette/spear_PNG51.png,Spear,://Spear
+data/thin/silhouette/spear_PNG6.png,Spear,://Spear
+data/thin/silhouette/spear_PNG9.png,Spear,://Spear
+data/thin/silhouette/spider_PNG13.png,Spider,Spider
+data/thin/silhouette/spider_PNG20.png,Spider,Spider
+data/thin/silhouette/spider_PNG22.png,Spider,Spider
+data/thin/silhouette/spider_PNG27a.png,Spider,://Spider
+data/thin/silhouette/spider_PNG27b.png,Spider,arachnid
+data/thin/silhouette/spider_PNG27d.png,Spider,Spider
+data/thin/silhouette/spider_PNG27e.png,Spider,arachnid
+data/thin/silhouette/spider_PNG29.png,Spider,0.010261564374556893
+data/thin/silhouette/spider_PNG2a.png,Spider,arachnid
+data/thin/silhouette/spider_PNG2b.png,Spider,Spider
+data/thin/silhouette/spider_PNG2c.png,Spider,Spider
+data/thin/silhouette/spider_PNG2d.png,Spider,://Spider
+data/thin/silhouette/spider_PNG2e.png,Spider,Spider
+data/thin/silhouette/spider_PNG2g.png,Spider,Spider
+data/thin/silhouette/spider_PNG2h.png,Spider,Spider
+data/thin/silhouette/spider_PNG2i.png,Spider,Spider
+data/thin/silhouette/spider_PNG32.png,Spider,Spider
+data/thin/silhouette/spider_PNG33.png,Spider,arachnid
+data/thin/silhouette/spider_PNG37.png,Spider,Spider
+data/thin/silhouette/spider_PNG39.png,Spider,Spider
+data/thin/silhouette/spider_PNG41.png,Spider,Spider
+data/thin/silhouette/spider_PNG42.png,Spider,Spider
+data/thin/silhouette/spider_PNG43.png,Spider,Spider
+data/thin/silhouette/spider_PNG44.png,Spider,Spider
+data/thin/silhouette/spider_PNG5.png,Spider,large Spider
+data/thin/silhouette/spider_PNG6.png,Spider,Spider
+data/thin/silhouette/spider_PNG7.png,Spider,Spider
+data/thin/silhouette/spider_PNG8.png,Spider,Spider
+data/thin/silhouette/spoon_PNG3035.png,Spoon,utensil
+data/thin/silhouette/spoon_PNG3037.png,Spoon,Spoon
+data/thin/silhouette/spoon_PNG3038.png,Spoon,Spoon
+data/thin/silhouette/spoon_PNG3039.png,Spoon,Spoon
+data/thin/silhouette/spoon_PNG3041.png,Spoon,Spoon
+data/thin/silhouette/spoon_PNG3043.png,Spoon,Spoon
+data/thin/silhouette/spoon_PNG3045.png,Spoon,utensil spoon
+data/thin/silhouette/spoon_PNG3046.png,Spoon,Spoon
+data/thin/silhouette/spoon_PNG3048 - Copy.png,Spoon,Fork
+data/thin/silhouette/spoon_PNG3048.png,Spoon,Fork
+data/thin/silhouette/squid_PNG3.png,Squid,cephalopod
+data/thin/silhouette/starfish_PNG16a.png,Starfish,Starfish
+data/thin/silhouette/starfish_PNG16b.png,Starfish,Starfish
+data/thin/silhouette/starfish_PNG4.png,Starfish,starfish
+data/thin/silhouette/starfish_PNG6.png,Starfish,Starfish
+data/thin/silhouette/statue_of_liberty_PNG1.png,Statue Of Liberty,"New York City, Statue Of Liberty"
+data/thin/silhouette/statue_of_liberty_PNG11.png,Statue Of Liberty,Statue Of Liberty
+data/thin/silhouette/statue_of_liberty_PNG17.png,Statue Of Liberty,Statue Of Liberty
+data/thin/silhouette/statue_of_liberty_PNG2.png,Statue Of Liberty,Statue Of Liberty
+data/thin/silhouette/statue_of_liberty_PNG30.png,Statue Of Liberty,"New York City, Statue Of Liberty"
+data/thin/silhouette/statue_of_liberty_PNG5.png,Statue Of Liberty,"New York City, Statue Of Liberty"
+data/thin/silhouette/statue_of_liberty_PNG6.png,Statue Of Liberty,New York Statue Of Liberty
+data/thin/silhouette/statue_of_liberty_PNG9.png,Statue Of Liberty,"New York City, Statue Of Liberty"
+data/thin/silhouette/stethoscope_PNG103.png,Stethoscope,medical device
+data/thin/silhouette/stethoscope_PNG111.png,Stethoscope,medical stethoscope
+data/thin/silhouette/stethoscope_PNG114.png,Stethoscope,medical stethoscope
+data/thin/silhouette/stethoscope_PNG117.png,Stethoscope,Stethoscope
+data/thin/silhouette/stethoscope_PNG122.png,Stethoscope,Stethoscope
+data/thin/silhouette/stethoscope_PNG13.png,Stethoscope,medical stethoscope
+data/thin/silhouette/stethoscope_PNG19.png,Stethoscope,medical stethoscope
+data/thin/silhouette/stethoscope_PNG33.png,Stethoscope,Stethoscope
+data/thin/silhouette/stethoscope_PNG36.png,Stethoscope,listening to music
+data/thin/silhouette/stethoscope_PNG38.png,Stethoscope,medical stethoscope
+data/thin/silhouette/stethoscope_PNG5.png,Stethoscope,Stethoscope
+data/thin/silhouette/stethoscope_PNG62.png,Stethoscope,Stethoscope
+data/thin/silhouette/stethoscope_PNG63.png,Stethoscope,medical stethoscope
+data/thin/silhouette/stethoscope_PNG65.png,Stethoscope,medical stethoscope
+data/thin/silhouette/stethoscope_PNG73.png,Stethoscope,medical stethoscope
+data/thin/silhouette/stethoscope_PNG75.png,Stethoscope,medical stethoscope
+data/thin/silhouette/stethoscope_PNG81.png,Stethoscope,0
+data/thin/silhouette/stethoscope_PNG82.png,Stethoscope,://Stethoscope
+data/thin/silhouette/stethoscope_PNG85.png,Stethoscope,听诊器
+data/thin/silhouette/stethoscope_PNG86.png,Stethoscope,Stethoscope
+data/thin/silhouette/stethoscope_PNG88.png,Stethoscope,://Stethoscope
+data/thin/silhouette/stork_PNG1.png,Stork,Stork
+data/thin/silhouette/stork_PNG11.png,Stork,w Stork
+data/thin/silhouette/stork_PNG12.png,Stork,Stork
+data/thin/silhouette/stork_PNG19.png,Stork,Stork
+data/thin/silhouette/stork_PNG27.png,Stork,Stork
+data/thin/silhouette/stork_PNG31.png,Stork,Stork
+data/thin/silhouette/stork_PNG39.png,Stork,Stork
+data/thin/silhouette/stork_PNG40.png,Stork,Birds
+data/thin/silhouette/stork_PNG46.png,Stork,Stork
+data/thin/silhouette/street_light_PNG11509.png,Street Light,recognizable object in the image is a Street Light.
+data/thin/silhouette/street_light_PNG11510a.png,Street Light,"objects in this image. Choose from these 193 classes:
+Anaconda, Ant, Apple, Armchair, Arrow Bow, Ax, Backpack, Barbell, Bassinet, Bathtub, Bed, Bee, Bicycle, Birds, Boat, Boots, Bridge, Broom, Bucket, Bulldozer, Butterfly, Cactus, Cage, Camel, Cannon, Canoe, Carriage, Cat, Chain Saw, Chair, Chicken, Cobra, Cock, Comb, Cooking Pan, Corks"
+data/thin/silhouette/street_light_PNG11510b.png,Street Light,object is a Street Light.
+data/thin/silhouette/street_light_PNG11510c.png,Street Light,object in this image is a Street Light.
+data/thin/silhouette/street_light_PNG11510d.png,Street Light,object is not in the list of 193 classes.
+data/thin/silhouette/street_light_PNG11515.png,Street Light,outdoor street light
+data/thin/silhouette/street_light_PNG11518.png,Street Light,Street Light
+data/thin/silhouette/street_light_PNG11519.png,Street Light,object in this image is: Street Light
+data/thin/silhouette/street_light_PNG11520.png,Street Light,Obstacle
+data/thin/silhouette/street_light_PNG11525.png,Street Light,Street Light
+data/thin/silhouette/street_light_PNG11527.png,Street Light,
+data/thin/silhouette/street_light_PNG11531.png,Street Light,object in this image is: Street Light
+data/thin/silhouette/street_light_PNG11532.png,Street Light,193
+data/thin/silhouette/street_light_PNG11538.png,Street Light,Obelisk
+data/thin/silhouette/street_light_PNG11542.png,Street Light,Street Light
+data/thin/silhouette/street_light_PNG11543.png,Street Light,Objects
+data/thin/silhouette/street_light_PNG11545.png,Street Light,Street Light
+data/thin/silhouette/submarine_PNG44.png,Submarine,underwater vehicle
+data/thin/silhouette/submarine_PNG68.png,Submarine,underwater submarine
+data/thin/silhouette/suitcase_PNG10749.png,Suitcase,Suitcase
+data/thin/silhouette/suitcase_PNG10750.png,Suitcase,object is a Suitcase.
+data/thin/silhouette/suitcase_PNG10751.png,Suitcase,object in this image is a Suitcase.
+data/thin/silhouette/suitcase_PNG10752.png,Suitcase,2. Suitcase
+data/thin/silhouette/suitcase_PNG10753.png,Suitcase,-object
+data/thin/silhouette/suitcase_PNG10754.png,Suitcase,0
+data/thin/silhouette/suitcase_PNG10755.png,Suitcase,-object
+data/thin/silhouette/suitcase_PNG10756.png,Suitcase,_object_
+data/thin/silhouette/suitcase_PNG10757.png,Suitcase,0.15131527773428828
+data/thin/silhouette/suitcase_PNG10758.png,Suitcase,object is a Suitcase
+data/thin/silhouette/suitcase_PNG10759.png,Suitcase,0
+data/thin/silhouette/suitcase_PNG10761.png,Suitcase,0
+data/thin/silhouette/suitcase_PNG10762.png,Suitcase,0
+data/thin/silhouette/suitcase_PNG10763.png,Suitcase,193. Suitcase
+data/thin/silhouette/suitcase_PNG10764.png,Suitcase,193
+data/thin/silhouette/suitcase_PNG10770.png,Suitcase,0
+data/thin/silhouette/suitcase_PNG10773.png,Suitcase,Suitcase
+data/thin/silhouette/suitcase_PNG10774.png,Suitcase,Object: Suitcase
+data/thin/silhouette/suitcase_PNG10775.png,Suitcase,Obstacle
+data/thin/silhouette/sunflower_PNG13366a.png,Sunflower,2000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/sunflower_PNG13366b.png,Sunflower,0.0
+data/thin/silhouette/sunflower_PNG13385.png,Sunflower,center of the image is a Sunflower.
+data/thin/silhouette/sunflower_PNG13390.png,Sunflower,Sunflower
+data/thin/silhouette/sunflower_PNG13393.png,Sunflower,Sunflower
+data/thin/silhouette/sunflower_PNG13403.png,Sunflower,flower
+data/thin/silhouette/sunglasses_PNG101.png,Sunglasses,"accessory
+Sunglasses"
+data/thin/silhouette/sunglasses_PNG114a.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG114b.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG116.png,Sunglasses,"accessory
+Sunglasses"
+data/thin/silhouette/sunglasses_PNG117a.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG117b.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG119.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG120.png,Sunglasses,Objects in the image: Sunglasses
+data/thin/silhouette/sunglasses_PNG122.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG124.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG127.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG128.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG129.png,Sunglasses,accessory
+data/thin/silhouette/sunglasses_PNG13.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG132.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG137.png,Sunglasses,Protection Goggles
+data/thin/silhouette/sunglasses_PNG17.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG29.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG45.png,Sunglasses,Category: Sunglasses
+data/thin/silhouette/sunglasses_PNG50.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG55.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG8.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG88.png,Sunglasses,main object: Sunglasses
+data/thin/silhouette/sunglasses_PNG89.png,Sunglasses,"accessory
+Sunglasses"
+data/thin/silhouette/sunglasses_PNG94.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG97.png,Sunglasses,Sunglasses
+data/thin/silhouette/sunglasses_PNG98.png,Sunglasses,Sunglasses
+data/thin/silhouette/swan_PNG30.png,Swan,waterfowl
+data/thin/silhouette/swan_PNG46.png,Swan,waterfowl
+data/thin/silhouette/swan_PNG51.png,Swan,Swan
+data/thin/silhouette/swan_PNG53.png,Swan,水鸟
+data/thin/silhouette/sword_PNG5499.png,Sword,blade
+data/thin/silhouette/sword_PNG5500.png,Sword,cutting tool
+data/thin/silhouette/sword_PNG5503.png,Sword,cutting board
+data/thin/silhouette/sword_PNG5506.png,Sword,cutting sword
+data/thin/silhouette/sword_PNG5507.png,Sword,:// Sword
+data/thin/silhouette/sword_PNG5509.png,Sword,Japanese Sword
+data/thin/silhouette/sword_PNG5513.png,Sword,Sword
+data/thin/silhouette/sword_PNG5521.png,Sword,slashing sword
+data/thin/silhouette/sword_PNG5522.png,Sword,Sword
+data/thin/silhouette/sword_PNG5523.png,Sword,://Spear
+data/thin/silhouette/sword_PNG5525.png,Sword,cutting sword
+data/thin/silhouette/sword_PNG5526.png,Sword,cutting sword
+data/thin/silhouette/syringe_PNG12375a.png,Syringe,medical syringe
+data/thin/silhouette/syringe_PNG12376.png,Syringe,Syringe
+data/thin/silhouette/syringe_PNG12384.png,Syringe,medical syringe
+data/thin/silhouette/syringe_PNG12386.png,Syringe,medical syringe
+data/thin/silhouette/syringe_PNG12393.png,Syringe,medical syringe
+data/thin/silhouette/syringe_PNG12394.png,Syringe,medical syringe
+data/thin/silhouette/table_PNG6972.png,Table,Table
+data/thin/silhouette/table_PNG6973.png,Table,objects in the image: Table
+data/thin/silhouette/table_PNG6974.png,Table,0.0
+data/thin/silhouette/table_PNG6975.png,Table,Objects
+data/thin/silhouette/table_PNG6977.png,Table,"Recognize the main object in this image. Choose from these 193 classes:
+Anaconda, Ant, Apple, Armchair, Arrow Bow, Ax, Backpack, Barbell, Bassinet, Bathtub, Bed, Bee, Bicycle, Birds, Boat, Boots, Bridge, Broom, Bucket, Bulldozer, Butterfly, Cactus, Cage, Camel, Cannon, Canoe, Carriage, Cat, Chain Saw, Chair, Chicken, Cobra, Cock, Comb, Cooking"
+data/thin/silhouette/table_PNG6979.png,Table,0
+data/thin/silhouette/table_PNG6981.png,Table,2. Table
+data/thin/silhouette/table_PNG6983.png,Table,Objects in the image: Table
+data/thin/silhouette/table_PNG6984.png,Table,Table
+data/thin/silhouette/table_PNG6985.png,Table,Table
+data/thin/silhouette/table_PNG6986.png,Table,"Recognize the main object in this image. Choose from these 193 classes:
+Anaconda, Ant, Apple, Armchair, Arrow Bow, Ax, Backpack, Barbell, Bassinet, Bathtub, Bed, Bee, Bicycle, Birds, Boat, Boots, Bridge, Broom, Bucket, Bulldozer, Butterfly, Cactus, Cage, Camel, Cannon, Canoe, Carriage, Cat, Chain Saw, Chair, Chicken, Cobra, Cock, Comb, Cooking"
+data/thin/silhouette/table_PNG6988.png,Table,Table
+data/thin/silhouette/table_PNG6989.png,Table,1. Table
+data/thin/silhouette/table_PNG6990.png,Table,0
+data/thin/silhouette/table_PNG6991.png,Table,Table
+data/thin/silhouette/table_PNG6993.png,Table,0
+data/thin/silhouette/table_PNG6995.png,Table,Obelisk
+data/thin/silhouette/table_PNG6996.png,Table,0
+data/thin/silhouette/table_PNG6997a.png,Table,Chair
+data/thin/silhouette/table_PNG6997b.png,Table,Chair
+data/thin/silhouette/table_PNG6997c.png,Table,Table
+data/thin/silhouette/table_PNG6997e.png,Table,Table
+data/thin/silhouette/table_PNG6997f.png,Table,Table
+data/thin/silhouette/table_PNG6997g.png,Table,Table
+data/thin/silhouette/table_PNG6997i.png,Table,Table
+data/thin/silhouette/table_PNG6998.png,Table,Recognized object: Table
+data/thin/silhouette/table_PNG7000.png,Table,object is a Table.
+data/thin/silhouette/table_PNG7005.png,Table,Table
+data/thin/silhouette/table_PNG7006.png,Table,0.28321582612562655
+data/thin/silhouette/table_PNG7007.png,Table,0
+data/thin/silhouette/table_PNG7008.png,Table,0.0
+data/thin/silhouette/tank_PNG1285.png,Tank,::Tank
+data/thin/silhouette/tank_PNG1297.png,Tank,://Tank
+data/thin/silhouette/tank_PNG1299.png,Tank,://Tank
+data/thin/silhouette/tank_PNG1302.png,Tank,Tank
+data/thin/silhouette/tank_PNG1307.png,Tank,Tank
+data/thin/silhouette/tank_PNG1308.png,Tank,Tank
+data/thin/silhouette/tank_PNG1309.png,Tank,://Tank
+data/thin/silhouette/tank_PNG1310.png,Tank,://Tank
+data/thin/silhouette/tank_PNG1320.png,Tank,Tank
+data/thin/silhouette/tank_PNG1322.png,Tank,Tank
+data/thin/silhouette/tank_PNG1324.png,Tank,weaponry
+data/thin/silhouette/tap_PNG1.png,Tap,Tap
+data/thin/silhouette/tap_PNG101.png,Tap,Tap
+data/thin/silhouette/tap_PNG11.png,Tap,Tap
+data/thin/silhouette/tap_PNG114.png,Tap,Tap
+data/thin/silhouette/tap_PNG115.png,Tap,Tap
+data/thin/silhouette/tap_PNG12.png,Tap,-object
+data/thin/silhouette/tap_PNG130.png,Tap,objects
+data/thin/silhouette/tap_PNG131.png,Tap,0.0
+data/thin/silhouette/tap_PNG16.png,Tap,Tap
+data/thin/silhouette/tap_PNG17.png,Tap,Tap
+data/thin/silhouette/tap_PNG19.png,Tap,_objects_
+data/thin/silhouette/tap_PNG2.png,Tap,Tap
+data/thin/silhouette/tap_PNG27.png,Tap,object is a Tap
+data/thin/silhouette/tap_PNG30.png,Tap,Tap
+data/thin/silhouette/tap_PNG38.png,Tap,Tap
+data/thin/silhouette/tap_PNG47.png,Tap,"recognize the main object in this image. Choose from these 193 classes: Anaconda, Ant, Apple, Armchair, Arrow Bow, Ax, Backpack, Barbell, Bassinet, Bathtub, Bed, Bee, Bicycle, Birds, Boat, Boots, Bridge, Broom, Bucket, Bulldozer, Butterfly, Cactus, Cage, Camel, Cannon, Canoe, Carriage, Cat, Chain Saw, Chair, Chicken, Cobra, Cock, Comb, Cooking Pan"
+data/thin/silhouette/tap_PNG48.png,Tap,Tap
+data/thin/silhouette/tap_PNG55.png,Tap,Tap
+data/thin/silhouette/tap_PNG58.png,Tap,object is a Tap
+data/thin/silhouette/tap_PNG6.png,Tap,Tap
+data/thin/silhouette/tap_PNG60.png,Tap,Objects
+data/thin/silhouette/tap_PNG61.png,Tap,Tap
+data/thin/silhouette/tap_PNG66.png,Tap,Tap
+data/thin/silhouette/tap_PNG68.png,Tap,Tap
+data/thin/silhouette/tap_PNG73.png,Tap,Tap
+data/thin/silhouette/tap_PNG76.png,Tap,Tap
+data/thin/silhouette/tap_PNG9.png,Tap,Tap
+data/thin/silhouette/tap_PNG91.png,Tap,Tap
+data/thin/silhouette/tap_PNG95.png,Tap,Tap
+data/thin/silhouette/tap_PNG99.png,Tap,Tap
+data/thin/silhouette/telephone_booth_PNG37.png,Telephone Booth,Telephone Booth
+data/thin/silhouette/telephone_booth_PNG39.png,Telephone Booth,.objects
+data/thin/silhouette/telephone_booth_PNG43.png,Telephone Booth,Telephone Booth
+data/thin/silhouette/telephone_booth_PNG7.png,Telephone Booth,Telephone Booth
+data/thin/silhouette/telescope_PNG1.png,Telescope,apparatus
+data/thin/silhouette/telescope_PNG101.png,Telescope,viewing Telescope
+data/thin/silhouette/telescope_PNG102.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG105.png,Telescope,Objects
+data/thin/silhouette/telescope_PNG107.png,Telescope,"observing that the image is a silhouette of a telescope mounted on a tripod. The telescope is a device used for viewing distant objects, especially in astronomy, and the tripod provides stability. Among the provided classes, ""Telescope"" is the most accurate and direct match for the main object.
+
+Telescope"
+data/thin/silhouette/telescope_PNG112.png,Telescope,"Looking at the image, I can see a long tube mounted on a three-legged stand. This is a classic setup for a telescope, which is used to observe distant objects, especially in astronomy. The stand is a tripod, which is common for telescopes to provide stability.
+
+The main object is clearly a telescope.
+
+Telescope"
+data/thin/silhouette/telescope_PNG114.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG13.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG17.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG18.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG19.png,Telescope,viewing telescope
+data/thin/silhouette/telescope_PNG2.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG35.png,Telescope,"objects in the image: Telescope, Tripod"
+data/thin/silhouette/telescope_PNG40.png,Telescope,viewing telescope
+data/thin/silhouette/telescope_PNG41.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG43.png,Telescope,"observing the image, it shows a telescope mounted on a tripod. The object is clearly identifiable as a telescope, which is used for viewing distant objects, often in astronomy or surveillance.
+
+Telescope"
+data/thin/silhouette/telescope_PNG52.png,Telescope,
+data/thin/silhouette/telescope_PNG53.png,Telescope,观星仪
+data/thin/silhouette/telescope_PNG57.png,Telescope,"observing the image, the main object is a telescope mounted on a tripod. The silhouette clearly shows the long tube of the telescope and the three-legged support structure, which is characteristic of a telescope tripod.
+
+Therefore, the correct class is:
+Telescope"
+data/thin/silhouette/telescope_PNG60.png,Telescope,观星镜
+data/thin/silhouette/telescope_PNG61.png,Telescope,"Observing the image, the main object is a telescope mounted on a tripod. The silhouette clearly shows the long tube of the telescope and the three-legged support structure, which is characteristic of a telescope setup.
+
+From the provided list, the most accurate and specific class for this object is:
+
+Telescope"
+data/thin/silhouette/telescope_PNG63.png,Telescope,"observing the image, the main object is a telescope mounted on a tripod. The silhouette clearly shows the long tube of the telescope and the three-legged support structure, which is characteristic of a tripod.
+
+From the provided list, the most accurate and specific class for this object is:
+
+Telescope"
+data/thin/silhouette/telescope_PNG67.png,Telescope,"Observing the image, we can see a silhouette of an object with a long tube, a mounting system, and a tripod base. This is characteristic of a telescope mounted on a tripod for stability and observation.
+
+Therefore, the main object is:
+
+Telescope"
+data/thin/silhouette/telescope_PNG69.png,Telescope,"observing that the image shows a silhouette of a telescope mounted on a tripod. The object is clearly identifiable as a telescope, which is used for viewing distant objects, especially in astronomy.
+
+Telescope"
+data/thin/silhouette/telescope_PNG75.png,Telescope,"Equipped with a tripod, this is a telescope."
+data/thin/silhouette/telescope_PNG80.png,Telescope,viewing telescope
+data/thin/silhouette/telescope_PNG87.png,Telescope,"Recognize the main object in this image. Choose from these 193 classes:
+Anaconda, Ant, Apple, Armchair, Arrow Bow, Ax, Backpack, Barbell, Bassinet, Bathtub, Bed, Bee, Bicycle, Birds, Boat, Boots, Bridge, Broom, Bucket, Bulldozer, Butterfly, Cactus, Cage, Camel, Cannon, Canoe, Carriage, Cat, Chain Saw, Chair, Chicken, Cobra, Cock, Comb, Cooking"
+data/thin/silhouette/telescope_PNG97.png,Telescope,Telescope
+data/thin/silhouette/telescope_PNG99.png,Telescope,"observing that the image shows a silhouette of a device with a large cylindrical body mounted on a tripod, which is characteristic of an astronomical instrument used for viewing celestial objects. The shape and structure strongly indicate it is a telescope, specifically one mounted on a tripod for stability and precise aiming.
+
+Telescope"
+data/thin/silhouette/tent_PNG2.png,Tent,Tent
+data/thin/silhouette/tent_PNG24.png,Tent,objects in this image are: Tent
+data/thin/silhouette/tent_PNG3.png,Tent,Tent
+data/thin/silhouette/tent_PNG30.png,Tent,Tent
+data/thin/silhouette/tent_PNG33.png,Tent,hairstyle
+data/thin/silhouette/tent_PNG34.png,Tent,closed umbrella
+data/thin/silhouette/tent_PNG35.png,Tent,Tent
+data/thin/silhouette/tent_PNG36.png,Tent,objects in this image are: Tent
+data/thin/silhouette/tent_PNG38.png,Tent,Tent
+data/thin/silhouette/tent_PNG4.png,Tent,Tent
+data/thin/silhouette/tent_PNG40.png,Tent,Tent
+data/thin/silhouette/tent_PNG5.png,Tent,hairstyle
+data/thin/silhouette/tent_PNG50.png,Tent,Tent
+data/thin/silhouette/tent_PNG6.png,Tent,Tent
+data/thin/silhouette/tent_PNG9.png,Tent,Tent
+data/thin/silhouette/tie_PNG8174.png,Tie,Tie
+data/thin/silhouette/tie_PNG8175.png,Tie,Tie
+data/thin/silhouette/tie_PNG8180.png,Tie,thing
+data/thin/silhouette/tie_PNG8182.png,Tie,Tie
+data/thin/silhouette/tie_PNG8192.png,Tie,Tie
+data/thin/silhouette/tie_PNG8194.png,Tie,Tie
+data/thin/silhouette/tie_PNG8196.png,Tie,0.14423673475664656
+data/thin/silhouette/tie_PNG8197.png,Tie,Tie
+data/thin/silhouette/time_bomb_PNG1.png,Time Bomb,Cactus
+data/thin/silhouette/time_bomb_PNG11.png,Time Bomb,headphones
+data/thin/silhouette/time_bomb_PNG2.png,Time Bomb,
+data/thin/silhouette/time_bomb_PNG3.png,Time Bomb,Treadmill
+data/thin/silhouette/time_bomb_PNG6.png,Time Bomb,Cannon
+data/thin/silhouette/time_bomb_PNG8.png,Time Bomb,Time Bomb
+data/thin/silhouette/time_bomb_PNG9.png,Time Bomb,装置
+data/thin/silhouette/titanic_PNG19.png,Titanic,Rudder
+data/thin/silhouette/titanic_PNG3.png,Titanic,Titanic
+data/thin/silhouette/titanic_PNG35.png,Titanic,Ship
+data/thin/silhouette/titanic_PNG37.png,Titanic,Ropeway
+data/thin/silhouette/titanic_PNG40.png,Titanic,Ship
+data/thin/silhouette/titanic_PNG5.png,Titanic,Ship
+data/thin/silhouette/titanic_PNG7.png,Titanic,0
+data/thin/silhouette/toothbrush_PNG102.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG114.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG119.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG120.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG121.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG122.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG124.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG125.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG126.png,Toothbrush,日常用品
+data/thin/silhouette/toothbrush_PNG127a.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG127b.png,Toothbrush,机械设备
+data/thin/silhouette/toothbrush_PNG128.png,Toothbrush,brush
+data/thin/silhouette/toothbrush_PNG130.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG132.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG135.png,Toothbrush,Corkscrew
+data/thin/silhouette/toothbrush_PNG137b.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG137c.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG13a.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG140.png,Toothbrush,ID: Toothbrush
+data/thin/silhouette/toothbrush_PNG142.png,Toothbrush,
+data/thin/silhouette/toothbrush_PNG153.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG16.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG163.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG166.png,Toothbrush,机械设备
+data/thin/silhouette/toothbrush_PNG167.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG169.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG17.png,Toothbrush,
+data/thin/silhouette/toothbrush_PNG170.png,Toothbrush,机械设备
+data/thin/silhouette/toothbrush_PNG171.png,Toothbrush,机械设备
+data/thin/silhouette/toothbrush_PNG174.png,Toothbrush,机械设备
+data/thin/silhouette/toothbrush_PNG179.png,Toothbrush,headbrush
+data/thin/silhouette/toothbrush_PNG18.png,Toothbrush,Hairbrush
+data/thin/silhouette/toothbrush_PNG181.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG182a.png,Toothbrush,head of toothbrush
+data/thin/silhouette/toothbrush_PNG182c.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG183.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG184.png,Toothbrush,brush
+data/thin/silhouette/toothbrush_PNG2.png,Toothbrush,brush
+data/thin/silhouette/toothbrush_PNG21.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG22.png,Toothbrush,机械设备
+data/thin/silhouette/toothbrush_PNG25.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG28.png,Toothbrush,bristles
+data/thin/silhouette/toothbrush_PNG30.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG33.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG34.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG38.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG42.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG45.png,Toothbrush,0.5
+data/thin/silhouette/toothbrush_PNG49.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG51.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG52.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG54.png,Toothbrush,bristle brush
+data/thin/silhouette/toothbrush_PNG55.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG56.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG59.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG65.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG70.png,Toothbrush,Object is Toothbrush
+data/thin/silhouette/toothbrush_PNG77.png,Toothbrush,机械设备
+data/thin/silhouette/toothbrush_PNG78b.png,Toothbrush,
+data/thin/silhouette/toothbrush_PNG79.png,Toothbrush,机械设备
+data/thin/silhouette/toothbrush_PNG80.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG81a.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG81b.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG84.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG87.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG92.png,Toothbrush,Toothbrush
+data/thin/silhouette/toothbrush_PNG94b.png,Toothbrush,handle
+data/thin/silhouette/toothbrush_PNG98.png,Toothbrush,Toothbrush
+data/thin/silhouette/tractor_PNG16106.png,Tractor,heavy tractor
+data/thin/silhouette/tractor_PNG16107.png,Tractor,heavy tractor
+data/thin/silhouette/tractor_PNG16127.png,Tractor,heavy machinery
+data/thin/silhouette/tractor_PNG16128.png,Tractor,heavy tractor
+data/thin/silhouette/tractor_PNG16131.png,Tractor,heavy machinery
+data/thin/silhouette/tractor_PNG16132.png,Tractor,heavy tractor
+data/thin/silhouette/tractor_PNG16139.png,Tractor,he Tractor
+data/thin/silhouette/tractor_PNG16164.png,Tractor,农业机械
+data/thin/silhouette/tractor_PNG16165.png,Tractor,Tractor
+data/thin/silhouette/tractor_PNG16167.png,Tractor,0
+data/thin/silhouette/tractor_PNG16171.png,Tractor,农业机械
+data/thin/silhouette/tractor_PNG16174.png,Tractor,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/tractor_PNG16175.png,Tractor,://Tractor
+data/thin/silhouette/tram_PNG15.png,Tram,Bicycle
+data/thin/silhouette/tram_PNG33.png,Tram,he excavator
+data/thin/silhouette/trampoline_PNG1.png,Trampoline,Exercise Ball
+data/thin/silhouette/trampoline_PNG11.png,Trampoline,Trampoline
+data/thin/silhouette/trampoline_PNG12.png,Trampoline,Trampoline
+data/thin/silhouette/trampoline_PNG2.png,Trampoline,3. Trampoline
+data/thin/silhouette/trampoline_PNG27.png,Trampoline,Trampoline
+data/thin/silhouette/trampoline_PNG29.png,Trampoline,"```json
+Trampoline
+```"
+data/thin/silhouette/trampoline_PNG34.png,Trampoline,Trampoline
+data/thin/silhouette/trampoline_PNG5.png,Trampoline,Objects
+data/thin/silhouette/trampoline_PNG57.png,Trampoline,Trampoline
+data/thin/silhouette/trampoline_PNG6.png,Trampoline,Trampoline
+data/thin/silhouette/trampoline_PNG61.png,Trampoline,The main object in this image is a **Tent**.
+data/thin/silhouette/trampoline_PNG62.png,Trampoline,Trampoline
+data/thin/silhouette/trampoline_PNG64.png,Trampoline,Trampoline
+data/thin/silhouette/trampoline_PNG65.png,Trampoline,® Trampoline
+data/thin/silhouette/trampoline_PNG67.png,Trampoline,Trampoline
+data/thin/silhouette/trampoline_PNG72.png,Trampoline,:// Trampoline
+data/thin/silhouette/trampoline_PNG75.png,Trampoline,Trampoline
+data/thin/silhouette/trampoline_PNG82.png,Trampoline,Trampoline
+data/thin/silhouette/trampoline_PNG84.png,Trampoline,Trampoline
+data/thin/silhouette/trampoline_PNG85.png,Trampoline,Trampoline
+data/thin/silhouette/trampoline_PNG9.png,Trampoline,Trampoline
+data/thin/silhouette/treadmill_PNG101.png,Treadmill,
+data/thin/silhouette/treadmill_PNG14.png,Treadmill,Treadmill
+data/thin/silhouette/treadmill_PNG18.png,Treadmill,Treadmill
+data/thin/silhouette/treadmill_PNG19.png,Treadmill,Objects
+data/thin/silhouette/treadmill_PNG28.png,Treadmill,健身跑步机
+data/thin/silhouette/treadmill_PNG36.png,Treadmill,Treadmill
+data/thin/silhouette/treadmill_PNG38.png,Treadmill,Treadmill
+data/thin/silhouette/treadmill_PNG43.png,Treadmill,Treadmill
+data/thin/silhouette/treadmill_PNG6.png,Treadmill,Treadmill
+data/thin/silhouette/treadmill_PNG7.png,Treadmill,Treadmill
+data/thin/silhouette/treadmill_PNG75.png,Treadmill,健身跑步机
+data/thin/silhouette/treadmill_PNG8.png,Treadmill,Treadmill
+data/thin/silhouette/treadmill_PNG9.png,Treadmill,Treadmill
+data/thin/silhouette/treadmill_PNG94.png,Treadmill,exercise machine
+data/thin/silhouette/treadmill_PNG99.png,Treadmill,Treadmill
+data/thin/silhouette/tripod_PNG1.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG100.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG102.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG109.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG112.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG114.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG115.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG116.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG117.png,Tripod,objects in this image: Tripod
+data/thin/silhouette/tripod_PNG12.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG120.png,Tripod,flag
+data/thin/silhouette/tripod_PNG131.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG132.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG133.png,Tripod,astrophotography tripod
+data/thin/silhouette/tripod_PNG135.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG139.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG141.png,Tripod,"Recognize the main object in this image. Choose from these 193 classes:
+Tripod"
+data/thin/silhouette/tripod_PNG144.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG146.png,Tripod,"Recognize the main object in this image. Choose from these 193 classes:
+Tripod"
+data/thin/silhouette/tripod_PNG16.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG17.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG2.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG30.png,Tripod,"Recognize the main object in this image. Choose from these 193 classes:
+Tripod"
+data/thin/silhouette/tripod_PNG33.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG36.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG40.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG43.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG46.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG48.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG49.png,Tripod,"objects in the image: Tripod, Video Camera"
+data/thin/silhouette/tripod_PNG52.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG54.png,Tripod,"supporting object for camera, tripod"
+data/thin/silhouette/tripod_PNG58.png,Tripod,equipment for camera support
+data/thin/silhouette/tripod_PNG63.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG65.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG67.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG72.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG73.png,Tripod,centerpiece
+data/thin/silhouette/tripod_PNG74.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG76.png,Tripod,机械设备
+data/thin/silhouette/tripod_PNG77.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG78.png,Tripod,recognizer
+data/thin/silhouette/tripod_PNG86.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG88.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG91.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG92.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG93.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG94.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG95.png,Tripod,"Recognize the main object in this image. Choose from these 193 classes:
+Tripod"
+data/thin/silhouette/tripod_PNG97.png,Tripod,Tripod
+data/thin/silhouette/tripod_PNG99.png,Tripod,Tripod
+data/thin/silhouette/trolleybus_PNG10.png,Trolleybus,Fire Truck
+data/thin/silhouette/trolleybus_PNG11.png,Trolleybus,0.0
+data/thin/silhouette/trolleybus_PNG2.png,Trolleybus,Radio
+data/thin/silhouette/trolleybus_PNG26.png,Trolleybus,Trolleybus
+data/thin/silhouette/trolleybus_PNG30.png,Trolleybus,Trolleybus
+data/thin/silhouette/trombone_PNG1.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG10.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG12.png,Trombone,乐器
+data/thin/silhouette/trombone_PNG13.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG14.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG16.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG17.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG18.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG2.png,Trombone,brass instrument
+data/thin/silhouette/trombone_PNG20.png,Trombone,brass instrument
+data/thin/silhouette/trombone_PNG29.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG3.png,Trombone,brass instrument
+data/thin/silhouette/trombone_PNG31.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG33.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG37.png,Trombone,brass instrument
+data/thin/silhouette/trombone_PNG38.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG39.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG4.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG40.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG45.png,Trombone,brass instrument
+data/thin/silhouette/trombone_PNG46.png,Trombone,brass trombone
+data/thin/silhouette/trombone_PNG5.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG52.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG54.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG55.png,Trombone,Trumpet
+data/thin/silhouette/trombone_PNG56.png,Trombone,brass trumpet
+data/thin/silhouette/trombone_PNG7.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG8.png,Trombone,Trombone
+data/thin/silhouette/trombone_PNG9.png,Trombone,Trombone
+data/thin/silhouette/trumpet_saxophone_PNG14721.png,Trumpet Saxophone,Musical Instrument
+data/thin/silhouette/trumpet_saxophone_PNG14723.png,Trumpet Saxophone,Trombone
+data/thin/silhouette/trumpet_saxophone_PNG14724.png,Trumpet Saxophone,Brass Instrument
+data/thin/silhouette/trumpet_saxophone_PNG14726.png,Trumpet Saxophone,brass instrument
+data/thin/silhouette/trumpet_saxophone_PNG14727.png,Trumpet Saxophone,Trumpet Saxophone
+data/thin/silhouette/trumpet_saxophone_PNG14728.png,Trumpet Saxophone,Trumpet
+data/thin/silhouette/trumpet_saxophone_PNG14729.png,Trumpet Saxophone,Woodwind Instrument
+data/thin/silhouette/trumpet_saxophone_PNG14730.png,Trumpet Saxophone,brass instrument
+data/thin/silhouette/trumpet_saxophone_PNG14731.png,Trumpet Saxophone,Trumpet Saxophone
+data/thin/silhouette/trumpet_saxophone_PNG14734.png,Trumpet Saxophone,Musical Instrument
+data/thin/silhouette/trumpet_saxophone_PNG14735.png,Trumpet Saxophone,musical instrument
+data/thin/silhouette/trumpet_saxophone_PNG14738.png,Trumpet Saxophone,Musical Instrument
+data/thin/silhouette/trumpet_saxophone_PNG14739.png,Trumpet Saxophone,Musical Instrument
+data/thin/silhouette/trumpet_saxophone_PNG14740.png,Trumpet Saxophone,"keys are not in the list, so I will not choose any of them."
+data/thin/silhouette/trumpet_saxophone_PNG14743.png,Trumpet Saxophone,Objects
+data/thin/silhouette/trumpet_saxophone_PNG14744.png,Trumpet Saxophone,brass instrument
+data/thin/silhouette/trumpet_saxophone_PNG14745.png,Trumpet Saxophone,brass instrument
+data/thin/silhouette/trumpet_saxophone_PNG14746.png,Trumpet Saxophone,musical instrument
+data/thin/silhouette/trumpet_saxophone_PNG14747.png,Trumpet Saxophone,Trumpet Saxophone
+data/thin/silhouette/trumpet_saxophone_PNG14748.png,Trumpet Saxophone,Trumpet Saxophone
+data/thin/silhouette/trumpet_saxophone_PNG14753.png,Trumpet Saxophone,musical instrument
+data/thin/silhouette/trumpet_saxophone_PNG14754.png,Trumpet Saxophone,Musical Instrument
+data/thin/silhouette/trumpet_saxophone_PNG14755.png,Trumpet Saxophone,brass instrument
+data/thin/silhouette/trumpet_saxophone_PNG14756.png,Trumpet Saxophone,wind instrument
+data/thin/silhouette/trumpet_saxophone_PNG14757.png,Trumpet Saxophone,Musical Instrument
+data/thin/silhouette/trumpet_saxophone_PNG14758.png,Trumpet Saxophone,乐器
+data/thin/silhouette/trumpet_saxophone_PNG14759.png,Trumpet Saxophone,brass instrument
+data/thin/silhouette/trumpet_saxophone_PNG14760.png,Trumpet Saxophone,乐器
+data/thin/silhouette/trumpet_saxophone_PNG14769.png,Trumpet Saxophone,Trumpet Saxophone
+data/thin/silhouette/tulip_PNG8978.png,Tulip,Tulip
+data/thin/silhouette/tulip_PNG8979.png,Tulip,Tulip
+data/thin/silhouette/tulip_PNG8980.png,Tulip,"flower, Tulip"
+data/thin/silhouette/tulip_PNG8983.png,Tulip,flower
+data/thin/silhouette/tulip_PNG8995.png,Tulip,feathers
+data/thin/silhouette/tulip_PNG8997.png,Tulip,flower
+data/thin/silhouette/tulip_PNG9000.png,Tulip,flower
+data/thin/silhouette/tulip_PNG9003.png,Tulip,flower
+data/thin/silhouette/tulip_PNG9004.png,Tulip,Tulip
+data/thin/silhouette/tulip_PNG9005.png,Tulip,"in this image, the main object is a Tulip."
+data/thin/silhouette/tulip_PNG9006.png,Tulip,Tulip
+data/thin/silhouette/tulip_PNG9009.png,Tulip,flower
+data/thin/silhouette/tulip_PNG9019.png,Tulip,0.5
+data/thin/silhouette/tulip_PNG9020.png,Tulip,flower
+data/thin/silhouette/tulip_PNG9022.png,Tulip,0
+data/thin/silhouette/tulip_PNG9023.png,Tulip,Tulip
+data/thin/silhouette/tulip_PNG9024.png,Tulip,flower
+data/thin/silhouette/tulip_PNG9025.png,Tulip,Tulip
+data/thin/silhouette/tulip_PNG9026.png,Tulip,0
+data/thin/silhouette/turkey_PNG58546.png,Turkey,Birds
+data/thin/silhouette/turkey_PNG58547.png,Turkey,Birds
+data/thin/silhouette/turkey_PNG58548.png,Turkey,Chicken
+data/thin/silhouette/turkey_PNG58549.png,Turkey,'turkey'
+data/thin/silhouette/turkey_PNG58559.png,Turkey,Turkey
+data/thin/silhouette/turkey_PNG58579.png,Turkey,bird
+data/thin/silhouette/turkey_PNG58588.png,Turkey,Turkey
+data/thin/silhouette/turkey_PNG58599.png,Turkey,Turkey
+data/thin/silhouette/turkey_PNG58605.png,Turkey,bird
+data/thin/silhouette/turtle_PNG55.png,Turtle,://turtle
+data/thin/silhouette/turtle_PNG63.png,Turtle,0.25
+data/thin/silhouette/typewriter_PNG10.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG11.png,Typewriter,icon_typewriter
+data/thin/silhouette/typewriter_PNG19.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG2.png,Typewriter,object is a Typewriter
+data/thin/silhouette/typewriter_PNG21.png,Typewriter,"ID: 193
+Typewriter"
+data/thin/silhouette/typewriter_PNG27.png,Typewriter,object is not in the provided list.
+data/thin/silhouette/typewriter_PNG3.png,Typewriter,object in this image is: Typewriter
+data/thin/silhouette/typewriter_PNG33.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG4.png,Typewriter,"""Typewriter"""
+data/thin/silhouette/typewriter_PNG43.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG45.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG5.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG55.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG56.png,Typewriter,class: Typewriter
+data/thin/silhouette/typewriter_PNG58.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG59.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG6.png,Typewriter,object in this image is a Typewriter.
+data/thin/silhouette/typewriter_PNG60.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG62.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG63.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG64.png,Typewriter,"""Typewriter"""
+data/thin/silhouette/typewriter_PNG68.png,Typewriter,me
+data/thin/silhouette/typewriter_PNG75.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG76.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG77.png,Typewriter,"first, I need to identify the main object in the image. The image is a silhouette of a container with a drawstring closure and a small circular knob or handle on the side. This is characteristic of a drawstring bag or pouch, often used for storing small items.
+
+Now, I need to match this to one of the 193 classes provided. Looking at the list, ""Backpack"" is a possibility, but backpacks typically have straps and a more structured shape. The silhouette"
+data/thin/silhouette/typewriter_PNG78b.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG81.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG87.png,Typewriter,"ID: 1027557468
+ Typewriter"
+data/thin/silhouette/typewriter_PNG9.png,Typewriter,Typewriter
+data/thin/silhouette/typewriter_PNG93.png,Typewriter,机械设备
+data/thin/silhouette/typewriter_PNG98.png,Typewriter,objects in the image are not from the given list.
+data/thin/silhouette/umbrella_PNG500.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69117.png,Umbrella,open umbrella
+data/thin/silhouette/umbrella_PNG69123.png,Umbrella,protective umbrella
+data/thin/silhouette/umbrella_PNG69124.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69129a.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69129b.png,Umbrella,closed umbrella
+data/thin/silhouette/umbrella_PNG69129c.png,Umbrella,closed umbrella
+data/thin/silhouette/umbrella_PNG69129d.png,Umbrella,closed umbrella
+data/thin/silhouette/umbrella_PNG69129e.png,Umbrella,closed umbrella
+data/thin/silhouette/umbrella_PNG69129f.png,Umbrella,closed umbrella
+data/thin/silhouette/umbrella_PNG69130.png,Umbrella,closed umbrella
+data/thin/silhouette/umbrella_PNG69145.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69217.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69225.png,Umbrella,closed umbrella
+data/thin/silhouette/umbrella_PNG69226a.png,Umbrella,Objects
+data/thin/silhouette/umbrella_PNG69226b.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69226c.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69226e.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69226f.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69226g.png,Umbrella,closed umbrella
+data/thin/silhouette/umbrella_PNG69226h.png,Umbrella,Objects in the image: Umbrella
+data/thin/silhouette/umbrella_PNG69227b.png,Umbrella,Objects in the image: Umbrella
+data/thin/silhouette/umbrella_PNG69227d.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69227e.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69230.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69231.png,Umbrella,Umbrella
+data/thin/silhouette/umbrella_PNG69232.png,Umbrella,canopy
+data/thin/silhouette/umbrella_PNG69233.png,Umbrella,closed umbrella
+data/thin/silhouette/umbrella_PNG69234.png,Umbrella,closed umbrella
+data/thin/silhouette/vacuum_cleaner_PNG1.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG10.png,Vacuum Cleaner,can you identify the main object in this image?
+data/thin/silhouette/vacuum_cleaner_PNG17.png,Vacuum Cleaner,吸尘器
+data/thin/silhouette/vacuum_cleaner_PNG19.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG20.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG21.png,Vacuum Cleaner,Household Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG23.png,Vacuum Cleaner,motor vacuum cleaner
+data/thin/silhouette/vacuum_cleaner_PNG28.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG29.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG33.png,Vacuum Cleaner,:// Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG43.png,Vacuum Cleaner,can be identified as a Vacuum Cleaner.
+data/thin/silhouette/vacuum_cleaner_PNG44.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG45.png,Vacuum Cleaner,Canoe
+data/thin/silhouette/vacuum_cleaner_PNG46.png,Vacuum Cleaner,器具
+data/thin/silhouette/vacuum_cleaner_PNG47.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG48.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG49.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG50.png,Vacuum Cleaner,can be found in the provided list of 193 classes.
+data/thin/silhouette/vacuum_cleaner_PNG52.png,Vacuum Cleaner,Kettle
+data/thin/silhouette/vacuum_cleaner_PNG53.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG54.png,Vacuum Cleaner,appliance: Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG56.png,Vacuum Cleaner,Vacuum Cleaner
+data/thin/silhouette/vacuum_cleaner_PNG7.png,Vacuum Cleaner,can be identified as a Vacuum Cleaner.
+data/thin/silhouette/vacuum_cleaner_PNG8.png,Vacuum Cleaner,canister
+data/thin/silhouette/vase_PNG123.png,Vase,"class=""Vase"""
+data/thin/silhouette/vase_PNG153.png,Vase,"Tulip
+Vase"
+data/thin/silhouette/vase_PNG179a.png,Vase,Vase
+data/thin/silhouette/vase_PNG179b.png,Vase,UEFA Cup
+data/thin/silhouette/vase_PNG81.png,Vase,://Vase
+data/thin/silhouette/vase_PNG94.png,Vase,"flower, Vase"
+data/thin/silhouette/vase_PNG96.png,Vase,"Tulip
+Vase"
+data/thin/silhouette/video_camera_PNG7856.png,Video Camera,Filmmaker
+data/thin/silhouette/video_camera_PNG7864.png,Video Camera,Video Camera
+data/thin/silhouette/video_camera_PNG7868.png,Video Camera,Video Camera
+data/thin/silhouette/video_camera_PNG7870.png,Video Camera,Video Camera
+data/thin/silhouette/video_camera_PNG7875.png,Video Camera,Video Camera
+data/thin/silhouette/video_camera_PNG7880.png,Video Camera,Video Camera
+data/thin/silhouette/video_camera_PNG7891.png,Video Camera,old video camera
+data/thin/silhouette/violin_PNG12820.png,Violin,string instrument
+data/thin/silhouette/violin_PNG12821.png,Violin,Violin
+data/thin/silhouette/violin_PNG12822.png,Violin,String Instrument
+data/thin/silhouette/violin_PNG12839.png,Violin,Violin
+data/thin/silhouette/wedding_cake_PNG19427.png,Wedding Cake,Statue Of Liberty
+data/thin/silhouette/wedding_cake_PNG19465.png,Wedding Cake,
+data/thin/silhouette/wedding_cake_PNG19467.png,Wedding Cake,Wedding Cake
+data/thin/silhouette/wheelchair_PNG17838.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17840.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17845.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17846.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17849.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17852.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17854.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17855.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17858.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17861.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17863.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17865.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17869.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG17875.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82761.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82762.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82763.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82765.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82771.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82773.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82774.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82775.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82777.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82778.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82783.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82784.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82790.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82792.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82794.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82799.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82800.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82801.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82803.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82804.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82810.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82812.png,Wheelchair,Wheelchair
+data/thin/silhouette/wheelchair_PNG82814.png,Wheelchair,power wheelchair
+data/thin/silhouette/wheelchair_PNG82816.png,Wheelchair,Wheelchair
+data/thin/silhouette/wineglass_PNG2833.png,Wineglass,Objects in this image: Wineglass
+data/thin/silhouette/wineglass_PNG2837.png,Wineglass,0.0
+data/thin/silhouette/wineglass_PNG2838.png,Wineglass,
+data/thin/silhouette/wineglass_PNG2845a.png,Wineglass,Objects in the image: Wineglass
+data/thin/silhouette/wineglass_PNG2845b.png,Wineglass,Objects
+data/thin/silhouette/wineglass_PNG2856.png,Wineglass,Wineglass
+data/thin/silhouette/wineglass_PNG2857.png,Wineglass,Objects
+data/thin/silhouette/wineglass_PNG2861.png,Wineglass,Objects in this image: Wineglass
+data/thin/silhouette/wineglass_PNG2863.png,Wineglass,Objects
+data/thin/silhouette/wineglass_PNG2870.png,Wineglass,"class=""Wineglass"""
+data/thin/silhouette/wineglass_PNG2871.png,Wineglass,object in this image is a Wineglass.
+data/thin/silhouette/wineglass_PNG2872.png,Wineglass,Wineglass
+data/thin/silhouette/wineglass_PNG2873.png,Wineglass,"class=""Wineglass"""
+data/thin/silhouette/wineglass_PNG2874.png,Wineglass,ID: Wineglass
+data/thin/silhouette/wineglass_PNG2875.png,Wineglass,Objects
+data/thin/silhouette/wineglass_PNG2876.png,Wineglass,Wineglass
+data/thin/silhouette/wineglass_PNG2877.png,Wineglass,
+data/thin/silhouette/wineglass_PNG2878.png,Wineglass,ID: Wineglass
+data/thin/silhouette/wineglass_PNG2879.png,Wineglass,3000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+data/thin/silhouette/wineglass_PNG2880.png,Wineglass,Wineglass
+data/thin/silhouette/wineglass_PNG2881.png,Wineglass,class: Wineglass
+data/thin/silhouette/wineglass_PNG2887.png,Wineglass,Objects
+data/thin/silhouette/wineglass_PNG2891.png,Wineglass,Objects in the image: Wineglass
+data/thin/silhouette/wineglass_PNG2896.png,Wineglass,ID: Wineglass
+data/thin/silhouette/wineglass_PNG2898a.png,Wineglass,Wineglass
+data/thin/silhouette/wineglass_PNG2898b.png,Wineglass,_objects_
+data/thin/silhouette/wineglass_PNG2900.png,Wineglass,_objects_
+data/thin/silhouette/wineglass_PNG2901.png,Wineglass,Wineglass
+data/thin/silhouette/wineglass_PNG2902.png,Wineglass,Objects
+data/thin/silhouette/wineglass_PNG2909a.png,Wineglass,Obstacle
+data/thin/silhouette/wineglass_PNG2909b.png,Wineglass,2154748425522365567827443839664633441137255672577538682758664466865656327436462677464722462554374424
+data/thin/silhouette/wineglass_PNG2917b.png,Wineglass,Objects in the image: Wineglass
+data/thin/silhouette/wrench_PNG1107.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG1108.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG1109.png,Wrench,Toolbox
+data/thin/silhouette/wrench_PNG1112.png,Wrench,Plier
+data/thin/silhouette/wrench_PNG1113.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG1115.png,Wrench,tool wrench
+data/thin/silhouette/wrench_PNG1117.png,Wrench,工具
+data/thin/silhouette/wrench_PNG1119.png,Wrench,机械设备
+data/thin/silhouette/wrench_PNG3117.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG3118a.png,Wrench,
+data/thin/silhouette/wrench_PNG3118c.png,Wrench,
+data/thin/silhouette/wrench_PNG3118e.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG3120.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG3122.png,Wrench,
+data/thin/silhouette/wrench_PNG3124.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG3125.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG3127.png,Wrench,Wrench
+data/thin/silhouette/wrench_PNG3128.png,Wrench,Wrench

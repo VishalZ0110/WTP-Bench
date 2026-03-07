@@ -1,0 +1,123 @@
+Loaded 16 HQ models, 16 silhouette models
+Super-category taxonomy: 17 super-categories
+
+==================================================================================================================================
+  THINOBJECTS ACCURACY — HQ IMAGES
+==================================================================================================================================
+Model                                                   Type          Exact Acc      Exact   SCat Acc       SCat SCat Only   Failed
+----------------------------------------------------------------------------------------------------------------------------------
+meta-llama/llama-3.2-11b-vision-instruct                legacy          82.27%  2111/2566    91.89%  2358/2566       247        1
+qwen/qwen2-vl-7b-instruct                               legacy          81.72%  2097/2566    90.02%  2310/2566       213        0
+llava-hf/llava-onevision-qwen2-7b-ov-hf                 legacy          79.58%  2042/2566    88.07%  2260/2566       218        5
+qwen/qwen2-vl-2b-instruct                               legacy          75.95%  1949/2566    85.70%  2199/2566       250        0
+huggingfacetb/smolvlm-instruct                          legacy          71.47%  1834/2566    78.53%  2015/2566       181        0
+mistral-community/pixtral-12b                           legacy          67.50%  1732/2566    78.57%  2016/2566       284        0
+llava-hf/llava-1.5-13b-hf                               legacy          64.96%  1667/2566    78.60%  2017/2566       350        0
+llava-hf/llava-1.5-7b-hf                                legacy          59.55%  1528/2566    71.71%  1840/2566       312        1
+qwen/qwen3-vl-4b-instruct                               legacy          51.21%  1314/2566    54.09%  1388/2566        74      246
+google/paligemma-3b-mix-224                             legacy          39.48%  1013/2566    45.05%  1156/2566       143      353
+qwen/qwen2.5-vl-7b-instruct                             legacy          22.56%   579/2566    23.77%   610/2566        31        0
+qwen/qwen2.5-vl-3b-instruct                             legacy          20.85%   535/2566    22.33%   573/2566        38     1897
+llava-hf/llava-onevision-qwen2-0.5b-ov-hf               legacy          18.24%   468/2566    20.69%   531/2566        63     1648
+qwen/qwen3-vl-2b-instruct                               legacy          14.93%   383/2566    16.29%   418/2566        35     1610
+google/paligemma-3b-mix-448                             legacy           4.99%   128/2566     7.56%   194/2566        66        5
+qwen/qwen3-vl-8b-instruct                               legacy           4.36%   112/2566     4.64%   119/2566         7     2436
+
+  [AVG LEGACY      ]                                                         47.48%               53.60%
+
+==================================================================================================================================
+  THINOBJECTS ACCURACY — SILHOUETTE IMAGES
+==================================================================================================================================
+Model                                                   Type          Exact Acc      Exact   SCat Acc       SCat SCat Only   Failed
+----------------------------------------------------------------------------------------------------------------------------------
+qwen/qwen2-vl-7b-instruct                               legacy          87.10%  2235/2566    95.28%  2445/2566       210        0
+qwen/qwen2-vl-2b-instruct                               legacy          81.53%  2092/2566    91.50%  2348/2566       256        0
+llava-hf/llava-onevision-qwen2-7b-ov-hf                 legacy          80.79%  2073/2566    90.76%  2329/2566       256        5
+meta-llama/llama-3.2-11b-vision-instruct                legacy          79.03%  2028/2566    91.39%  2345/2566       317        3
+mistral-community/pixtral-12b                           legacy          77.59%  1991/2566    90.22%  2315/2566       324        0
+huggingfacetb/smolvlm-instruct                          legacy          67.73%  1738/2566    75.60%  1940/2566       202        2
+llava-hf/llava-1.5-13b-hf                               legacy          55.61%  1427/2566    72.84%  1869/2566       442        0
+qwen/qwen3-vl-4b-instruct                               legacy          52.92%  1358/2566    56.04%  1438/2566        80      328
+llava-hf/llava-1.5-7b-hf                                legacy          48.48%  1244/2566    65.12%  1671/2566       427        0
+google/paligemma-3b-mix-224                             legacy          27.75%   712/2566    30.24%   776/2566        64       24
+qwen/qwen2.5-vl-7b-instruct                             legacy          23.46%   602/2566    24.71%   634/2566        32        0
+qwen/qwen2.5-vl-3b-instruct                             legacy          21.75%   558/2566    24.08%   618/2566        60     1897
+qwen/qwen3-vl-2b-instruct                               legacy          21.08%   541/2566    23.46%   602/2566        61     1406
+llava-hf/llava-onevision-qwen2-0.5b-ov-hf               legacy          13.21%   339/2566    15.08%   387/2566        48     1624
+qwen/qwen3-vl-8b-instruct                               legacy           4.52%   116/2566     4.83%   124/2566         8     2437
+google/paligemma-3b-mix-448                             legacy           2.10%    54/2566     2.14%    55/2566         1        1
+
+  [AVG LEGACY      ]                                                         46.54%               53.33%
+
+==================================================================================================================================
+  HQ vs SILHOUETTE COMPARISON
+==================================================================================================================================
+Model                                                   Type           HQ Exact  Sil Exact    Delta    HQ SCat   Sil SCat    Delta
+----------------------------------------------------------------------------------------------------------------------------------
+meta-llama/llama-3.2-11b-vision-instruct                legacy          82.27%     79.03%  +3.23%    91.89%     91.39%  +0.51%
+qwen/qwen2-vl-7b-instruct                               legacy          81.72%     87.10%  -5.38%    90.02%     95.28%  -5.26%
+llava-hf/llava-onevision-qwen2-7b-ov-hf                 legacy          79.58%     80.79%  -1.21%    88.07%     90.76%  -2.69%
+qwen/qwen2-vl-2b-instruct                               legacy          75.95%     81.53%  -5.57%    85.70%     91.50%  -5.81%
+huggingfacetb/smolvlm-instruct                          legacy          71.47%     67.73%  +3.74%    78.53%     75.60%  +2.92%
+mistral-community/pixtral-12b                           legacy          67.50%     77.59% -10.09%    78.57%     90.22% -11.65%
+llava-hf/llava-1.5-13b-hf                               legacy          64.96%     55.61%  +9.35%    78.60%     72.84%  +5.77%
+llava-hf/llava-1.5-7b-hf                                legacy          59.55%     48.48% +11.07%    71.71%     65.12%  +6.59%
+qwen/qwen3-vl-4b-instruct                               legacy          51.21%     52.92%  -1.71%    54.09%     56.04%  -1.95%
+google/paligemma-3b-mix-224                             legacy          39.48%     27.75% +11.73%    45.05%     30.24% +14.81%
+qwen/qwen2.5-vl-7b-instruct                             legacy          22.56%     23.46%  -0.90%    23.77%     24.71%  -0.94%
+qwen/qwen2.5-vl-3b-instruct                             legacy          20.85%     21.75%  -0.90%    22.33%     24.08%  -1.75%
+llava-hf/llava-onevision-qwen2-0.5b-ov-hf               legacy          18.24%     13.21%  +5.03%    20.69%     15.08%  +5.61%
+qwen/qwen3-vl-2b-instruct                               legacy          14.93%     21.08%  -6.16%    16.29%     23.46%  -7.17%
+google/paligemma-3b-mix-448                             legacy           4.99%      2.10%  +2.88%     7.56%      2.14%  +5.42%
+qwen/qwen3-vl-8b-instruct                               legacy           4.36%      4.52%  -0.16%     4.64%      4.83%  -0.19%
+
+==================================================================================================================================
+  SUPER-CATEGORY ACCURACY — HQ (aggregated across models)
+==================================================================================================================================
+
+  LEGACY:
+  Super-Category              Accuracy    Correct      Total   In Dataset
+  ------------------------- ---------- ---------- ---------- ------------
+  electronics                  59.68%        487        816           51
+  fruit/plant                  54.57%        585       1072           67
+  aquatic                      54.02%        605       1120           70
+  mammal                       53.01%        721       1360           85
+  clothing/accessory           52.40%       1526       2912          182
+  household/other              52.36%       3200       6112          382
+  reptile/amphibian            50.97%        579       1136           71
+  insect                       50.85%        952       1872          117
+  sports/recreation            47.76%        833       1744          109
+  vehicle                      47.63%       2050       4304          269
+  kitchenware                  47.52%       1110       2336          146
+  furniture                    46.07%       1231       2672          167
+  tool                         43.63%       2855       6544          409
+  musical instrument           42.41%        570       1344           84
+  structure                    42.21%        601       1424           89
+  weapon                       37.46%        983       2624          164
+  bird                         36.30%        604       1664          104
+
+==================================================================================================================================
+  SUPER-CATEGORY ACCURACY — SILHOUETTE (aggregated across models)
+==================================================================================================================================
+
+  LEGACY:
+  Super-Category              Accuracy    Correct      Total   In Dataset
+  ------------------------- ---------- ---------- ---------- ------------
+  insect                       55.29%       1035       1872          117
+  electronics                  54.66%        446        816           51
+  clothing/accessory           54.05%       1574       2912          182
+  furniture                    54.00%       1443       2672          167
+  mammal                       50.66%        689       1360           85
+  household/other              50.65%       3096       6112          382
+  kitchenware                  46.92%       1096       2336          146
+  tool                         45.26%       2962       6544          409
+  aquatic                      44.46%        498       1120           70
+  fruit/plant                  44.31%        475       1072           67
+  vehicle                      43.38%       1867       4304          269
+  structure                    42.56%        606       1424           89
+  reptile/amphibian            41.29%        469       1136           71
+  sports/recreation            41.17%        718       1744          109
+  weapon                       40.62%       1066       2624          164
+  musical instrument           39.43%        530       1344           84
+  bird                         32.33%        538       1664          104
+

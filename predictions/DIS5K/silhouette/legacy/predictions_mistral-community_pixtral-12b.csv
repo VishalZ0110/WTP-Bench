@@ -1,0 +1,1155 @@
+image_path,label,prediction
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#109390527_bfc9cf0dd7_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#113601935_0e9b2c38e7_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#14318277326_e489ea25e4_o.png,Eyeglasses,Easel
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#1907324756_8efaf29149_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#2239215692_0d56a66e47_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#2297612845_859856dee4_o.png,Eyeglasses,BicycleFrame
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#25382218523_1b2aca63f9_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#278236063_bc0bd5de96_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#2874033821_64781a111a_o.png,Eyeglasses,Spider
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#31855465823_d70f537d27_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#3272213613_0e14fa5c59_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#3530574307_5df2551eb7_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#3545496737_21cdd6480f_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#3796931557_34d3cfb153_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#4101071332_6c9a4466e5_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#4714861082_d837a5be81_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#47958244331_9e28e009c1_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#4919245000_23506bbc4f_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#493462695_4f4c256a73_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#51130359352_3fcaff819e_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#51176712006_834b60edfd_o.png,Eyeglasses,Scooter
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#51178432457_a126021fac_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#537775400_00d2ba7354_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#5465529987_fc015fe586_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#6446510891_4d94b41544_o.png,Eyeglasses,Skeleton
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#7845652886_e30395a064_o.png,Eyeglasses,Sword
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#8666839112_1d9772c39f_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#3#Eyeglasses#8739664408_da7bb52170_o.png,Eyeglasses,Eyeglasses
+data/DIS5K/silhouette/1#Accessories#7#Shoe#2541873901_43a3c08fbb_o.png,Shoe,Crane
+data/DIS5K/silhouette/1#Accessories#7#Shoe#30831355246_1ab3480879_o.png,Shoe,Tablet
+data/DIS5K/silhouette/1#Accessories#7#Shoe#3710451638_76a4933c33_o.png,Shoe,Shoe
+data/DIS5K/silhouette/1#Accessories#7#Shoe#3935077963_f4ee0784b2_o.png,Shoe,Shoe
+data/DIS5K/silhouette/1#Accessories#7#Shoe#5015408182_ca1604992c_o.png,Shoe,Cloud
+data/DIS5K/silhouette/10#Frame#1#BasketballHoop#2172885151_840dbfd48a_o.png,BasketballHoop,TV
+data/DIS5K/silhouette/10#Frame#1#BasketballHoop#39563930772_f179089909_o.png,BasketballHoop,BasketballHoop
+data/DIS5K/silhouette/10#Frame#1#BasketballHoop#IMG_20210701_214143.png,BasketballHoop,Drum
+data/DIS5K/silhouette/10#Frame#2#BicycleFrame#3873226080_c8ed2d5f66_o.png,BicycleFrame,BicycleFrame
+data/DIS5K/silhouette/10#Frame#2#BicycleFrame#4062504987_5bbe63a08c_o.png,BicycleFrame,BicycleFrame
+data/DIS5K/silhouette/10#Frame#6#Skeleton#15483101729_92b2af5987_o.png,Skeleton,Skeleton
+data/DIS5K/silhouette/10#Frame#6#Skeleton#33795806060_1ca851a99a_o.png,Skeleton,Skeleton
+data/DIS5K/silhouette/10#Frame#6#Skeleton#33795808900_30d604e615_o.png,Skeleton,Skeleton
+data/DIS5K/silhouette/10#Frame#6#Skeleton#34022711112_dcc443a3c6_o.png,Skeleton,Skeleton
+data/DIS5K/silhouette/10#Frame#6#Skeleton#34050609321_424fb26c7a_o.png,Skeleton,Tractor
+data/DIS5K/silhouette/10#Frame#6#Skeleton#34139683436_1ba0d713df_o.png,Skeleton,Skeleton
+data/DIS5K/silhouette/10#Frame#6#Skeleton#3648306785_6006d0dbc9_o.png,Skeleton,Caterpillar
+data/DIS5K/silhouette/10#Frame#6#Skeleton#6212607985_d530d32297_o.png,Skeleton,Skeleton
+data/DIS5K/silhouette/10#Frame#6#Skeleton#6373365043_c7061bf104_o.png,Skeleton,Skeleton
+data/DIS5K/silhouette/10#Frame#6#Skeleton#6753490407_486bec6772_o.png,Skeleton,Locust
+data/DIS5K/silhouette/10#Frame#6#Skeleton#7577034800_5c5183a693_o.png,Skeleton,Skeleton
+data/DIS5K/silhouette/10#Frame#6#Skeleton#7594007450_37389320bb_o.png,Skeleton,Dragonfly
+data/DIS5K/silhouette/10#Frame#6#Skeleton#8086061808_6d0e880670_o.png,Skeleton,Skeleton
+data/DIS5K/silhouette/11#Furniture#1#Bed#12840592393_dc65d89ce5_o.png,Bed,Bed
+data/DIS5K/silhouette/11#Furniture#1#Bed#18863524008_ac1ce7a1a5_o.png,Bed,Bed
+data/DIS5K/silhouette/11#Furniture#1#Bed#4695978788_9e59503af0_o.png,Bed,Bed
+data/DIS5K/silhouette/11#Furniture#1#Bed#5200813522_1e3889eb75_o.png,Bed,Bed
+data/DIS5K/silhouette/11#Furniture#1#Bed#5200815376_fdf8ce3e7d_o.png,Bed,Swing
+data/DIS5K/silhouette/11#Furniture#10#Hammock#1339658674_185fb18d09_o.png,Hammock,Hammock
+data/DIS5K/silhouette/11#Furniture#10#Hammock#1347925223_c12df42faa_o.png,Hammock,Hammock
+data/DIS5K/silhouette/11#Furniture#10#Hammock#1454745299_6004800159_o.png,Hammock,Shoe
+data/DIS5K/silhouette/11#Furniture#10#Hammock#21207487562_f939f7649b_o.png,Hammock,Shoe
+data/DIS5K/silhouette/11#Furniture#10#Hammock#2192324843_acf93dd623_o.png,Hammock,Chair
+data/DIS5K/silhouette/11#Furniture#10#Hammock#2274347371_ca744b4220_o.png,Hammock,BicycleFrame
+data/DIS5K/silhouette/11#Furniture#10#Hammock#39388119985_bb985eb8a5_o.png,Hammock,Boat
+data/DIS5K/silhouette/11#Furniture#10#Hammock#4412968649_765705c293_o.png,Hammock,Leaf
+data/DIS5K/silhouette/11#Furniture#10#Hammock#4770076989_523ea0e1fe_o.png,Hammock,Crane
+data/DIS5K/silhouette/11#Furniture#13#Ladder#1023179600_149d2b819b_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#14118801659_e563774c0e_o.png,Ladder,Stair
+data/DIS5K/silhouette/11#Furniture#13#Ladder#1509210310_3dc9188928_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#17933531908_7ef0d8bd53_o.png,Ladder,Truck
+data/DIS5K/silhouette/11#Furniture#13#Ladder#207759501_3d1ff3f04b_o.png,Ladder,Fence
+data/DIS5K/silhouette/11#Furniture#13#Ladder#25471808764_a1cedcfeb1_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#2610987764_d100501916_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#27365927845_8647bddc9e_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#27630614655_d1c081077c_o.png,Ladder,MachineGun
+data/DIS5K/silhouette/11#Furniture#13#Ladder#2779164615_065976e69a_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#2860189868_2a0582bef4_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#2943310274_07613e660a_o.png,Ladder,Telescope
+data/DIS5K/silhouette/11#Furniture#13#Ladder#36394692211_7054fe209b_o.png,Ladder,Stair
+data/DIS5K/silhouette/11#Furniture#13#Ladder#3642937354_64be12b3b3_o.png,Ladder,MachineGun
+data/DIS5K/silhouette/11#Furniture#13#Ladder#3878434417_2ed740586e_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#3886007770_f03f85a784_o.png,Ladder,Telescope
+data/DIS5K/silhouette/11#Furniture#13#Ladder#3890115265_ae740eaaa7_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#3949798776_a73b998cee_o.png,Ladder,Crane
+data/DIS5K/silhouette/11#Furniture#13#Ladder#461707594_d789beca0e_o.png,Ladder,Leaf
+data/DIS5K/silhouette/11#Furniture#13#Ladder#46669044305_ef0a400663_o.png,Ladder,Racket
+data/DIS5K/silhouette/11#Furniture#13#Ladder#474330488_81e50ca2d2_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#4755347330_dd3bf8c8de_o.png,Ladder,BicycleFrame
+data/DIS5K/silhouette/11#Furniture#13#Ladder#47683150122_31726ba199_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#49178730458_3d54828ce7_o.png,Ladder,ConcretePumpTruck
+data/DIS5K/silhouette/11#Furniture#13#Ladder#4986750653_fb9d95f49b_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#50168137171_73398814ed_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#5284179816_1eab779b2e_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#6260714895_8962c70328_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#6597508893_1fe10be3ae_o.png,Ladder,Bridge
+data/DIS5K/silhouette/11#Furniture#13#Ladder#6606883769_337412fa00_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#7949448476_bee96e1746_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#8724486525_e36991db79_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#8990805761_6b8aa8af8d_o.png,Ladder,TransmissionTower
+data/DIS5K/silhouette/11#Furniture#13#Ladder#8991327585_24c0f15beb_o.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#9994217735_a6cd033818_o.png,Ladder,Crane
+data/DIS5K/silhouette/11#Furniture#13#Ladder#IMG_20210512_195843.png,Ladder,MachineGun
+data/DIS5K/silhouette/11#Furniture#13#Ladder#IMG_20210518_212524.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#IMG_20210527_235253.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#13#Ladder#IMG_20210626_192706.png,Ladder,Ladder
+data/DIS5K/silhouette/11#Furniture#16#Stool#15403817144_9069cb17e9_o.png,Stool,Chair
+data/DIS5K/silhouette/11#Furniture#16#Stool#IMG_20210512_202822.png,Stool,Crane
+data/DIS5K/silhouette/11#Furniture#16#Stool#IMG_20210623_233253.png,Stool,TableChair
+data/DIS5K/silhouette/11#Furniture#17#Table#12606756403_6e21720274_o.png,Table,ShoppingCart
+data/DIS5K/silhouette/11#Furniture#17#Table#29442414201_25e94b9676_o.png,Table,Bench
+data/DIS5K/silhouette/11#Furniture#17#Table#29476863328_8b0c9ee3dc_o.png,Table,Truck
+data/DIS5K/silhouette/11#Furniture#17#Table#3120887509_e7369d74de_o.png,Table,Tree
+data/DIS5K/silhouette/11#Furniture#17#Table#3832205311_586c325b6b_o.png,Table,Leaf
+data/DIS5K/silhouette/11#Furniture#17#Table#3927090252_6bae260b3a_o.png,Table,Stool
+data/DIS5K/silhouette/11#Furniture#17#Table#42629963194_8573534f05_o.png,Table,Table
+data/DIS5K/silhouette/11#Furniture#17#Table#44079956595_436af15366_o.png,Table,Bench
+data/DIS5K/silhouette/11#Furniture#17#Table#4996714470_df4aae067b_o.png,Table,Ladder
+data/DIS5K/silhouette/11#Furniture#17#Table#6944548825_3a616020bf_o.png,Table,Table
+data/DIS5K/silhouette/11#Furniture#17#Table#6999526977_8e1ee3b424_o.png,Table,Chair
+data/DIS5K/silhouette/11#Furniture#17#Table#9888395205_52b2524b82_o.png,Table,TableChair
+data/DIS5K/silhouette/11#Furniture#17#Table#IMG_20210512_194122.png,Table,Table
+data/DIS5K/silhouette/11#Furniture#17#Table#IMG_20210521_150030.png,Table,Piano
+data/DIS5K/silhouette/11#Furniture#17#Table#IMG_20210528_111839.png,Table,Table
+data/DIS5K/silhouette/11#Furniture#17#Table#IMG_20210707_224822.png,Table,Bench
+data/DIS5K/silhouette/11#Furniture#17#Table#IMG_20210707_224959.png,Table,Boat
+data/DIS5K/silhouette/11#Furniture#18#TableChair#10856493865_3ea7664435_o.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#11784891495_3328c8e542_o.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#14497798290_9718bd8181_o.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#15828136905_0fbd563360_o.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#16335233857_ebc8d8fafc_o.png,TableChair,TableChair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#171344123_e9eabc3fed_o.png,TableChair,TableChair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#20715318361_cc865f7fcc_o.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#237451906_78633d2df9_o.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#23751135704_fde5b9aafd_o.png,TableChair,Chair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#24313558515_f9f17561ec_o.png,TableChair,TableChair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#2512676088_a90477bf9d_o.png,TableChair,TableChair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#27288484375_9d99db998c_o.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#2782227954_d3db396bda_o.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#2841572058_ec36c2b641_o.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#28678093464_23e92d78fb_o.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#28977413871_b471a2be7e_o.png,TableChair,Umbrella
+data/DIS5K/silhouette/11#Furniture#18#TableChair#3431979882_0f6015bd54_o.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#3518100388_54ea475248_o.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#3569574687_43fe1dfd9c_o.png,TableChair,TableChair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#3833592501_b72ca5b59f_o.png,TableChair,TableChair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#3913332904_42c28eeca4_o.png,TableChair,Chair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#4094510004_af283e6dd3_o.png,TableChair,TableChair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#4496257212_c8337b156a_o.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#4612030724_c70bbdd427_o.png,TableChair,TableChair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#4754704212_cce991a221_o.png,TableChair,Dragonfly
+data/DIS5K/silhouette/11#Furniture#18#TableChair#48746714681_24ce829076_o.png,TableChair,Fan
+data/DIS5K/silhouette/11#Furniture#18#TableChair#5049064920_ce6b04a8aa_o.png,TableChair,Chair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#5335831067_a067beacee_o.png,TableChair,Chair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#5986947560_a68cf0e345_o.png,TableChair,Wheelchair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#6798239876_700612dd17_o.png,TableChair,Truck
+data/DIS5K/silhouette/11#Furniture#18#TableChair#6960946159_10c0ba78fc_o.png,TableChair,TableChair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#8057169703_5b1d8522ee_o.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#8598988566_ec18e56a54_o.png,TableChair,Chair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#9401291778_119a1f6e8f_o.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#IMG_20210512_202950.png,TableChair,TableChair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#IMG_20210517_105952.png,TableChair,Chair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#IMG_20210528_112708.png,TableChair,Chair
+data/DIS5K/silhouette/11#Furniture#18#TableChair#IMG_20210529_184240.png,TableChair,Table
+data/DIS5K/silhouette/11#Furniture#18#TableChair#IMG_20210707_224813.png,TableChair,TableChair
+data/DIS5K/silhouette/11#Furniture#2#Bench#14708047848_a4e4e8911b_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#21072078980_d6b9b849de_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#21208626595_4f92d2f621_o.png,Bench,Truck
+data/DIS5K/silhouette/11#Furniture#2#Bench#22653754305_7d7153fb50_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#23414478855_16f0df4967_o.png,Bench,TableChair
+data/DIS5K/silhouette/11#Furniture#2#Bench#23585711179_cbe501228e_o.png,Bench,BicycleFrame
+data/DIS5K/silhouette/11#Furniture#2#Bench#27472672169_bb0a7eeb76_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#27512627664_6b558dd6f8_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#30015202646_e1bf15c294_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#30488928417_da779f7d19_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#30763788367_b881f0f62f_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#30913238778_b09ae10de4_o.png,Bench,Chair
+data/DIS5K/silhouette/11#Furniture#2#Bench#3397828627_5cba497412_o.png,Bench,Telescope
+data/DIS5K/silhouette/11#Furniture#2#Bench#34166006653_4bd28bdc34_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#34759432560_bf993c2e7f_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#3682913702_ee2e2171e8_o.png,Bench,Bed
+data/DIS5K/silhouette/11#Furniture#2#Bench#3704697772_682e1dfe14_o.png,Bench,BicycleFrame
+data/DIS5K/silhouette/11#Furniture#2#Bench#41499900014_4ae6f8df43_o.png,Bench,Butterfly
+data/DIS5K/silhouette/11#Furniture#2#Bench#4158042795_d48ae65b98_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#41645527900_7a8e6b0822_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#43784336590_d4f41780f8_o.png,Bench,MachineGun
+data/DIS5K/silhouette/11#Furniture#2#Bench#44079125482_c7468d9f37_o.png,Bench,Chair
+data/DIS5K/silhouette/11#Furniture#2#Bench#4773527703_c4809a828a_o.png,Bench,Table
+data/DIS5K/silhouette/11#Furniture#2#Bench#50779055942_2a10c0a018_o.png,Bench,Caterpillar
+data/DIS5K/silhouette/11#Furniture#2#Bench#5291960243_345b9640fe_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#6075877354_e63983b412_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#6078207760_7c436d0a30_o.png,Bench,Bed
+data/DIS5K/silhouette/11#Furniture#2#Bench#6342037397_765ef1f930_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#7912265188_d41b7d8148_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#7912446430_60a5f58a6f_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#7912453566_e19ab76968_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#2#Bench#8190876431_717af3f29b_o.png,Bench,Table
+data/DIS5K/silhouette/11#Furniture#2#Bench#8228280963_f18aac6929_o.png,Bench,Cage
+data/DIS5K/silhouette/11#Furniture#2#Bench#8731614432_9b45860a8e_o.png,Bench,Piano
+data/DIS5K/silhouette/11#Furniture#2#Bench#9309823371_9932a73dde_o.png,Bench,Bench
+data/DIS5K/silhouette/11#Furniture#3#BunkBed#126250054_d132d72f65_o.png,BunkBed,DeskChair
+data/DIS5K/silhouette/11#Furniture#3#BunkBed#1443712334_34e48cadbc_o.png,BunkBed,BunkBed
+data/DIS5K/silhouette/11#Furniture#3#BunkBed#2327297954_2b0c879337_o.png,BunkBed,BunkBed
+data/DIS5K/silhouette/11#Furniture#3#BunkBed#3534648896_802d4fc0e7_o.png,BunkBed,BunkBed
+data/DIS5K/silhouette/11#Furniture#3#BunkBed#42976627064_9e505a47b4_o.png,BunkBed,ConcretePumpTruck
+data/DIS5K/silhouette/11#Furniture#4#Chair#1089988356_2b86d7def9_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#11684425186_0fdc6d9849_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#11826620336_a0d44cd3f9_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#15551505972_3c6918d6d5_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#1568164114_44edb516f7_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#16096616007_43b58027de_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#16519736446_08c042b3ac_o.png,Chair,Tractor
+data/DIS5K/silhouette/11#Furniture#4#Chair#171999912_9343bd5990_o.png,Chair,Bed
+data/DIS5K/silhouette/11#Furniture#4#Chair#17432277936_ec6365c6b4_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#19627640803_6d4e2fd364_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#23031505950_6af1be622b_o.png,Chair,BicycleFrame
+data/DIS5K/silhouette/11#Furniture#4#Chair#2327246435_c47ab4f3aa_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#25806046346_40765496f9_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#26303330401_dc9aeebb82_o.png,Chair,Truck
+data/DIS5K/silhouette/11#Furniture#4#Chair#28202700682_4538fced11_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#2886460384_ea259fb70f_o.png,Chair,DeskChair
+data/DIS5K/silhouette/11#Furniture#4#Chair#2929444488_22bd8c2bdf_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#3016162995_96c611c667_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#3366879426_9790c8ea93_o.png,Chair,Stool
+data/DIS5K/silhouette/11#Furniture#4#Chair#3507976597_62246bcb39_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#3904267960_38bbe2c27a_o.png,Chair,Table
+data/DIS5K/silhouette/11#Furniture#4#Chair#47357628251_78e63875b4_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#4841854109_8d1895342a_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#5841151002_98e80e6de9_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#5857369763_ea1cb58ba1_o.png,Chair,Cup
+data/DIS5K/silhouette/11#Furniture#4#Chair#5901486619_49e094c10e_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#5986953306_27d9931524_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#6130143793_ca6de939a2_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#686236231_93e28771c5_o.png,Chair,Crane
+data/DIS5K/silhouette/11#Furniture#4#Chair#7269945672_a79a888fe7_o.png,Chair,Wheelchair
+data/DIS5K/silhouette/11#Furniture#4#Chair#8017934414_77b8cc4aa9_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#8404438172_390cbb75c7_o.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#8763348490_b88105cd23_o.png,Chair,TableChair
+data/DIS5K/silhouette/11#Furniture#4#Chair#IMG_20210512_194106.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#IMG_20210512_194303.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#4#Chair#IMG_20210512_203857.png,Chair,DeskChair
+data/DIS5K/silhouette/11#Furniture#4#Chair#IMG_20210520_204710.png,Chair,Crane
+data/DIS5K/silhouette/11#Furniture#4#Chair#IMG_20210520_204944.png,Chair,Chair
+data/DIS5K/silhouette/11#Furniture#5#CoatHanger#12257155875_064fef60f2_o.png,CoatHanger,Violin
+data/DIS5K/silhouette/11#Furniture#5#CoatHanger#16008498174_14ab71f88c_o.png,CoatHanger,Crane
+data/DIS5K/silhouette/11#Furniture#5#CoatHanger#34771983606_720758b94c_o.png,CoatHanger,CoatHanger
+data/DIS5K/silhouette/11#Furniture#5#CoatHanger#3897493016_1da4b100df_o.png,CoatHanger,Tree
+data/DIS5K/silhouette/11#Furniture#5#CoatHanger#4438970712_737bb6561e_o.png,CoatHanger,CoatHanger
+data/DIS5K/silhouette/11#Furniture#5#CoatHanger#4540452075_aa6dfc121b_o.png,CoatHanger,Microphone
+data/DIS5K/silhouette/11#Furniture#5#CoatHanger#5311912076_6d137145c4_o.png,CoatHanger,CoatHanger
+data/DIS5K/silhouette/11#Furniture#5#CoatHanger#5636075840_6430f3d121_o.png,CoatHanger,CoatHanger
+data/DIS5K/silhouette/11#Furniture#8#DeskChair#10119955626_dc525f2c6c_o.png,DeskChair,Piano
+data/DIS5K/silhouette/11#Furniture#8#DeskChair#15776576864_70ef3e02ac_o.png,DeskChair,Truck
+data/DIS5K/silhouette/11#Furniture#8#DeskChair#2914396678_675943bcf3_o.png,DeskChair,Table
+data/DIS5K/silhouette/11#Furniture#8#DeskChair#38923987065_f0b50d7e74_o.png,DeskChair,DeskChair
+data/DIS5K/silhouette/11#Furniture#8#DeskChair#4060650962_3a3f8c883f_o.png,DeskChair,Chair
+data/DIS5K/silhouette/11#Furniture#8#DeskChair#5655643272_94babf307a_o.png,DeskChair,Table
+data/DIS5K/silhouette/11#Furniture#8#DeskChair#62271083_138c844b16_o.png,DeskChair,TableChair
+data/DIS5K/silhouette/11#Furniture#8#DeskChair#8491190301_45170f8061_o.png,DeskChair,Table
+data/DIS5K/silhouette/11#Furniture#8#DeskChair#IMG_20210701_153438.png,DeskChair,ConcretePumpTruck
+data/DIS5K/silhouette/11#Furniture#8#DeskChair#IMG_20210701_153448.png,DeskChair,Truck
+data/DIS5K/silhouette/11#Furniture#9#Easel#21469230390_5ba89afb11_o.png,Easel,Easel
+data/DIS5K/silhouette/11#Furniture#9#Easel#282143637_73ddd52189_o.png,Easel,Easel
+data/DIS5K/silhouette/11#Furniture#9#Easel#33780615928_bc6a137d6e_o.png,Easel,Easel
+data/DIS5K/silhouette/11#Furniture#9#Easel#41350193222_e3b44174b9_o.png,Easel,TableChair
+data/DIS5K/silhouette/11#Furniture#9#Easel#4273547554_1be295373e_o.png,Easel,Crane
+data/DIS5K/silhouette/11#Furniture#9#Easel#4332049615_1e1f8730df_o.png,Easel,Telescope
+data/DIS5K/silhouette/11#Furniture#9#Easel#5861024736_ac064bb712_o.png,Easel,Wheelchair
+data/DIS5K/silhouette/11#Furniture#9#Easel#654875629_d47353efeb_o.png,Easel,TransmissionTower
+data/DIS5K/silhouette/11#Furniture#9#Easel#6879721377_9bd69cd2d5_o.png,Easel,Easel
+data/DIS5K/silhouette/11#Furniture#9#Easel#7031711883_444711c510_o.png,Easel,Chair
+data/DIS5K/silhouette/11#Furniture#9#Easel#7736731282_fafebb1db0_o.png,Easel,Ladder
+data/DIS5K/silhouette/13#Insect#1#Ant#141044954_06bfa83f76_o.png,Ant,Spider
+data/DIS5K/silhouette/13#Insect#1#Ant#237395495_ba6f1ce094_o.png,Ant,Ant
+data/DIS5K/silhouette/13#Insect#1#Ant#23831201531_85041d2355_o.png,Ant,Ant
+data/DIS5K/silhouette/13#Insect#1#Ant#27047700955_3b3a1271f8_o.png,Ant,Centipede
+data/DIS5K/silhouette/13#Insect#1#Ant#4916456506_3947f12bf9_o.png,Ant,Spider
+data/DIS5K/silhouette/13#Insect#1#Ant#5546591433_485e835108_o.png,Ant,Locust
+data/DIS5K/silhouette/13#Insect#1#Ant#7757229062_264b5952d7_o.png,Ant,Skeleton
+data/DIS5K/silhouette/13#Insect#1#Ant#8369951966_a1a132afb0_o.png,Ant,Locust
+data/DIS5K/silhouette/13#Insect#10#Mosquito#12862349803_68074780d8_o.png,Mosquito,Spider
+data/DIS5K/silhouette/13#Insect#10#Mosquito#1570856967_cc0403172d_o.png,Mosquito,Mosquito
+data/DIS5K/silhouette/13#Insect#10#Mosquito#3165624907_ff6b5370f1_o.png,Mosquito,Mosquito
+data/DIS5K/silhouette/13#Insect#10#Mosquito#4540835580_46b65f5cf1_o.png,Mosquito,Tree
+data/DIS5K/silhouette/13#Insect#10#Mosquito#4867892704_b56452c4d7_o.png,Mosquito,Spider
+data/DIS5K/silhouette/13#Insect#10#Mosquito#4918744559_37a5602242_o.png,Mosquito,Spider
+data/DIS5K/silhouette/13#Insect#10#Mosquito#500969910_6407287240_o.png,Mosquito,Mosquito
+data/DIS5K/silhouette/13#Insect#10#Mosquito#50587381472_f2edc1ea3c_o.png,Mosquito,Spider
+data/DIS5K/silhouette/13#Insect#10#Mosquito#8653053692_c1b7f69d5a_o.png,Mosquito,Spider
+data/DIS5K/silhouette/13#Insect#10#Mosquito#9030783_15b6e237fd_o.png,Mosquito,Dragonfly
+data/DIS5K/silhouette/13#Insect#11#Spider#1384424126_93eae86035_o.png,Spider,Spider
+data/DIS5K/silhouette/13#Insect#11#Spider#14093392495_90c9d1f0e6_o.png,Spider,Spider
+data/DIS5K/silhouette/13#Insect#11#Spider#205215116_8f81c79b0b_o.png,Spider,Spider
+data/DIS5K/silhouette/13#Insect#11#Spider#221851815_f66a23e517_o.png,Spider,Centipede
+data/DIS5K/silhouette/13#Insect#11#Spider#28043109385_8b04c9b8f0_o.png,Spider,Spider
+data/DIS5K/silhouette/13#Insect#11#Spider#31603036612_f9d40e3fd4_o.png,Spider,Spider
+data/DIS5K/silhouette/13#Insect#11#Spider#48630289776_6a8e79c87c_o.png,Spider,Spider
+data/DIS5K/silhouette/13#Insect#11#Spider#5567179191_38d1f65589_o.png,Spider,Spider
+data/DIS5K/silhouette/13#Insect#11#Spider#5843589404_29696d001b_o.png,Spider,Spider
+data/DIS5K/silhouette/13#Insect#11#Spider#614941492_09baa0e222_o.png,Spider,Spider
+data/DIS5K/silhouette/13#Insect#11#Spider#6859077385_a8358ac776_o.png,Spider,Spider
+data/DIS5K/silhouette/13#Insect#11#Spider#8581689825_7bec07e515_o.png,Spider,Spider
+data/DIS5K/silhouette/13#Insect#4#Butterfly#16023994688_7ff8cdccb1_o.png,Butterfly,Butterfly
+data/DIS5K/silhouette/13#Insect#4#Butterfly#19291840361_07a4165c22_o.png,Butterfly,Crane
+data/DIS5K/silhouette/13#Insect#4#Butterfly#8725452776_0d6769c8ff_o.png,Butterfly,Caterpillar
+data/DIS5K/silhouette/13#Insect#5#Caterpillar#15560240615_3d71f87320_o.png,Caterpillar,Leaf
+data/DIS5K/silhouette/13#Insect#5#Caterpillar#8750252152_caebe61154_o.png,Caterpillar,Tree
+data/DIS5K/silhouette/13#Insect#6#Centipede#15302179708_a267850881_o.png,Centipede,Spider
+data/DIS5K/silhouette/13#Insect#6#Centipede#21924823438_6e3c5b828c_o.png,Centipede,Spider
+data/DIS5K/silhouette/13#Insect#6#Centipede#3410867143_5c194c6a2d_o.png,Centipede,Spider
+data/DIS5K/silhouette/13#Insect#6#Centipede#49160450058_67fd66b3c2_o.png,Centipede,Centipede
+data/DIS5K/silhouette/13#Insect#6#Centipede#5770133477_91d01fae9e_o.png,Centipede,Spider
+data/DIS5K/silhouette/13#Insect#6#Centipede#7199056850_f54f71411c_o.png,Centipede,Spider
+data/DIS5K/silhouette/13#Insect#7#Dragonfly#14806261448_8eb360d90f_o.png,Dragonfly,Dragonfly
+data/DIS5K/silhouette/13#Insect#7#Dragonfly#17780453174_a937674543_o.png,Dragonfly,Dragonfly
+data/DIS5K/silhouette/13#Insect#7#Dragonfly#5677310981_0e58a736ff_o.png,Dragonfly,Dragonfly
+data/DIS5K/silhouette/13#Insect#7#Dragonfly#5677867370_864329874b_o.png,Dragonfly,Dragonfly
+data/DIS5K/silhouette/13#Insect#7#Dragonfly#7233897844_29781c02ee_o.png,Dragonfly,Sailboat
+data/DIS5K/silhouette/13#Insect#8#Locust#16349186669_a30006bdb6_o.png,Locust,Centipede
+data/DIS5K/silhouette/13#Insect#8#Locust#21550692_9cf5a8186e_o.png,Locust,Locust
+data/DIS5K/silhouette/13#Insect#8#Locust#24250292668_9efa71f228_o.png,Locust,Centipede
+data/DIS5K/silhouette/13#Insect#8#Locust#4190879828_b15ffd03bc_o.png,Locust,BicycleFrame
+data/DIS5K/silhouette/13#Insect#8#Locust#5237933769_e6687c05e4_o.png,Locust,Centipede
+data/DIS5K/silhouette/13#Insect#9#Mantis#1380224163_3611875694_o.png,Mantis,Mantis
+data/DIS5K/silhouette/13#Insect#9#Mantis#5077622173_ab3c1bc92f_o.png,Mantis,Locust
+data/DIS5K/silhouette/13#Insect#9#Mantis#5077622905_197b8fa2e5_o.png,Mantis,Locust
+data/DIS5K/silhouette/13#Insect#9#Mantis#50888227033_e1c2f25f22_o.png,Mantis,Centipede
+data/DIS5K/silhouette/13#Insect#9#Mantis#5187951581_ff38c36d77_o.png,Mantis,Locust
+data/DIS5K/silhouette/13#Insect#9#Mantis#9557233166_314c612363_o.png,Mantis,Locust
+data/DIS5K/silhouette/14#Kitchenware#1#Cup#10263016545_fea8fa2774_o.png,Cup,Cup
+data/DIS5K/silhouette/14#Kitchenware#1#Cup#24687802436_312223ede3_o.png,Cup,Balloon
+data/DIS5K/silhouette/14#Kitchenware#1#Cup#24814482387_0232d4bd91_o.png,Cup,Cup
+data/DIS5K/silhouette/14#Kitchenware#1#Cup#38516217982_776107fc45_o.png,Cup,Spider
+data/DIS5K/silhouette/14#Kitchenware#1#Cup#4014475929_60dc2a5e35_o.png,Cup,Cup
+data/DIS5K/silhouette/14#Kitchenware#10#WineGlass#2888346876_88032f3c48_o.png,WineGlass,WineGlass
+data/DIS5K/silhouette/14#Kitchenware#10#WineGlass#3815239467_816f66b352_o.png,WineGlass,WineGlass
+data/DIS5K/silhouette/14#Kitchenware#10#WineGlass#4061480850_3467e13fc8_o.png,WineGlass,Tree
+data/DIS5K/silhouette/14#Kitchenware#10#WineGlass#450638515_82bcff3786_o.png,WineGlass,WineGlass
+data/DIS5K/silhouette/14#Kitchenware#10#WineGlass#533694129_d00eb63783_o.png,WineGlass,WineGlass
+data/DIS5K/silhouette/14#Kitchenware#10#WineGlass#6092872019_7c9b5b4f96_o.png,WineGlass,WineGlass
+data/DIS5K/silhouette/14#Kitchenware#10#WineGlass#6630104095_a2f42cd3af_o.png,WineGlass,WineGlass
+data/DIS5K/silhouette/14#Kitchenware#10#WineGlass#8097194697_ac6b0e136d_o.png,WineGlass,WineGlass
+data/DIS5K/silhouette/14#Kitchenware#11#WireWhisk#16214461594_0ece406239_o.png,WireWhisk,CoatHanger
+data/DIS5K/silhouette/14#Kitchenware#11#WireWhisk#49850572478_acde67c44c_o.png,WireWhisk,Wheel
+data/DIS5K/silhouette/14#Kitchenware#11#WireWhisk#49927084248_1c02ffa5be_o.png,WireWhisk,WireWhisk
+data/DIS5K/silhouette/14#Kitchenware#5#Knife#15902858859_8119e550f5_o.png,Knife,Knife
+data/DIS5K/silhouette/14#Kitchenware#5#Knife#21870310772_ba3d4291ce_o.png,Knife,Stair
+data/DIS5K/silhouette/14#Kitchenware#5#Knife#46962922304_c74076bc97_o.png,Knife,Knife
+data/DIS5K/silhouette/14#Kitchenware#6#Spoon#17351344_408f657e71_o.png,Spoon,Sword
+data/DIS5K/silhouette/14#Kitchenware#6#Spoon#4407207521_e06fc7aa1d_o.png,Spoon,Fork
+data/DIS5K/silhouette/14#Kitchenware#6#Spoon#4782852867_c3bd1d3b0b_o.png,Spoon,Telescope
+data/DIS5K/silhouette/14#Kitchenware#6#Spoon#49911555352_e8cd885f7f_o.png,Spoon,Scissor
+data/DIS5K/silhouette/14#Kitchenware#6#Spoon#50296452167_94645c93cb_o.png,Spoon,Spoon
+data/DIS5K/silhouette/14#Kitchenware#6#Spoon#5776863462_f6ec67d19d_o.png,Spoon,WireWhisk
+data/DIS5K/silhouette/14#Kitchenware#6#Spoon#6686230335_9660eaed97_o.png,Spoon,Spoon
+data/DIS5K/silhouette/14#Kitchenware#9#Teapot#5366257180_9437b2eb45_o.png,Teapot,Teapot
+data/DIS5K/silhouette/14#Kitchenware#9#Teapot#5671990016_1e8c2c6f72_o.png,Teapot,Piano
+data/DIS5K/silhouette/15#Machine#1#Gear#14770886171_fe8732ebbe_o.png,Gear,Gear
+data/DIS5K/silhouette/15#Machine#1#Gear#3370780415_8ca0fa58d9_o.png,Gear,Gear
+data/DIS5K/silhouette/15#Machine#1#Gear#4511474777_b65fa47dc3_o.png,Gear,Gear
+data/DIS5K/silhouette/15#Machine#1#Gear#9482624363_1db5588d92_o.png,Gear,BicycleFrame
+data/DIS5K/silhouette/15#Machine#4#SewingMachine#9205836861_139dedfe78_o.png,SewingMachine,SewingMachine
+data/DIS5K/silhouette/15#Machine#4#SewingMachine#9311164128_97ba1d3947_o.png,SewingMachine,Piano
+data/DIS5K/silhouette/16#Music Instrument#1#Drum#10153148245_11ff2f0e62_o.png,Drum,Drum
+data/DIS5K/silhouette/16#Music Instrument#1#Drum#12275378936_9a3d3e1d3d_o.png,Drum,BicycleFrame
+data/DIS5K/silhouette/16#Music Instrument#1#Drum#2302033541_46e7833baf_o.png,Drum,Drum
+data/DIS5K/silhouette/16#Music Instrument#1#Drum#2400263125_f599831d3a_o.png,Drum,Drum
+data/DIS5K/silhouette/16#Music Instrument#1#Drum#251040906_9d17bcf1d4_o.png,Drum,Drum
+data/DIS5K/silhouette/16#Music Instrument#1#Drum#2568563453_d2b5cfd55a_o.png,Drum,Drum
+data/DIS5K/silhouette/16#Music Instrument#1#Drum#3164717037_c77bde6cbc_o.png,Drum,Drum
+data/DIS5K/silhouette/16#Music Instrument#1#Drum#3246282295_e2e997ff6b_o.png,Drum,Chair
+data/DIS5K/silhouette/16#Music Instrument#1#Drum#3727566459_8fd7dcc847_o.png,Drum,Drum
+data/DIS5K/silhouette/16#Music Instrument#1#Drum#4778965588_2e02d7e023_o.png,Drum,Drum
+data/DIS5K/silhouette/16#Music Instrument#1#Drum#5022869288_5ff8d4d1b4_o.png,Drum,Drum
+data/DIS5K/silhouette/16#Music Instrument#2#Harp#12575632433_691a91cd41_o.png,Harp,Harp
+data/DIS5K/silhouette/16#Music Instrument#2#Harp#15637928134_8b900574e0_o.png,Harp,Tuba
+data/DIS5K/silhouette/16#Music Instrument#2#Harp#19134663154_6c474e4402_o.png,Harp,Harp
+data/DIS5K/silhouette/16#Music Instrument#2#Harp#2333544599_694d52f554_o.png,Harp,Chair
+data/DIS5K/silhouette/16#Music Instrument#2#Harp#24744286119_ae8550a635_o.png,Harp,Tuba
+data/DIS5K/silhouette/16#Music Instrument#2#Harp#27880783854_41a824d20f_o.png,Harp,Harp
+data/DIS5K/silhouette/16#Music Instrument#2#Harp#28058219806_28e05ff24a_o.png,Harp,Harp
+data/DIS5K/silhouette/16#Music Instrument#2#Harp#28490663133_f1f693dd2c_o.png,Harp,Monitor
+data/DIS5K/silhouette/16#Music Instrument#2#Harp#6344769538_59e843b309_o.png,Harp,Piano
+data/DIS5K/silhouette/16#Music Instrument#2#Harp#7670920550_59e992fd7b_o.png,Harp,Chair
+data/DIS5K/silhouette/16#Music Instrument#2#Harp#8648276354_31c25ec1b9_o.png,Harp,Tent
+data/DIS5K/silhouette/16#Music Instrument#4#Piano#13149022545_3c7b89bb82_o.png,Piano,Piano
+data/DIS5K/silhouette/16#Music Instrument#4#Piano#1352520078_989d8e193f_o.png,Piano,Piano
+data/DIS5K/silhouette/16#Music Instrument#4#Piano#14178562930_ee1254f755_o.png,Piano,Table
+data/DIS5K/silhouette/16#Music Instrument#4#Piano#22591411174_9940d8b1d7_o.png,Piano,Piano
+data/DIS5K/silhouette/16#Music Instrument#4#Piano#22788914219_ce57becf68_o.png,Piano,Piano
+data/DIS5K/silhouette/16#Music Instrument#4#Piano#27150797494_6ff163feb0_o.png,Piano,Piano
+data/DIS5K/silhouette/16#Music Instrument#4#Piano#27986530093_6b1c384dd4_o.png,Piano,Table
+data/DIS5K/silhouette/16#Music Instrument#4#Piano#30412094543_289b5dd5c0_o.png,Piano,Piano
+data/DIS5K/silhouette/16#Music Instrument#4#Piano#31075884942_93e3c168eb_o.png,Piano,Piano
+data/DIS5K/silhouette/16#Music Instrument#4#Piano#39553611381_b8e5a66e56_o.png,Piano,Piano
+data/DIS5K/silhouette/16#Music Instrument#4#Piano#5637749994_9c6f05f5c2_o.png,Piano,Piano
+data/DIS5K/silhouette/16#Music Instrument#4#Piano#7811464464_00fa56c874_o.png,Piano,Piano
+data/DIS5K/silhouette/16#Music Instrument#4#Piano#8098368822_17956bb09f_o.png,Piano,Piano
+data/DIS5K/silhouette/16#Music Instrument#4#Piano#8645015032_969948ea9c_o.png,Piano,Piano
+data/DIS5K/silhouette/16#Music Instrument#5#Trombone#3357149857_1cfa8afc3e_o.png,Trombone,Trombone
+data/DIS5K/silhouette/16#Music Instrument#5#Trombone#8474547732_ae976196bd_o.png,Trombone,Trombone
+data/DIS5K/silhouette/16#Music Instrument#6#Trumpet#221085811_630b937076_o.png,Trumpet,Skeleton
+data/DIS5K/silhouette/16#Music Instrument#6#Trumpet#29667180644_112250bcc4_o.png,Trumpet,Trumpet
+data/DIS5K/silhouette/16#Music Instrument#6#Trumpet#3117535023_59acb32064_o.png,Trumpet,MachineGun
+data/DIS5K/silhouette/16#Music Instrument#6#Trumpet#45909634775_eed4a184ee_o.png,Trumpet,BicycleFrame
+data/DIS5K/silhouette/16#Music Instrument#6#Trumpet#8039331810_3590f22ce1_o.png,Trumpet,Trumpet
+data/DIS5K/silhouette/16#Music Instrument#6#Trumpet#8606053686_118d7ff932_o.png,Trumpet,Trumpet
+data/DIS5K/silhouette/16#Music Instrument#7#Tuba#15879563690_49ab4e81b2_o.png,Tuba,Trombone
+data/DIS5K/silhouette/16#Music Instrument#7#Tuba#2838766799_ff9f0aa1e6_o.png,Tuba,Trombone
+data/DIS5K/silhouette/16#Music Instrument#7#Tuba#30110680307_0d923b4235_o.png,Tuba,Tuba
+data/DIS5K/silhouette/16#Music Instrument#7#Tuba#49634200242_d3dfe32568_o.png,Tuba,Piano
+data/DIS5K/silhouette/16#Music Instrument#8#Violin#38809677390_e68798ed57_o.png,Violin,Violin
+data/DIS5K/silhouette/16#Music Instrument#8#Violin#5778105187_882697b0f0_o.png,Violin,Tuba
+data/DIS5K/silhouette/16#Music Instrument#8#Violin#5778621582_d6f74339ae_o.png,Violin,Guitar
+data/DIS5K/silhouette/16#Music Instrument#8#Violin#70866702_88eefddd73_o.png,Violin,Key
+data/DIS5K/silhouette/17#Non-motor Vehicle#1#BabyCarriage#1425029346_d18d6cb298_o.png,BabyCarriage,BabyCarriage
+data/DIS5K/silhouette/17#Non-motor Vehicle#1#BabyCarriage#20803686220_e1139314ff_o.png,BabyCarriage,Tractor
+data/DIS5K/silhouette/17#Non-motor Vehicle#1#BabyCarriage#22012312968_9e2bc441e1_o.png,BabyCarriage,BabyCarriage
+data/DIS5K/silhouette/17#Non-motor Vehicle#1#BabyCarriage#2400823215_962172a16e_o.png,BabyCarriage,BabyCarriage
+data/DIS5K/silhouette/17#Non-motor Vehicle#1#BabyCarriage#26132458882_bd5a6eb986_o.png,BabyCarriage,Sword
+data/DIS5K/silhouette/17#Non-motor Vehicle#1#BabyCarriage#28925782880_7a18346404_o.png,BabyCarriage,Ladder
+data/DIS5K/silhouette/17#Non-motor Vehicle#1#BabyCarriage#29794777180_2e1695a0cf_o.png,BabyCarriage,Crane
+data/DIS5K/silhouette/17#Non-motor Vehicle#1#BabyCarriage#3246544560_2a2124aa4e_o.png,BabyCarriage,BabyCarriage
+data/DIS5K/silhouette/17#Non-motor Vehicle#1#BabyCarriage#6284645710_f1e1a7ba5b_o.png,BabyCarriage,Wheelchair
+data/DIS5K/silhouette/17#Non-motor Vehicle#1#BabyCarriage#8389984877_1fddf8715c_o.png,BabyCarriage,BabyCarriage
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#11127996446_0a8691781d_o.png,Tricycle,Motorcycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#13478271925_f8286c7c28_o.png,Tricycle,Excavator
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#14031239883_09809b6196_o.png,Tricycle,Scooter
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#14930967360_2364f4e23a_o.png,Tricycle,BicycleFrame
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#20834728610_8be9f7f710_o.png,Tricycle,Motorcycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#23946197778_bcba898f59_o.png,Tricycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#29325650750_d7e5dac6a8_o.png,Tricycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#29815054052_5c3997bd7e_o.png,Tricycle,Carriage
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#3327680132_ecb9f0c96f_o.png,Tricycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#3560860204_de757eb684_o.png,Tricycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#4619218787_07711392ba_o.png,Tricycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#48133173642_67c284c240_o.png,Tricycle,Motorcycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#527710130_590d9ec89d_o.png,Tricycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#5771069105_a3aef6f665_o.png,Tricycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#5998096082_1ebc46c758_o.png,Tricycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#6190914730_0fdea16dd1_o.png,Tricycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#11#Tricycle#8624956537_f02fb0250b_o.png,Tricycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#12#Wheel#11468246713_2d28dc34da_o.png,Wheel,FerrisWheel
+data/DIS5K/silhouette/17#Non-motor Vehicle#12#Wheel#15761404287_b3099b49c7_o.png,Wheel,BicycleFrame
+data/DIS5K/silhouette/17#Non-motor Vehicle#12#Wheel#15827765000_1d4bb262f8_o.png,Wheel,Clock
+data/DIS5K/silhouette/17#Non-motor Vehicle#12#Wheel#1925813457_64aed72b01_o.png,Wheel,BicycleFrame
+data/DIS5K/silhouette/17#Non-motor Vehicle#12#Wheel#22733681211_f79e1d81d4_o.png,Wheel,BicycleFrame
+data/DIS5K/silhouette/17#Non-motor Vehicle#12#Wheel#2500628017_7d813340e0_o.png,Wheel,Clock
+data/DIS5K/silhouette/17#Non-motor Vehicle#12#Wheel#26427241113_ea60a91622_o.png,Wheel,Gear
+data/DIS5K/silhouette/17#Non-motor Vehicle#12#Wheel#28640948_7a21bc7fd7_o.png,Wheel,Fan
+data/DIS5K/silhouette/17#Non-motor Vehicle#12#Wheel#29652782160_274eac1b99_o.png,Wheel,BicycleFrame
+data/DIS5K/silhouette/17#Non-motor Vehicle#12#Wheel#45907459955_da650c9117_o.png,Wheel,FerrisWheel
+data/DIS5K/silhouette/17#Non-motor Vehicle#12#Wheel#48798979222_1b07dd127b_o.png,Wheel,Wheel
+data/DIS5K/silhouette/17#Non-motor Vehicle#12#Wheel#5955166562_b40b93e8aa_o.png,Wheel,Wheel
+data/DIS5K/silhouette/17#Non-motor Vehicle#12#Wheel#6249922713_4142576415_o.png,Wheel,Wheel
+data/DIS5K/silhouette/17#Non-motor Vehicle#12#Wheel#7574367106_e0a4c90f29_o.png,Wheel,Wheel
+data/DIS5K/silhouette/17#Non-motor Vehicle#12#Wheel#7960949284_14ba6fc6bc_o.png,Wheel,Wheel
+data/DIS5K/silhouette/17#Non-motor Vehicle#13#Wheelchair#19067408416_0b497e7247_o.png,Wheelchair,Rifle
+data/DIS5K/silhouette/17#Non-motor Vehicle#13#Wheelchair#2332552590_785c9e3d42_o.png,Wheelchair,Wheelchair
+data/DIS5K/silhouette/17#Non-motor Vehicle#13#Wheelchair#3192036821_a6ff0dd4a2_o.png,Wheelchair,Motorcycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#13#Wheelchair#4111470679_03b8376297_o.png,Wheelchair,Motorcycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#13#Wheelchair#5420253957_1853ab0db4_o.png,Wheelchair,Table
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#10315573726_6d50e83d93_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#10535915873_96702b161b_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#11454023884_9e51110ca5_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#14377891975_0b490f3141_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#165189498_25ec3fa279_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#17272337541_4ae8e45cac_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#194707039_9219346ddf_o.png,Bicycle,BicycleFrame
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#196083697_0b4edef372_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#19804456_01e0163fb7_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#226632047_85b3ccf7f3_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#226638550_61ff35e4da_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#22977934165_cc71b0ecf5_o.png,Bicycle,Rifle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#24222003011_14ac872339_o.png,Bicycle,Motorcycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#2754907638_18009b4e3b_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#4205340411_cecbf6600d_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#4245936196_fdf812dcb7_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#44727355034_bebb8a9632_o.png,Bicycle,BicycleFrame
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#5107956157_6d0fd65795_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#6710514993_cf4362fa4d_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#7177933106_57ea4dba0f_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#884271897_887040d095_o.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#2#Bicycle#IMG_20210630_130725.png,Bicycle,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#3#Carriage#1256962592_4c6144e13e_o.png,Carriage,Carriage
+data/DIS5K/silhouette/17#Non-motor Vehicle#3#Carriage#16320560050_475ccb2e7a_o.png,Carriage,Carriage
+data/DIS5K/silhouette/17#Non-motor Vehicle#3#Carriage#2141459139_3402bcf4ff_o.png,Carriage,Carriage
+data/DIS5K/silhouette/17#Non-motor Vehicle#3#Carriage#27164425236_0fce13c677_o.png,Carriage,Crane
+data/DIS5K/silhouette/17#Non-motor Vehicle#3#Carriage#32327142906_84a0c06d41_o.png,Carriage,Cart
+data/DIS5K/silhouette/17#Non-motor Vehicle#3#Carriage#35481871632_f3850068aa_o.png,Carriage,Cannon
+data/DIS5K/silhouette/17#Non-motor Vehicle#3#Carriage#3747866430_c4ef428f66_o.png,Carriage,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#3#Carriage#5925099864_1a7febd5d7_o.png,Carriage,Crane
+data/DIS5K/silhouette/17#Non-motor Vehicle#3#Carriage#5947122724_98e0fc3d1f_o.png,Carriage,Bicycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#4#Cart#1315063882_fe3a244821_o.png,Cart,Truck
+data/DIS5K/silhouette/17#Non-motor Vehicle#4#Cart#13886669128_83ca2243ff_o.png,Cart,Cage
+data/DIS5K/silhouette/17#Non-motor Vehicle#4#Cart#15012855035_d10b57014f_o.png,Cart,Truck
+data/DIS5K/silhouette/17#Non-motor Vehicle#4#Cart#2184256866_8a7dcf9163_o.png,Cart,BicycleFrame
+data/DIS5K/silhouette/17#Non-motor Vehicle#4#Cart#2796631984_bdb7bd9278_o.png,Cart,Cannon
+data/DIS5K/silhouette/17#Non-motor Vehicle#4#Cart#4495564137_9eb81dc5a2_o.png,Cart,Cart
+data/DIS5K/silhouette/17#Non-motor Vehicle#4#Cart#4776627829_94699a02a5_o.png,Cart,Truck
+data/DIS5K/silhouette/17#Non-motor Vehicle#4#Cart#48312748221_edab981eb2_o.png,Cart,Crane
+data/DIS5K/silhouette/17#Non-motor Vehicle#4#Cart#5655030685_cdc192ac55_o.png,Cart,Airplane
+data/DIS5K/silhouette/17#Non-motor Vehicle#4#Cart#5694004789_4e6bef3703_o.png,Cart,Bed
+data/DIS5K/silhouette/17#Non-motor Vehicle#4#Cart#IMG_20210512_194551.png,Cart,Motorcycle
+data/DIS5K/silhouette/17#Non-motor Vehicle#4#Cart#IMG_20210518_193611.png,Cart,Crane
+data/DIS5K/silhouette/17#Non-motor Vehicle#8#Scooter#286182579_2c977c13b8_o.png,Scooter,BicycleFrame
+data/DIS5K/silhouette/17#Non-motor Vehicle#8#Scooter#3619196774_526db6549b_o.png,Scooter,Crane
+data/DIS5K/silhouette/17#Non-motor Vehicle#8#Scooter#41563329055_dc2c5be0a6_o.png,Scooter,Crane
+data/DIS5K/silhouette/17#Non-motor Vehicle#8#Scooter#48562895047_d05bd92e69_o.png,Scooter,BicycleFrame
+data/DIS5K/silhouette/17#Non-motor Vehicle#8#Scooter#50644495011_bd984b2b20_o.png,Scooter,BicycleFrame
+data/DIS5K/silhouette/17#Non-motor Vehicle#9#ShoppingCart#11986109976_3e5ed87a9b_o.png,ShoppingCart,ShoppingCart
+data/DIS5K/silhouette/17#Non-motor Vehicle#9#ShoppingCart#133296082_159ce361dc_o.png,ShoppingCart,ShoppingCart
+data/DIS5K/silhouette/17#Non-motor Vehicle#9#ShoppingCart#2079151349_348b518074_o.png,ShoppingCart,ShoppingCart
+data/DIS5K/silhouette/17#Non-motor Vehicle#9#ShoppingCart#2339150432_bd6e9a0195_o.png,ShoppingCart,ShoppingCart
+data/DIS5K/silhouette/17#Non-motor Vehicle#9#ShoppingCart#32618595578_ba0e9e2742_o.png,ShoppingCart,ShoppingCart
+data/DIS5K/silhouette/17#Non-motor Vehicle#9#ShoppingCart#4674052920_a5b7a2b236_o.png,ShoppingCart,Skateboarding
+data/DIS5K/silhouette/17#Non-motor Vehicle#9#ShoppingCart#5506080728_1b7a2020bf_o.png,ShoppingCart,ShoppingCart
+data/DIS5K/silhouette/17#Non-motor Vehicle#9#ShoppingCart#5986147189_6cd2eabe67_o.png,ShoppingCart,ShoppingCart
+data/DIS5K/silhouette/17#Non-motor Vehicle#9#ShoppingCart#8075255026_80a0f385f0_o.png,ShoppingCart,DeskChair
+data/DIS5K/silhouette/17#Non-motor Vehicle#9#ShoppingCart#8470203425_0b04c20b0b_o.png,ShoppingCart,ShoppingCart
+data/DIS5K/silhouette/17#Non-motor Vehicle#9#ShoppingCart#IMG_20210630_200759.png,ShoppingCart,ShoppingCart
+data/DIS5K/silhouette/17#Non-motor Vehicle#9#ShoppingCart#IMG_20210709_222119.png,ShoppingCart,Tripod
+data/DIS5K/silhouette/18#Plant#1#Bonsai#12881554214_54026499c1_o.png,Bonsai,Tree
+data/DIS5K/silhouette/18#Plant#1#Bonsai#1387657151_6fbd75b362_o.png,Bonsai,Tree
+data/DIS5K/silhouette/18#Plant#1#Bonsai#1453887742_f844e5f5e4_o.png,Bonsai,Axe
+data/DIS5K/silhouette/18#Plant#1#Bonsai#2971292349_ea45bb60d7_o.png,Bonsai,Bonsai
+data/DIS5K/silhouette/18#Plant#1#Bonsai#3051517569_41555313a1_o.png,Bonsai,Tree
+data/DIS5K/silhouette/18#Plant#1#Bonsai#3539420884_ca8973e2c0_o.png,Bonsai,Bonsai
+data/DIS5K/silhouette/18#Plant#1#Bonsai#8634630655_a831f53a06_o.png,Bonsai,Tree
+data/DIS5K/silhouette/18#Plant#1#Bonsai#9587552458_5c6e5fa154_o.png,Bonsai,Leaf
+data/DIS5K/silhouette/18#Plant#2#Tree#2407445406_b4b323417f_o.png,Tree,Tree
+data/DIS5K/silhouette/18#Plant#3#Leaf#27644798564_759a61a634_o.png,Leaf,Rifle
+data/DIS5K/silhouette/19#Ship#1#Boat#14045810570_5378d73227_o.png,Boat,Ship
+data/DIS5K/silhouette/19#Ship#1#Boat#16398058316_0d765f8413_o.png,Boat,Ship
+data/DIS5K/silhouette/19#Ship#1#Boat#27104578571_51f396dff9_o.png,Boat,Piano
+data/DIS5K/silhouette/19#Ship#1#Boat#4826039032_8e302f87f1_o.png,Boat,Boat
+data/DIS5K/silhouette/19#Ship#1#Boat#5787208665_27083a69c0_o.png,Boat,Ship
+data/DIS5K/silhouette/19#Ship#1#Boat#6168916876_58d423bcfe_o.png,Boat,Shoe
+data/DIS5K/silhouette/19#Ship#1#Boat#7127481103_a3aec75f7e_o.png,Boat,Ship
+data/DIS5K/silhouette/19#Ship#2#Canoe#15380113171_c58a97080e_o.png,Canoe,Tent
+data/DIS5K/silhouette/19#Ship#2#Canoe#20203485049_01e70dfbf0_o.png,Canoe,Teapot
+data/DIS5K/silhouette/19#Ship#2#Canoe#36501413501_799c8ed37b_o.png,Canoe,Shoe
+data/DIS5K/silhouette/19#Ship#2#Canoe#37208028372_fd78340113_o.png,Canoe,Boat
+data/DIS5K/silhouette/19#Ship#2#Canoe#9046961974_bcda21a4a5_o.png,Canoe,Skiing
+data/DIS5K/silhouette/19#Ship#3#Sailboat#14297524998_16f0f535f3_o.png,Sailboat,Boat
+data/DIS5K/silhouette/19#Ship#3#Sailboat#22442908623_5977e3becf_o.png,Sailboat,TransmissionTower
+data/DIS5K/silhouette/19#Ship#3#Sailboat#241162568_9bba3c65a6_o.png,Sailboat,Stair
+data/DIS5K/silhouette/19#Ship#3#Sailboat#2842190894_f239a0a263_o.png,Sailboat,Hammock
+data/DIS5K/silhouette/19#Ship#3#Sailboat#29117142501_c26c78cfe0_o.png,Sailboat,Crane
+data/DIS5K/silhouette/19#Ship#3#Sailboat#29195132605_6498d74dcc_o.png,Sailboat,ConcretePumpTruck
+data/DIS5K/silhouette/19#Ship#3#Sailboat#36028012300_c2dc0614d7_o.png,Sailboat,ConcretePumpTruck
+data/DIS5K/silhouette/19#Ship#3#Sailboat#468228625_5c72e2a0df_o.png,Sailboat,Sailboat
+data/DIS5K/silhouette/19#Ship#3#Sailboat#530560195_23cf57c5b5_o.png,Sailboat,Crane
+data/DIS5K/silhouette/19#Ship#3#Sailboat#8708383166_e20c93f177_o.png,Sailboat,FerrisWheel
+data/DIS5K/silhouette/19#Ship#4#Ship#14823852942_dd084a2856_o.png,Ship,Ship
+data/DIS5K/silhouette/19#Ship#4#Ship#27388090661_4dccaaeeac_o.png,Ship,TransmissionTower
+data/DIS5K/silhouette/19#Ship#4#Ship#28778269310_f32b9e2015_o.png,Ship,Ship
+data/DIS5K/silhouette/19#Ship#4#Ship#3750702068_c3210cc1c0_o.png,Ship,Sailboat
+data/DIS5K/silhouette/19#Ship#4#Ship#4367648284_fc228d323c_o.png,Ship,Ship
+data/DIS5K/silhouette/19#Ship#4#Ship#5787746966_5dd0e4287e_o.png,Ship,Bridge
+data/DIS5K/silhouette/19#Ship#4#Ship#6075469575_8a3e620ab8_o.png,Ship,Ship
+data/DIS5K/silhouette/19#Ship#4#Ship#6585204479_6d98b9d739_o.png,Ship,ConcretePumpTruck
+data/DIS5K/silhouette/19#Ship#4#Ship#7489229956_c95b159354_o.png,Ship,TransmissionTower
+data/DIS5K/silhouette/19#Ship#4#Ship#7840063752_abb062dfa9_o.png,Ship,Ship
+data/DIS5K/silhouette/19#Ship#4#Ship#8732871153_8e4c6f2afe_o.png,Ship,Ship
+data/DIS5K/silhouette/19#Ship#4#Ship#9324694738_ba733295e7_o.png,Ship,Ship
+data/DIS5K/silhouette/19#Ship#5#SpeedBoat#42035046444_28352482c0_o.png,SpeedBoat,BicycleFrame
+data/DIS5K/silhouette/19#Ship#5#SpeedBoat#6068901583_4a0900b0b3_o.png,SpeedBoat,ElectricIron
+data/DIS5K/silhouette/19#Ship#6#Yacht#29395303668_cc07769baf_o.png,Yacht,TransmissionTower
+data/DIS5K/silhouette/19#Ship#6#Yacht#41825259124_669e30b61d_o.png,Yacht,Ship
+data/DIS5K/silhouette/19#Ship#6#Yacht#44099619612_b50c1e231c_o.png,Yacht,Hammock
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#13970972040_d28a3a3db5_o.png,Airplane,ConcretePumpTruck
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#19662110459_8ba02a3c95_o.png,Airplane,Piano
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#2195847099_534ce6c16a_o.png,Airplane,Helicopter
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#22502247052_22cf85b874_o.png,Airplane,Airplane
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#26008758618_e0005c3b33_o.png,Airplane,Airplane
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#27270480112_ac476d506d_o.png,Airplane,Helicopter
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#27476601677_7211bdb462_o.png,Airplane,Helicopter
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#30780894197_84b45c4828_o.png,Airplane,Helicopter
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#3108217910_cfed35503d_o.png,Airplane,Airplane
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#3495566193_bee48bc7f2_o.png,Airplane,TransmissionTower
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#37673824114_882b6de714_o.png,Airplane,Airplane
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#38388600031_b207140fd2_o.png,Airplane,Locust
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#39233090174_1c0df0ac9e_o.png,Airplane,Airplane
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#39678578934_f181cd0035_o.png,Airplane,ConcretePumpTruck
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#40252032251_5c32b71be0_o.png,Airplane,Airplane
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#4093919108_25a986e26f_o.png,Airplane,Airplane
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#44320368904_e6f8754404_o.png,Airplane,Ship
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#46080232115_8d63a57d99_o.png,Airplane,Helicopter
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#4861500445_1cecffddc6_o.png,Airplane,Airplane
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#51203187822_5f57e7068b_o.png,Airplane,Airplane
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#7123738201_141d77defb_o.png,Airplane,Airplane
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#740680374_136dcc19bd_o.png,Airplane,Airplane
+data/DIS5K/silhouette/2#Aircraft#1#Airplane#8099096128_6e6529fa4c_o.png,Airplane,Airplane
+data/DIS5K/silhouette/2#Aircraft#2#Balloon#105143839_df847ccaf9_o.png,Balloon,Balloon
+data/DIS5K/silhouette/2#Aircraft#2#Balloon#11453566596_124e2f5e7c_o.png,Balloon,Crane
+data/DIS5K/silhouette/2#Aircraft#2#Balloon#15622437119_abfb435343_o.png,Balloon,Octopus
+data/DIS5K/silhouette/2#Aircraft#2#Balloon#2487168092_641505883f_o.png,Balloon,Parachute
+data/DIS5K/silhouette/2#Aircraft#2#Balloon#27775728506_759389fe74_o.png,Balloon,WineGlass
+data/DIS5K/silhouette/2#Aircraft#2#Balloon#4239178167_36e43771f4_o.png,Balloon,Helicopter
+data/DIS5K/silhouette/2#Aircraft#2#Balloon#5983416307_9cfbf99e7b_o.png,Balloon,Spider
+data/DIS5K/silhouette/2#Aircraft#3#HangGlider#2815482049_5ee50f72f7_o.png,HangGlider,HangGlider
+data/DIS5K/silhouette/2#Aircraft#3#HangGlider#6165144967_31de274f6e_o.png,HangGlider,HangGlider
+data/DIS5K/silhouette/2#Aircraft#3#HangGlider#6165654496_b7eaef8ecd_o.png,HangGlider,Airplane
+data/DIS5K/silhouette/2#Aircraft#3#HangGlider#800163341_a820990ab6_o.png,HangGlider,Crane
+data/DIS5K/silhouette/2#Aircraft#3#HangGlider#9322430002_e39940ec46_o.png,HangGlider,Airplane
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#1050527387_594d75bec3_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#14876645449_a5a70a741c_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#15864690057_bf98be734f_o.png,Helicopter,BicycleFrame
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#1791884621_d79be91074_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#23766760568_b85241fd1c_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#25904395380_de5558c041_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#28891244925_c7fd5b5639_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#29167519213_ecd51e2aa8_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#32536713800_b15be550a4_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#335000596_24a538508b_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#36410220685_1b403e5976_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#36646357114_b6530d2a2f_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#37109865844_01b0f754cb_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#4542914206_14465041d9_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#4693285576_51c7e938e3_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#47426702812_c037843a3b_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#6106463103_fa261c7508_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#6213221512_1f60be8dec_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#7416160842_ca8003cb3f_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#8401177591_06c71c8df2_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#8431933189_8c8d8a095c_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#4#Helicopter#8853363685_0aebbb4f40_o.png,Helicopter,Helicopter
+data/DIS5K/silhouette/2#Aircraft#5#Kite#1163301021_fe708f714a_o.png,Kite,S
+data/DIS5K/silhouette/2#Aircraft#5#Kite#13104545564_5afceec9bd_o.png,Kite,Crane
+data/DIS5K/silhouette/2#Aircraft#5#Kite#2500127887_67453f2b51_o.png,Kite,Sword
+data/DIS5K/silhouette/2#Aircraft#5#Kite#2500956118_824328ee71_o.png,Kite,Caterpillar
+data/DIS5K/silhouette/2#Aircraft#5#Kite#2500959028_b7f7ff4aa1_o.png,Kite,Caterpillar
+data/DIS5K/silhouette/2#Aircraft#5#Kite#3550745572_783ac242d0_o.png,Kite,Caterpillar
+data/DIS5K/silhouette/2#Aircraft#5#Kite#3603116699_239f9e6cfb_o.png,Kite,Cable
+data/DIS5K/silhouette/2#Aircraft#5#Kite#4414557470_896931f8a2_o.png,Kite,Spider
+data/DIS5K/silhouette/2#Aircraft#5#Kite#44654358051_1400e71cc4_o.png,Kite,Caterpillar
+data/DIS5K/silhouette/2#Aircraft#5#Kite#5806011461_1b7dc5d1aa_o.png,Kite,BicycleFrame
+data/DIS5K/silhouette/2#Aircraft#5#Kite#6841458590_258d6015d4_o.png,Kite,Wheel
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#12829336163_324865fb9a_o.png,Parachute,Parachute
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#16006047470_e74c99b941_o.png,Parachute,Fan
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#201603414_66f7278093_o.png,Parachute,Balloon
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#2069245609_a9a21dbe1e_o.png,Parachute,Trombone
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#2686524930_d46e96f809_o.png,Parachute,Tuba
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#2686575618_9ea5b36c44_o.png,Parachute,Parachute
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#33590416634_9d6f2325e7_o.png,Parachute,Dragonfly
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#35328719541_69fb5a35cd_o.png,Parachute,Piano
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#3670287506_839fb11a50_o.png,Parachute,Parachute
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#3802992829_34b9305c6c_o.png,Parachute,HangGlider
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#5200417000_084447bdcb_o.png,Parachute,Fan
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#5200429018_a28af53f93_o.png,Parachute,Telescope
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#538172121_10bb19e080_o.png,Parachute,Parachute
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#538172125_4f07f5d66a_o.png,Parachute,Fan
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#5975444991_bea474d7e9_o.png,Parachute,DeskChair
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#6889859246_d483931636_o.png,Parachute,Crane
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#7035948357_2a3ee5b4ee_o.png,Parachute,Fan
+data/DIS5K/silhouette/2#Aircraft#6#Parachute#7384025722_f1bfe636ed_o.png,Parachute,Crane
+data/DIS5K/silhouette/2#Aircraft#7#UAV#13509595935_629c04201a_o.png,UAV,Helicopter
+data/DIS5K/silhouette/2#Aircraft#7#UAV#16017536839_bbf80afeb0_o.png,UAV,Helicopter
+data/DIS5K/silhouette/2#Aircraft#7#UAV#21633076030_80def2afb0_o.png,UAV,Helicopter
+data/DIS5K/silhouette/2#Aircraft#7#UAV#23184995204_e7d3a06c1c_o.png,UAV,UAV
+data/DIS5K/silhouette/2#Aircraft#7#UAV#23730676531_5d6a62f5c6_o.png,UAV,Helicopter
+data/DIS5K/silhouette/2#Aircraft#7#UAV#27732850730_edb3b30fe9_o.png,UAV,Helicopter
+data/DIS5K/silhouette/2#Aircraft#7#UAV#37599678050_a3bd08b7c8_o.png,UAV,Helicopter
+data/DIS5K/silhouette/2#Aircraft#7#UAV#3795673241_f6f1789809_o.png,UAV,Helicopter
+data/DIS5K/silhouette/2#Aircraft#7#UAV#42028786810_408d51dbd4_o.png,UAV,Helicopter
+data/DIS5K/silhouette/2#Aircraft#7#UAV#5084077401_035275f71e_o.png,UAV,Helicopter
+data/DIS5K/silhouette/2#Aircraft#7#UAV#9433528736_e8f5e6b6cf_o.png,UAV,Helicopter
+data/DIS5K/silhouette/2#Aircraft#7#UAV#9523262444_f1ea6c7fe7_o.png,UAV,Helicopter
+data/DIS5K/silhouette/20#Sports#10#Skateboarding#15170632912_601e81933f_o.png,Skateboarding,Bench
+data/DIS5K/silhouette/20#Sports#10#Skateboarding#2882052095_11626100e2_o.png,Skateboarding,Car
+data/DIS5K/silhouette/20#Sports#10#Skateboarding#2931193743_59db8bf5d9_o.png,Skateboarding,Skateboarding
+data/DIS5K/silhouette/20#Sports#10#Skateboarding#2964293394_bd5ce1bf55_o.png,Skateboarding,Caterpillar
+data/DIS5K/silhouette/20#Sports#10#Skateboarding#5286928750_513fe79483_o.png,Skateboarding,Skateboarding
+data/DIS5K/silhouette/20#Sports#10#Skateboarding#8472763540_bb2390e928_o.png,Skateboarding,Skateboarding
+data/DIS5K/silhouette/20#Sports#8#Racket#18611033989_6bd0729176_o.png,Racket,Racket
+data/DIS5K/silhouette/20#Sports#8#Racket#19337607166_dd1985fb59_o.png,Racket,Racket
+data/DIS5K/silhouette/20#Sports#8#Racket#2808821117_dae01fe274_o.png,Racket,Racket
+data/DIS5K/silhouette/20#Sports#8#Racket#32593233797_f9a07ba7f1_o.png,Racket,Racket
+data/DIS5K/silhouette/20#Sports#8#Racket#7761572314_c21a3a0068_o.png,Racket,Racket
+data/DIS5K/silhouette/20#Sports#8#Racket#8511361882_ec39f41cc2_o.png,Racket,WireWhisk
+data/DIS5K/silhouette/20#Sports#8#Racket#IMG_20210522_183222.png,Racket,Racket
+data/DIS5K/silhouette/20#Sports#8#Racket#IMG_20210522_183234.png,Racket,Racket
+data/DIS5K/silhouette/21#Tool#1#Axe#18967863590_c198e11a1e_o.png,Axe,Gear
+data/DIS5K/silhouette/21#Tool#1#Axe#4406944636_a576d405e1_o.png,Axe,Axe
+data/DIS5K/silhouette/21#Tool#1#Axe#45673228154_7c1bc976f3_o.png,Axe,Telescope
+data/DIS5K/silhouette/21#Tool#10#Spade#12150824493_576b7f2d59_o.png,Spade,Racket
+data/DIS5K/silhouette/21#Tool#10#Spade#2917300068_1c20ff0898_o.png,Spade,Hammer
+data/DIS5K/silhouette/21#Tool#10#Spade#3061254_d14b01aa9b_o.png,Spade,Crane
+data/DIS5K/silhouette/21#Tool#10#Spade#4339051463_b06acf25d8_o.png,Spade,Sword
+data/DIS5K/silhouette/21#Tool#10#Spade#4351902377_b22a3549cd_o.png,Spade,Screw
+data/DIS5K/silhouette/21#Tool#10#Spade#5661920073_da42729109_o.png,Spade,Sword
+data/DIS5K/silhouette/21#Tool#10#Spade#7718086616_fa25fd1778_o.png,Spade,Cup
+data/DIS5K/silhouette/21#Tool#13#Stethoscope#28360822976_7ab297bc1c_o.png,Stethoscope,Stethoscope
+data/DIS5K/silhouette/21#Tool#13#Stethoscope#49774334692_096f8f7f6c_o.png,Stethoscope,Stethoscope
+data/DIS5K/silhouette/21#Tool#13#Stethoscope#7163741350_1705eef5c2_o.png,Stethoscope,Key
+data/DIS5K/silhouette/21#Tool#14#Sword#112401718_a87cae7466_o.png,Sword,Bridge
+data/DIS5K/silhouette/21#Tool#14#Sword#2049986356_51b03d1fbc_o.png,Sword,Knife
+data/DIS5K/silhouette/21#Tool#14#Sword#32473146960_dcc6b77848_o.png,Sword,BicycleFrame
+data/DIS5K/silhouette/21#Tool#14#Sword#425635285_5d2e0670bf_o.png,Sword,Piano
+data/DIS5K/silhouette/21#Tool#14#Sword#49852575413_7e5dde1d98_o.png,Sword,Spider
+data/DIS5K/silhouette/21#Tool#14#Sword#7225659620_0efd0b86fa_o.png,Sword,Sword
+data/DIS5K/silhouette/21#Tool#14#Sword#8918037046_2b5ef1d464_o.png,Sword,Knife
+data/DIS5K/silhouette/21#Tool#14#Sword#9871906203_e141f4ec1e_o.png,Sword,Skeleton
+data/DIS5K/silhouette/21#Tool#14#Sword#9884801566_b2e931b2d0_o.png,Sword,Sword
+data/DIS5K/silhouette/21#Tool#14#Sword#9885787776_fc36e0867e_o.png,Sword,Knife
+data/DIS5K/silhouette/21#Tool#16#Telescope#10108594544_3be214b3fa_o.png,Telescope,Rifle
+data/DIS5K/silhouette/21#Tool#16#Telescope#19790955_99118e769a_o.png,Telescope,Telescope
+data/DIS5K/silhouette/21#Tool#16#Telescope#23291975033_085c6044e2_o.png,Telescope,Tripod
+data/DIS5K/silhouette/21#Tool#16#Telescope#28472474383_34b4c877b7_o.png,Telescope,Telescope
+data/DIS5K/silhouette/21#Tool#16#Telescope#29386592545_824c5f3a17_o.png,Telescope,Knife
+data/DIS5K/silhouette/21#Tool#16#Telescope#37468356510_74eb667c9d_o.png,Telescope,Rifle
+data/DIS5K/silhouette/21#Tool#16#Telescope#3790255392_667ef317fa_o.png,Telescope,Telescope
+data/DIS5K/silhouette/21#Tool#16#Telescope#4022809227_8a55de3489_o.png,Telescope,MachineGun
+data/DIS5K/silhouette/21#Tool#16#Telescope#4444684016_3bae3f3c08_o.png,Telescope,Boat
+data/DIS5K/silhouette/21#Tool#16#Telescope#4773216912_9f798aa754_o.png,Telescope,Telescope
+data/DIS5K/silhouette/21#Tool#16#Telescope#5371363462_a8dc50481a_o.png,Telescope,BicycleFrame
+data/DIS5K/silhouette/21#Tool#16#Telescope#6918945015_97906458e8_o.png,Telescope,Tripod
+data/DIS5K/silhouette/21#Tool#16#Telescope#8372152832_0fa971a81a_o.png,Telescope,Telescope
+data/DIS5K/silhouette/21#Tool#16#Telescope#8573400741_7a127611e6_o.png,Telescope,Rifle
+data/DIS5K/silhouette/21#Tool#17#Tripod#12303999114_041a8663af_o.png,Tripod,Tripod
+data/DIS5K/silhouette/21#Tool#17#Tripod#13592188_a9ce0044b1_o.png,Tripod,CoatHanger
+data/DIS5K/silhouette/21#Tool#17#Tripod#156606947_68a394f274_o.png,Tripod,Crane
+data/DIS5K/silhouette/21#Tool#17#Tripod#24732351860_54c5088c9c_o.png,Tripod,Tripod
+data/DIS5K/silhouette/21#Tool#17#Tripod#2916481827_4fb453c06f_o.png,Tripod,Tricycle
+data/DIS5K/silhouette/21#Tool#17#Tripod#2942998673_d571dcdc37_o.png,Tripod,Tripod
+data/DIS5K/silhouette/21#Tool#17#Tripod#3021644995_cf8fc24fdf_o.png,Tripod,Tripod
+data/DIS5K/silhouette/21#Tool#17#Tripod#3440100769_33b2e3c0f5_o.png,Tripod,Tripod
+data/DIS5K/silhouette/21#Tool#17#Tripod#36281535142_5a44520b7c_o.png,Tripod,Tripod
+data/DIS5K/silhouette/21#Tool#17#Tripod#3674058120_cfc50afa48_o.png,Tripod,Crane
+data/DIS5K/silhouette/21#Tool#17#Tripod#4126253557_8d47f449ee_o.png,Tripod,Tripod
+data/DIS5K/silhouette/21#Tool#17#Tripod#4231738684_0d276c0f0b_o.png,Tripod,Crane
+data/DIS5K/silhouette/21#Tool#17#Tripod#486954331_744fe77024_o.png,Tripod,Tripod
+data/DIS5K/silhouette/21#Tool#17#Tripod#6624116967_20cbc1a0c3_o.png,Tripod,TransmissionTower
+data/DIS5K/silhouette/21#Tool#17#Tripod#6882032659_4edefe231c_o.png,Tripod,Tripod
+data/DIS5K/silhouette/21#Tool#17#Tripod#7808919732_c90a7e4105_o.png,Tripod,Tripod
+data/DIS5K/silhouette/21#Tool#17#Tripod#7942172334_8046b479d2_o.png,Tripod,Tripod
+data/DIS5K/silhouette/21#Tool#17#Tripod#9318977876_34615ec9a0_o.png,Tripod,Tripod
+data/DIS5K/silhouette/21#Tool#17#Tripod#IMG_20210512_203624.png,Tripod,Tripod
+data/DIS5K/silhouette/21#Tool#18#Umbrella#1427576181_678ca9dd9b_o.png,Umbrella,Table
+data/DIS5K/silhouette/21#Tool#18#Umbrella#5937730860_6d2b99d87b_o.png,Umbrella,Truck
+data/DIS5K/silhouette/21#Tool#23#FireExtinguisher#IMG_20210528_112105.png,FireExtinguisher,Telescope
+data/DIS5K/silhouette/21#Tool#24#Hammer#25569672813_fa702470a8_o.png,Hammer,Hammer
+data/DIS5K/silhouette/21#Tool#28#TobaccoPipe#35317065161_441ca3a876_o.png,TobaccoPipe,Tuba
+data/DIS5K/silhouette/21#Tool#3#Clock#11468060155_81ff9d924b_o.png,Clock,Gear
+data/DIS5K/silhouette/21#Tool#3#Clock#19374226769_1bf72ef7c3_o.png,Clock,Clock
+data/DIS5K/silhouette/21#Tool#3#Clock#2241148686_1bb0c30e8b_o.png,Clock,Wheel
+data/DIS5K/silhouette/21#Tool#3#Clock#43548922014_34015b9f85_o.png,Clock,Clock
+data/DIS5K/silhouette/21#Tool#3#Clock#44011819935_378fff21aa_o.png,Clock,TableChair
+data/DIS5K/silhouette/21#Tool#3#Clock#4872478383_6cfb476289_o.png,Clock,Cage
+data/DIS5K/silhouette/21#Tool#3#Clock#489947697_1a7a19b44e_o.png,Clock,Drum
+data/DIS5K/silhouette/21#Tool#3#Clock#50337746711_eac9f5e2e1_o.png,Clock,Drum
+data/DIS5K/silhouette/21#Tool#3#Clock#5594041352_d2f73687b0_o.png,Clock,WaterTower
+data/DIS5K/silhouette/21#Tool#3#Clock#6976339493_6ef78975ed_o.png,Clock,Clock
+data/DIS5K/silhouette/21#Tool#3#Clock#8527375495_9ff764c2ae_o.png,Clock,Clock
+data/DIS5K/silhouette/21#Tool#3#Clock#8687818386_cc16cda02c_o.png,Clock,Clock
+data/DIS5K/silhouette/21#Tool#3#Clock#IMG_20210518_194340.png,Clock,Drum
+data/DIS5K/silhouette/21#Tool#4#Flag#10658256784_eb43a48829_o.png,Flag,Tuba
+data/DIS5K/silhouette/21#Tool#4#Flag#13759793314_3d07edbb05_o.png,Flag,Knife
+data/DIS5K/silhouette/21#Tool#4#Flag#18447338423_0ea08db3e3_o.png,Flag,Crane
+data/DIS5K/silhouette/21#Tool#4#Flag#27252306816_2cf003697d_o.png,Flag,Telescope
+data/DIS5K/silhouette/21#Tool#4#Flag#2776515140_1abe3eedf2_o.png,Flag,Flag
+data/DIS5K/silhouette/21#Tool#4#Flag#33204208162_34104ed4ab_o.png,Flag,Flag
+data/DIS5K/silhouette/21#Tool#4#Flag#33961462430_146bdd57d6_o.png,Flag,Leaf
+data/DIS5K/silhouette/21#Tool#4#Flag#34064973712_6c4eabf364_o.png,Flag,MachineGun
+data/DIS5K/silhouette/21#Tool#4#Flag#44839396002_ddd23d850f_o.png,Flag,BicycleFrame
+data/DIS5K/silhouette/21#Tool#4#Flag#4836909245_7d10bf2489_o.png,Flag,Flag
+data/DIS5K/silhouette/21#Tool#4#Flag#507752845_ef852100f0_o.png,Flag,Flag
+data/DIS5K/silhouette/21#Tool#4#Flag#5089561284_e2a2793cce_o.png,Flag,Rifle
+data/DIS5K/silhouette/21#Tool#4#Flag#7410822508_0d11bfa7a7_o.png,Flag,Tree
+data/DIS5K/silhouette/21#Tool#4#Flag#8099870597_761db7b0ed_o.png,Flag,Tripod
+data/DIS5K/silhouette/21#Tool#4#Flag#IMG_20210513_165339.png,Flag,TV
+data/DIS5K/silhouette/21#Tool#6#Key#11966089533_3becd78b44_o.png,Key,Wheel
+data/DIS5K/silhouette/21#Tool#6#Key#12418295003_1eea2b14c7_o.png,Key,Key
+data/DIS5K/silhouette/21#Tool#6#Key#12878459244_6387a140ea_o.png,Key,MachineGun
+data/DIS5K/silhouette/21#Tool#6#Key#2168174621_5443134212_o.png,Key,Key
+data/DIS5K/silhouette/21#Tool#6#Key#2880225309_4dd26780cd_o.png,Key,Tuba
+data/DIS5K/silhouette/21#Tool#6#Key#3193329588_839b0c74ce_o.png,Key,Crane
+data/DIS5K/silhouette/21#Tool#6#Key#41240949125_cf64775295_o.png,Key,Key
+data/DIS5K/silhouette/21#Tool#6#Key#4288658681_58679b37e2_o.png,Key,Key
+data/DIS5K/silhouette/21#Tool#6#Key#4316456076_ba2eb26ea7_o.png,Key,Rifle
+data/DIS5K/silhouette/21#Tool#6#Key#5310398_2fd4f39dde_o.png,Key,Key
+data/DIS5K/silhouette/21#Tool#6#Key#5724173429_83435d326d_o.png,Key,Wheel
+data/DIS5K/silhouette/21#Tool#6#Key#7950977422_d8a6e030c9_o.png,Key,Microphone
+data/DIS5K/silhouette/21#Tool#9#Scissor#6532983669_024dfa4e51_o.png,Scissor,Crane
+data/DIS5K/silhouette/21#Tool#9#Scissor#8186134917_4ac8b48124_o.png,Scissor,Scissor
+data/DIS5K/silhouette/22#Weapon#1#Cannon#195010066_669d2b5551_o.png,Cannon,Cannon
+data/DIS5K/silhouette/22#Weapon#1#Cannon#4091155034_22585e9d26_o.png,Cannon,Ship
+data/DIS5K/silhouette/22#Weapon#1#Cannon#46116356722_4f660a962d_o.png,Cannon,Wheel
+data/DIS5K/silhouette/22#Weapon#1#Cannon#48642016533_c581a87752_o.png,Cannon,Boat
+data/DIS5K/silhouette/22#Weapon#1#Cannon#4909617489_d4ae7b062d_o.png,Cannon,Cannon
+data/DIS5K/silhouette/22#Weapon#1#Cannon#49366253248_caf585f203_o.png,Cannon,Helicopter
+data/DIS5K/silhouette/22#Weapon#1#Cannon#4972462327_d0b3345277_o.png,Cannon,Rifle
+data/DIS5K/silhouette/22#Weapon#1#Cannon#50602269261_45d1dd4b7a_o.png,Cannon,Cannon
+data/DIS5K/silhouette/22#Weapon#1#Cannon#50617473613_04646423e8_o.png,Cannon,Cannon
+data/DIS5K/silhouette/22#Weapon#1#Cannon#50617672593_aaed11a9e8_o.png,Cannon,MachineGun
+data/DIS5K/silhouette/22#Weapon#1#Cannon#50618209331_d153f54fba_o.png,Cannon,Cannon
+data/DIS5K/silhouette/22#Weapon#1#Cannon#50620338451_7a3fc3d631_o.png,Cannon,Tractor
+data/DIS5K/silhouette/22#Weapon#1#Cannon#8146714853_0e0f10a662_o.png,Cannon,Rifle
+data/DIS5K/silhouette/22#Weapon#1#Cannon#8146746182_db93b317a8_o.png,Cannon,Cannon
+data/DIS5K/silhouette/22#Weapon#2#MachineGun#17527806473_7b6afccbc3_o.png,MachineGun,MachineGun
+data/DIS5K/silhouette/22#Weapon#2#MachineGun#22376642322_113e4f48af_o.png,MachineGun,MachineGun
+data/DIS5K/silhouette/22#Weapon#2#MachineGun#23070689116_8d62092a30_o.png,MachineGun,MachineGun
+data/DIS5K/silhouette/22#Weapon#2#MachineGun#29132477420_47ca4039b6_o.png,MachineGun,MachineGun
+data/DIS5K/silhouette/22#Weapon#2#MachineGun#37224829826_2effb2d827_o.png,MachineGun,MachineGun
+data/DIS5K/silhouette/22#Weapon#2#MachineGun#50610211136_47edcc04d8_o.png,MachineGun,Cannon
+data/DIS5K/silhouette/22#Weapon#2#MachineGun#50697835671_dfacff683f_o.png,MachineGun,Telescope
+data/DIS5K/silhouette/22#Weapon#2#MachineGun#9885066915_15c3779b47_o.png,MachineGun,Helicopter
+data/DIS5K/silhouette/22#Weapon#2#MachineGun#9885165785_038a58d819_o.png,MachineGun,Cannon
+data/DIS5K/silhouette/22#Weapon#3#Missile#11138510965_acc91e3b49_o.png,Missile,Airplane
+data/DIS5K/silhouette/22#Weapon#3#Missile#141510216_07bd835888_o.png,Missile,Airplane
+data/DIS5K/silhouette/22#Weapon#3#Missile#3645658466_453cc98d0d_o.png,Missile,Crane
+data/DIS5K/silhouette/22#Weapon#3#Missile#8349918905_39a53e2d5a_o.png,Missile,Tent
+data/DIS5K/silhouette/22#Weapon#3#Missile#8647434173_557ef34939_o.png,Missile,Helicopter
+data/DIS5K/silhouette/22#Weapon#4#Rifle#10277866243_f76fb9120b_o.png,Rifle,Rifle
+data/DIS5K/silhouette/22#Weapon#4#Rifle#11552838936_7b85e1e99b_o.png,Rifle,MachineGun
+data/DIS5K/silhouette/22#Weapon#4#Rifle#2551424753_bacdd4f9ce_o.png,Rifle,MachineGun
+data/DIS5K/silhouette/22#Weapon#4#Rifle#2662060939_aece026391_o.png,Rifle,Rifle
+data/DIS5K/silhouette/22#Weapon#4#Rifle#47352052972_86007a8ebe_o.png,Rifle,Bridge
+data/DIS5K/silhouette/22#Weapon#4#Rifle#5698551023_254245cc5a_o.png,Rifle,Rifle
+data/DIS5K/silhouette/22#Weapon#4#Rifle#5699137108_75d7d3903f_o.png,Rifle,Ship
+data/DIS5K/silhouette/22#Weapon#4#Rifle#6278983768_4a1a645c27_o.png,Rifle,Rifle
+data/DIS5K/silhouette/22#Weapon#4#Rifle#8471562851_cdf35b94ea_o.png,Rifle,Rifle
+data/DIS5K/silhouette/22#Weapon#4#Rifle#8472656430_3eb908b211_o.png,Rifle,Rifle
+data/DIS5K/silhouette/22#Weapon#4#Rifle#8472656854_cf941bc5c4_o.png,Rifle,Rifle
+data/DIS5K/silhouette/22#Weapon#5#Tank#16932582561_2a681ec60e_o.png,Tank,Tank
+data/DIS5K/silhouette/22#Weapon#5#Tank#2964502692_005c981a5e_o.png,Tank,Tank
+data/DIS5K/silhouette/22#Weapon#5#Tank#43313336861_0ceefea60d_o.png,Tank,Tank
+data/DIS5K/silhouette/22#Weapon#5#Tank#8895368742_de7c7d181a_o.png,Tank,Tank
+data/DIS5K/silhouette/3#Aquatic#1#Lobster#109214461_f52b4b6093_o.png,Lobster,Spider
+data/DIS5K/silhouette/3#Aquatic#1#Lobster#15500956453_8888b1bde1_o.png,Lobster,Spider
+data/DIS5K/silhouette/3#Aquatic#1#Lobster#170049319_dd7725ab44_o.png,Lobster,Spider
+data/DIS5K/silhouette/3#Aquatic#1#Lobster#17569640755_4cb1eb9215_o.png,Lobster,Spider
+data/DIS5K/silhouette/3#Aquatic#1#Lobster#235812013_924c015e46_o.png,Lobster,Spider
+data/DIS5K/silhouette/3#Aquatic#1#Lobster#244421747_5345a28183_o.png,Lobster,Lobster
+data/DIS5K/silhouette/3#Aquatic#1#Lobster#336367665_9a7d118ee7_o.png,Lobster,Helicopter
+data/DIS5K/silhouette/3#Aquatic#1#Lobster#3369030016_6ea29d2aea_o.png,Lobster,Spider
+data/DIS5K/silhouette/3#Aquatic#1#Lobster#3913410567_bec09fda3f_o.png,Lobster,Centipede
+data/DIS5K/silhouette/3#Aquatic#1#Lobster#4726072445_fea6ac2bd6_o.png,Lobster,Dragonfly
+data/DIS5K/silhouette/3#Aquatic#2#Seadragon#3187132566_56a41c1cab_o.png,Seadragon,Tree
+data/DIS5K/silhouette/3#Aquatic#2#Seadragon#31939987435_fdd4c0575a_o.png,Seadragon,Tree
+data/DIS5K/silhouette/3#Aquatic#2#Seadragon#3686245110_7b8e7c1223_o.png,Seadragon,HangGlider
+data/DIS5K/silhouette/3#Aquatic#2#Seadragon#4066545067_1a37f67c4c_o.png,Seadragon,Sword
+data/DIS5K/silhouette/3#Aquatic#2#Seadragon#5063305447_868ed9e4a4_o.png,Seadragon,Skeleton
+data/DIS5K/silhouette/3#Aquatic#2#Seadragon#5289982530_77f40eb895_o.png,Seadragon,Dragonfly
+data/DIS5K/silhouette/3#Aquatic#2#Seadragon#8315353733_ac5ac4d64f_o.png,Seadragon,Lobster
+data/DIS5K/silhouette/3#Aquatic#3#Seahorse#14629882650_40f9581f8e_o.png,Seahorse,Seadragon
+data/DIS5K/silhouette/3#Aquatic#3#Seahorse#21176658969_56823621e8_o.png,Seahorse,Spider
+data/DIS5K/silhouette/3#Aquatic#5#Shrimp#2290393776_b646f8a750_o.png,Shrimp,Dragonfly
+data/DIS5K/silhouette/3#Aquatic#5#Shrimp#234958642_83fa89186a_o.png,Shrimp,Telescope
+data/DIS5K/silhouette/3#Aquatic#5#Shrimp#235011656_bb00dd0645_o.png,Shrimp,Spider
+data/DIS5K/silhouette/3#Aquatic#5#Shrimp#46585256025_bdda8b4aef_o.png,Shrimp,Spider
+data/DIS5K/silhouette/3#Aquatic#5#Shrimp#48272089916_458f339eb2_o.png,Shrimp,Spider
+data/DIS5K/silhouette/3#Aquatic#5#Shrimp#5288042374_9caa3b2e1e_o.png,Shrimp,Dragonfly
+data/DIS5K/silhouette/3#Aquatic#5#Shrimp#5879141353_fdda3652a7_o.png,Shrimp,Spider
+data/DIS5K/silhouette/3#Aquatic#5#Shrimp#924102855_e470fc8d4a_o.png,Shrimp,BicycleFrame
+data/DIS5K/silhouette/3#Aquatic#5#Shrimp#9521349969_cd6de35742_o.png,Shrimp,Spider
+data/DIS5K/silhouette/3#Aquatic#7#Octopus#15555653797_1c5c6b3227_o.png,Octopus,Octopus
+data/DIS5K/silhouette/3#Aquatic#7#Octopus#7231448750_2ee37630de_o.png,Octopus,Octopus
+data/DIS5K/silhouette/4#Architecture#14#Stair#14567349595_f5772e74df_o.png,Stair,BicycleFrame
+data/DIS5K/silhouette/4#Architecture#14#Stair#16867648528_da7097c4fd_o.png,Stair,Stair
+data/DIS5K/silhouette/4#Architecture#14#Stair#190410116_77189472db_o.png,Stair,Stair
+data/DIS5K/silhouette/4#Architecture#14#Stair#29373551036_a8d8165097_o.png,Stair,Stair
+data/DIS5K/silhouette/4#Architecture#14#Stair#2986500976_24c1960cfe_o.png,Stair,Telescope
+data/DIS5K/silhouette/4#Architecture#14#Stair#510794827_7a8d7c417e_o.png,Stair,Stair
+data/DIS5K/silhouette/4#Architecture#14#Stair#5698666244_5fedf57b38_o.png,Stair,Stair
+data/DIS5K/silhouette/4#Architecture#14#Stair#8304119719_7c800553ed_o.png,Stair,Telescope
+data/DIS5K/silhouette/4#Architecture#14#Stair#9538114978_23fc238425_o.png,Stair,Stair
+data/DIS5K/silhouette/4#Architecture#14#Stair#IMG_20210519_102416.png,Stair,Airplane
+data/DIS5K/silhouette/4#Architecture#14#Stair#IMG_20210624_222316.png,Stair,Piano
+data/DIS5K/silhouette/4#Architecture#15#Tent#14398915085_3a91864654_o.png,Tent,Crane
+data/DIS5K/silhouette/4#Architecture#15#Tent#14937824988_4da9db0ff4_o.png,Tent,TransmissionTower
+data/DIS5K/silhouette/4#Architecture#15#Tent#443510338_f20c38c54e_o.png,Tent,Tent
+data/DIS5K/silhouette/4#Architecture#15#Tent#4823347255_2e33891d96_o.png,Tent,Tent
+data/DIS5K/silhouette/4#Architecture#15#Tent#5894041101_08d71d2cfb_o.png,Tent,Crane
+data/DIS5K/silhouette/4#Architecture#16#WaterTower#10043441714_e957a84f11_o.png,WaterTower,TransmissionTower
+data/DIS5K/silhouette/4#Architecture#16#WaterTower#2502610662_7cdacfcc87_o.png,WaterTower,WaterTower
+data/DIS5K/silhouette/4#Architecture#16#WaterTower#2502709454_f09d1170fc_o.png,WaterTower,TransmissionTower
+data/DIS5K/silhouette/4#Architecture#18#WindTurbine#14838344940_df9612b335_o.png,WindTurbine,WindTurbine
+data/DIS5K/silhouette/4#Architecture#18#WindTurbine#610115382_ba978637a5_o.png,WindTurbine,WindTurbine
+data/DIS5K/silhouette/4#Architecture#18#WindTurbine#6834903986_2fb096a74e_o.png,WindTurbine,WindTurbine
+data/DIS5K/silhouette/4#Architecture#18#WindTurbine#7518080622_8f3bc61a0f_o.png,WindTurbine,WindTurbine
+data/DIS5K/silhouette/4#Architecture#19#Windmill#14398879125_57ef9e238b_o.png,Windmill,TransmissionTower
+data/DIS5K/silhouette/4#Architecture#19#Windmill#20195851863_2627117e0e_o.png,Windmill,WindTurbine
+data/DIS5K/silhouette/4#Architecture#19#Windmill#20227545452_d1710996f8_o.png,Windmill,WindTurbine
+data/DIS5K/silhouette/4#Architecture#19#Windmill#2339866146_971d4b0f41_o.png,Windmill,WindTurbine
+data/DIS5K/silhouette/4#Architecture#19#Windmill#27321567333_490d091e1c_o.png,Windmill,WindTurbine
+data/DIS5K/silhouette/4#Architecture#19#Windmill#2810533967_8816fdd7d3_o.png,Windmill,WindTurbine
+data/DIS5K/silhouette/4#Architecture#19#Windmill#3008824760_1ea90ccb07_o.png,Windmill,Tripod
+data/DIS5K/silhouette/4#Architecture#19#Windmill#31477316432_71e7b7ee4e_o.png,Windmill,WindTurbine
+data/DIS5K/silhouette/4#Architecture#19#Windmill#34836955492_19235e4760_o.png,Windmill,FerrisWheel
+data/DIS5K/silhouette/4#Architecture#19#Windmill#5875104012_6f05305918_o.png,Windmill,WindTurbine
+data/DIS5K/silhouette/4#Architecture#19#Windmill#5957862810_52c06efd7e_o.png,Windmill,WindTurbine
+data/DIS5K/silhouette/4#Architecture#19#Windmill#6585233769_b2435b9011_o.png,Windmill,TransmissionTower
+data/DIS5K/silhouette/4#Architecture#19#Windmill#66078927_b085b70392_o.png,Windmill,Rifle
+data/DIS5K/silhouette/4#Architecture#19#Windmill#6955657170_18b00b417e_o.png,Windmill,WindTurbine
+data/DIS5K/silhouette/4#Architecture#19#Windmill#7178740279_012e97c66f_o.png,Windmill,WindTurbine
+data/DIS5K/silhouette/4#Architecture#19#Windmill#7285180208_e332d961a9_o.png,Windmill,Tree
+data/DIS5K/silhouette/4#Architecture#19#Windmill#7663420684_d621408794_o.png,Windmill,WindTurbine
+data/DIS5K/silhouette/4#Architecture#19#Windmill#8487439996_eba4bd0f2c_o.png,Windmill,WindTurbine
+data/DIS5K/silhouette/4#Architecture#19#Windmill#9643466857_cf5db72f7f_o.png,Windmill,WindTurbine
+data/DIS5K/silhouette/4#Architecture#2#Bridge#11992544924_a60bd661ac_o.png,Bridge,Bridge
+data/DIS5K/silhouette/4#Architecture#2#Bridge#19045630176_33c515a084_o.png,Bridge,Bridge
+data/DIS5K/silhouette/4#Architecture#2#Bridge#2259237282_0c8f761f45_o.png,Bridge,Bridge
+data/DIS5K/silhouette/4#Architecture#2#Bridge#235709585_fb18a29719_o.png,Bridge,Bridge
+data/DIS5K/silhouette/4#Architecture#2#Bridge#2482394385_e388c7d391_o.png,Bridge,Bridge
+data/DIS5K/silhouette/4#Architecture#2#Bridge#25794853578_5c8d014b4b_o.png,Bridge,Bridge
+data/DIS5K/silhouette/4#Architecture#2#Bridge#27803317199_ca350c9f43_o.png,Bridge,Bridge
+data/DIS5K/silhouette/4#Architecture#2#Bridge#29708998701_f04d2e77ed_o.png,Bridge,Bridge
+data/DIS5K/silhouette/4#Architecture#2#Bridge#31191108073_24890d215a_o.png,Bridge,Bridge
+data/DIS5K/silhouette/4#Architecture#2#Bridge#39377654652_f0b24ebfb4_o.png,Bridge,Bridge
+data/DIS5K/silhouette/4#Architecture#2#Bridge#5270633111_28143e3679_o.png,Bridge,Bridge
+data/DIS5K/silhouette/4#Architecture#2#Bridge#5670290643_2983390bf2_o.png,Bridge,Bridge
+data/DIS5K/silhouette/4#Architecture#2#Bridge#6980712643_ccb46d8814_o.png,Bridge,Bridge
+data/DIS5K/silhouette/4#Architecture#2#Bridge#9580569352_b5000a8024_o.png,Bridge,Bridge
+data/DIS5K/silhouette/4#Architecture#7#MemorialArchway#26039369531_c3aba2a208_o.png,MemorialArchway,MemorialArchway
+data/DIS5K/silhouette/4#Architecture#7#MemorialArchway#32341788221_8ba52c7da9_o.png,MemorialArchway,MemorialArchway
+data/DIS5K/silhouette/4#Architecture#7#MemorialArchway#3827738378_bba07b7e94_o.png,MemorialArchway,MemorialArchway
+data/DIS5K/silhouette/4#Architecture#7#MemorialArchway#39949714984_5cd6e8315f_o.png,MemorialArchway,MemorialArchway
+data/DIS5K/silhouette/4#Architecture#7#MemorialArchway#4773359650_a578b69dbc_o.png,MemorialArchway,Wheel
+data/DIS5K/silhouette/4#Architecture#8#ObservationTower#16364411647_a2f4b5a0de_o.png,ObservationTower,TransmissionTower
+data/DIS5K/silhouette/4#Architecture#8#ObservationTower#16989854920_27c44a14ed_o.png,ObservationTower,ObservationTower
+data/DIS5K/silhouette/4#Architecture#8#ObservationTower#4716620691_f2ede0803b_o.png,ObservationTower,Chair
+data/DIS5K/silhouette/4#Architecture#8#ObservationTower#7375690108_74cefdf23e_o.png,ObservationTower,TransmissionTower
+data/DIS5K/silhouette/4#Architecture#8#ObservationTower#7470264176_76a20b9eb1_o.png,ObservationTower,MachineGun
+data/DIS5K/silhouette/4#Architecture#8#ObservationTower#8056780183_abb4b10cb9_o.png,ObservationTower,TransmissionTower
+data/DIS5K/silhouette/4#Architecture#8#ObservationTower#8475830898_1e8174b55f_o.png,ObservationTower,TransmissionTower
+data/DIS5K/silhouette/4#Architecture#8#ObservationTower#8813839504_57d5b91b96_o.png,ObservationTower,Ladder
+data/DIS5K/silhouette/5#Artifact#2#Cage#10908917225_9905810f72_o.png,Cage,Telescope
+data/DIS5K/silhouette/5#Artifact#2#Cage#1499679759_7dd13d8da0_o.png,Cage,Cage
+data/DIS5K/silhouette/5#Artifact#2#Cage#15098684129_1423cfc382_o.png,Cage,Cage
+data/DIS5K/silhouette/5#Artifact#2#Cage#15849261172_12870b5b44_o.png,Cage,MachineGun
+data/DIS5K/silhouette/5#Artifact#2#Cage#22738045934_eef963a248_o.png,Cage,ShoppingCart
+data/DIS5K/silhouette/5#Artifact#2#Cage#2358392466_1f0515872b_o.png,Cage,Cage
+data/DIS5K/silhouette/5#Artifact#2#Cage#2452206906_6419e50d01_o.png,Cage,Cage
+data/DIS5K/silhouette/5#Artifact#2#Cage#26290438918_f79457575d_o.png,Cage,Cage
+data/DIS5K/silhouette/5#Artifact#2#Cage#2820642371_b021149a24_o.png,Cage,Crane
+data/DIS5K/silhouette/5#Artifact#2#Cage#30851349468_de89ff6b7f_o.png,Cage,MachineGun
+data/DIS5K/silhouette/5#Artifact#2#Cage#33940015612_8a6ae4b440_o.png,Cage,Cage
+data/DIS5K/silhouette/5#Artifact#2#Cage#3476102852_834582edc5_o.png,Cage,MachineGun
+data/DIS5K/silhouette/5#Artifact#2#Cage#35738567111_fbc510e202_o.png,Cage,MachineGun
+data/DIS5K/silhouette/5#Artifact#2#Cage#3702209324_3bf55a7240_o.png,Cage,TV
+data/DIS5K/silhouette/5#Artifact#2#Cage#40234859542_8edf242df9_o.png,Cage,Tent
+data/DIS5K/silhouette/5#Artifact#2#Cage#5317050176_551f71e9ea_o.png,Cage,Cage
+data/DIS5K/silhouette/5#Artifact#2#Cage#5625495004_7c1a07bfae_o.png,Cage,Cage
+data/DIS5K/silhouette/5#Artifact#2#Cage#5636896519_63aa5691a0_o.png,Cage,Cage
+data/DIS5K/silhouette/5#Artifact#2#Cage#5821476369_ea23927487_o.png,Cage,BicycleFrame
+data/DIS5K/silhouette/5#Artifact#2#Cage#5821876674_912071d466_o.png,Cage,Cage
+data/DIS5K/silhouette/5#Artifact#2#Cage#5821886526_0573ba2d0d_o.png,Cage,Cage
+data/DIS5K/silhouette/5#Artifact#2#Cage#5822035358_e5493185c8_o.png,Cage,Cage
+data/DIS5K/silhouette/5#Artifact#2#Cage#6149831593_c067006b17_o.png,Cage,Clock
+data/DIS5K/silhouette/5#Artifact#2#Cage#6314971399_e089e42fc7_o.png,Cage,Balloon
+data/DIS5K/silhouette/5#Artifact#2#Cage#93866573_dd66c0b672_o.png,Cage,Cage
+data/DIS5K/silhouette/6#Automobile#10#SteeringWheel#14693417954_3dd2c6d22c_o.png,SteeringWheel,SteeringWheel
+data/DIS5K/silhouette/6#Automobile#10#SteeringWheel#14823561445_b88ecf4b49_o.png,SteeringWheel,SteeringWheel
+data/DIS5K/silhouette/6#Automobile#10#SteeringWheel#14860681369_18d8fc071b_o.png,SteeringWheel,SteeringWheel
+data/DIS5K/silhouette/6#Automobile#10#SteeringWheel#15826192491_4cf8a15e80_o.png,SteeringWheel,Helicopter
+data/DIS5K/silhouette/6#Automobile#10#SteeringWheel#29296239851_56fca719df_o.png,SteeringWheel,Fan
+data/DIS5K/silhouette/6#Automobile#10#SteeringWheel#29842746_7e021b9dc4_o.png,SteeringWheel,Fan
+data/DIS5K/silhouette/6#Automobile#10#SteeringWheel#34497884010_5ab898c437_o.png,SteeringWheel,SteeringWheel
+data/DIS5K/silhouette/6#Automobile#10#SteeringWheel#4573187142_9b10f65ab7_o.png,SteeringWheel,Wheel
+data/DIS5K/silhouette/6#Automobile#10#SteeringWheel#9236372590_4fed4a119e_o.png,SteeringWheel,Gear
+data/DIS5K/silhouette/6#Automobile#11#Tractor#19482552758_d752732d65_o.png,Tractor,Tractor
+data/DIS5K/silhouette/6#Automobile#11#Tractor#20117647436_646eb3601a_o.png,Tractor,Car
+data/DIS5K/silhouette/6#Automobile#11#Tractor#2856505045_2ffcd3a053_o.png,Tractor,Tractor
+data/DIS5K/silhouette/6#Automobile#11#Tractor#3307001230_406bccba60_o.png,Tractor,Tractor
+data/DIS5K/silhouette/6#Automobile#11#Tractor#3859019842_b8aef9b7ef_o.png,Tractor,Excavator
+data/DIS5K/silhouette/6#Automobile#11#Tractor#3865944049_cc22ce14ce_o.png,Tractor,Tractor
+data/DIS5K/silhouette/6#Automobile#11#Tractor#40522963_54f4d9521e_o.png,Tractor,Tractor
+data/DIS5K/silhouette/6#Automobile#11#Tractor#5299624307_dcb07dfeff_o.png,Tractor,Tractor
+data/DIS5K/silhouette/6#Automobile#11#Tractor#7033155925_4a89fece3f_o.png,Tractor,Tractor
+data/DIS5K/silhouette/6#Automobile#11#Tractor#7777409372_7a758ec484_o.png,Tractor,Tractor
+data/DIS5K/silhouette/6#Automobile#11#Tractor#8580483750_2e1cd3ebe7_o.png,Tractor,Truck
+data/DIS5K/silhouette/6#Automobile#11#Tractor#8582685987_0f406af515_o.png,Tractor,Leaf
+data/DIS5K/silhouette/6#Automobile#11#Tractor#8583883527_1b0fe31712_o.png,Tractor,Tractor
+data/DIS5K/silhouette/6#Automobile#11#Tractor#8584977064_252074ace1_o.png,Tractor,Tractor
+data/DIS5K/silhouette/6#Automobile#11#Tractor#8591960664_36b8f66ec9_o.png,Tractor,Tractor
+data/DIS5K/silhouette/6#Automobile#11#Tractor#8847185203_51ce5207a7_o.png,Tractor,Excavator
+data/DIS5K/silhouette/6#Automobile#11#Tractor#8847745956_a1a24d73c4_o.png,Tractor,Truck
+data/DIS5K/silhouette/6#Automobile#11#Tractor#8847750456_b84cd1b1a6_o.png,Tractor,MachineGun
+data/DIS5K/silhouette/6#Automobile#12#Truck#13387825825_bd3efbd7c4_o.png,Truck,Truck
+data/DIS5K/silhouette/6#Automobile#12#Truck#13951454267_28fba7bb77_o.png,Truck,Truck
+data/DIS5K/silhouette/6#Automobile#12#Truck#2278142076_0a4dffcde6_o.png,Truck,Ship
+data/DIS5K/silhouette/6#Automobile#12#Truck#2634244645_78fc8a6d3a_o.png,Truck,Truck
+data/DIS5K/silhouette/6#Automobile#12#Truck#26486245894_bc06f94568_o.png,Truck,Ladder
+data/DIS5K/silhouette/6#Automobile#12#Truck#33460882883_8d8bb32cde_o.png,Truck,Truck
+data/DIS5K/silhouette/6#Automobile#12#Truck#4939099740_974c1a7458_o.png,Truck,Leaf
+data/DIS5K/silhouette/6#Automobile#12#Truck#5372551890_63bf180050_o.png,Truck,MachineGun
+data/DIS5K/silhouette/6#Automobile#12#Truck#6118345057_e3a7309cc7_o.png,Truck,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#12#Truck#6409077887_b8b54d6239_o.png,Truck,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#12#Truck#7145000627_2ac96e5748_o.png,Truck,Truck
+data/DIS5K/silhouette/6#Automobile#12#Truck#7569521626_d9f68cc3eb_o.png,Truck,Canoe
+data/DIS5K/silhouette/6#Automobile#12#Truck#8451141803_92a1991a05_o.png,Truck,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#12#Truck#8561433536_a5c7455307_o.png,Truck,Excavator
+data/DIS5K/silhouette/6#Automobile#12#Truck#8583662963_9e7fe9ef1f_o.png,Truck,Car
+data/DIS5K/silhouette/6#Automobile#12#Truck#IMG_20210715_101817.png,Truck,Telescope
+data/DIS5K/silhouette/6#Automobile#3#Car#12335112913_f74e1c7eac_o.png,Car,Tractor
+data/DIS5K/silhouette/6#Automobile#3#Car#14290949207_3eb0ea8f16_o.png,Car,BicycleFrame
+data/DIS5K/silhouette/6#Automobile#3#Car#1954493_8c68b225b6_o.png,Car,Tractor
+data/DIS5K/silhouette/6#Automobile#3#Car#22822164354_4c562cb545_o.png,Car,Tractor
+data/DIS5K/silhouette/6#Automobile#3#Car#2761291086_1f50fd9c97_o.png,Car,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#3#Car#32833428048_4e20bdee5f_o.png,Car,BicycleFrame
+data/DIS5K/silhouette/6#Automobile#3#Car#3780874747_265851ee2a_o.png,Car,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#3#Car#3781691812_7e135e8881_o.png,Car,Crane
+data/DIS5K/silhouette/6#Automobile#3#Car#4322657827_72f5b1ec7a_o.png,Car,Tractor
+data/DIS5K/silhouette/6#Automobile#3#Car#7718085352_390e07dfc5_o.png,Car,Bicycle
+data/DIS5K/silhouette/6#Automobile#3#Car#8128610055_71080d51e0_o.png,Car,Motorcycle
+data/DIS5K/silhouette/6#Automobile#3#Car#9361066777_9c4aaa5651_o.png,Car,Drum
+data/DIS5K/silhouette/6#Automobile#3#Car#IMG_20210520_210038.png,Car,Scooter
+data/DIS5K/silhouette/6#Automobile#4#ConcretePumpTruck#12321376163_2453a6a258_o.png,ConcretePumpTruck,BicycleFrame
+data/DIS5K/silhouette/6#Automobile#4#ConcretePumpTruck#3066765914_94a8de6339_o.png,ConcretePumpTruck,Ship
+data/DIS5K/silhouette/6#Automobile#4#ConcretePumpTruck#4797240283_653f3ea667_o.png,ConcretePumpTruck,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#4#ConcretePumpTruck#50177270021_6f0b38b243_o.png,ConcretePumpTruck,MachineGun
+data/DIS5K/silhouette/6#Automobile#4#ConcretePumpTruck#5194121005_db4286cc01_o.png,ConcretePumpTruck,Excavator
+data/DIS5K/silhouette/6#Automobile#4#ConcretePumpTruck#7082735_84f3001c64_o.png,ConcretePumpTruck,Excavator
+data/DIS5K/silhouette/6#Automobile#5#Crane#265987302_8f4de97811_o.png,Crane,Crane
+data/DIS5K/silhouette/6#Automobile#5#Crane#3694903571_56c5a21153_o.png,Crane,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#5#Crane#8274452039_04a97a7a21_o.png,Crane,WindTurbine
+data/DIS5K/silhouette/6#Automobile#5#Crane#IMG_20210520_233220.png,Crane,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#6#Excavator#15401699922_abbb20cab3_o.png,Excavator,Excavator
+data/DIS5K/silhouette/6#Automobile#6#Excavator#2416703602_2bacbde2ff_o.png,Excavator,Excavator
+data/DIS5K/silhouette/6#Automobile#6#Excavator#2707910611_b43d8f1be7_o.png,Excavator,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#6#Excavator#2714998330_2c150af324_o.png,Excavator,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#6#Excavator#33576157181_44f9943cb7_o.png,Excavator,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#6#Excavator#422993_b61a5276f5_o.png,Excavator,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#6#Excavator#50365404517_6f32ef3d2f_o.png,Excavator,Excavator
+data/DIS5K/silhouette/6#Automobile#6#Excavator#5678910347_b5158bf37d_o.png,Excavator,Boat
+data/DIS5K/silhouette/6#Automobile#6#Excavator#5715368285_3ce8dc63f4_o.png,Excavator,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#6#Excavator#5789158606_42f345d3b0_o.png,Excavator,Excavator
+data/DIS5K/silhouette/6#Automobile#6#Excavator#5951451397_95da2a9563_o.png,Excavator,Skeleton
+data/DIS5K/silhouette/6#Automobile#6#Excavator#5951461651_747182591f_o.png,Excavator,Excavator
+data/DIS5K/silhouette/6#Automobile#6#Excavator#5951817065_f05b344d22_o.png,Excavator,Truck
+data/DIS5K/silhouette/6#Automobile#6#Excavator#7720098034_9ff20a02c5_o.png,Excavator,Tractor
+data/DIS5K/silhouette/6#Automobile#6#Excavator#8584172317_9ca931a4e3_o.png,Excavator,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#6#Excavator#9139234470_e12c0cf9ae_o.png,Excavator,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#7#Forklift#111142691_646e10469e_o.png,Forklift,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#7#Forklift#12528910055_f09ca4144a_o.png,Forklift,Forklift
+data/DIS5K/silhouette/6#Automobile#7#Forklift#21452625860_e8216c6b8f_o.png,Forklift,MachineGun
+data/DIS5K/silhouette/6#Automobile#7#Forklift#2798559381_1d0f0af828_o.png,Forklift,Truck
+data/DIS5K/silhouette/6#Automobile#7#Forklift#31524201797_e0ed46a6c8_o.png,Forklift,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#7#Forklift#3232435127_aeffca55fb_o.png,Forklift,Excavator
+data/DIS5K/silhouette/6#Automobile#7#Forklift#4354841430_68b4cf3049_o.png,Forklift,Excavator
+data/DIS5K/silhouette/6#Automobile#7#Forklift#4589086051_3b042c786e_o.png,Forklift,Telescope
+data/DIS5K/silhouette/6#Automobile#7#Forklift#4982283005_300e6f3209_o.png,Forklift,Tractor
+data/DIS5K/silhouette/6#Automobile#7#Forklift#5402407508_89ac6404d3_o.png,Forklift,Tractor
+data/DIS5K/silhouette/6#Automobile#7#Forklift#5536983061_35f26fe1bd_o.png,Forklift,Truck
+data/DIS5K/silhouette/6#Automobile#7#Forklift#5543642915_e502750f51_o.png,Forklift,Forklift
+data/DIS5K/silhouette/6#Automobile#7#Forklift#6146895610_b22a460c7e_o.png,Forklift,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#7#Forklift#7014221951_2f14fc012a_o.png,Forklift,Forklift
+data/DIS5K/silhouette/6#Automobile#7#Forklift#8579414529_cc5dd1e93c_o.png,Forklift,Tractor
+data/DIS5K/silhouette/6#Automobile#8#Harvester#1881239334_5535de4eac_o.png,Harvester,Truck
+data/DIS5K/silhouette/6#Automobile#8#Harvester#7718074072_cc221b99f1_o.png,Harvester,ConcretePumpTruck
+data/DIS5K/silhouette/6#Automobile#9#Motorcycle#15951454110_1a7164ed24_o.png,Motorcycle,Motorcycle
+data/DIS5K/silhouette/6#Automobile#9#Motorcycle#16774184543_ab1ba17abe_o.png,Motorcycle,Bicycle
+data/DIS5K/silhouette/6#Automobile#9#Motorcycle#21946952894_87c95e5c4b_o.png,Motorcycle,Crane
+data/DIS5K/silhouette/6#Automobile#9#Motorcycle#24441874055_8a03217496_o.png,Motorcycle,Motorcycle
+data/DIS5K/silhouette/6#Automobile#9#Motorcycle#306990331_1c2ff32c4b_o.png,Motorcycle,Scooter
+data/DIS5K/silhouette/6#Automobile#9#Motorcycle#454667042_b893d7b2ea_o.png,Motorcycle,Scooter
+data/DIS5K/silhouette/6#Automobile#9#Motorcycle#5218067300_ab33543e8b_o.png,Motorcycle,Motorcycle
+data/DIS5K/silhouette/6#Automobile#9#Motorcycle#5807802846_5ca1042f92_o.png,Motorcycle,Motorcycle
+data/DIS5K/silhouette/6#Automobile#9#Motorcycle#6812142795_28ef226831_o.png,Motorcycle,Motorcycle
+data/DIS5K/silhouette/6#Automobile#9#Motorcycle#7917938958_70a946e23a_o.png,Motorcycle,Motorcycle
+data/DIS5K/silhouette/6#Automobile#9#Motorcycle#9091476394_0f39463423_o.png,Motorcycle,Motorcycle
+data/DIS5K/silhouette/6#Automobile#9#Motorcycle#94641724_0cf411d5ea_o.png,Motorcycle,Motorcycle
+data/DIS5K/silhouette/6#Automobile#9#Motorcycle#IMG_20210513_140758.png,Motorcycle,Bicycle
+data/DIS5K/silhouette/7#Electrical#11#VacuumCleaner#12749960253_4f7e15bfa3_o.png,VacuumCleaner,Racket
+data/DIS5K/silhouette/7#Electrical#11#VacuumCleaner#190217387_3d3341b054_o.png,VacuumCleaner,Teapot
+data/DIS5K/silhouette/7#Electrical#11#VacuumCleaner#3397609911_3c1c19af37_o.png,VacuumCleaner,BicycleFrame
+data/DIS5K/silhouette/7#Electrical#11#VacuumCleaner#IMG_20210520_184811.png,VacuumCleaner,Car
+data/DIS5K/silhouette/7#Electrical#3#Fan#200644419_3e546a655d_o.png,Fan,Spider
+data/DIS5K/silhouette/7#Electrical#3#Fan#2816513118_2a6e6280dc_o.png,Fan,Wheel
+data/DIS5K/silhouette/7#Electrical#3#Fan#3863539424_ca98d45086_o.png,Fan,Tree
+data/DIS5K/silhouette/7#Electrical#3#Fan#7161291377_57c5df98a6_o.png,Fan,Fan
+data/DIS5K/silhouette/7#Electrical#3#Fan#8092820_8972608559_o.png,Fan,Fan
+data/DIS5K/silhouette/7#Electrical#3#Fan#IMG_20210518_171004.png,Fan,Axe
+data/DIS5K/silhouette/7#Electrical#3#Fan#IMG_20210702_203140.png,Fan,Wheel
+data/DIS5K/silhouette/7#Electrical#4#FloorLamp#16372043352_3aa6d33447_o.png,FloorLamp,BicycleFrame
+data/DIS5K/silhouette/7#Electrical#4#FloorLamp#2377581809_ee4d0256b0_o.png,FloorLamp,CoatHanger
+data/DIS5K/silhouette/7#Electrical#4#FloorLamp#50926668737_d9c76db57d_o.png,FloorLamp,BicycleFrame
+data/DIS5K/silhouette/7#Electrical#4#FloorLamp#51171013618_37666bc07e_o.png,FloorLamp,Table
+data/DIS5K/silhouette/7#Electrical#4#FloorLamp#5371497238_89e4e44f2a_o.png,FloorLamp,TableLamp
+data/DIS5K/silhouette/7#Electrical#4#FloorLamp#5988588182_878b5ed1ff_o.png,FloorLamp,Spoon
+data/DIS5K/silhouette/7#Electrical#4#FloorLamp#5988588904_730bd05000_o.png,FloorLamp,Fan
+data/DIS5K/silhouette/7#Electrical#4#FloorLamp#IMG_20210516_201746.png,FloorLamp,FloorLamp
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#14038431839_7df25d6729_o.png,StreetLamp,BicycleFrame
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#14621370284_240ed68f88_o.png,StreetLamp,Cup
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#1564833895_a18682120e_o.png,StreetLamp,Crane
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#18496464170_11158931a2_o.png,StreetLamp,Telescope
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#22160640182_26ccfe9a23_o.png,StreetLamp,Sword
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#23699457914_e1c4269036_o.png,StreetLamp,TransmissionTower
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#2416692403_5253b4fd90_o.png,StreetLamp,StreetLamp
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#25262414326_02955bc025_o.png,StreetLamp,Telescope
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#27323531924_d44cd76a64_o.png,StreetLamp,StreetLamp
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#31043911_197327e919_o.png,StreetLamp,BicycleFrame
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#3127459401_bcbd2460f2_o.png,StreetLamp,Crane
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#31855760068_c4898dbeca_o.png,StreetLamp,Crane
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#32808460948_6a6d1da903_o.png,StreetLamp,Cup
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#3392542579_fb5d1b71a0_o.png,StreetLamp,StreetLamp
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#44919988025_db8b5f0a6b_o.png,StreetLamp,Hammer
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#45792962544_c018a77c77_o.png,StreetLamp,Tree
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#4581796536_471792b605_o.png,StreetLamp,Microphone
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#4610511008_8f4bb407af_o.png,StreetLamp,BicycleFrame
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#46356251264_12c24ae20d_o.png,StreetLamp,StreetLamp
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#6398969645_d6e02b987e_o.png,StreetLamp,Telescope
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#7426874188_6e66bc82ab_o.png,StreetLamp,Toothbrush
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#7924240682_2eb3f9a30e_o.png,StreetLamp,MachineGun
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#8439442829_94d38c8fbb_o.png,StreetLamp,StreetLamp
+data/DIS5K/silhouette/7#Electrical#6#StreetLamp#8749147390_5b1b1fe819_o.png,StreetLamp,Racket
+data/DIS5K/silhouette/7#Electrical#7#TableLamp#11919886924_07eb3c134f_o.png,TableLamp,TableLamp
+data/DIS5K/silhouette/7#Electrical#7#TableLamp#318430539_0c4c1408b3_o.png,TableLamp,TableLamp
+data/DIS5K/silhouette/7#Electrical#7#TableLamp#51218296267_7f473010b8_o.png,TableLamp,Table
+data/DIS5K/silhouette/7#Electrical#7#TableLamp#5177668511_18b8decf8b_o.png,TableLamp,Table
+data/DIS5K/silhouette/7#Electrical#7#TableLamp#IMG_20210516_201841.png,TableLamp,DeskChair
+data/DIS5K/silhouette/7#Electrical#8#TrafficLight#16396363560_d97c0451a1_o.png,TrafficLight,Telescope
+data/DIS5K/silhouette/7#Electrical#8#TrafficLight#2226285587_d815e773e6_o.png,TrafficLight,Microphone
+data/DIS5K/silhouette/7#Electrical#8#TrafficLight#32938132552_af69fc47e4_o.png,TrafficLight,Crane
+data/DIS5K/silhouette/7#Electrical#8#TrafficLight#4560016560_c56110ec25_o.png,TrafficLight,Crane
+data/DIS5K/silhouette/7#Electrical#8#TrafficLight#50306686123_0faa193e8a_o.png,TrafficLight,TrafficLight
+data/DIS5K/silhouette/7#Electrical#8#TrafficLight#9858863044_fe1e1f02e5_o.png,TrafficLight,Table
+data/DIS5K/silhouette/7#Electrical#9#TransmissionTower#31549516125_f7cc96df63_o.png,TransmissionTower,TransmissionTower
+data/DIS5K/silhouette/7#Electrical#9#TransmissionTower#49352050086_94fb13a193_o.png,TransmissionTower,TransmissionTower
+data/DIS5K/silhouette/7#Electrical#9#TransmissionTower#51011573803_1023e14411_o.png,TransmissionTower,TransmissionTower
+data/DIS5K/silhouette/7#Electrical#9#TransmissionTower#51117801860_9f1b8c12b2_o.png,TransmissionTower,TransmissionTower
+data/DIS5K/silhouette/8#Electronics#11#TV#48922840461_91f8312e12_o.png,TV,TableChair
+data/DIS5K/silhouette/8#Electronics#11#TV#48923035617_256aac4fbc_o.png,TV,Easel
+data/DIS5K/silhouette/8#Electronics#11#TV#48923036067_842e6dea0b_o.png,TV,TV
+data/DIS5K/silhouette/8#Electronics#4#ElectricIron#50495394853_f8a9b38bf1_o.png,ElectricIron,Cup
+data/DIS5K/silhouette/8#Electronics#6#Microphone#13430242403_503ec00dc9_o.png,Microphone,ElectricIron
+data/DIS5K/silhouette/8#Electronics#6#Microphone#16160795276_1a79d03278_o.png,Microphone,Tripod
+data/DIS5K/silhouette/8#Electronics#6#Microphone#303738742_83fe7732ce_o.png,Microphone,Helicopter
+data/DIS5K/silhouette/8#Electronics#6#Microphone#3337261228_388abe7f08_o.png,Microphone,Crane
+data/DIS5K/silhouette/8#Electronics#6#Microphone#3984529640_3b61c475b2_o.png,Microphone,Crane
+data/DIS5K/silhouette/8#Electronics#6#Microphone#47411477652_6da66cbc10_o.png,Microphone,BicycleFrame
+data/DIS5K/silhouette/8#Electronics#6#Microphone#50742120662_8dfc1c69bc_o.png,Microphone,Microphone
+data/DIS5K/silhouette/8#Electronics#6#Microphone#8623689581_b37a18e78c_o.png,Microphone,BicycleFrame
+data/DIS5K/silhouette/8#Electronics#8#Monitor#22897610323_99268b81d1_o.png,Monitor,BicycleFrame
+data/DIS5K/silhouette/8#Electronics#8#Monitor#2430113211_6fee065b2b_o.png,Monitor,Cage
+data/DIS5K/silhouette/8#Electronics#8#Monitor#25713390423_ae3814d8d4_o.png,Monitor,Faucet
+data/DIS5K/silhouette/8#Electronics#8#Monitor#364945568_3601a7ce5d_o.png,Monitor,BicycleFrame
+data/DIS5K/silhouette/8#Electronics#8#Monitor#8169022989_3124b7f324_o.png,Monitor,BicycleFrame
+data/DIS5K/silhouette/8#Electronics#8#Monitor#8944140_c6a5240060_o.png,Monitor,Telescope
+data/DIS5K/silhouette/8#Electronics#8#Monitor#9637127712_aa85c20e0b_o.png,Monitor,Rifle
+data/DIS5K/silhouette/9#Entertainment#4#FerrisWheel#24911100667_bc4267cfa2_o.png,FerrisWheel,FerrisWheel
+data/DIS5K/silhouette/9#Entertainment#4#FerrisWheel#8195845586_5415bdbfb4_o.png,FerrisWheel,FerrisWheel
+data/DIS5K/silhouette/9#Entertainment#4#FerrisWheel#9273929492_813338206f_o.png,FerrisWheel,FerrisWheel
+data/DIS5K/silhouette/9#Entertainment#5#Swing#17543375508_202aebb944_o.png,Swing,Cup
+data/DIS5K/silhouette/9#Entertainment#5#Swing#2962652229_5f62f7ca53_o.png,Swing,Swing
+data/DIS5K/silhouette/9#Entertainment#5#Swing#341645836_03035b9697_o.png,Swing,Swing
+data/DIS5K/silhouette/9#Entertainment#5#Swing#3700976211_427b507590_o.png,Swing,Ladder
+data/DIS5K/silhouette/9#Entertainment#5#Swing#3932584981_198fb4f9c4_o.png,Swing,Swing
+data/DIS5K/silhouette/9#Entertainment#5#Swing#5934808263_5821286abe_o.png,Swing,Swing
+data/DIS5K/silhouette/9#Entertainment#5#Swing#IMG_20210607_114201.png,Swing,Crane
+data/DIS5K/silhouette/9#Entertainment#6#Trampoline#2666471265_59aff9b2a3_o.png,Trampoline,Table
+data/DIS5K/silhouette/9#Entertainment#6#Trampoline#2669164972_d29db1aa0f_o.png,Trampoline,Spider
+data/DIS5K/silhouette/9#Entertainment#6#Trampoline#3548411507_6d5e2e9e30_o.png,Trampoline,Trampoline
+data/DIS5K/silhouette/9#Entertainment#6#Trampoline#37087884166_e831ea3857_o.png,Trampoline,TransmissionTower
